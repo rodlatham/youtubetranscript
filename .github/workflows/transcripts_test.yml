@@ -1,7 +1,12 @@
-name: YT subtitle test (single video)
+name: YT Subtitle Test – Single Video
 
 on:
   workflow_dispatch:
+    inputs:
+      video_id:
+        description: "YouTube Video ID (e.g., F1fBsUms8JE)"
+        required: true
+        default: "F1fBsUms8JE"
 
 jobs:
   test:
@@ -9,69 +14,155 @@ jobs:
     permissions:
       contents: read
 
-    steps:
-      - name: Set video under test
-        run: |
-          echo "VIDEO_ID=F1fBsUms8JE" >> $GITHUB_ENV   # <-- change this ID to test others
-          echo "VIDEO_URL=https://www.youtube.com/watch?v=F1fBsUms8JE" >> $GITHUB_ENV
+    env:
+      VIDEO_ID: ${{ github.event.inputs.video_id }}
+      VIDEO_URL: https://www.youtube.com/watch?v=${{ github.event.inputs.video_id }}
 
-      - name: Set up Python + yt-dlp
+    steps:
+      - name: Set up Python + deps
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
       - run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp
+          pip install yt-dlp youtube-transcript-api==0.6.2
 
-      - name: Restore cookies.txt
+      - name: Restore cookies.txt (optional but recommended)
         run: |
-          if [ -z "${{ secrets.YT_COOKIES_B64 }}" ]; then
-            echo "ERROR: Missing YT_COOKIES_B64 secret"; exit 1
-          fi
-          printf "%s" "${{ secrets.YT_COOKIES_B64 }}" | base64 -d > cookies.txt
-          echo "---- cookies.txt head ----"
-          head -n 10 cookies.txt || true
-          echo "--------------------------"
-          # Sanity: must contain .youtube.com lines
-          if ! grep -E "youtube\.com" cookies.txt >/dev/null 2>&1; then
-            echo "ERROR: cookies.txt has no youtube.com entries"; exit 1
+          if [ -n "${{ secrets.YT_COOKIES_B64 }}" ]; then
+            printf "%s" "${{ secrets.YT_COOKIES_B64 }}" | base64 -d > cookies.txt
+            echo "cookies.txt restored (showing first lines):"
+            head -n 10 cookies.txt || true
+          else
+            echo "No YT_COOKIES_B64 secret set; yt-dlp may be blocked."
           fi
 
-      - name: Try android client (verbose)
+      - name: Try tvhtml5 client (captions only)
         run: |
+          mkdir -p transcripts
+          COOKIES_ARG=""
+          [ -f cookies.txt ] && COOKIES_ARG="--cookies cookies.txt"
           yt-dlp -v \
-            --cookies cookies.txt \
+            $COOKIES_ARG \
             --skip-download \
             --write-sub --write-auto-sub \
-            --sub-langs "en,*en,all" \
-            --sub-format vtt \
-            --extractor-args "youtube:player_client=android" \
-            --output "%(title)s [%(id)s].%(ext)s" \
-            "$VIDEO_URL" || true
-          ls -la || true
-
-      - name: Try tvhtml5 client (verbose)
-        run: |
-          yt-dlp -v \
-            --cookies cookies.txt \
-            --skip-download \
-            --write-sub --write-auto-sub \
-            --sub-langs "en,*en,all" \
+            --sub-langs "en,all" \
             --sub-format vtt \
             --extractor-args "youtube:player_client=tvhtml5" \
-            --output "%(title)s [%(id)s].%(ext)s" \
+            --output "transcripts/%(title)s [%(id)s].%(ext)s" \
             "$VIDEO_URL" || true
-          ls -la || true
+          ls -la transcripts || true
 
-      - name: Try web client (verbose)
+      - name: Try web client (captions only)
         run: |
+          COOKIES_ARG=""
+          [ -f cookies.txt ] && COOKIES_ARG="--cookies cookies.txt"
           yt-dlp -v \
-            --cookies cookies.txt \
+            $COOKIES_ARG \
             --skip-download \
             --write-sub --write-auto-sub \
-            --sub-langs "en,*en,all" \
+            --sub-langs "en,all" \
             --sub-format vtt \
             --extractor-args "youtube:player_client=web" \
-            --output "%(title)s [%(id)s].%(ext)s" \
+            --output "transcripts/%(title)s [%(id)s].%(ext)s" \
             "$VIDEO_URL" || true
-          ls -la || true
+          ls -la transcripts || true
+
+      - name: Convert any VTT to TXT (this video only)
+        run: |
+          python - <<'PY'
+          import glob, os, re, sys, pathlib
+          vid = os.environ["VIDEO_ID"]
+          p = pathlib.Path("transcripts")
+          p.mkdir(exist_ok=True)
+          def vtt_to_txt(path):
+              import re
+              out=[]
+              with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                  for line in f:
+                      s=line.rstrip("\n")
+                      if s.startswith("WEBVTT") or s.strip().startswith(("NOTE","STYLE")): continue
+                      if re.match(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}', s): continue
+                      if not s.strip() or re.match(r'^\s*\d+\s*$', s): continue
+                      out.append(s)
+              txt="\n".join(out).strip()
+              return re.sub(r"\n{3,}","\n\n",txt)
+          matched=False
+          for vtt in glob.glob(f"transcripts/*[{vid}]*.vtt"):
+              matched=True
+              base=os.path.basename(vtt)
+              title=re.sub(rf"\s*\[{re.escape(vid)}\].*$","", base)
+              txt_path=f"transcripts/{title} [{vid}].txt"
+              if not os.path.exists(txt_path):
+                  with open(txt_path,"w",encoding="utf-8") as f:
+                      f.write(vtt_to_txt(vtt))
+          print("Converted:", matched)
+          PY
+
+      - name: API fallback (youtube-transcript-api)
+        run: |
+          python - <<'PY'
+          import os, json, re, pathlib
+          from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound, VideoUnavailable
+          vid=os.environ["VIDEO_ID"]
+          out=pathlib.Path("transcripts"); out.mkdir(exist_ok=True)
+          txt=out / f"fallback [{vid}].txt"
+          srt=out / f"fallback [{vid}].srt"
+          def already_have():
+              import glob
+              return any(glob.glob(f"transcripts/*[{vid}].txt"))
+          if already_have():
+              print("Skip API fallback: txt already exists")
+              raise SystemExit(0)
+          def to_srt(chunks):
+              def fmt(t):
+                  h=int(t//3600); m=int((t%3600)//60); s=int(t%60); ms=int(round((t-int(t))*1000))
+                  return f"{h:02}:{m:02}:{s:02},{ms:03}"
+              lines=[]
+              for i,c in enumerate(chunks,1):
+                  start=c["start"]; end=start+c.get("duration",0.0)
+                  text=(c.get("text") or "").replace("\n"," ").strip()
+                  lines += [str(i), f"{fmt(start)} --> {fmt(end)}", text, ""]
+              return "\n".join(lines)
+          def join_text(chunks):
+              return " ".join((c.get("text") or "").replace("\n"," ").strip() for c in chunks if c.get("text"))
+          try:
+              # en manual/auto → else translate any to en
+              try:
+                  chunks, src = YouTubeTranscriptApi.get_transcript(vid, languages=["en"]), "en"
+              except Exception:
+                  listing = YouTubeTranscriptApi.list_transcripts(vid)
+                  try:
+                      chunks, src = listing.find_manually_created_transcript(["en"]).fetch(), "en"
+                  except Exception:
+                      try:
+                          chunks, src = listing.find_generated_transcript(["en"]).fetch(), "en-auto"
+                      except Exception:
+                          tr=None
+                          for t in listing:
+                              if getattr(t,"is_translatable",False):
+                                  tr=t; break
+                          if not tr: raise NoTranscriptFound("no captions")
+                          chunks, src = tr.translate("en").fetch(), f"{tr.language_code}->en"
+              text = join_text(chunks)
+              if text.strip():
+                  txt.write_text(text, encoding="utf-8")
+                  srt.write_text(to_srt(chunks), encoding="utf-8")
+                  print("API fallback wrote:", txt)
+              else:
+                  print("API fallback returned empty text")
+          except (TranscriptsDisabled, NoTranscriptFound, VideoUnavailable) as e:
+              print("API fallback: no captions:", type(e).__name__)
+          except Exception as e:
+              print("API fallback error:", type(e).__name__, e)
+          PY
+
+      - name: Upload results (artifact)
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcript-test-${{ env.VIDEO_ID }}
+          path: |
+            transcripts/*.vtt
+            transcripts/*.txt
+            transcripts/*.srt
+          if-no-files-found: warn
