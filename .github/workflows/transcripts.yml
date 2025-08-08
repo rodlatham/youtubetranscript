@@ -1,3 +1,32 @@
+name: Pull YouTube transcripts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"   # daily at 03:17 UTC
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp tqdm
+
       - name: Download English subtitles with yt-dlp
         env:
           PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
@@ -68,3 +97,17 @@
 
           print(f'Indexed {len(rows)} videos from VTT files.')
           PY
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only what exists
+          [ -e transcripts.csv ] && git add transcripts.csv || true
+          git add transcripts/* || true
+
+          git status
+
+          git commit -m "Update transcripts" || echo "No changes"
+          git push
