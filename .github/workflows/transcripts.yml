@@ -1,4 +1,4 @@
-name: Pull YouTube transcripts (multi-client with API fallback)
+name: Pull YouTube transcripts (cookies + multi-client + API fallback)
 
 on:
   workflow_dispatch:
@@ -37,16 +37,24 @@ jobs:
             echo "No YT_COOKIES_B64 secret set; yt-dlp may hit bot checks."
           fi
 
-      - name: Download subtitles (Android then Web client)
+      - name: Download subtitles with cookies (android → tvhtml5 → web)
         env:
           PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
         run: |
+          set -e
           mkdir -p transcripts
+
+          # If cookies.txt exists, always pass it
+          COOKIES_ARG=""
+          if [ -f cookies.txt ]; then
+            COOKIES_ARG="--cookies cookies.txt"
+          fi
+
           run_dl () {
             local CLIENT="$1"
             echo "==> Trying player_client=${CLIENT}"
             yt-dlp \
-              ${YT_COOKIES_B64:+--cookies cookies.txt} \
+              ${COOKIES_ARG} \
               --ignore-errors \
               --yes-playlist \
               --skip-download \
@@ -55,14 +63,18 @@ jobs:
               --sub-format vtt \
               --extractor-args "youtube:player_client=${CLIENT}" \
               --force-ipv4 \
-              --sleep-requests 1 \
-              --sleep-interval 0.5 \
-              --max-sleep-interval 1.5 \
+              --sleep-requests 2 \
+              --sleep-interval 1 \
+              --max-sleep-interval 3 \
               --retries 10 \
+              --throttled-rate 100K \
               --output "transcripts/%(title)s [%(id)s].%(ext)s" \
               "$PLAYLIST_URL" || true
           }
+
+          # Try multiple clients; android often avoids PO-token/SABR issues
           run_dl android
+          run_dl tvhtml5
           run_dl web
 
       - name: Convert VTT to TXT and index any language
@@ -88,9 +100,10 @@ jobs:
               return txt
 
           Path('transcripts').mkdir(exist_ok=True)
-          rows = []
+          entries = []
           for vtt in glob.glob('transcripts/*.vtt'):
               base = os.path.basename(vtt)
+              # Accept "Title [ID].vtt" or "Title [ID].<lang>.vtt"
               m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
               if not m:
                   continue
@@ -101,20 +114,13 @@ jobs:
               if not os.path.exists(txt_path):
                   with open(txt_path, 'w', encoding='utf-8') as f:
                       f.write(vtt_to_txt(vtt))
-
               char_len = os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
-              rows.append({
-                  'video_id': vid,
-                  'url': url,
-                  'title': title,
-                  'source': f'yt-dlp.vtt({lang})',
-                  'char_len': char_len
-              })
+              entries.append({'video_id': vid, 'url': url, 'title': title, 'source': f'yt-dlp.vtt({lang})', 'char_len': char_len})
 
-          # Write initial CSV (dedupe preferring English if present)
+          # Dedup per video, prefer English variants if present
           best = {}
           pref = ['en', 'en-US', 'en-GB']
-          for r in rows:
+          for r in entries:
               vid = r['video_id']
               lang = r['source'].split('(')[-1].rstrip(')') if '(' in r['source'] else ''
               if vid not in best:
@@ -123,15 +129,14 @@ jobs:
                   cur_lang = best[vid]['source'].split('(')[-1].rstrip(')') if '(' in best[vid]['source'] else ''
                   if cur_lang not in pref and lang in pref:
                       best[vid] = r
-          rows = list(best.values())
 
           with open('transcripts.csv', 'w', newline='', encoding='utf-8') as f:
               w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
               w.writeheader()
-              w.writerows(sorted(rows, key=lambda r: (r['title'].lower(), r['video_id'])))
+              w.writerows(sorted(best.values(), key=lambda r: (r['title'].lower(), r['video_id'])))
           PY
 
-      - name: API fallback for missing videos
+      - name: API fallback for missing videos (translate to EN if needed)
         env:
           PLAYLIST_ID: "PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
           YT_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
@@ -164,18 +169,11 @@ jobs:
               items, page_token = [], None
               base = "https://www.googleapis.com/youtube/v3/playlistItems"
               while True:
-                  params = {
-                      "part": "snippet",
-                      "maxResults": 50,
-                      "playlistId": playlist_id,
-                      "key": api_key,
-                  }
-                  if page_token:
-                      params["pageToken"] = page_token
+                  params = {"part": "snippet", "maxResults": 50, "playlistId": playlist_id, "key": api_key}
+                  if page_token: params["pageToken"] = page_token
                   url = f"{base}?{urlencode(params)}"
                   r = requests.get(url, timeout=30)
-                  if r.status_code != 200:
-                      break
+                  if r.status_code != 200: break
                   data = r.json()
                   for e in data.get("items", []):
                       sn = e.get("snippet", {})
@@ -184,8 +182,7 @@ jobs:
                       if vid and title and title.lower() != "private video":
                           items.append({"video_id": vid, "title": title})
                   page_token = data.get("nextPageToken")
-                  if not page_token:
-                      break
+                  if not page_token: break
                   time.sleep(0.2)
               return items
 
@@ -196,6 +193,8 @@ jobs:
                   pass
               try:
                   listing = YouTubeTranscriptApi.list_transcripts(vid)
+              except TypeError:
+                  raise NoTranscriptFound("TypeError from library")
               except Exception:
                   raise NoTranscriptFound("list_transcripts failed")
               try:
@@ -216,17 +215,19 @@ jobs:
                           continue
               raise NoTranscriptFound("no captions")
 
+          # Read existing IDs already covered by yt-dlp
           existing_ids = set()
-          with open(csv_path, newline='', encoding='utf-8') as f:
-              for row in csv.DictReader(f):
-                  existing_ids.add(row['video_id'])
+          if csv_path.exists():
+              with open(csv_path, newline='', encoding='utf-8') as f:
+                  for row in csv.DictReader(f):
+                      existing_ids.add(row['video_id'])
 
           if not API_KEY:
-              print("No API key; skipping fallback.")
+              print("No API key; skipping API fallback.")
               sys.exit(0)
 
           items = list_playlist_items(PLAYLIST_ID, API_KEY)
-          rows = []
+          add_rows = []
           for it in tqdm(items, desc="API fallback"):
               vid, title = it["video_id"], it["title"]
               if vid in existing_ids:
@@ -239,24 +240,44 @@ jobs:
                   text = " ".join((x.get("text") or "").replace("\n"," ").strip() for x in chunks if x.get("text"))
                   if text.strip():
                       (out_dir / txt_name).write_text(text, encoding="utf-8")
-                      (out_dir / srt_name).write_text(text, encoding="utf-8")
-                  rows.append({"video_id": vid, "url": url, "title": title, "source": src, "char_len": len(text)})
-              except (TranscriptsDisabled, NoTranscriptFound):
-                  rows.append({"video_id": vid, "url": url, "title": title, "source": "none", "char_len": 0})
+                      # simple SRT
+                      def fmt(t): 
+                          h=int(t//3600); m=int((t%3600)//60); s=int(t%60); ms=int(round((t-int(t))*1000)); 
+                          return f"{h:02}:{m:02}:{s:02},{ms:03}"
+                      lines=[]
+                      for i,itm in enumerate(chunks,1):
+                          start=itm["start"]; end=start+itm.get("duration",0.0)
+                          lines += [str(i), f"{fmt(start)} --> {fmt(end)}", (itm.get("text") or "").replace("\n"," ").strip(), ""]
+                      (out_dir / srt_name).write_text("\n".join(lines), encoding="utf-8")
+                  add_rows.append({"video_id": vid, "url": url, "title": title, "source": src, "char_len": len(text)})
+              except (TranscriptsDisabled, NoTranscriptFound, TypeError):
+                  add_rows.append({"video_id": vid, "url": url, "title": title, "source": "none", "char_len": 0})
               except VideoUnavailable:
-                  rows.append({"video_id": vid, "url": url, "title": title, "source": "unavailable", "char_len": 0})
+                  add_rows.append({"video_id": vid, "url": url, "title": title, "source": "unavailable", "char_len": 0})
               except Exception as e:
-                  rows.append({"video_id": vid, "url": url, "title": title, "source": f"error: {type(e).__name__}", "char_len": 0})
+                  add_rows.append({"video_id": vid, "url": url, "title": title, "source": f"error: {type(e).__name__}", "char_len": 0})
 
-          # Append to CSV
-          all_rows = []
-          with open(csv_path, newline='', encoding='utf-8') as f:
-              all_rows.extend(csv.DictReader(f))
-          all_rows.extend(rows)
-          with open(csv_path, 'w', newline='', encoding='utf-8') as f:
-              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
+          # Append & de-dup CSV
+          all_rows=[]
+          if csv_path.exists():
+              with open(csv_path, newline='', encoding='utf-8') as f:
+                  all_rows.extend(csv.DictReader(f))
+          all_rows.extend(add_rows)
+          best={}
+          pref_sources=('yt-dlp.vtt(en)','yt-dlp.vtt(en-US)','yt-dlp.vtt(en-GB)','en','en-auto')
+          for r in all_rows:
+              vid=r['video_id']; cur=best.get(vid)
+              if not cur: best[vid]=r; continue
+              # prefer English-ish over none/error/unavailable
+              def rank(x):
+                  s=x['source']
+                  try: return pref_sources.index(s)
+                  except: return 99 if s not in ('none','unavailable') else 100
+              if rank(r)<rank(cur): best[vid]=r
+          with open(csv_path,'w',newline='',encoding='utf-8') as f:
+              w=csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
               w.writeheader()
-              w.writerows(sorted(all_rows, key=lambda r: (r['title'].lower(), r['video_id'])))
+              w.writerows(sorted(best.values(), key=lambda r:(r['title'].lower(), r['video_id'])))
           PY
 
       - name: Commit results
