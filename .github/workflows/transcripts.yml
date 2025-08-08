@@ -1,9 +1,9 @@
-name: Pull YouTube transcripts (API-based)
+name: Pull YouTube transcripts (API with translation fallback)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"   # daily at 03:17 UTC
+    - cron: "17 3 * * *"  # daily at 03:17 UTC
 
 jobs:
   run:
@@ -50,8 +50,7 @@ jobs:
               n = "".join(ch for ch in n if ch.isprintable())
               n = re.sub(r'[\\/:*?"<>|]+', " ", n)
               n = re.sub(r"\s+", " ", n).strip()
-              base_max = max_len - len(suffix)
-              base_max = max(1, base_max)
+              base_max = max(1, max_len - len(suffix))
               if len(n) > base_max:
                   n = n[:base_max].rstrip()
               return f"{n}{suffix}"
@@ -86,15 +85,20 @@ jobs:
                   time.sleep(0.2)
               return items
 
-          def fetch_best_english_transcript(vid: str):
+          def fetch_transcript_any_to_en(vid: str):
+              """
+              Try English manual, then English auto, then translate any available to English.
+              Returns (chunks, source_label) or raises NoTranscriptFound.
+              """
+              # quick path
               try:
                   return YouTubeTranscriptApi.get_transcript(vid, languages=["en"]), "en"
               except Exception:
                   pass
-              try:
-                  listing = YouTubeTranscriptApi.list_transcripts(vid)
-              except Exception:
-                  raise
+
+              listing = YouTubeTranscriptApi.list_transcripts(vid)
+
+              # native English
               try:
                   t = listing.find_manually_created_transcript(["en"])
                   return t.fetch(), "en"
@@ -104,13 +108,16 @@ jobs:
                       return t.fetch(), "en-auto"
                   except Exception:
                       pass
+
+              # translate any to English
               for tr in listing:
-                  if tr.is_translatable:
+                  if getattr(tr, "is_translatable", False):
                       try:
                           en_t = tr.translate("en")
                           return en_t.fetch(), f"{tr.language_code}->en"
                       except Exception:
                           continue
+
               raise NoTranscriptFound(f"No English or translatable transcript for {vid}")
 
           def join_text(chunks):
@@ -127,7 +134,7 @@ jobs:
                   lines += [str(i), f"{fmt(start)} --> {fmt(end)}", text, ""]
               return "\n".join(lines)
 
-          Path("transcripts").mkdir(exist_ok=True)
+          out_dir = Path("transcripts"); out_dir.mkdir(exist_ok=True)
           csv_path = Path("transcripts.csv")
           jsonl_path = Path("transcripts.jsonl")
           if jsonl_path.exists():
@@ -139,33 +146,41 @@ jobs:
               sys.exit(1)
 
           rows = []
+          stats = {"ok": 0, "none": 0, "unavail": 0, "error": 0}
+
           for it in tqdm(items, desc="Processing videos"):
               vid = it["video_id"]
               title = it["title"]
               url = f"https://www.youtube.com/watch?v={vid}"
               try:
-                  chunks, src = fetch_best_english_transcript(vid)
+                  chunks, src = fetch_transcript_any_to_en(vid)
                   text = join_text(chunks)
-                  txt_name = safe_filename(title, f" [{vid}].txt")
-                  srt_name = safe_filename(title, f" [{vid}].srt")
-                  (Path("transcripts") / txt_name).write_text(text, encoding="utf-8")
-                  (Path("transcripts") / srt_name).write_text(to_srt(chunks), encoding="utf-8")
+                  # skip writing empty text even if chunks exist
+                  if text.strip():
+                      txt_name = safe_filename(title, f" [{vid}].txt")
+                      srt_name = safe_filename(title, f" [{vid}].srt")
+                      (out_dir / txt_name).write_text(text, encoding="utf-8")
+                      (out_dir / srt_name).write_text(to_srt(chunks), encoding="utf-8")
                   rows.append({"video_id": vid, "url": url, "title": title, "source": src, "char_len": len(text)})
                   with jsonl_path.open("a", encoding="utf-8") as jf:
                       jf.write(json.dumps({"video_id": vid, "url": url, "title": title, "source": src, "chunks": chunks}, ensure_ascii=False) + "\n")
+                  stats["ok"] += 1
               except (TranscriptsDisabled, NoTranscriptFound):
                   rows.append({"video_id": vid, "url": url, "title": title, "source": "none", "char_len": 0})
+                  stats["none"] += 1
               except VideoUnavailable:
                   rows.append({"video_id": vid, "url": url, "title": title, "source": "unavailable", "char_len": 0})
+                  stats["unavail"] += 1
               except Exception as e:
                   rows.append({"video_id": vid, "url": url, "title": title, "source": f"error: {type(e).__name__}", "char_len": 0})
+                  stats["error"] += 1
 
           with csv_path.open("w", newline="", encoding="utf-8") as f:
               w = csv.DictWriter(f, fieldnames=["video_id","url","title","source","char_len"])
               w.writeheader()
               w.writerows(rows)
 
-          print(f"Done. Wrote {len(rows)} rows.")
+          print(f"Done. Wrote {len(rows)} rows. Success={stats['ok']} none={stats['none']} unavail={stats['unavail']} error={stats['error']}")
           PY
 
       - name: Commit results
@@ -174,7 +189,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           [ -e transcripts.csv ] && git add transcripts.csv || true
-          git add transcripts/* || true
+          [ -d transcripts ] && git add transcripts/* || true
+          [ -e transcripts.jsonl ] && git add transcripts.jsonl || true
 
           git status
           git commit -m "Update transcripts" || echo "No changes"
