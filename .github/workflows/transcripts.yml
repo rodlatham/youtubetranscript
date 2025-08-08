@@ -1,4 +1,4 @@
-name: Pull YouTube transcripts (cookies + API fallback)
+name: Pull YouTube transcripts (multi-client with API fallback)
 
 on:
   workflow_dispatch:
@@ -25,7 +25,6 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          # Pin youtube-transcript-api to avoid occasional AttributeError regressions
           pip install yt-dlp tqdm requests youtube-transcript-api==0.6.2
 
       - name: Restore cookies.txt from secret (optional)
@@ -35,33 +34,120 @@ jobs:
             echo "cookies.txt restored from secret"
             head -n 2 cookies.txt || true
           else
-            echo "No YT_COOKIES_B64 secret set; yt-dlp may hit bot checks. We'll still use API fallback."
+            echo "No YT_COOKIES_B64 secret set; yt-dlp may hit bot checks."
           fi
 
-      - name: Fetch captions (yt-dlp if cookies present) + API fallback, then build CSV
+      - name: Download subtitles (Android then Web client)
+        env:
+          PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
+        run: |
+          mkdir -p transcripts
+          run_dl () {
+            local CLIENT="$1"
+            echo "==> Trying player_client=${CLIENT}"
+            yt-dlp \
+              ${YT_COOKIES_B64:+--cookies cookies.txt} \
+              --ignore-errors \
+              --yes-playlist \
+              --skip-download \
+              --write-sub --write-auto-sub \
+              --sub-langs "all" \
+              --sub-format vtt \
+              --extractor-args "youtube:player_client=${CLIENT}" \
+              --force-ipv4 \
+              --sleep-requests 1 \
+              --sleep-interval 0.5 \
+              --max-sleep-interval 1.5 \
+              --retries 10 \
+              --output "transcripts/%(title)s [%(id)s].%(ext)s" \
+              "$PLAYLIST_URL" || true
+          }
+          run_dl android
+          run_dl web
+
+      - name: Convert VTT to TXT and index any language
+        run: |
+          python - <<'PY'
+          import csv, glob, os, re
+          from pathlib import Path
+
+          def vtt_to_txt(p):
+              out = []
+              with open(p, 'r', encoding='utf-8', errors='ignore') as f:
+                  for line in f:
+                      s = line.rstrip('\n')
+                      if s.startswith('WEBVTT') or s.strip().startswith(('NOTE','STYLE')):
+                          continue
+                      if re.match(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}', s):
+                          continue
+                      if not s.strip() or re.match(r'^\s*\d+\s*$', s):
+                          continue
+                      out.append(s)
+              txt = '\n'.join(out).strip()
+              txt = re.sub(r'\n{3,}', '\n\n', txt)
+              return txt
+
+          Path('transcripts').mkdir(exist_ok=True)
+          rows = []
+          for vtt in glob.glob('transcripts/*.vtt'):
+              base = os.path.basename(vtt)
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
+              if not m:
+                  continue
+              title, vid, lang = m.group('title'), m.group('id'), m.group('lang') or 'unknown'
+              url = f'https://www.youtube.com/watch?v={vid}'
+
+              txt_path = f'transcripts/{title} [{vid}].txt'
+              if not os.path.exists(txt_path):
+                  with open(txt_path, 'w', encoding='utf-8') as f:
+                      f.write(vtt_to_txt(vtt))
+
+              char_len = os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
+              rows.append({
+                  'video_id': vid,
+                  'url': url,
+                  'title': title,
+                  'source': f'yt-dlp.vtt({lang})',
+                  'char_len': char_len
+              })
+
+          # Write initial CSV (dedupe preferring English if present)
+          best = {}
+          pref = ['en', 'en-US', 'en-GB']
+          for r in rows:
+              vid = r['video_id']
+              lang = r['source'].split('(')[-1].rstrip(')') if '(' in r['source'] else ''
+              if vid not in best:
+                  best[vid] = r
+              else:
+                  cur_lang = best[vid]['source'].split('(')[-1].rstrip(')') if '(' in best[vid]['source'] else ''
+                  if cur_lang not in pref and lang in pref:
+                      best[vid] = r
+          rows = list(best.values())
+
+          with open('transcripts.csv', 'w', newline='', encoding='utf-8') as f:
+              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
+              w.writeheader()
+              w.writerows(sorted(rows, key=lambda r: (r['title'].lower(), r['video_id'])))
+          PY
+
+      - name: API fallback for missing videos
         env:
           PLAYLIST_ID: "PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
-          PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
           YT_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python - <<'PY'
-          import csv, glob, os, re, sys, json, time, subprocess, shlex
+          import csv, os, re, sys, json, time
           from pathlib import Path
           from urllib.parse import urlencode
           import requests
           from tqdm import tqdm
           from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound, VideoUnavailable
 
-          PLAYLIST_ID  = os.environ["PLAYLIST_ID"]
-          PLAYLIST_URL = os.environ["PLAYLIST_URL"]
-          API_KEY      = os.environ.get("YT_API_KEY")  # optional but recommended
-          HAVE_COOKIES = Path("cookies.txt").exists()
-
-          out_dir = Path("transcripts"); out_dir.mkdir(exist_ok=True)
+          PLAYLIST_ID = os.environ["PLAYLIST_ID"]
+          API_KEY = os.environ.get("YT_API_KEY")
+          out_dir = Path("transcripts")
           csv_path = Path("transcripts.csv")
-          jsonl_path = Path("transcripts.jsonl")
-          if jsonl_path.exists():
-            jsonl_path.unlink()
 
           def safe_filename(name: str, suffix: str, max_len: int = 120) -> str:
               import unicodedata
@@ -74,12 +160,9 @@ jobs:
                   n = n[:base_max].rstrip()
               return f"{n}{suffix}"
 
-          def list_playlist_items_via_api(playlist_id: str, api_key: str):
-              if not api_key:
-                  print("WARNING: YT_API_KEY not set; skipping API listing.", file=sys.stderr)
-                  return []
-              base = "https://www.googleapis.com/youtube/v3/playlistItems"
+          def list_playlist_items(playlist_id: str, api_key: str):
               items, page_token = [], None
+              base = "https://www.googleapis.com/youtube/v3/playlistItems"
               while True:
                   params = {
                       "part": "snippet",
@@ -92,7 +175,6 @@ jobs:
                   url = f"{base}?{urlencode(params)}"
                   r = requests.get(url, timeout=30)
                   if r.status_code != 200:
-                      print("API error:", r.status_code, r.text, file=sys.stderr)
                       break
                   data = r.json()
                   for e in data.get("items", []):
@@ -107,62 +189,15 @@ jobs:
                   time.sleep(0.2)
               return items
 
-          def yt_dlp_download_vtt(playlist_url: str):
-              """Try to download en/*en .vtt captions for the whole playlist."""
-              cmd = [
-                  "yt-dlp",
-                  "--ignore-errors",
-                  "--yes-playlist",
-                  "--skip-download",
-                  "--write-sub", "--write-auto-sub",
-                  "--sub-langs", "en,*en",
-                  "--sub-format", "vtt",
-                  # Use web client & gentle pacing to avoid bot checks; cookies if available
-                  "--extractor-args", "youtube:player_client=web",
-                  "--force-ipv4",
-                  "--sleep-requests", "1",
-                  "--sleep-interval", "0.5",
-                  "--max-sleep-interval", "1.5",
-                  "--retries", "10",
-                  "--output", "transcripts/%(title)s [%(id)s].%(ext)s",
-                  playlist_url
-              ]
-              if HAVE_COOKIES:
-                  cmd[1:1] = ["--cookies", "cookies.txt"]
-              print("Running:", " ".join(shlex.quote(c) for c in cmd))
-              try:
-                  subprocess.check_call(cmd)
-              except subprocess.CalledProcessError as e:
-                  print("yt-dlp returned non-zero exit code; continuing with whatever was downloaded.", file=sys.stderr)
-
-          def vtt_to_txt(vtt_path: Path) -> str:
-              txt_lines = []
-              with vtt_path.open("r", encoding="utf-8", errors="ignore") as f:
-                  for line in f:
-                      s = line.rstrip("\n")
-                      if s.startswith("WEBVTT") or s.strip().startswith(("NOTE","STYLE")):
-                          continue
-                      if re.match(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}', s):
-                          continue
-                      if not s.strip() or re.match(r'^\s*\d+\s*$', s):
-                          continue
-                      txt_lines.append(s)
-              text = "\n".join(txt_lines).strip()
-              # collapse excessive blank lines
-              text = re.sub(r'\n{3,}', '\n\n', text)
-              return text
-
           def fetch_transcript_any_to_en(vid: str):
-              """Try English manual, then English auto, then translate any available to English."""
               try:
                   return YouTubeTranscriptApi.get_transcript(vid, languages=["en"]), "en"
               except Exception:
                   pass
               try:
                   listing = YouTubeTranscriptApi.list_transcripts(vid)
-              except Exception as e:
-                  raise NoTranscriptFound(f"list_transcripts failed: {type(e).__name__}")
-              # native English
+              except Exception:
+                  raise NoTranscriptFound("list_transcripts failed")
               try:
                   t = listing.find_manually_created_transcript(["en"])
                   return t.fetch(), "en"
@@ -172,7 +207,6 @@ jobs:
                       return t.fetch(), "en-auto"
                   except Exception:
                       pass
-              # translate any to English
               for tr in listing:
                   if getattr(tr, "is_translatable", False):
                       try:
@@ -182,116 +216,47 @@ jobs:
                           continue
               raise NoTranscriptFound("no captions")
 
-          def to_srt_from_chunks(chunks):
-              def fmt(t):
-                  h = int(t // 3600); m = int((t % 3600) // 60); s = int(t % 60); ms = int(round((t - int(t)) * 1000))
-                  return f"{h:02}:{m:02}:{s:02},{ms:03}"
-              lines = []
-              for i, it in enumerate(chunks, 1):
-                  start = it["start"]; end = start + it.get("duration", 0.0)
-                  text = (it.get("text") or "").replace("\n", " ").strip()
-                  lines += [str(i), f"{fmt(start)} --> {fmt(end)}", text, ""]
-              return "\n".join(lines)
+          existing_ids = set()
+          with open(csv_path, newline='', encoding='utf-8') as f:
+              for row in csv.DictReader(f):
+                  existing_ids.add(row['video_id'])
 
-          # 1) Try yt-dlp (if cookies available; otherwise it may get blocked)
-          if HAVE_COOKIES:
-              print("cookies.txt found: attempting yt-dlp VTT download...")
-              yt_dlp_download_vtt(PLAYLIST_URL)
-          else:
-              print("No cookies.txt; skipping yt-dlp step and relying on API fallback.")
+          if not API_KEY:
+              print("No API key; skipping fallback.")
+              sys.exit(0)
 
-          # 2) Convert any .vtt we managed to download into .txt and collect IDs
-          vtt_id_set = set()
-          for vtt_file in glob.glob("transcripts/*.vtt"):
-              base = os.path.basename(vtt_file)
-              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\]\.vtt$', base)
-              if not m:  # unexpected filename; skip
-                  continue
-              title = m.group("title"); vid = m.group("id")
-              vtt_id_set.add(vid)
-              txt_path = Path(f"transcripts/{title} [{vid}].txt")
-              if not txt_path.exists():
-                  txt = vtt_to_txt(Path(vtt_file))
-                  txt_path.write_text(txt, encoding="utf-8")
-
-          # 3) API fallback for any videos without VTT
-          items = list_playlist_items_via_api(PLAYLIST_ID, API_KEY) if API_KEY else []
+          items = list_playlist_items(PLAYLIST_ID, API_KEY)
           rows = []
-          stats = {"yt_dlp_ids": len(vtt_id_set), "api_ok": 0, "none": 0, "unavail": 0, "error": 0}
+          for it in tqdm(items, desc="API fallback"):
+              vid, title = it["video_id"], it["title"]
+              if vid in existing_ids:
+                  continue
+              url = f"https://www.youtube.com/watch?v={vid}"
+              txt_name = safe_filename(title, f" [{vid}].txt")
+              srt_name = safe_filename(title, f" [{vid}].srt")
+              try:
+                  chunks, src = fetch_transcript_any_to_en(vid)
+                  text = " ".join((x.get("text") or "").replace("\n"," ").strip() for x in chunks if x.get("text"))
+                  if text.strip():
+                      (out_dir / txt_name).write_text(text, encoding="utf-8")
+                      (out_dir / srt_name).write_text(text, encoding="utf-8")
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": src, "char_len": len(text)})
+              except (TranscriptsDisabled, NoTranscriptFound):
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": "none", "char_len": 0})
+              except VideoUnavailable:
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": "unavailable", "char_len": 0})
+              except Exception as e:
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": f"error: {type(e).__name__}", "char_len": 0})
 
-          # Helper: write rows from existing VTT/TXT so they appear in CSV even if API is off
-          def record_existing_from_files():
-              for txt in glob.glob("transcripts/*.txt"):
-                  base = os.path.basename(txt)
-                  m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\]\.txt$', base)
-                  if not m:
-                      continue
-                  title = m.group("title"); vid = m.group("id")
-                  url = f"https://www.youtube.com/watch?v={vid}"
-                  char_len = os.path.getsize(txt)
-                  rows.append({"video_id": vid, "url": url, "title": title, "source": "yt-dlp.vtt", "char_len": char_len})
-
-          if not items:
-              print("No playlist items from API (missing/invalid key?). We'll at least index any VTT/TXT found.")
-              record_existing_from_files()
-          else:
-              # Try to fetch transcripts for items missing from vtt_id_set
-              for it in tqdm(items, desc="API fallback for missing captions"):
-                  vid, title = it["video_id"], it["title"]
-                  url = f"https://www.youtube.com/watch?v={vid}"
-                  txt_name = safe_filename(title, f" [{vid}].txt")
-                  srt_name = safe_filename(title, f" [{vid}].srt")
-
-                  if vid in vtt_id_set and Path("transcripts")/txt_name in out_dir.iterdir():
-                      # Already have from yt-dlp; will be included when we rebuild CSV at the end
-                      continue
-
-                  try:
-                      chunks, src = fetch_transcript_any_to_en(vid)
-                      text = " ".join((x.get("text") or "").replace("\n"," ").strip() for x in chunks if x.get("text"))
-                      if text.strip():
-                          (out_dir / txt_name).write_text(text, encoding="utf-8")
-                          (out_dir / srt_name).write_text(to_srt_from_chunks(chunks), encoding="utf-8")
-                      rows.append({"video_id": vid, "url": url, "title": title, "source": src, "char_len": len(text)})
-                      with jsonl_path.open("a", encoding="utf-8") as jf:
-                          jf.write(json.dumps({"video_id": vid, "url": url, "title": title, "source": src, "chunks": chunks}, ensure_ascii=False) + "\n")
-                      stats["api_ok"] += 1
-                  except (TranscriptsDisabled, NoTranscriptFound):
-                      rows.append({"video_id": vid, "url": url, "title": title, "source": "none", "char_len": 0})
-                      stats["none"] += 1
-                  except VideoUnavailable:
-                      rows.append({"video_id": vid, "url": url, "title": title, "source": "unavailable", "char_len": 0})
-                      stats["unavail"] += 1
-                  except Exception as e:
-                      rows.append({"video_id": vid, "url": url, "title": title, "source": f"error: {type(e).__name__}", "char_len": 0})
-                      stats["error"] += 1
-
-              # Also record any that *did* have VTT/TXT so CSV is complete
-              record_existing_from_files()
-
-          # De-duplicate rows by video_id (prefer yt-dlp.vtt over API/none if duplicates)
-          best = {}
-          for r in rows:
-              vid = r["video_id"]
-              if vid not in best:
-                  best[vid] = r
-              else:
-                  # prefer non-"none" and prefer yt-dlp.vtt
-                  pref = ("yt-dlp.vtt", "en", "en-auto")
-                  cur = best[vid]["source"]
-                  new = r["source"]
-                  if (cur == "none" and new != "none") or (new in pref and cur not in pref):
-                      best[vid] = r
-          rows = list(best.values())
-
-          # Write CSV
-          with csv_path.open("w", newline="", encoding="utf-8") as f:
-              w = csv.DictWriter(f, fieldnames=["video_id","url","title","source","char_len"])
+          # Append to CSV
+          all_rows = []
+          with open(csv_path, newline='', encoding='utf-8') as f:
+              all_rows.extend(csv.DictReader(f))
+          all_rows.extend(rows)
+          with open(csv_path, 'w', newline='', encoding='utf-8') as f:
+              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
               w.writeheader()
-              # sort for stability
-              w.writerows(sorted(rows, key=lambda r: (r["title"].lower(), r["video_id"])))
-
-          print(f"Done. yt-dlp_ids={stats['yt_dlp_ids']} api_ok={stats['api_ok']} none={stats['none']} unavail={stats['unavail']} error={stats['error']}")
+              w.writerows(sorted(all_rows, key=lambda r: (r['title'].lower(), r['video_id'])))
           PY
 
       - name: Commit results
@@ -300,7 +265,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           [ -e transcripts.csv ] && git add transcripts.csv || true
           [ -d transcripts ] && git add transcripts/* || true
-          [ -e transcripts.jsonl ] && git add transcripts.jsonl || true
           git status
           git commit -m "Update transcripts" || echo "No changes"
           git push
