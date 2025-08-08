@@ -3,7 +3,7 @@ name: Pull YouTube transcripts (API with translation fallback)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"  # daily at 03:17 UTC
+    - cron: "17 3 * * *"
 
 jobs:
   run:
@@ -25,7 +25,8 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install youtube-transcript-api tqdm requests
+          # Pin to a stable version to avoid AttributeError regressions
+          pip install youtube-transcript-api==0.6.2 tqdm requests
 
       - name: Fetch titles via YouTube Data API and pull transcripts
         env:
@@ -88,16 +89,21 @@ jobs:
           def fetch_transcript_any_to_en(vid: str):
               """
               Try English manual, then English auto, then translate any available to English.
-              Returns (chunks, source_label) or raises NoTranscriptFound.
+              Treat AttributeError as no transcript to avoid hard failures.
               """
               # quick path
               try:
                   return YouTubeTranscriptApi.get_transcript(vid, languages=["en"]), "en"
               except Exception:
                   pass
-
-              listing = YouTubeTranscriptApi.list_transcripts(vid)
-
+              # full listing
+              try:
+                  listing = YouTubeTranscriptApi.list_transcripts(vid)
+              except AttributeError:
+                  # library quirk or video type edge case
+                  raise NoTranscriptFound("Transcript listing failed with AttributeError")
+              except Exception:
+                  raise
               # native English
               try:
                   t = listing.find_manually_created_transcript(["en"])
@@ -108,7 +114,6 @@ jobs:
                       return t.fetch(), "en-auto"
                   except Exception:
                       pass
-
               # translate any to English
               for tr in listing:
                   if getattr(tr, "is_translatable", False):
@@ -117,8 +122,7 @@ jobs:
                           return en_t.fetch(), f"{tr.language_code}->en"
                       except Exception:
                           continue
-
-              raise NoTranscriptFound(f"No English or translatable transcript for {vid}")
+              raise NoTranscriptFound("No English or translatable transcript")
 
           def join_text(chunks):
               return " ".join((x.get("text") or "").replace("\n", " ").strip() for x in chunks if x.get("text"))
@@ -155,7 +159,6 @@ jobs:
               try:
                   chunks, src = fetch_transcript_any_to_en(vid)
                   text = join_text(chunks)
-                  # skip writing empty text even if chunks exist
                   if text.strip():
                       txt_name = safe_filename(title, f" [{vid}].txt")
                       srt_name = safe_filename(title, f" [{vid}].srt")
@@ -187,11 +190,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
           [ -e transcripts.csv ] && git add transcripts.csv || true
           [ -d transcripts ] && git add transcripts/* || true
           [ -e transcripts.jsonl ] && git add transcripts.jsonl || true
-
           git status
           git commit -m "Update transcripts" || echo "No changes"
           git push
