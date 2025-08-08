@@ -1,4 +1,4 @@
-name: Pull YouTube transcripts
+name: Pull YouTube transcripts (API-based)
 
 on:
   workflow_dispatch:
@@ -25,77 +25,147 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp tqdm
+          pip install youtube-transcript-api tqdm requests
 
-      - name: Download English subtitles with yt-dlp
+      - name: Fetch titles via YouTube Data API and pull transcripts
         env:
-          PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
-        run: |
-          mkdir -p transcripts
-          yt-dlp \
-            --ignore-errors \
-            --yes-playlist \
-            --skip-download \
-            --write-sub --write-auto-sub \
-            --sub-langs "en,*en" \
-            --sub-format vtt \
-            --output "transcripts/%(title)s [%(id)s].%(ext)s" \
-            "$PLAYLIST_URL"
-
-      - name: Build CSV index and TXT copies from VTT
+          PLAYLIST_ID: "PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
+          YT_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python - <<'PY'
-          import csv, glob, os, re
+          import csv, os, re, sys, json, time
           from pathlib import Path
+          from urllib.parse import urlencode
+          import requests
+          from tqdm import tqdm
+          from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound, VideoUnavailable
 
-          def vtt_to_txt(vtt_path):
-              txt = []
-              with open(vtt_path, 'r', encoding='utf-8', errors='ignore') as f:
-                  for line in f:
-                      # Drop WEBVTT header, timestamps, cue settings
-                      if line.startswith('WEBVTT') or re.match(r'^\d\d:\d\d:\d\d\.\d{3} -->', line) or line.strip().startswith('NOTE') or line.strip().startswith('STYLE'):
-                          continue
-                      # Drop metadata blocks and empty lines
-                      if not line.strip() or re.match(r'^\s*[\d-]+\s*$', line):
-                          continue
-                      txt.append(line.rstrip())
-              # Collapse multiple blanks
-              out = re.sub(r'\n{3,}', '\n\n', '\n'.join(txt)).strip()
-              return out
+          PLAYLIST_ID = os.environ["PLAYLIST_ID"]
+          API_KEY = os.environ["YT_API_KEY"]
+          BASE = "https://www.googleapis.com/youtube/v3/playlistItems"
 
-          Path('transcripts').mkdir(exist_ok=True)
+          def safe_filename(name: str, suffix: str, max_len: int = 120) -> str:
+              import unicodedata
+              n = unicodedata.normalize("NFKC", name or "")
+              n = "".join(ch for ch in n if ch.isprintable())
+              n = re.sub(r'[\\/:*?"<>|]+', " ", n)
+              n = re.sub(r"\s+", " ", n).strip()
+              base_max = max_len - len(suffix)
+              base_max = max(1, base_max)
+              if len(n) > base_max:
+                  n = n[:base_max].rstrip()
+              return f"{n}{suffix}"
+
+          def list_playlist_items(playlist_id: str, api_key: str):
+              items = []
+              page_token = None
+              while True:
+                  params = {
+                      "part": "snippet",
+                      "maxResults": 50,
+                      "playlistId": playlist_id,
+                      "key": api_key,
+                  }
+                  if page_token:
+                      params["pageToken"] = page_token
+                  url = f"{BASE}?{urlencode(params)}"
+                  r = requests.get(url, timeout=30)
+                  if r.status_code != 200:
+                      print("API error:", r.status_code, r.text, file=sys.stderr)
+                      break
+                  data = r.json()
+                  for e in data.get("items", []):
+                      sn = e.get("snippet", {})
+                      title = (sn.get("title") or "").strip()
+                      vid = (sn.get("resourceId", {}) or {}).get("videoId")
+                      if vid and title and title.lower() != "private video":
+                          items.append({"video_id": vid, "title": title})
+                  page_token = data.get("nextPageToken")
+                  if not page_token:
+                      break
+                  time.sleep(0.2)
+              return items
+
+          def fetch_best_english_transcript(vid: str):
+              try:
+                  return YouTubeTranscriptApi.get_transcript(vid, languages=["en"]), "en"
+              except Exception:
+                  pass
+              try:
+                  listing = YouTubeTranscriptApi.list_transcripts(vid)
+              except Exception:
+                  raise
+              try:
+                  t = listing.find_manually_created_transcript(["en"])
+                  return t.fetch(), "en"
+              except Exception:
+                  try:
+                      t = listing.find_generated_transcript(["en"])
+                      return t.fetch(), "en-auto"
+                  except Exception:
+                      pass
+              for tr in listing:
+                  if tr.is_translatable:
+                      try:
+                          en_t = tr.translate("en")
+                          return en_t.fetch(), f"{tr.language_code}->en"
+                      except Exception:
+                          continue
+              raise NoTranscriptFound(f"No English or translatable transcript for {vid}")
+
+          def join_text(chunks):
+              return " ".join((x.get("text") or "").replace("\n", " ").strip() for x in chunks if x.get("text"))
+
+          def to_srt(chunks):
+              def fmt(t):
+                  h = int(t // 3600); m = int((t % 3600) // 60); s = int(t % 60); ms = int(round((t - int(t)) * 1000))
+                  return f"{h:02}:{m:02}:{s:02},{ms:03}"
+              lines = []
+              for i, it in enumerate(chunks, 1):
+                  start = it["start"]; end = start + it.get("duration", 0.0)
+                  text = (it.get("text") or "").replace("\n", " ").strip()
+                  lines += [str(i), f"{fmt(start)} --> {fmt(end)}", text, ""]
+              return "\n".join(lines)
+
+          Path("transcripts").mkdir(exist_ok=True)
+          csv_path = Path("transcripts.csv")
+          jsonl_path = Path("transcripts.jsonl")
+          if jsonl_path.exists():
+              jsonl_path.unlink()
+
+          items = list_playlist_items(PLAYLIST_ID, API_KEY)
+          if not items:
+              print("No items returned by YouTube Data API.")
+              sys.exit(1)
+
           rows = []
-          for vtt in glob.glob('transcripts/*.vtt'):
-              base = os.path.basename(vtt)
-              # Extract title and id from "Title [VIDEOID].vtt"
-              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\]\.vtt$', base)
-              if not m:
-                  continue
-              title = m.group('title')
-              vid = m.group('id')
-              url = f'https://www.youtube.com/watch?v={vid}'
+          for it in tqdm(items, desc="Processing videos"):
+              vid = it["video_id"]
+              title = it["title"]
+              url = f"https://www.youtube.com/watch?v={vid}"
+              try:
+                  chunks, src = fetch_best_english_transcript(vid)
+                  text = join_text(chunks)
+                  txt_name = safe_filename(title, f" [{vid}].txt")
+                  srt_name = safe_filename(title, f" [{vid}].srt")
+                  (Path("transcripts") / txt_name).write_text(text, encoding="utf-8")
+                  (Path("transcripts") / srt_name).write_text(to_srt(chunks), encoding="utf-8")
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": src, "char_len": len(text)})
+                  with jsonl_path.open("a", encoding="utf-8") as jf:
+                      jf.write(json.dumps({"video_id": vid, "url": url, "title": title, "source": src, "chunks": chunks}, ensure_ascii=False) + "\n")
+              except (TranscriptsDisabled, NoTranscriptFound):
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": "none", "char_len": 0})
+              except VideoUnavailable:
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": "unavailable", "char_len": 0})
+              except Exception as e:
+                  rows.append({"video_id": vid, "url": url, "title": title, "source": f"error: {type(e).__name__}", "char_len": 0})
 
-              txt_path = f'transcripts/{title} [{vid}].txt'
-              if not os.path.exists(txt_path):
-                  with open(txt_path, 'w', encoding='utf-8') as f:
-                      f.write(vtt_to_txt(vtt))
-
-              char_len = os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
-              rows.append({
-                  'video_id': vid,
-                  'url': url,
-                  'title': title,
-                  'source': 'yt-dlp.vtt',
-                  'char_len': char_len
-              })
-
-          # Write CSV (overwrite each run)
-          with open('transcripts.csv', 'w', newline='', encoding='utf-8') as f:
-              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
+          with csv_path.open("w", newline="", encoding="utf-8") as f:
+              w = csv.DictWriter(f, fieldnames=["video_id","url","title","source","char_len"])
               w.writeheader()
-              w.writerows(sorted(rows, key=lambda r: r['title'].lower()))
+              w.writerows(rows)
 
-          print(f'Indexed {len(rows)} videos from VTT files.')
+          print(f"Done. Wrote {len(rows)} rows.")
           PY
 
       - name: Commit results
@@ -103,11 +173,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Stage only what exists
           [ -e transcripts.csv ] && git add transcripts.csv || true
           git add transcripts/* || true
 
           git status
-
           git commit -m "Update transcripts" || echo "No changes"
           git push
