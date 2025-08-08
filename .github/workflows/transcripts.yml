@@ -1,52 +1,70 @@
-name: Pull YouTube transcripts
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "17 3 * * *"
-
-jobs:
-  run:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install deps
-        run: |
-          python -m pip install --upgrade pip
-          pip install youtube-transcript-api yt-dlp tqdm
-
-      - name: Pull playlist items and transcripts
+      - name: Download English subtitles with yt-dlp
         env:
           PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
         run: |
-          python scripts/pull_transcripts.py "$PLAYLIST_URL"
-
-      - name: Commit results
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Create paths if missing
           mkdir -p transcripts
+          yt-dlp \
+            --ignore-errors \
+            --yes-playlist \
+            --skip-download \
+            --write-sub --write-auto-sub \
+            --sub-langs "en,*en" \
+            --sub-format vtt \
+            --output "transcripts/%(title)s [%(id)s].%(ext)s" \
+            "$PLAYLIST_URL"
 
-          # Stage only what exists, avoid pathspec errors
-          [ -e transcripts.csv ] && git add transcripts.csv || true
-          [ -e transcripts.jsonl ] && git add transcripts.jsonl || true
-          git add transcripts/* || true
+      - name: Build CSV index and TXT copies from VTT
+        run: |
+          python - <<'PY'
+          import csv, glob, os, re
+          from pathlib import Path
 
-          git status
+          def vtt_to_txt(vtt_path):
+              txt = []
+              with open(vtt_path, 'r', encoding='utf-8', errors='ignore') as f:
+                  for line in f:
+                      # Drop WEBVTT header, timestamps, cue settings
+                      if line.startswith('WEBVTT') or re.match(r'^\d\d:\d\d:\d\d\.\d{3} -->', line) or line.strip().startswith('NOTE') or line.strip().startswith('STYLE'):
+                          continue
+                      # Drop metadata blocks and empty lines
+                      if not line.strip() or re.match(r'^\s*[\d-]+\s*$', line):
+                          continue
+                      txt.append(line.rstrip())
+              # Collapse multiple blanks
+              out = re.sub(r'\n{3,}', '\n\n', '\n'.join(txt)).strip()
+              return out
 
-          git commit -m "Update transcripts" || echo "No changes"
-          git push
+          Path('transcripts').mkdir(exist_ok=True)
+          rows = []
+          for vtt in glob.glob('transcripts/*.vtt'):
+              base = os.path.basename(vtt)
+              # Extract title and id from "Title [VIDEOID].vtt"
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\]\.vtt$', base)
+              if not m:
+                  continue
+              title = m.group('title')
+              vid = m.group('id')
+              url = f'https://www.youtube.com/watch?v={vid}'
+
+              txt_path = f'transcripts/{title} [{vid}].txt'
+              if not os.path.exists(txt_path):
+                  with open(txt_path, 'w', encoding='utf-8') as f:
+                      f.write(vtt_to_txt(vtt))
+
+              char_len = os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
+              rows.append({
+                  'video_id': vid,
+                  'url': url,
+                  'title': title,
+                  'source': 'yt-dlp.vtt',
+                  'char_len': char_len
+              })
+
+          # Write CSV (overwrite each run)
+          with open('transcripts.csv', 'w', newline='', encoding='utf-8') as f:
+              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len'])
+              w.writeheader()
+              w.writerows(sorted(rows, key=lambda r: r['title'].lower()))
+
+          print(f'Indexed {len(rows)} videos from VTT files.')
+          PY
