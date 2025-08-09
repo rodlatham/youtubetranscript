@@ -1,0 +1,1256 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.359 --> 00:00:01.910 align:start position:0%
+ 
+hey<00:00:00.840><c> everybody</c><00:00:00.960><c> it's</c><00:00:01.260><c> Mike</c><00:00:01.380><c> frieder</c><00:00:01.800><c> here</c>
+
+00:00:01.910 --> 00:00:01.920 align:start position:0%
+hey everybody it's Mike frieder here
+ 
+
+00:00:01.920 --> 00:00:03.169 align:start position:0%
+hey everybody it's Mike frieder here
+with<00:00:01.979><c> on-call</c><00:00:02.340><c> compliance</c><00:00:02.760><c> Solutions</c><00:00:03.000><c> and</c>
+
+00:00:03.169 --> 00:00:03.179 align:start position:0%
+with on-call compliance Solutions and
+ 
+
+00:00:03.179 --> 00:00:04.550 align:start position:0%
+with on-call compliance Solutions and
+I'm<00:00:03.300><c> back</c><00:00:03.419><c> with</c><00:00:03.600><c> another</c><00:00:03.720><c> compliance</c><00:00:04.259><c> tip</c><00:00:04.440><c> of</c>
+
+00:00:04.550 --> 00:00:04.560 align:start position:0%
+I'm back with another compliance tip of
+ 
+
+00:00:04.560 --> 00:00:08.950 align:start position:0%
+I'm back with another compliance tip of
+the<00:00:04.680><c> week</c><00:00:04.740><c> this</c><00:00:05.160><c> week</c><00:00:05.339><c> we're</c><00:00:05.520><c> talking</c><00:00:05.640><c> about</c>
+
+00:00:08.950 --> 00:00:08.960 align:start position:0%
+ 
+ 
+
+00:00:08.960 --> 00:00:11.030 align:start position:0%
+ 
+cmmccontrolat.l2-3.2.2<00:00:09.960><c> ensure</c><00:00:10.860><c> the</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+cmmccontrolat.l2-3.2.2 ensure the
+ 
+
+00:00:11.040 --> 00:00:12.770 align:start position:0%
+cmmccontrolat.l2-3.2.2 ensure the
+organizational<00:00:11.460><c> Personnel</c><00:00:12.000><c> are</c><00:00:12.420><c> adequately</c>
+
+00:00:12.770 --> 00:00:12.780 align:start position:0%
+organizational Personnel are adequately
+ 
+
+00:00:12.780 --> 00:00:14.270 align:start position:0%
+organizational Personnel are adequately
+trained<00:00:13.080><c> to</c><00:00:13.139><c> carry</c><00:00:13.440><c> out</c><00:00:13.500><c> their</c><00:00:13.740><c> assigned</c>
+
+00:00:14.270 --> 00:00:14.280 align:start position:0%
+trained to carry out their assigned
+ 
+
+00:00:14.280 --> 00:00:16.670 align:start position:0%
+trained to carry out their assigned
+information<00:00:14.460><c> security</c><00:00:15.000><c> related</c><00:00:15.540><c> duties</c><00:00:16.020><c> and</c>
+
+00:00:16.670 --> 00:00:16.680 align:start position:0%
+information security related duties and
+ 
+
+00:00:16.680 --> 00:00:18.420 align:start position:0%
+information security related duties and
+responsibilities
+
+00:00:18.420 --> 00:00:18.430 align:start position:0%
+responsibilities
+ 
+
+00:00:18.430 --> 00:00:27.230 align:start position:0%
+responsibilities
+[Music]
+
+00:00:27.230 --> 00:00:27.240 align:start position:0%
+[Music]
+ 
+
+00:00:27.240 --> 00:00:29.089 align:start position:0%
+[Music]
+so<00:00:27.660><c> hey</c><00:00:27.840><c> if</c><00:00:28.199><c> you're</c><00:00:28.320><c> a</c><00:00:28.500><c> defense</c><00:00:28.740><c> contractor</c>
+
+00:00:29.089 --> 00:00:29.099 align:start position:0%
+so hey if you're a defense contractor
+ 
+
+00:00:29.099 --> 00:00:30.890 align:start position:0%
+so hey if you're a defense contractor
+who's<00:00:29.279><c> feeling</c><00:00:29.580><c> overwhelmed</c><00:00:30.180><c> tired</c><00:00:30.779><c> and</c>
+
+00:00:30.890 --> 00:00:30.900 align:start position:0%
+who's feeling overwhelmed tired and
+ 
+
+00:00:30.900 --> 00:00:33.170 align:start position:0%
+who's feeling overwhelmed tired and
+alone<00:00:31.080><c> trying</c><00:00:31.800><c> to</c><00:00:31.920><c> understand</c><00:00:32.040><c> all</c><00:00:32.399><c> this</c><00:00:32.520><c> cmmc</c>
+
+00:00:33.170 --> 00:00:33.180 align:start position:0%
+alone trying to understand all this cmmc
+ 
+
+00:00:33.180 --> 00:00:36.170 align:start position:0%
+alone trying to understand all this cmmc
+dfars<00:00:34.079><c> and</c><00:00:34.200><c> nist</c><00:00:34.440><c> SP</c><00:00:34.620><c> 10171</c><00:00:35.460><c> compliance</c><00:00:36.000><c> stuff</c>
+
+00:00:36.170 --> 00:00:36.180 align:start position:0%
+dfars and nist SP 10171 compliance stuff
+ 
+
+00:00:36.180 --> 00:00:38.510 align:start position:0%
+dfars and nist SP 10171 compliance stuff
+on<00:00:36.899><c> top</c><00:00:37.020><c> of</c><00:00:37.200><c> an</c><00:00:37.320><c> already</c><00:00:37.440><c> colossal</c><00:00:38.100><c> workload</c>
+
+00:00:38.510 --> 00:00:38.520 align:start position:0%
+on top of an already colossal workload
+ 
+
+00:00:38.520 --> 00:00:40.430 align:start position:0%
+on top of an already colossal workload
+well<00:00:38.880><c> I've</c><00:00:39.120><c> got</c><00:00:39.180><c> great</c><00:00:39.420><c> news</c><00:00:39.600><c> for</c><00:00:39.840><c> you</c><00:00:39.960><c> you</c>
+
+00:00:40.430 --> 00:00:40.440 align:start position:0%
+well I've got great news for you you
+ 
+
+00:00:40.440 --> 00:00:41.510 align:start position:0%
+well I've got great news for you you
+found<00:00:40.620><c> your</c><00:00:40.800><c> home</c><00:00:40.920><c> here</c><00:00:41.100><c> at</c><00:00:41.160><c> on-call</c>
+
+00:00:41.510 --> 00:00:41.520 align:start position:0%
+found your home here at on-call
+ 
+
+00:00:41.520 --> 00:00:42.830 align:start position:0%
+found your home here at on-call
+compliance<00:00:42.000><c> Solutions</c><00:00:42.239><c> where</c><00:00:42.420><c> we</c><00:00:42.600><c> can</c><00:00:42.719><c> help</c>
+
+00:00:42.830 --> 00:00:42.840 align:start position:0%
+compliance Solutions where we can help
+ 
+
+00:00:42.840 --> 00:00:44.690 align:start position:0%
+compliance Solutions where we can help
+you<00:00:42.960><c> transform</c><00:00:43.500><c> into</c><00:00:44.040><c> your</c><00:00:44.340><c> company's</c>
+
+00:00:44.690 --> 00:00:44.700 align:start position:0%
+you transform into your company's
+ 
+
+00:00:44.700 --> 00:00:46.850 align:start position:0%
+you transform into your company's
+on-call<00:00:45.120><c> compliance</c><00:00:45.540><c> Hero</c><00:00:45.899><c> Let's</c><00:00:46.500><c> jump</c><00:00:46.739><c> into</c>
+
+00:00:46.850 --> 00:00:46.860 align:start position:0%
+on-call compliance Hero Let's jump into
+ 
+
+00:00:46.860 --> 00:00:51.069 align:start position:0%
+on-call compliance Hero Let's jump into
+it<00:00:47.100><c> so</c><00:00:47.520><c> in</c>
+
+00:00:51.069 --> 00:00:51.079 align:start position:0%
+ 
+ 
+
+00:00:51.079 --> 00:00:53.330 align:start position:0%
+ 
+cmmccontrolat.l1-3.2.2<00:00:52.100><c> ensure</c><00:00:53.100><c> that</c>
+
+00:00:53.330 --> 00:00:53.340 align:start position:0%
+cmmccontrolat.l1-3.2.2 ensure that
+ 
+
+00:00:53.340 --> 00:00:55.010 align:start position:0%
+cmmccontrolat.l1-3.2.2 ensure that
+organizational<00:00:53.820><c> Personnel</c><00:00:54.420><c> are</c><00:00:54.600><c> adequately</c>
+
+00:00:55.010 --> 00:00:55.020 align:start position:0%
+organizational Personnel are adequately
+ 
+
+00:00:55.020 --> 00:00:56.510 align:start position:0%
+organizational Personnel are adequately
+trained<00:00:55.320><c> to</c><00:00:55.440><c> carry</c><00:00:55.739><c> out</c><00:00:55.800><c> their</c><00:00:56.039><c> assigned</c>
+
+00:00:56.510 --> 00:00:56.520 align:start position:0%
+trained to carry out their assigned
+ 
+
+00:00:56.520 --> 00:00:58.250 align:start position:0%
+trained to carry out their assigned
+information<00:00:56.579><c> security</c><00:00:57.059><c> related</c><00:00:57.539><c> job</c><00:00:57.780><c> duties</c>
+
+00:00:58.250 --> 00:00:58.260 align:start position:0%
+information security related job duties
+ 
+
+00:00:58.260 --> 00:01:00.529 align:start position:0%
+information security related job duties
+and<00:00:58.860><c> responsibilities</c>
+
+00:01:00.529 --> 00:01:00.539 align:start position:0%
+and responsibilities
+ 
+
+00:01:00.539 --> 00:01:03.590 align:start position:0%
+and responsibilities
+here<00:01:01.260><c> again</c><00:01:01.559><c> in</c><00:01:02.280><c> this</c><00:01:02.520><c> control</c><00:01:02.699><c> it's</c><00:01:03.359><c> all</c>
+
+00:01:03.590 --> 00:01:03.600 align:start position:0%
+here again in this control it's all
+ 
+
+00:01:03.600 --> 00:01:06.109 align:start position:0%
+here again in this control it's all
+about<00:01:03.719><c> making</c><00:01:04.140><c> sure</c><00:01:04.440><c> that</c><00:01:04.799><c> the</c><00:01:05.159><c> people</c><00:01:05.400><c> are</c>
+
+00:01:06.109 --> 00:01:06.119 align:start position:0%
+about making sure that the people are
+ 
+
+00:01:06.119 --> 00:01:08.270 align:start position:0%
+about making sure that the people are
+adequately<00:01:06.540><c> trained</c><00:01:07.020><c> but</c><00:01:07.560><c> especially</c><00:01:07.979><c> those</c>
+
+00:01:08.270 --> 00:01:08.280 align:start position:0%
+adequately trained but especially those
+ 
+
+00:01:08.280 --> 00:01:10.070 align:start position:0%
+adequately trained but especially those
+people<00:01:08.520><c> who</c><00:01:08.880><c> have</c><00:01:09.119><c> information</c><00:01:09.479><c> security</c>
+
+00:01:10.070 --> 00:01:10.080 align:start position:0%
+people who have information security
+ 
+
+00:01:10.080 --> 00:01:13.190 align:start position:0%
+people who have information security
+related<00:01:10.619><c> job</c><00:01:10.860><c> duties</c><00:01:11.340><c> this</c><00:01:12.299><c> Nuance</c><00:01:12.659><c> is</c>
+
+00:01:13.190 --> 00:01:13.200 align:start position:0%
+related job duties this Nuance is
+ 
+
+00:01:13.200 --> 00:01:15.109 align:start position:0%
+related job duties this Nuance is
+critical<00:01:13.560><c> as</c><00:01:13.860><c> assessors</c><00:01:14.400><c> will</c><00:01:14.640><c> be</c><00:01:14.760><c> looking</c><00:01:14.880><c> to</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+critical as assessors will be looking to
+ 
+
+00:01:15.119 --> 00:01:17.510 align:start position:0%
+critical as assessors will be looking to
+information<00:01:15.360><c> managers</c><00:01:16.080><c> to</c><00:01:16.740><c> see</c><00:01:16.920><c> if</c><00:01:17.100><c> they</c><00:01:17.340><c> have</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+information managers to see if they have
+ 
+
+00:01:17.520 --> 00:01:19.969 align:start position:0%
+information managers to see if they have
+adequate<00:01:18.000><c> training</c><00:01:18.420><c> versus</c><00:01:19.020><c> other</c><00:01:19.500><c> employees</c>
+
+00:01:19.969 --> 00:01:19.979 align:start position:0%
+adequate training versus other employees
+ 
+
+00:01:19.979 --> 00:01:21.830 align:start position:0%
+adequate training versus other employees
+great<00:01:20.280><c> example</c><00:01:20.580><c> somebody</c><00:01:20.759><c> doesn't</c><00:01:21.119><c> have</c><00:01:21.240><c> cui</c>
+
+00:01:21.830 --> 00:01:21.840 align:start position:0%
+great example somebody doesn't have cui
+ 
+
+00:01:21.840 --> 00:01:23.390 align:start position:0%
+great example somebody doesn't have cui
+uh<00:01:22.140><c> you</c><00:01:22.320><c> know</c><00:01:22.380><c> in</c><00:01:22.439><c> their</c><00:01:22.619><c> possession</c><00:01:22.920><c> they</c>
+
+00:01:23.390 --> 00:01:23.400 align:start position:0%
+uh you know in their possession they
+ 
+
+00:01:23.400 --> 00:01:24.530 align:start position:0%
+uh you know in their possession they
+don't<00:01:23.520><c> need</c><00:01:23.640><c> to</c><00:01:23.759><c> be</c><00:01:23.820><c> trained</c><00:01:24.060><c> on</c><00:01:24.180><c> some</c><00:01:24.360><c> things</c>
+
+00:01:24.530 --> 00:01:24.540 align:start position:0%
+don't need to be trained on some things
+ 
+
+00:01:24.540 --> 00:01:26.810 align:start position:0%
+don't need to be trained on some things
+someone<00:01:25.380><c> who's</c><00:01:25.619><c> going</c><00:01:25.740><c> to</c><00:01:25.799><c> handle</c><00:01:25.979><c> cui</c><00:01:26.460><c> they</c>
+
+00:01:26.810 --> 00:01:26.820 align:start position:0%
+someone who's going to handle cui they
+ 
+
+00:01:26.820 --> 00:01:28.609 align:start position:0%
+someone who's going to handle cui they
+should<00:01:27.000><c> get</c><00:01:27.180><c> that</c><00:01:27.299><c> mandatory</c><00:01:27.720><c> dodc</c><00:01:28.320><c> UI</c>
+
+00:01:28.609 --> 00:01:28.619 align:start position:0%
+should get that mandatory dodc UI
+ 
+
+00:01:28.619 --> 00:01:31.429 align:start position:0%
+should get that mandatory dodc UI
+trained<00:01:28.920><c> just</c><00:01:29.040><c> as</c><00:01:29.220><c> a</c><00:01:29.400><c> small</c><00:01:29.460><c> example</c><00:01:30.360><c> uh</c><00:01:31.200><c> again</c>
+
+00:01:31.429 --> 00:01:31.439 align:start position:0%
+trained just as a small example uh again
+ 
+
+00:01:31.439 --> 00:01:33.170 align:start position:0%
+trained just as a small example uh again
+people<00:01:31.799><c> who</c><00:01:32.040><c> may</c><00:01:32.159><c> not</c><00:01:32.280><c> require</c><00:01:32.460><c> higher</c><00:01:32.939><c> levels</c>
+
+00:01:33.170 --> 00:01:33.180 align:start position:0%
+people who may not require higher levels
+ 
+
+00:01:33.180 --> 00:01:34.789 align:start position:0%
+people who may not require higher levels
+of<00:01:33.299><c> information</c><00:01:33.479><c> security</c><00:01:33.900><c> training</c><00:01:34.380><c> to</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+of information security training to
+ 
+
+00:01:34.799 --> 00:01:36.649 align:start position:0%
+of information security training to
+actually<00:01:34.979><c> protect</c><00:01:35.400><c> cui</c><00:01:35.820><c> or</c><00:01:35.939><c> not</c><00:01:36.119><c> people</c><00:01:36.360><c> that</c>
+
+00:01:36.649 --> 00:01:36.659 align:start position:0%
+actually protect cui or not people that
+ 
+
+00:01:36.659 --> 00:01:38.929 align:start position:0%
+actually protect cui or not people that
+you<00:01:36.900><c> know</c><00:01:37.079><c> may</c><00:01:37.259><c> need</c><00:01:37.439><c> the</c><00:01:37.619><c> extra</c><00:01:37.740><c> training</c><00:01:38.220><c> so</c>
+
+00:01:38.929 --> 00:01:38.939 align:start position:0%
+you know may need the extra training so
+ 
+
+00:01:38.939 --> 00:01:40.789 align:start position:0%
+you know may need the extra training so
+let's<00:01:39.360><c> check</c><00:01:39.600><c> out</c><00:01:39.780><c> what</c><00:01:40.020><c> the</c><00:01:40.140><c> assessors</c><00:01:40.500><c> are</c>
+
+00:01:40.789 --> 00:01:40.799 align:start position:0%
+let's check out what the assessors are
+ 
+
+00:01:40.799 --> 00:01:42.710 align:start position:0%
+let's check out what the assessors are
+actually<00:01:41.040><c> looking</c><00:01:41.340><c> for</c><00:01:41.579><c> on</c><00:01:42.060><c> this</c><00:01:42.299><c> one</c><00:01:42.420><c> and</c>
+
+00:01:42.710 --> 00:01:42.720 align:start position:0%
+actually looking for on this one and
+ 
+
+00:01:42.720 --> 00:01:45.050 align:start position:0%
+actually looking for on this one and
+find<00:01:42.840><c> out</c><00:01:43.020><c> how</c><00:01:43.140><c> to</c><00:01:43.259><c> keep</c><00:01:43.380><c> them</c><00:01:43.500><c> happy</c><00:01:43.740><c> so</c><00:01:44.640><c> on</c>
+
+00:01:45.050 --> 00:01:45.060 align:start position:0%
+find out how to keep them happy so on
+ 
+
+00:01:45.060 --> 00:01:47.090 align:start position:0%
+find out how to keep them happy so on
+this<00:01:45.299><c> compliance</c><00:01:45.900><c> control</c><00:01:46.079><c> there</c><00:01:46.439><c> are</c><00:01:46.619><c> three</c>
+
+00:01:47.090 --> 00:01:47.100 align:start position:0%
+this compliance control there are three
+ 
+
+00:01:47.100 --> 00:01:48.590 align:start position:0%
+this compliance control there are three
+places<00:01:47.820><c> that</c><00:01:48.180><c> they're</c><00:01:48.299><c> going</c><00:01:48.420><c> to</c><00:01:48.540><c> be</c>
+
+00:01:48.590 --> 00:01:48.600 align:start position:0%
+places that they're going to be
+ 
+
+00:01:48.600 --> 00:01:50.810 align:start position:0%
+places that they're going to be
+assessing<00:01:49.020><c> on</c><00:01:49.140><c> so</c><00:01:49.439><c> Point</c><00:01:50.220><c> number</c><00:01:50.399><c> one</c><00:01:50.579><c> is</c>
+
+00:01:50.810 --> 00:01:50.820 align:start position:0%
+assessing on so Point number one is
+ 
+
+00:01:50.820 --> 00:01:52.010 align:start position:0%
+assessing on so Point number one is
+determine<00:01:51.240><c> if</c><00:01:51.360><c> information</c><00:01:51.540><c> security</c>
+
+00:01:52.010 --> 00:01:52.020 align:start position:0%
+determine if information security
+ 
+
+00:01:52.020 --> 00:01:53.690 align:start position:0%
+determine if information security
+related<00:01:52.500><c> duties</c><00:01:52.979><c> roles</c><00:01:53.460><c> and</c>
+
+00:01:53.690 --> 00:01:53.700 align:start position:0%
+related duties roles and
+ 
+
+00:01:53.700 --> 00:01:56.149 align:start position:0%
+related duties roles and
+responsibilities<00:01:54.299><c> are</c><00:01:54.840><c> defined</c>
+
+00:01:56.149 --> 00:01:56.159 align:start position:0%
+responsibilities are defined
+ 
+
+00:01:56.159 --> 00:01:58.190 align:start position:0%
+responsibilities are defined
+uh<00:01:56.939><c> again</c><00:01:57.119><c> just</c><00:01:57.420><c> kind</c><00:01:57.720><c> of</c><00:01:57.780><c> throwing</c><00:01:58.020><c> out</c><00:01:58.079><c> a</c>
+
+00:01:58.190 --> 00:01:58.200 align:start position:0%
+uh again just kind of throwing out a
+ 
+
+00:01:58.200 --> 00:01:59.330 align:start position:0%
+uh again just kind of throwing out a
+sample<00:01:58.439><c> answer</c><00:01:58.560><c> here</c><00:01:58.799><c> the</c><00:01:58.979><c> organization</c>
+
+00:01:59.330 --> 00:01:59.340 align:start position:0%
+sample answer here the organization
+ 
+
+00:01:59.340 --> 00:02:01.730 align:start position:0%
+sample answer here the organization
+defines<00:01:59.939><c> each</c><00:02:00.360><c> authorized</c><00:02:01.020><c> user's</c><00:02:01.500><c> job</c>
+
+00:02:01.730 --> 00:02:01.740 align:start position:0%
+defines each authorized user's job
+ 
+
+00:02:01.740 --> 00:02:05.090 align:start position:0%
+defines each authorized user's job
+duties<00:02:02.360><c> role</c><00:02:03.360><c> and</c><00:02:03.540><c> responsibilities</c><00:02:04.259><c> in</c><00:02:04.860><c> job</c>
+
+00:02:05.090 --> 00:02:05.100 align:start position:0%
+duties role and responsibilities in job
+ 
+
+00:02:05.100 --> 00:02:08.449 align:start position:0%
+duties role and responsibilities in job
+descriptions<00:02:05.700><c> yes</c><00:02:06.740><c> cmmc</c><00:02:07.740><c> may</c><00:02:08.039><c> want</c><00:02:08.220><c> to</c><00:02:08.340><c> look</c>
+
+00:02:08.449 --> 00:02:08.459 align:start position:0%
+descriptions yes cmmc may want to look
+ 
+
+00:02:08.459 --> 00:02:10.190 align:start position:0%
+descriptions yes cmmc may want to look
+you<00:02:08.700><c> know</c><00:02:08.819><c> a</c><00:02:08.940><c> cmmc</c><00:02:09.420><c> assessor</c><00:02:09.780><c> may</c><00:02:09.899><c> want</c><00:02:10.080><c> to</c>
+
+00:02:10.190 --> 00:02:10.200 align:start position:0%
+you know a cmmc assessor may want to
+ 
+
+00:02:10.200 --> 00:02:12.170 align:start position:0%
+you know a cmmc assessor may want to
+look<00:02:10.259><c> at</c><00:02:10.440><c> a</c><00:02:10.679><c> job</c><00:02:10.860><c> description</c><00:02:11.340><c> right</c><00:02:12.000><c> because</c>
+
+00:02:12.170 --> 00:02:12.180 align:start position:0%
+look at a job description right because
+ 
+
+00:02:12.180 --> 00:02:14.330 align:start position:0%
+look at a job description right because
+we<00:02:12.420><c> have</c><00:02:12.599><c> to</c><00:02:12.720><c> find</c><00:02:12.959><c> out</c><00:02:13.140><c> if</c><00:02:13.920><c> that</c><00:02:14.099><c> information</c>
+
+00:02:14.330 --> 00:02:14.340 align:start position:0%
+we have to find out if that information
+ 
+
+00:02:14.340 --> 00:02:16.369 align:start position:0%
+we have to find out if that information
+security<00:02:14.819><c> related</c><00:02:15.300><c> duty</c><00:02:15.720><c> role</c><00:02:16.260><c> or</c>
+
+00:02:16.369 --> 00:02:16.379 align:start position:0%
+security related duty role or
+ 
+
+00:02:16.379 --> 00:02:18.890 align:start position:0%
+security related duty role or
+responsibility<00:02:16.980><c> is</c><00:02:17.220><c> actually</c><00:02:17.640><c> defined</c><00:02:18.360><c> so</c>
+
+00:02:18.890 --> 00:02:18.900 align:start position:0%
+responsibility is actually defined so
+ 
+
+00:02:18.900 --> 00:02:20.809 align:start position:0%
+responsibility is actually defined so
+that<00:02:19.080><c> that</c><00:02:19.319><c> person</c><00:02:19.560><c> knows</c><00:02:20.099><c> that</c><00:02:20.340><c> that's</c><00:02:20.580><c> what</c>
+
+00:02:20.809 --> 00:02:20.819 align:start position:0%
+that that person knows that that's what
+ 
+
+00:02:20.819 --> 00:02:22.490 align:start position:0%
+that that person knows that that's what
+they're<00:02:20.940><c> supposed</c><00:02:21.120><c> to</c><00:02:21.239><c> be</c><00:02:21.300><c> doing</c><00:02:21.480><c> sounds</c><00:02:22.260><c> like</c>
+
+00:02:22.490 --> 00:02:22.500 align:start position:0%
+they're supposed to be doing sounds like
+ 
+
+00:02:22.500 --> 00:02:24.470 align:start position:0%
+they're supposed to be doing sounds like
+common<00:02:22.739><c> sense</c><00:02:23.099><c> but</c><00:02:23.340><c> believe</c><00:02:23.520><c> me</c><00:02:23.819><c> if</c><00:02:24.239><c> you</c><00:02:24.360><c> ask</c>
+
+00:02:24.470 --> 00:02:24.480 align:start position:0%
+common sense but believe me if you ask
+ 
+
+00:02:24.480 --> 00:02:26.270 align:start position:0%
+common sense but believe me if you ask
+some<00:02:24.720><c> people</c><00:02:24.900><c> they</c><00:02:25.379><c> have</c><00:02:25.500><c> no</c><00:02:25.680><c> idea</c><00:02:25.920><c> that</c><00:02:26.099><c> part</c>
+
+00:02:26.270 --> 00:02:26.280 align:start position:0%
+some people they have no idea that part
+ 
+
+00:02:26.280 --> 00:02:28.250 align:start position:0%
+some people they have no idea that part
+of<00:02:26.400><c> their</c><00:02:26.520><c> job</c><00:02:26.700><c> duty</c><00:02:27.060><c> is</c><00:02:27.239><c> well</c><00:02:27.720><c> to</c><00:02:27.959><c> secure</c>
+
+00:02:28.250 --> 00:02:28.260 align:start position:0%
+of their job duty is well to secure
+ 
+
+00:02:28.260 --> 00:02:30.530 align:start position:0%
+of their job duty is well to secure
+information<00:02:28.580><c> now</c><00:02:29.580><c> Point</c><00:02:30.120><c> number</c><00:02:30.300><c> two</c>
+
+00:02:30.530 --> 00:02:30.540 align:start position:0%
+information now Point number two
+ 
+
+00:02:30.540 --> 00:02:31.790 align:start position:0%
+information now Point number two
+determine<00:02:31.080><c> if</c><00:02:31.200><c> information</c><00:02:31.379><c> security</c>
+
+00:02:31.790 --> 00:02:31.800 align:start position:0%
+determine if information security
+ 
+
+00:02:31.800 --> 00:02:33.470 align:start position:0%
+determine if information security
+related<00:02:32.220><c> duties</c><00:02:33.060><c> roles</c><00:02:33.360><c> and</c>
+
+00:02:33.470 --> 00:02:33.480 align:start position:0%
+related duties roles and
+ 
+
+00:02:33.480 --> 00:02:35.390 align:start position:0%
+related duties roles and
+responsibilities<00:02:33.900><c> are</c><00:02:34.379><c> assigned</c><00:02:34.980><c> to</c>
+
+00:02:35.390 --> 00:02:35.400 align:start position:0%
+responsibilities are assigned to
+ 
+
+00:02:35.400 --> 00:02:37.550 align:start position:0%
+responsibilities are assigned to
+designated<00:02:36.000><c> Personnel</c><00:02:36.599><c> the</c><00:02:37.140><c> organization</c>
+
+00:02:37.550 --> 00:02:37.560 align:start position:0%
+designated Personnel the organization
+ 
+
+00:02:37.560 --> 00:02:39.170 align:start position:0%
+designated Personnel the organization
+assigns<00:02:38.340><c> so</c><00:02:38.459><c> if</c><00:02:38.580><c> I</c><00:02:38.700><c> just</c><00:02:38.819><c> give</c><00:02:38.940><c> a</c><00:02:39.000><c> sample</c>
+
+00:02:39.170 --> 00:02:39.180 align:start position:0%
+assigns so if I just give a sample
+ 
+
+00:02:39.180 --> 00:02:40.070 align:start position:0%
+assigns so if I just give a sample
+that's<00:02:39.360><c> why</c><00:02:39.480><c> I</c><00:02:39.599><c> say</c><00:02:39.660><c> the</c><00:02:39.780><c> organization</c>
+
+00:02:40.070 --> 00:02:40.080 align:start position:0%
+that's why I say the organization
+ 
+
+00:02:40.080 --> 00:02:41.630 align:start position:0%
+that's why I say the organization
+assigns<00:02:40.560><c> information</c><00:02:40.739><c> security</c><00:02:41.220><c> related</c>
+
+00:02:41.630 --> 00:02:41.640 align:start position:0%
+assigns information security related
+ 
+
+00:02:41.640 --> 00:02:44.270 align:start position:0%
+assigns information security related
+duties<00:02:42.300><c> roles</c><00:02:42.660><c> and</c><00:02:42.840><c> responsibilities</c><00:02:43.379><c> via</c>
+
+00:02:44.270 --> 00:02:44.280 align:start position:0%
+duties roles and responsibilities via
+ 
+
+00:02:44.280 --> 00:02:47.390 align:start position:0%
+duties roles and responsibilities via
+job<00:02:44.580><c> roles</c><00:02:45.000><c> and</c><00:02:45.900><c> descriptions</c><00:02:46.379><c> so</c><00:02:46.680><c> again</c><00:02:46.860><c> you</c>
+
+00:02:47.390 --> 00:02:47.400 align:start position:0%
+job roles and descriptions so again you
+ 
+
+00:02:47.400 --> 00:02:48.890 align:start position:0%
+job roles and descriptions so again you
+get<00:02:47.519><c> the</c><00:02:47.640><c> job</c><00:02:47.819><c> description</c><00:02:48.180><c> maybe</c><00:02:48.540><c> there's</c><00:02:48.720><c> a</c>
+
+00:02:48.890 --> 00:02:48.900 align:start position:0%
+get the job description maybe there's a
+ 
+
+00:02:48.900 --> 00:02:49.970 align:start position:0%
+get the job description maybe there's a
+signature<00:02:49.260><c> line</c><00:02:49.379><c> at</c><00:02:49.500><c> the</c><00:02:49.620><c> bottom</c><00:02:49.739><c> of</c><00:02:49.860><c> it</c>
+
+00:02:49.970 --> 00:02:49.980 align:start position:0%
+signature line at the bottom of it
+ 
+
+00:02:49.980 --> 00:02:51.170 align:start position:0%
+signature line at the bottom of it
+you're<00:02:50.099><c> signing</c><00:02:50.459><c> off</c><00:02:50.580><c> that</c><00:02:50.760><c> you're</c><00:02:50.940><c> the</c><00:02:51.060><c> one</c>
+
+00:02:51.170 --> 00:02:51.180 align:start position:0%
+you're signing off that you're the one
+ 
+
+00:02:51.180 --> 00:02:52.670 align:start position:0%
+you're signing off that you're the one
+doing<00:02:51.420><c> that</c><00:02:51.660><c> job</c><00:02:51.840><c> and</c><00:02:52.319><c> it's</c><00:02:52.500><c> your</c>
+
+00:02:52.670 --> 00:02:52.680 align:start position:0%
+doing that job and it's your
+ 
+
+00:02:52.680 --> 00:02:54.350 align:start position:0%
+doing that job and it's your
+responsibility<00:02:53.280><c> might</c><00:02:53.819><c> be</c><00:02:54.000><c> something</c><00:02:54.180><c> to</c>
+
+00:02:54.350 --> 00:02:54.360 align:start position:0%
+responsibility might be something to
+ 
+
+00:02:54.360 --> 00:02:55.729 align:start position:0%
+responsibility might be something to
+think<00:02:54.480><c> about</c><00:02:54.599><c> okay</c><00:02:54.840><c> if</c><00:02:55.140><c> that's</c><00:02:55.260><c> if</c><00:02:55.500><c> that</c><00:02:55.680><c> kind</c>
+
+00:02:55.729 --> 00:02:55.739 align:start position:0%
+think about okay if that's if that kind
+ 
+
+00:02:55.739 --> 00:02:57.410 align:start position:0%
+think about okay if that's if that kind
+of<00:02:55.800><c> paper</c><00:02:56.099><c> is</c><00:02:56.580><c> not</c><00:02:56.760><c> in</c><00:02:56.879><c> your</c><00:02:57.000><c> company</c><00:02:57.120><c> now</c>
+
+00:02:57.410 --> 00:02:57.420 align:start position:0%
+of paper is not in your company now
+ 
+
+00:02:57.420 --> 00:02:58.970 align:start position:0%
+of paper is not in your company now
+might<00:02:57.959><c> be</c><00:02:58.140><c> really</c><00:02:58.260><c> good</c><00:02:58.440><c> to</c><00:02:58.620><c> kind</c><00:02:58.739><c> of</c><00:02:58.860><c> ask</c>
+
+00:02:58.970 --> 00:02:58.980 align:start position:0%
+might be really good to kind of ask
+ 
+
+00:02:58.980 --> 00:03:00.890 align:start position:0%
+might be really good to kind of ask
+about<00:02:59.160><c> that</c><00:02:59.519><c> because</c><00:02:59.760><c> again</c><00:03:00.420><c> you're</c><00:03:00.660><c> going</c><00:03:00.840><c> to</c>
+
+00:03:00.890 --> 00:03:00.900 align:start position:0%
+about that because again you're going to
+ 
+
+00:03:00.900 --> 00:03:02.570 align:start position:0%
+about that because again you're going to
+have<00:03:01.019><c> to</c><00:03:01.140><c> give</c><00:03:01.379><c> a</c><00:03:01.560><c> clear</c><00:03:01.739><c> demonstration</c><00:03:02.340><c> of</c>
+
+00:03:02.570 --> 00:03:02.580 align:start position:0%
+have to give a clear demonstration of
+ 
+
+00:03:02.580 --> 00:03:03.589 align:start position:0%
+have to give a clear demonstration of
+this
+
+00:03:03.589 --> 00:03:03.599 align:start position:0%
+this
+ 
+
+00:03:03.599 --> 00:03:05.330 align:start position:0%
+this
+now<00:03:04.019><c> final</c><00:03:04.319><c> point</c><00:03:04.560><c> is</c><00:03:04.739><c> determine</c><00:03:05.220><c> if</c>
+
+00:03:05.330 --> 00:03:05.340 align:start position:0%
+now final point is determine if
+ 
+
+00:03:05.340 --> 00:03:07.250 align:start position:0%
+now final point is determine if
+Personnel<00:03:05.879><c> are</c><00:03:06.239><c> adequately</c><00:03:06.660><c> trained</c><00:03:07.140><c> to</c>
+
+00:03:07.250 --> 00:03:07.260 align:start position:0%
+Personnel are adequately trained to
+ 
+
+00:03:07.260 --> 00:03:08.449 align:start position:0%
+Personnel are adequately trained to
+carry<00:03:07.560><c> out</c><00:03:07.680><c> their</c><00:03:07.860><c> assigned</c><00:03:08.280><c> information</c>
+
+00:03:08.449 --> 00:03:08.459 align:start position:0%
+carry out their assigned information
+ 
+
+00:03:08.459 --> 00:03:10.309 align:start position:0%
+carry out their assigned information
+security<00:03:08.879><c> related</c><00:03:09.300><c> job</c><00:03:09.480><c> duties</c><00:03:09.840><c> and</c><00:03:10.019><c> roles</c>
+
+00:03:10.309 --> 00:03:10.319 align:start position:0%
+security related job duties and roles
+ 
+
+00:03:10.319 --> 00:03:13.070 align:start position:0%
+security related job duties and roles
+and<00:03:10.739><c> responsibilities</c><00:03:11.420><c> so</c><00:03:12.420><c> again</c><00:03:12.599><c> this</c><00:03:12.840><c> is</c><00:03:12.959><c> a</c>
+
+00:03:13.070 --> 00:03:13.080 align:start position:0%
+and responsibilities so again this is a
+ 
+
+00:03:13.080 --> 00:03:14.330 align:start position:0%
+and responsibilities so again this is a
+little<00:03:13.140><c> tricky</c><00:03:13.500><c> because</c><00:03:13.739><c> you</c><00:03:13.980><c> got</c><00:03:14.099><c> to</c><00:03:14.220><c> make</c>
+
+00:03:14.330 --> 00:03:14.340 align:start position:0%
+little tricky because you got to make
+ 
+
+00:03:14.340 --> 00:03:15.530 align:start position:0%
+little tricky because you got to make
+sure<00:03:14.519><c> if</c><00:03:14.640><c> somebody</c><00:03:14.819><c> goes</c><00:03:15.120><c> through</c><00:03:15.239><c> training</c>
+
+00:03:15.530 --> 00:03:15.540 align:start position:0%
+sure if somebody goes through training
+ 
+
+00:03:15.540 --> 00:03:16.610 align:start position:0%
+sure if somebody goes through training
+you<00:03:15.659><c> have</c><00:03:15.780><c> proof</c><00:03:16.019><c> they</c><00:03:16.140><c> went</c><00:03:16.319><c> through</c><00:03:16.440><c> that</c>
+
+00:03:16.610 --> 00:03:16.620 align:start position:0%
+you have proof they went through that
+ 
+
+00:03:16.620 --> 00:03:18.589 align:start position:0%
+you have proof they went through that
+training<00:03:17.040><c> very</c><00:03:17.640><c> important</c><00:03:18.000><c> it's</c><00:03:18.180><c> got</c><00:03:18.360><c> to</c><00:03:18.480><c> be</c>
+
+00:03:18.589 --> 00:03:18.599 align:start position:0%
+training very important it's got to be
+ 
+
+00:03:18.599 --> 00:03:19.490 align:start position:0%
+training very important it's got to be
+documented<00:03:19.019><c> because</c><00:03:19.080><c> you're</c><00:03:19.200><c> gonna</c><00:03:19.319><c> have</c><00:03:19.440><c> to</c>
+
+00:03:19.490 --> 00:03:19.500 align:start position:0%
+documented because you're gonna have to
+ 
+
+00:03:19.500 --> 00:03:22.009 align:start position:0%
+documented because you're gonna have to
+prove<00:03:19.620><c> it</c><00:03:19.739><c> to</c><00:03:19.800><c> an</c><00:03:19.980><c> Assessor</c><00:03:20.879><c> uh</c><00:03:21.540><c> if</c><00:03:21.720><c> we</c><00:03:21.780><c> were</c><00:03:21.900><c> to</c>
+
+00:03:22.009 --> 00:03:22.019 align:start position:0%
+prove it to an Assessor uh if we were to
+ 
+
+00:03:22.019 --> 00:03:23.509 align:start position:0%
+prove it to an Assessor uh if we were to
+give<00:03:22.200><c> a</c><00:03:22.620><c> sample</c><00:03:22.980><c> answer</c><00:03:23.099><c> we</c><00:03:23.340><c> would</c><00:03:23.400><c> say</c>
+
+00:03:23.509 --> 00:03:23.519 align:start position:0%
+give a sample answer we would say
+ 
+
+00:03:23.519 --> 00:03:24.949 align:start position:0%
+give a sample answer we would say
+Personnel<00:03:23.879><c> are</c><00:03:24.060><c> required</c><00:03:24.420><c> to</c><00:03:24.599><c> go</c><00:03:24.780><c> through</c>
+
+00:03:24.949 --> 00:03:24.959 align:start position:0%
+Personnel are required to go through
+ 
+
+00:03:24.959 --> 00:03:26.690 align:start position:0%
+Personnel are required to go through
+adequate<00:03:25.440><c> training</c><00:03:25.800><c> or</c><00:03:26.040><c> show</c><00:03:26.280><c> proof</c><00:03:26.640><c> of</c>
+
+00:03:26.690 --> 00:03:26.700 align:start position:0%
+adequate training or show proof of
+ 
+
+00:03:26.700 --> 00:03:28.490 align:start position:0%
+adequate training or show proof of
+certifications<00:03:27.360><c> that's</c><00:03:28.080><c> right</c><00:03:28.319><c> we're</c>
+
+00:03:28.490 --> 00:03:28.500 align:start position:0%
+certifications that's right we're
+ 
+
+00:03:28.500 --> 00:03:30.350 align:start position:0%
+certifications that's right we're
+talking<00:03:28.620><c> about</c><00:03:28.739><c> certifications</c><00:03:29.220><c> now</c><00:03:29.519><c> or</c>
+
+00:03:30.350 --> 00:03:30.360 align:start position:0%
+talking about certifications now or
+ 
+
+00:03:30.360 --> 00:03:32.089 align:start position:0%
+talking about certifications now or
+previous<00:03:30.659><c> training</c><00:03:31.260><c> prior</c><00:03:31.620><c> to</c><00:03:31.739><c> gaining</c>
+
+00:03:32.089 --> 00:03:32.099 align:start position:0%
+previous training prior to gaining
+ 
+
+00:03:32.099 --> 00:03:35.330 align:start position:0%
+previous training prior to gaining
+access<00:03:32.280><c> to</c><00:03:33.120><c> that</c><00:03:33.300><c> cui</c><00:03:33.840><c> to</c><00:03:34.440><c> carry</c><00:03:34.739><c> out</c><00:03:34.860><c> assigned</c>
+
+00:03:35.330 --> 00:03:35.340 align:start position:0%
+access to that cui to carry out assigned
+ 
+
+00:03:35.340 --> 00:03:37.369 align:start position:0%
+access to that cui to carry out assigned
+information<00:03:35.459><c> security</c><00:03:36.180><c> related</c><00:03:36.720><c> job</c><00:03:36.959><c> duties</c>
+
+00:03:37.369 --> 00:03:37.379 align:start position:0%
+information security related job duties
+ 
+
+00:03:37.379 --> 00:03:39.649 align:start position:0%
+information security related job duties
+roles<00:03:37.920><c> and</c><00:03:38.099><c> responsibility</c><00:03:38.700><c> okay</c><00:03:39.300><c> great</c>
+
+00:03:39.649 --> 00:03:39.659 align:start position:0%
+roles and responsibility okay great
+ 
+
+00:03:39.659 --> 00:03:41.089 align:start position:0%
+roles and responsibility okay great
+example<00:03:40.019><c> is</c><00:03:40.140><c> hey</c><00:03:40.319><c> look</c><00:03:40.440><c> if</c><00:03:40.620><c> you've</c><00:03:40.680><c> got</c><00:03:40.799><c> an</c><00:03:40.860><c> I.T</c>
+
+00:03:41.089 --> 00:03:41.099 align:start position:0%
+example is hey look if you've got an I.T
+ 
+
+00:03:41.099 --> 00:03:42.410 align:start position:0%
+example is hey look if you've got an I.T
+director<00:03:41.340><c> maybe</c><00:03:41.519><c> they</c><00:03:41.700><c> got</c><00:03:41.819><c> a</c><00:03:41.940><c> Security</c><00:03:42.060><c> Plus</c>
+
+00:03:42.410 --> 00:03:42.420 align:start position:0%
+director maybe they got a Security Plus
+ 
+
+00:03:42.420 --> 00:03:44.630 align:start position:0%
+director maybe they got a Security Plus
+certification<00:03:43.040><c> again</c><00:03:44.040><c> that</c><00:03:44.400><c> just</c>
+
+00:03:44.630 --> 00:03:44.640 align:start position:0%
+certification again that just
+ 
+
+00:03:44.640 --> 00:03:46.850 align:start position:0%
+certification again that just
+demonstrates<00:03:45.420><c> clearly</c><00:03:46.019><c> that</c><00:03:46.500><c> they've</c><00:03:46.680><c> got</c>
+
+00:03:46.850 --> 00:03:46.860 align:start position:0%
+demonstrates clearly that they've got
+ 
+
+00:03:46.860 --> 00:03:48.949 align:start position:0%
+demonstrates clearly that they've got
+Advanced<00:03:47.280><c> security</c><00:03:47.459><c> training</c><00:03:48.180><c> now</c><00:03:48.720><c> there's</c>
+
+00:03:48.949 --> 00:03:48.959 align:start position:0%
+Advanced security training now there's
+ 
+
+00:03:48.959 --> 00:03:51.050 align:start position:0%
+Advanced security training now there's
+no<00:03:49.140><c> minimum</c><00:03:49.500><c> security</c><00:03:49.680><c> or</c><00:03:50.159><c> there's</c><00:03:50.879><c> no</c>
+
+00:03:51.050 --> 00:03:51.060 align:start position:0%
+no minimum security or there's no
+ 
+
+00:03:51.060 --> 00:03:52.729 align:start position:0%
+no minimum security or there's no
+minimum<00:03:51.480><c> certification</c><00:03:52.080><c> or</c><00:03:52.319><c> anything</c><00:03:52.440><c> like</c>
+
+00:03:52.729 --> 00:03:52.739 align:start position:0%
+minimum certification or anything like
+ 
+
+00:03:52.739 --> 00:03:55.309 align:start position:0%
+minimum certification or anything like
+that<00:03:52.860><c> but</c><00:03:53.159><c> again</c><00:03:53.400><c> those</c><00:03:54.239><c> do</c><00:03:54.480><c> count</c><00:03:54.840><c> towards</c>
+
+00:03:55.309 --> 00:03:55.319 align:start position:0%
+that but again those do count towards
+ 
+
+00:03:55.319 --> 00:03:57.410 align:start position:0%
+that but again those do count towards
+justifying<00:03:56.040><c> and</c><00:03:56.280><c> evidence</c>
+
+00:03:57.410 --> 00:03:57.420 align:start position:0%
+justifying and evidence
+ 
+
+00:03:57.420 --> 00:04:00.110 align:start position:0%
+justifying and evidence
+now<00:03:58.140><c> if</c><00:03:58.799><c> all</c><00:03:59.040><c> of</c><00:03:59.159><c> this</c><00:03:59.280><c> sounds</c><00:03:59.519><c> very</c><00:03:59.819><c> confusing</c>
+
+00:04:00.110 --> 00:04:00.120 align:start position:0%
+now if all of this sounds very confusing
+ 
+
+00:04:00.120 --> 00:04:01.309 align:start position:0%
+now if all of this sounds very confusing
+to<00:04:00.239><c> you</c><00:04:00.420><c> or</c><00:04:00.659><c> you're</c><00:04:00.780><c> struggling</c><00:04:01.080><c> on</c><00:04:01.200><c> the</c>
+
+00:04:01.309 --> 00:04:01.319 align:start position:0%
+to you or you're struggling on the
+ 
+
+00:04:01.319 --> 00:04:02.509 align:start position:0%
+to you or you're struggling on the
+policies<00:04:01.620><c> or</c><00:04:01.860><c> you're</c><00:04:01.980><c> struggling</c><00:04:02.220><c> with</c><00:04:02.340><c> all</c>
+
+00:04:02.509 --> 00:04:02.519 align:start position:0%
+policies or you're struggling with all
+ 
+
+00:04:02.519 --> 00:04:03.890 align:start position:0%
+policies or you're struggling with all
+these<00:04:02.640><c> gaps</c><00:04:02.940><c> you</c><00:04:03.060><c> may</c><00:04:03.299><c> have</c><00:04:03.420><c> or</c><00:04:03.599><c> you</c><00:04:03.780><c> just</c>
+
+00:04:03.890 --> 00:04:03.900 align:start position:0%
+these gaps you may have or you just
+ 
+
+00:04:03.900 --> 00:04:05.390 align:start position:0%
+these gaps you may have or you just
+don't<00:04:04.019><c> even</c><00:04:04.140><c> know</c><00:04:04.319><c> where</c><00:04:04.440><c> to</c><00:04:04.560><c> begin</c><00:04:04.680><c> here's</c>
+
+00:04:05.390 --> 00:04:05.400 align:start position:0%
+don't even know where to begin here's
+ 
+
+00:04:05.400 --> 00:04:07.250 align:start position:0%
+don't even know where to begin here's
+the<00:04:05.519><c> good</c><00:04:05.640><c> news</c><00:04:05.819><c> and</c><00:04:06.239><c> on</c><00:04:06.420><c> call</c><00:04:06.599><c> we</c><00:04:06.959><c> work</c><00:04:07.080><c> with</c>
+
+00:04:07.250 --> 00:04:07.260 align:start position:0%
+the good news and on call we work with
+ 
+
+00:04:07.260 --> 00:04:09.289 align:start position:0%
+the good news and on call we work with
+defense<00:04:07.620><c> contractors</c><00:04:08.099><c> just</c><00:04:08.459><c> like</c><00:04:08.640><c> you</c><00:04:08.879><c> who</c>
+
+00:04:09.289 --> 00:04:09.299 align:start position:0%
+defense contractors just like you who
+ 
+
+00:04:09.299 --> 00:04:12.229 align:start position:0%
+defense contractors just like you who
+have<00:04:09.420><c> had</c><00:04:09.599><c> the</c><00:04:09.780><c> dfars</c><00:04:10.439><c> nist</c><00:04:10.980><c> itar</c><00:04:11.580><c> and</c><00:04:11.760><c> cmmc</c>
+
+00:04:12.229 --> 00:04:12.239 align:start position:0%
+have had the dfars nist itar and cmmc
+ 
+
+00:04:12.239 --> 00:04:14.030 align:start position:0%
+have had the dfars nist itar and cmmc
+compliant<00:04:12.720><c> stuff</c><00:04:12.900><c> dropped</c><00:04:13.560><c> in</c><00:04:13.620><c> their</c><00:04:13.739><c> laps</c>
+
+00:04:14.030 --> 00:04:14.040 align:start position:0%
+compliant stuff dropped in their laps
+ 
+
+00:04:14.040 --> 00:04:15.830 align:start position:0%
+compliant stuff dropped in their laps
+like<00:04:14.099><c> a</c><00:04:14.220><c> seagull</c><00:04:14.519><c> on</c><00:04:14.700><c> a</c><00:04:14.819><c> sunny</c><00:04:14.879><c> day</c><00:04:15.120><c> we</c><00:04:15.599><c> teach</c>
+
+00:04:15.830 --> 00:04:15.840 align:start position:0%
+like a seagull on a sunny day we teach
+ 
+
+00:04:15.840 --> 00:04:17.090 align:start position:0%
+like a seagull on a sunny day we teach
+you<00:04:15.959><c> how</c><00:04:16.079><c> to</c><00:04:16.199><c> level</c><00:04:16.320><c> up</c><00:04:16.500><c> and</c><00:04:16.620><c> be</c><00:04:16.739><c> a</c><00:04:16.859><c> proper</c>
+
+00:04:17.090 --> 00:04:17.100 align:start position:0%
+you how to level up and be a proper
+ 
+
+00:04:17.100 --> 00:04:18.590 align:start position:0%
+you how to level up and be a proper
+on-call<00:04:17.459><c> compliance</c><00:04:17.820><c> hero</c><00:04:18.120><c> for</c><00:04:18.239><c> your</c><00:04:18.419><c> company</c>
+
+00:04:18.590 --> 00:04:18.600 align:start position:0%
+on-call compliance hero for your company
+ 
+
+00:04:18.600 --> 00:04:20.990 align:start position:0%
+on-call compliance hero for your company
+eliminating<00:04:19.440><c> gaps</c><00:04:19.799><c> gray</c><00:04:20.040><c> areas</c><00:04:20.459><c> and</c><00:04:20.760><c> getting</c>
+
+00:04:20.990 --> 00:04:21.000 align:start position:0%
+eliminating gaps gray areas and getting
+ 
+
+00:04:21.000 --> 00:04:23.150 align:start position:0%
+eliminating gaps gray areas and getting
+this<00:04:21.299><c> solved</c><00:04:21.660><c> all</c><00:04:21.959><c> while</c><00:04:22.139><c> showing</c><00:04:22.500><c> you</c><00:04:22.620><c> how</c><00:04:23.100><c> to</c>
+
+00:04:23.150 --> 00:04:23.160 align:start position:0%
+this solved all while showing you how to
+ 
+
+00:04:23.160 --> 00:04:24.590 align:start position:0%
+this solved all while showing you how to
+leverage<00:04:23.400><c> compliance</c><00:04:23.880><c> as</c><00:04:24.060><c> you</c><00:04:24.240><c> see</c><00:04:24.479><c> her</c>
+
+00:04:24.590 --> 00:04:24.600 align:start position:0%
+leverage compliance as you see her
+ 
+
+00:04:24.600 --> 00:04:26.450 align:start position:0%
+leverage compliance as you see her
+weapon<00:04:24.900><c> along</c><00:04:25.080><c> with</c><00:04:25.320><c> my</c><00:04:25.500><c> bad</c><00:04:25.680><c> jokes</c><00:04:26.040><c> to</c><00:04:26.280><c> land</c>
+
+00:04:26.450 --> 00:04:26.460 align:start position:0%
+weapon along with my bad jokes to land
+ 
+
+00:04:26.460 --> 00:04:28.129 align:start position:0%
+weapon along with my bad jokes to land
+more<00:04:26.759><c> Defense</c><00:04:27.120><c> work</c><00:04:27.300><c> with</c><00:04:27.540><c> higher</c><00:04:27.840><c> profit</c>
+
+00:04:28.129 --> 00:04:28.139 align:start position:0%
+more Defense work with higher profit
+ 
+
+00:04:28.139 --> 00:04:29.570 align:start position:0%
+more Defense work with higher profit
+margins<00:04:28.560><c> that's</c><00:04:28.919><c> what's</c><00:04:29.100><c> becoming</c><00:04:29.460><c> an</c>
+
+00:04:29.570 --> 00:04:29.580 align:start position:0%
+margins that's what's becoming an
+ 
+
+00:04:29.580 --> 00:04:31.010 align:start position:0%
+margins that's what's becoming an
+on-call<00:04:29.880><c> compliance</c><00:04:30.240><c> hero</c><00:04:30.540><c> can</c><00:04:30.660><c> do</c><00:04:30.780><c> for</c><00:04:30.900><c> you</c>
+
+00:04:31.010 --> 00:04:31.020 align:start position:0%
+on-call compliance hero can do for you
+ 
+
+00:04:31.020 --> 00:04:32.570 align:start position:0%
+on-call compliance hero can do for you
+if<00:04:31.620><c> you're</c><00:04:31.740><c> looking</c><00:04:31.860><c> for</c><00:04:32.040><c> more</c><00:04:32.220><c> help</c><00:04:32.400><c> getting</c>
+
+00:04:32.570 --> 00:04:32.580 align:start position:0%
+if you're looking for more help getting
+ 
+
+00:04:32.580 --> 00:04:34.310 align:start position:0%
+if you're looking for more help getting
+compliant<00:04:33.060><c> our</c><00:04:33.300><c> compliance</c><00:04:33.780><c> experts</c><00:04:34.199><c> are</c>
+
+00:04:34.310 --> 00:04:34.320 align:start position:0%
+compliant our compliance experts are
+ 
+
+00:04:34.320 --> 00:04:35.950 align:start position:0%
+compliant our compliance experts are
+always<00:04:34.500><c> on</c><00:04:34.740><c> call</c><00:04:34.919><c> for</c><00:04:35.160><c> you</c><00:04:35.340><c> visit</c>
+
+00:04:35.950 --> 00:04:35.960 align:start position:0%
+always on call for you visit
+ 
+
+00:04:35.960 --> 00:04:38.510 align:start position:0%
+always on call for you visit
+cmmccompliance<00:04:36.960><c> secrets.com</c><00:04:37.560><c> or</c><00:04:38.160><c> check</c><00:04:38.400><c> out</c>
+
+00:04:38.510 --> 00:04:38.520 align:start position:0%
+cmmccompliance secrets.com or check out
+ 
+
+00:04:38.520 --> 00:04:39.950 align:start position:0%
+cmmccompliance secrets.com or check out
+the<00:04:38.699><c> bio</c><00:04:38.820><c> below</c><00:04:39.120><c> for</c><00:04:39.300><c> links</c><00:04:39.600><c> to</c><00:04:39.720><c> get</c><00:04:39.780><c> help</c>
+
+00:04:39.950 --> 00:04:39.960 align:start position:0%
+the bio below for links to get help
+ 
+
+00:04:39.960 --> 00:04:41.810 align:start position:0%
+the bio below for links to get help
+right<00:04:40.199><c> now</c><00:04:40.440><c> if</c><00:04:41.040><c> you</c><00:04:41.160><c> love</c><00:04:41.280><c> the</c><00:04:41.460><c> content</c><00:04:41.699><c> I'm</c>
+
+00:04:41.810 --> 00:04:41.820 align:start position:0%
+right now if you love the content I'm
+ 
+
+00:04:41.820 --> 00:04:43.310 align:start position:0%
+right now if you love the content I'm
+putting<00:04:42.060><c> out</c><00:04:42.120><c> here</c><00:04:42.300><c> for</c><00:04:42.479><c> you</c><00:04:42.600><c> help</c><00:04:43.020><c> us</c><00:04:43.139><c> out</c>
+
+00:04:43.310 --> 00:04:43.320 align:start position:0%
+putting out here for you help us out
+ 
+
+00:04:43.320 --> 00:04:44.749 align:start position:0%
+putting out here for you help us out
+with<00:04:43.500><c> a</c><00:04:43.620><c> big</c><00:04:43.740><c> fat</c><00:04:43.919><c> thumbs</c><00:04:44.220><c> up</c><00:04:44.280><c> on</c><00:04:44.460><c> that</c><00:04:44.639><c> like</c>
+
+00:04:44.749 --> 00:04:44.759 align:start position:0%
+with a big fat thumbs up on that like
+ 
+
+00:04:44.759 --> 00:04:46.730 align:start position:0%
+with a big fat thumbs up on that like
+button<00:04:45.120><c> it</c><00:04:45.419><c> really</c><00:04:45.600><c> shows</c><00:04:45.900><c> us</c><00:04:46.020><c> the</c><00:04:46.199><c> love</c><00:04:46.320><c> and</c>
+
+00:04:46.730 --> 00:04:46.740 align:start position:0%
+button it really shows us the love and
+ 
+
+00:04:46.740 --> 00:04:48.650 align:start position:0%
+button it really shows us the love and
+even<00:04:46.919><c> better</c><00:04:47.100><c> smash</c><00:04:47.940><c> that</c><00:04:48.060><c> subscribe</c><00:04:48.479><c> button</c>
+
+00:04:48.650 --> 00:04:48.660 align:start position:0%
+even better smash that subscribe button
+ 
+
+00:04:48.660 --> 00:04:50.450 align:start position:0%
+even better smash that subscribe button
+to<00:04:48.780><c> get</c><00:04:48.900><c> the</c><00:04:49.080><c> latest</c><00:04:49.199><c> compliance</c><00:04:49.800><c> content</c><00:04:50.160><c> as</c>
+
+00:04:50.450 --> 00:04:50.460 align:start position:0%
+to get the latest compliance content as
+ 
+
+00:04:50.460 --> 00:04:52.070 align:start position:0%
+to get the latest compliance content as
+soon<00:04:50.639><c> as</c><00:04:50.699><c> our</c><00:04:50.880><c> compliance</c><00:04:51.240><c> nerds</c><00:04:51.600><c> roll</c><00:04:51.780><c> it</c><00:04:51.900><c> out</c>
+
+00:04:52.070 --> 00:04:52.080 align:start position:0%
+soon as our compliance nerds roll it out
+ 
+
+00:04:52.080 --> 00:04:53.810 align:start position:0%
+soon as our compliance nerds roll it out
+until<00:04:52.500><c> the</c><00:04:52.800><c> next</c><00:04:52.919><c> compliance</c><00:04:53.280><c> tip</c><00:04:53.520><c> my</c><00:04:53.699><c> friends</c>
+
+00:04:53.810 --> 00:04:53.820 align:start position:0%
+until the next compliance tip my friends
+ 
+
+00:04:53.820 --> 00:04:55.909 align:start position:0%
+until the next compliance tip my friends
+stay<00:04:54.479><c> safe</c><00:04:54.660><c> and</c><00:04:54.840><c> secure</c><00:04:55.080><c> out</c><00:04:55.259><c> there</c><00:04:55.440><c> and</c><00:04:55.740><c> hit</c>
+
+00:04:55.909 --> 00:04:55.919 align:start position:0%
+stay safe and secure out there and hit
+ 
+
+00:04:55.919 --> 00:04:57.110 align:start position:0%
+stay safe and secure out there and hit
+us<00:04:56.040><c> in</c><00:04:56.160><c> the</c><00:04:56.280><c> comments</c><00:04:56.520><c> below</c><00:04:56.759><c> to</c><00:04:56.820><c> let</c><00:04:56.940><c> us</c><00:04:57.060><c> know</c>
+
+00:04:57.110 --> 00:04:57.120 align:start position:0%
+us in the comments below to let us know
+ 
+
+00:04:57.120 --> 00:04:58.430 align:start position:0%
+us in the comments below to let us know
+what<00:04:57.180><c> you</c><00:04:57.300><c> like</c><00:04:57.360><c> like</c><00:04:57.780><c> to</c><00:04:57.960><c> know</c><00:04:58.080><c> more</c><00:04:58.259><c> about</c>
+
+00:04:58.430 --> 00:04:58.440 align:start position:0%
+what you like like to know more about
+ 
+
+00:04:58.440 --> 00:05:00.050 align:start position:0%
+what you like like to know more about
+when<00:04:58.919><c> it</c><00:04:59.040><c> comes</c><00:04:59.220><c> to</c><00:04:59.400><c> information</c><00:04:59.520><c> security</c>
+
+00:05:00.050 --> 00:05:00.060 align:start position:0%
+when it comes to information security
+ 
+
+00:05:00.060 --> 00:05:02.030 align:start position:0%
+when it comes to information security
+and<00:05:00.419><c> compliance</c><00:05:00.900><c> I'll</c><00:05:01.440><c> see</c><00:05:01.620><c> you</c><00:05:01.680><c> on</c><00:05:01.800><c> the</c><00:05:01.919><c> next</c>
+
+00:05:02.030 --> 00:05:02.040 align:start position:0%
+and compliance I'll see you on the next
+ 
+
+00:05:02.040 --> 00:05:02.970 align:start position:0%
+and compliance I'll see you on the next
+one
+
+00:05:02.970 --> 00:05:02.980 align:start position:0%
+one
+ 
+
+00:05:02.980 --> 00:05:13.600 align:start position:0%
+one
+[Music]
+

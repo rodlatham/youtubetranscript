@@ -1,0 +1,415 @@
+Kind: captions
+Language: en
+hey<00:00:00.840><c> everybody</c><00:00:01.020><c> it's</c><00:00:01.260><c> Mike</c><00:00:01.380><c> frieder</c><00:00:01.800><c> here</c>
+hey everybody it's Mike frieder here
+hey everybody it's Mike frieder here
+with<00:00:01.979><c> on-call</c><00:00:02.280><c> compliance</c><00:00:02.700><c> Solutions</c><00:00:02.879><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:03.240><c> back</c><00:00:03.419><c> with</c><00:00:03.600><c> another</c><00:00:03.780><c> compliance</c><00:00:04.259><c> tip</c><00:00:04.440><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.680><c> week</c><00:00:04.799><c> this</c><00:00:05.279><c> week</c><00:00:05.400><c> we're</c><00:00:05.580><c> talking</c><00:00:05.759><c> about</c>
+the week this week we're talking about
+the week this week we're talking about
+cmmc<00:00:06.480><c> control</c>
+ac.l2-3.1.19<00:00:10.639><c> encrypt</c><00:00:11.639><c> cui</c><00:00:12.120><c> on</c><00:00:12.240><c> mobile</c>
+ac.l2-3.1.19 encrypt cui on mobile
+ac.l2-3.1.19 encrypt cui on mobile
+devices<00:00:12.719><c> and</c><00:00:13.200><c> mobile</c><00:00:13.320><c> Computing</c><00:00:13.920><c> platforms</c>
+devices and mobile Computing platforms
+devices and mobile Computing platforms
+[Music]
+[Music]
+[Music]
+so<00:00:24.900><c> hey</c><00:00:25.019><c> if</c><00:00:25.260><c> you're</c><00:00:25.380><c> a</c><00:00:25.560><c> defense</c><00:00:25.800><c> contractor</c>
+so hey if you're a defense contractor
+so hey if you're a defense contractor
+who's<00:00:26.340><c> feeling</c><00:00:26.519><c> overwhelmed</c><00:00:27.180><c> tired</c><00:00:27.840><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:28.199><c> try</c><00:00:28.859><c> to</c><00:00:29.039><c> understand</c><00:00:29.220><c> all</c><00:00:29.880><c> of</c><00:00:30.000><c> this</c><00:00:30.119><c> cmmc</c>
+alone try to understand all of this cmmc
+alone try to understand all of this cmmc
+dfars<00:00:31.800><c> and</c><00:00:31.980><c> nist</c><00:00:32.220><c> SP</c><00:00:32.399><c> 10171</c><00:00:33.239><c> compliance</c><00:00:33.719><c> stuff</c>
+dfars and nist SP 10171 compliance stuff
+dfars and nist SP 10171 compliance stuff
+on<00:00:34.680><c> top</c><00:00:34.860><c> of</c><00:00:35.040><c> an</c><00:00:35.160><c> already</c><00:00:35.280><c> colossal</c><00:00:35.880><c> workload</c>
+on top of an already colossal workload
+on top of an already colossal workload
+well<00:00:36.719><c> I've</c><00:00:36.899><c> got</c><00:00:37.020><c> great</c><00:00:37.200><c> news</c><00:00:37.380><c> for</c><00:00:37.620><c> you</c><00:00:37.739><c> you</c>
+well I've got great news for you you
+well I've got great news for you you
+found<00:00:38.160><c> your</c><00:00:38.340><c> home</c><00:00:38.460><c> here</c><00:00:38.640><c> at</c><00:00:38.760><c> on-call</c>
+found your home here at on-call
+found your home here at on-call
+compliance<00:00:39.600><c> Solutions</c><00:00:39.899><c> which</c><00:00:40.200><c> is</c><00:00:40.379><c> where</c><00:00:40.860><c> we</c>
+compliance Solutions which is where we
+compliance Solutions which is where we
+help<00:00:41.219><c> you</c><00:00:41.399><c> transform</c><00:00:41.940><c> into</c><00:00:42.300><c> your</c><00:00:42.540><c> company's</c>
+help you transform into your company's
+help you transform into your company's
+on-call<00:00:43.440><c> compliance</c><00:00:43.920><c> hero</c><00:00:44.280><c> and</c><00:00:44.700><c> get</c><00:00:44.879><c> this</c>
+on-call compliance hero and get this
+on-call compliance hero and get this
+stuff<00:00:45.300><c> let's</c><00:00:46.140><c> jump</c><00:00:46.379><c> into</c><00:00:46.500><c> it</c><00:00:46.739><c> so</c><00:00:46.980><c> in</c><00:00:47.219><c> cmfcc</c>
+stuff let's jump into it so in cmfcc
+stuff let's jump into it so in cmfcc
+control<00:00:48.079><c> ac.l</c>
+control ac.l
+control ac.l
+2-3.1.19<00:00:50.960><c> encrypt</c><00:00:51.960><c> cui</c><00:00:52.379><c> on</c><00:00:52.440><c> mobile</c><00:00:52.620><c> devices</c>
+2-3.1.19 encrypt cui on mobile devices
+2-3.1.19 encrypt cui on mobile devices
+and<00:00:53.160><c> mobile</c><00:00:53.340><c> Computing</c><00:00:53.760><c> platforms</c><00:00:54.300><c> this</c><00:00:54.719><c> is</c>
+and mobile Computing platforms this is
+and mobile Computing platforms this is
+another<00:00:55.020><c> pretty</c><00:00:55.620><c> clear-cut</c><00:00:56.160><c> control</c><00:00:56.520><c> which</c>
+another pretty clear-cut control which
+another pretty clear-cut control which
+sets<00:00:57.600><c> a</c><00:00:57.719><c> mandate</c><00:00:58.020><c> for</c><00:00:58.199><c> how</c><00:00:58.379><c> mobile</c><00:00:58.620><c> devices</c>
+sets a mandate for how mobile devices
+sets a mandate for how mobile devices
+must<00:00:59.940><c> have</c><00:01:00.120><c> data</c><00:01:00.539><c> protected</c><00:01:00.899><c> now</c><00:01:01.440><c> the</c>
+must have data protected now the
+must have data protected now the
+interesting<00:01:01.980><c> thing</c><00:01:02.100><c> here</c><00:01:02.340><c> is</c><00:01:02.520><c> the</c><00:01:02.760><c> question</c>
+interesting thing here is the question
+interesting thing here is the question
+what's<00:01:03.660><c> a</c><00:01:03.899><c> mobile</c><00:01:04.019><c> device</c><00:01:04.320><c> right</c><00:01:04.739><c> it's</c><00:01:05.220><c> not</c>
+what's a mobile device right it's not
+what's a mobile device right it's not
+really<00:01:05.460><c> so</c><00:01:05.640><c> clear-cut</c><00:01:06.060><c> if</c><00:01:06.240><c> you</c><00:01:06.360><c> just</c><00:01:06.479><c> read</c><00:01:06.600><c> the</c>
+really so clear-cut if you just read the
+really so clear-cut if you just read the
+control<00:01:06.960><c> to</c><00:01:07.740><c> answer</c><00:01:07.920><c> that</c><00:01:08.159><c> we</c><00:01:08.340><c> look</c><00:01:08.520><c> at</c><00:01:08.640><c> nist</c>
+control to answer that we look at nist
+control to answer that we look at nist
+definitions<00:01:09.360><c> for</c><00:01:09.540><c> mobile</c><00:01:09.720><c> devices</c><00:01:10.140><c> which</c>
+definitions for mobile devices which
+definitions for mobile devices which
+reference<00:01:10.860><c> any</c><00:01:11.220><c> Computing</c><00:01:11.640><c> platform</c><00:01:12.000><c> which</c>
+reference any Computing platform which
+reference any Computing platform which
+may<00:01:12.540><c> store</c><00:01:12.840><c> process</c><00:01:13.439><c> or</c><00:01:13.920><c> transmit</c><00:01:14.400><c> data</c>
+may store process or transmit data
+may store process or transmit data
+particularly<00:01:15.540><c> cui</c><00:01:16.140><c> in</c><00:01:16.320><c> this</c><00:01:16.439><c> case</c><00:01:16.619><c> which</c><00:01:17.280><c> is</c>
+particularly cui in this case which is
+particularly cui in this case which is
+considered<00:01:17.820><c> portable</c><00:01:18.240><c> okay</c><00:01:18.900><c> so</c><00:01:19.619><c> this</c>
+considered portable okay so this
+considered portable okay so this
+includes<00:01:20.460><c> just</c><00:01:20.759><c> as</c><00:01:20.939><c> just</c><00:01:21.180><c> as</c><00:01:21.420><c> a</c><00:01:21.600><c> few</c><00:01:21.659><c> relevant</c>
+includes just as just as a few relevant
+includes just as just as a few relevant
+examples<00:01:22.400><c> laptops</c><00:01:23.400><c> tablets</c><00:01:24.119><c> mobile</c><00:01:24.420><c> phones</c>
+examples laptops tablets mobile phones
+examples laptops tablets mobile phones
+Etc<00:01:25.560><c> which</c><00:01:26.340><c> are</c><00:01:26.580><c> meant</c><00:01:26.880><c> to</c><00:01:27.000><c> be</c><00:01:27.299><c> not</c><00:01:27.900><c> in</c><00:01:28.200><c> a</c><00:01:28.320><c> fixed</c>
+Etc which are meant to be not in a fixed
+Etc which are meant to be not in a fixed
+position<00:01:28.740><c> or</c><00:01:29.460><c> a</c><00:01:29.700><c> fixed</c><00:01:30.060><c> place</c><00:01:30.240><c> so</c><00:01:30.840><c> yes</c><00:01:31.020><c> tablets</c>
+position or a fixed place so yes tablets
+position or a fixed place so yes tablets
+and<00:01:31.680><c> laptops</c><00:01:32.100><c> as</c><00:01:32.220><c> well</c><00:01:32.340><c> as</c><00:01:32.460><c> smartphones</c><00:01:32.880><c> must</c>
+and laptops as well as smartphones must
+and laptops as well as smartphones must
+have<00:01:33.960><c> encryption</c><00:01:34.439><c> turned</c><00:01:34.799><c> on</c><00:01:34.920><c> if</c><00:01:35.400><c> they</c><00:01:35.579><c> will</c>
+have encryption turned on if they will
+have encryption turned on if they will
+store<00:01:35.880><c> process</c><00:01:36.299><c> or</c><00:01:36.540><c> transmit</c><00:01:36.900><c> cui</c><00:01:37.380><c> I</c><00:01:37.799><c> know</c>
+store process or transmit cui I know
+store process or transmit cui I know
+what<00:01:38.040><c> you're</c><00:01:38.159><c> thinking</c><00:01:38.400><c> you're</c><00:01:38.640><c> thinking</c><00:01:38.880><c> all</c>
+what you're thinking you're thinking all
+what you're thinking you're thinking all
+right<00:01:39.119><c> well</c><00:01:39.180><c> look</c><00:01:39.360><c> man</c><00:01:39.540><c> if</c><00:01:39.659><c> I</c><00:01:39.780><c> work</c><00:01:39.900><c> hard</c>
+right well look man if I work hard
+right well look man if I work hard
+enough<00:01:40.200><c> I</c><00:01:40.439><c> could</c><00:01:40.560><c> probably</c><00:01:40.680><c> make</c><00:01:40.920><c> you</c><00:01:41.460><c> know</c><00:01:41.579><c> a</c>
+enough I could probably make you know a
+enough I could probably make you know a
+desktop<00:01:42.180><c> computer</c><00:01:42.420><c> portable</c><00:01:42.900><c> and</c><00:01:43.079><c> you're</c>
+desktop computer portable and you're
+desktop computer portable and you're
+right<00:01:43.439><c> but</c><00:01:44.220><c> we</c><00:01:44.880><c> do</c><00:01:45.000><c> have</c><00:01:45.119><c> definitions</c><00:01:45.600><c> from</c>
+right but we do have definitions from
+right but we do have definitions from
+this<00:01:45.960><c> to</c><00:01:46.200><c> help</c><00:01:46.320><c> us</c><00:01:46.439><c> out</c><00:01:46.619><c> there</c><00:01:46.740><c> so</c><00:01:46.979><c> again</c><00:01:47.159><c> it's</c>
+this to help us out there so again it's
+this to help us out there so again it's
+something<00:01:47.579><c> that's</c><00:01:47.759><c> meant</c><00:01:48.060><c> to</c><00:01:48.180><c> be</c><00:01:48.240><c> portable</c>
+something that's meant to be portable
+something that's meant to be portable
+and<00:01:49.079><c> again</c><00:01:49.259><c> we</c><00:01:49.500><c> just</c><00:01:49.680><c> sort</c><00:01:49.799><c> of</c><00:01:49.920><c> use</c><00:01:50.100><c> a</c><00:01:50.340><c> little</c>
+and again we just sort of use a little
+and again we just sort of use a little
+bit<00:01:50.640><c> of</c><00:01:50.759><c> Common</c><00:01:50.880><c> Sense</c><00:01:51.180><c> there</c><00:01:51.479><c> I</c><00:01:51.659><c> think</c>
+bit of Common Sense there I think
+bit of Common Sense there I think
+that'll<00:01:52.020><c> help</c><00:01:52.140><c> us</c><00:01:52.320><c> all</c><00:01:52.439><c> out</c><00:01:52.619><c> I</c><00:01:53.280><c> mean</c><00:01:53.399><c> let's</c><00:01:53.579><c> be</c>
+that'll help us all out I mean let's be
+that'll help us all out I mean let's be
+honest<00:01:53.939><c> when</c><00:01:54.060><c> dealing</c><00:01:54.420><c> with</c><00:01:54.479><c> these</c><00:01:54.659><c> controls</c>
+honest when dealing with these controls
+honest when dealing with these controls
+a<00:01:55.380><c> little</c><00:01:55.560><c> Common</c><00:01:55.740><c> Sense</c><00:01:55.979><c> goes</c><00:01:56.340><c> a</c><00:01:56.399><c> little</c><00:01:56.460><c> a</c>
+a little Common Sense goes a little a
+a little Common Sense goes a little a
+long<00:01:56.820><c> way</c><00:01:57.000><c> all</c><00:01:57.659><c> right</c><00:01:57.840><c> let's</c><00:01:57.960><c> check</c><00:01:58.200><c> out</c><00:01:58.320><c> what</c>
+long way all right let's check out what
+long way all right let's check out what
+the<00:01:58.680><c> assessors</c><00:01:59.100><c> are</c><00:01:59.280><c> looking</c><00:01:59.399><c> for</c><00:01:59.640><c> and</c><00:02:00.119><c> how</c><00:02:00.299><c> to</c>
+the assessors are looking for and how to
+the assessors are looking for and how to
+make<00:02:00.600><c> them</c><00:02:00.780><c> happy</c><00:02:01.079><c> so</c><00:02:01.979><c> uh</c><00:02:02.399><c> if</c><00:02:02.579><c> I'm</c><00:02:02.700><c> assessing</c>
+make them happy so uh if I'm assessing
+make them happy so uh if I'm assessing
+this<00:02:03.299><c> control</c><00:02:03.479><c> again</c><00:02:04.079><c> there's</c><00:02:04.380><c> two</c><00:02:04.740><c> main</c>
+this control again there's two main
+this control again there's two main
+primary<00:02:05.520><c> assessment</c><00:02:06.000><c> points</c><00:02:06.420><c> the</c><00:02:06.540><c> first</c><00:02:06.719><c> one</c>
+primary assessment points the first one
+primary assessment points the first one
+is<00:02:07.020><c> determining</c><00:02:07.560><c> if</c><00:02:07.740><c> mobile</c><00:02:07.979><c> devices</c><00:02:08.459><c> and</c>
+is determining if mobile devices and
+is determining if mobile devices and
+mobile<00:02:09.060><c> Computing</c><00:02:09.599><c> platforms</c><00:02:10.140><c> that</c><00:02:10.800><c> process</c>
+mobile Computing platforms that process
+mobile Computing platforms that process
+store<00:02:11.520><c> transmit</c><00:02:12.120><c> cui</c><00:02:12.780><c> are</c><00:02:13.620><c> identified</c><00:02:14.160><c> in</c>
+store transmit cui are identified in
+store transmit cui are identified in
+other<00:02:14.640><c> words</c><00:02:14.700><c> do</c><00:02:14.940><c> you</c><00:02:15.060><c> know</c><00:02:15.120><c> what</c><00:02:15.239><c> they</c><00:02:15.360><c> are</c>
+other words do you know what they are
+other words do you know what they are
+are<00:02:15.780><c> they</c><00:02:15.959><c> somehow</c><00:02:16.319><c> identified</c><00:02:16.920><c> that</c><00:02:17.160><c> these</c>
+are they somehow identified that these
+are they somehow identified that these
+are<00:02:17.459><c> the</c><00:02:17.580><c> mobile</c><00:02:17.700><c> devices</c><00:02:18.120><c> and</c><00:02:18.900><c> we</c><00:02:19.140><c> need</c><00:02:19.260><c> to</c>
+are the mobile devices and we need to
+are the mobile devices and we need to
+keep<00:02:19.500><c> track</c><00:02:19.680><c> of</c><00:02:19.860><c> these</c><00:02:20.099><c> all</c><00:02:20.340><c> right</c><00:02:20.520><c> these</c><00:02:20.819><c> need</c>
+keep track of these all right these need
+keep track of these all right these need
+to<00:02:21.060><c> be</c><00:02:21.180><c> protected</c><00:02:21.540><c> in</c><00:02:21.660><c> a</c><00:02:21.840><c> special</c><00:02:21.959><c> way</c><00:02:22.140><c> if</c><00:02:22.680><c> I</c>
+to be protected in a special way if I
+to be protected in a special way if I
+was<00:02:22.980><c> giving</c><00:02:23.099><c> you</c><00:02:23.160><c> a</c><00:02:23.280><c> sample</c><00:02:23.459><c> answer</c><00:02:23.580><c> I</c><00:02:23.760><c> would</c>
+was giving you a sample answer I would
+was giving you a sample answer I would
+say<00:02:23.940><c> hey</c><00:02:24.000><c> mobile</c><00:02:24.120><c> device</c><00:02:24.420><c> are</c><00:02:24.840><c> identified</c><00:02:25.200><c> by</c>
+say hey mobile device are identified by
+say hey mobile device are identified by
+System<00:02:25.739><c> naming</c><00:02:26.220><c> convention</c><00:02:26.580><c> right</c><00:02:26.879><c> we</c><00:02:27.120><c> can</c>
+System naming convention right we can
+System naming convention right we can
+name<00:02:27.420><c> them</c><00:02:27.599><c> so</c><00:02:27.780><c> we</c><00:02:27.900><c> can</c><00:02:28.020><c> easily</c><00:02:28.260><c> spot</c><00:02:28.440><c> them</c><00:02:28.620><c> in</c>
+name them so we can easily spot them in
+name them so we can easily spot them in
+active<00:02:28.980><c> directory</c><00:02:29.480><c> and</c><00:02:30.480><c> Via</c><00:02:30.780><c> Network</c>
+active directory and Via Network
+active directory and Via Network
+inventory<00:02:31.500><c> documentation</c><00:02:32.099><c> right</c><00:02:32.280><c> we've</c><00:02:32.520><c> got</c>
+inventory documentation right we've got
+inventory documentation right we've got
+that<00:02:32.760><c> we've</c><00:02:33.120><c> got</c><00:02:33.180><c> things</c><00:02:33.480><c> documented</c>
+that we've got things documented
+that we've got things documented
+and<00:02:35.400><c> our</c><00:02:35.580><c> Baseline</c><00:02:36.060><c> configuration</c><00:02:36.660><c> inventory</c>
+and our Baseline configuration inventory
+and our Baseline configuration inventory
+so<00:02:38.099><c> we</c><00:02:38.280><c> know</c><00:02:38.400><c> what's</c><00:02:38.879><c> portable</c><00:02:39.300><c> or</c><00:02:39.599><c> mobile</c><00:02:39.840><c> and</c>
+so we know what's portable or mobile and
+so we know what's portable or mobile and
+we<00:02:40.560><c> know</c><00:02:40.739><c> what</c><00:02:41.040><c> is</c><00:02:41.220><c> not</c><00:02:41.480><c> uh</c><00:02:42.480><c> now</c><00:02:42.780><c> the</c><00:02:43.140><c> second</c>
+we know what is not uh now the second
+we know what is not uh now the second
+assessment<00:02:43.860><c> Point</c><00:02:44.099><c> uh</c><00:02:45.000><c> determine</c><00:02:45.420><c> if</c>
+assessment Point uh determine if
+assessment Point uh determine if
+encryption<00:02:45.840><c> is</c><00:02:45.959><c> employed</c><00:02:46.319><c> to</c><00:02:46.440><c> protect</c><00:02:46.680><c> cui</c><00:02:47.099><c> on</c>
+encryption is employed to protect cui on
+encryption is employed to protect cui on
+identified<00:02:47.700><c> mobile</c><00:02:48.000><c> devices</c><00:02:48.420><c> and</c><00:02:48.720><c> mobile</c>
+identified mobile devices and mobile
+identified mobile devices and mobile
+Computing<00:02:49.319><c> platforms</c><00:02:49.860><c> uh</c><00:02:50.640><c> again</c><00:02:50.819><c> if</c><00:02:51.000><c> I</c><00:02:51.120><c> was</c>
+Computing platforms uh again if I was
+Computing platforms uh again if I was
+giving<00:02:51.300><c> a</c><00:02:51.540><c> sample</c><00:02:51.780><c> answer</c><00:02:51.900><c> that</c><00:02:52.140><c> I</c><00:02:52.319><c> might</c><00:02:52.440><c> say</c>
+giving a sample answer that I might say
+giving a sample answer that I might say
+something<00:02:52.800><c> like</c><00:02:53.160><c> hey</c><00:02:53.400><c> encryption</c><00:02:54.239><c> is</c>
+something like hey encryption is
+something like hey encryption is
+employed<00:02:54.840><c> via</c><00:02:55.200><c> I</c><00:02:55.500><c> don't</c><00:02:55.620><c> know</c><00:02:55.620><c> maybe</c>
+employed via I don't know maybe
+employed via I don't know maybe
+BitLocker<00:02:56.459><c> I</c><00:02:56.879><c> think</c><00:02:57.000><c> symante's</c><00:02:57.660><c> got</c><00:02:57.780><c> some</c>
+BitLocker I think symante's got some
+BitLocker I think symante's got some
+great<00:02:58.080><c> products</c><00:02:58.379><c> for</c><00:02:58.560><c> encryption</c><00:02:59.060><c> uh</c><00:03:00.060><c> and</c>
+great products for encryption uh and
+great products for encryption uh and
+Group<00:03:00.599><c> Policy</c><00:03:01.140><c> enforces</c><00:03:01.920><c> it</c><00:03:02.040><c> right</c><00:03:02.220><c> so</c><00:03:02.400><c> maybe</c>
+Group Policy enforces it right so maybe
+Group Policy enforces it right so maybe
+we're<00:03:02.760><c> enforcing</c><00:03:03.120><c> a</c><00:03:03.480><c> group</c><00:03:03.599><c> policy</c><00:03:04.019><c> maybe</c>
+we're enforcing a group policy maybe
+we're enforcing a group policy maybe
+you've<00:03:04.620><c> got</c><00:03:04.739><c> a</c><00:03:04.860><c> third-party</c><00:03:05.280><c> solution</c><00:03:05.459><c> like</c>
+you've got a third-party solution like
+you've got a third-party solution like
+again<00:03:05.940><c> I</c><00:03:06.120><c> mentioned</c><00:03:06.300><c> Symantec</c><00:03:06.900><c> earlier</c>
+again I mentioned Symantec earlier
+again I mentioned Symantec earlier
+they've<00:03:07.620><c> got</c><00:03:07.739><c> some</c><00:03:07.920><c> Drive</c><00:03:08.040><c> encryption</c><00:03:08.519><c> stuff</c>
+they've got some Drive encryption stuff
+they've got some Drive encryption stuff
+that<00:03:08.879><c> can</c><00:03:09.000><c> enforce</c><00:03:09.360><c> it</c><00:03:09.480><c> it's</c><00:03:10.019><c> use</c><00:03:10.319><c> within</c><00:03:10.860><c> all</c>
+that can enforce it it's use within all
+that can enforce it it's use within all
+computers<00:03:11.459><c> in</c><00:03:11.640><c> the</c><00:03:11.879><c> OU</c><00:03:11.879><c> that</c><00:03:12.659><c> has</c><00:03:12.840><c> access</c><00:03:13.080><c> to</c>
+computers in the OU that has access to
+computers in the OU that has access to
+cui<00:03:13.860><c> so</c><00:03:14.040><c> again</c><00:03:14.159><c> in</c><00:03:14.459><c> this</c><00:03:14.640><c> particular</c><00:03:14.879><c> sample</c>
+cui so again in this particular sample
+cui so again in this particular sample
+answer<00:03:15.480><c> that</c><00:03:15.720><c> I'm</c><00:03:15.780><c> giving</c><00:03:15.959><c> we're</c><00:03:16.560><c> talking</c>
+answer that I'm giving we're talking
+answer that I'm giving we're talking
+about<00:03:16.920><c> an</c><00:03:17.159><c> organizational</c><00:03:17.580><c> unit</c><00:03:17.879><c> with</c><00:03:18.120><c> an</c>
+about an organizational unit with an
+about an organizational unit with an
+active<00:03:18.420><c> directory</c><00:03:18.720><c> that's</c><00:03:18.900><c> been</c><00:03:19.080><c> designated</c>
+active directory that's been designated
+active directory that's been designated
+the<00:03:19.739><c> cui</c><00:03:20.360><c> organizational</c><00:03:21.360><c> unit</c><00:03:21.720><c> there's</c><00:03:22.140><c> lots</c>
+the cui organizational unit there's lots
+the cui organizational unit there's lots
+of<00:03:22.560><c> ways</c><00:03:22.739><c> to</c><00:03:22.800><c> segment</c><00:03:23.099><c> information</c><00:03:23.340><c> but</c>
+of ways to segment information but
+of ways to segment information but
+that's<00:03:24.000><c> one</c><00:03:24.239><c> of</c><00:03:24.360><c> them</c><00:03:24.780><c> so</c><00:03:25.440><c> uh</c><00:03:26.040><c> and</c><00:03:26.159><c> on</c><00:03:26.340><c> call</c><00:03:26.580><c> we</c>
+that's one of them so uh and on call we
+that's one of them so uh and on call we
+work<00:03:27.120><c> with</c><00:03:27.300><c> defense</c><00:03:27.599><c> contractors</c><00:03:28.200><c> just</c><00:03:28.500><c> like</c>
+work with defense contractors just like
+work with defense contractors just like
+you<00:03:28.800><c> who</c><00:03:28.980><c> have</c><00:03:29.159><c> had</c><00:03:29.340><c> this</c><00:03:29.519><c> dfar's</c><00:03:30.120><c> nist</c><00:03:30.720><c> itar</c>
+you who have had this dfar's nist itar
+you who have had this dfar's nist itar
+and<00:03:31.440><c> cmmc</c><00:03:31.980><c> compliance</c><00:03:32.459><c> stuff</c><00:03:32.640><c> dropped</c><00:03:33.239><c> into</c>
+and cmmc compliance stuff dropped into
+and cmmc compliance stuff dropped into
+their<00:03:33.480><c> lap</c><00:03:33.659><c> like</c><00:03:33.780><c> a</c><00:03:33.900><c> seagull</c><00:03:34.260><c> on</c><00:03:34.379><c> a</c><00:03:34.500><c> sunny</c><00:03:34.560><c> day</c>
+their lap like a seagull on a sunny day
+their lap like a seagull on a sunny day
+baby<00:03:34.980><c> we</c><00:03:35.580><c> teach</c><00:03:35.700><c> you</c><00:03:35.819><c> how</c><00:03:36.060><c> to</c><00:03:36.180><c> level</c><00:03:36.300><c> up</c><00:03:36.540><c> and</c><00:03:36.840><c> be</c>
+baby we teach you how to level up and be
+baby we teach you how to level up and be
+a<00:03:37.140><c> proper</c><00:03:37.319><c> on-call</c><00:03:37.739><c> compliance</c><00:03:38.159><c> hero</c><00:03:38.400><c> for</c>
+a proper on-call compliance hero for
+a proper on-call compliance hero for
+your<00:03:38.700><c> company</c><00:03:38.879><c> eliminating</c><00:03:39.480><c> gaps</c><00:03:40.019><c> gray</c><00:03:40.500><c> areas</c>
+your company eliminating gaps gray areas
+your company eliminating gaps gray areas
+and<00:03:41.099><c> getting</c><00:03:41.340><c> this</c><00:03:41.519><c> solved</c><00:03:41.940><c> all</c><00:03:42.420><c> while</c>
+and getting this solved all while
+and getting this solved all while
+showing<00:03:42.900><c> you</c><00:03:43.019><c> how</c><00:03:43.200><c> to</c><00:03:43.319><c> leverage</c><00:03:43.500><c> compliance</c>
+showing you how to leverage compliance
+showing you how to leverage compliance
+as<00:03:44.340><c> your</c><00:03:44.580><c> secret</c><00:03:44.760><c> weapon</c><00:03:45.180><c> to</c><00:03:45.480><c> land</c><00:03:45.599><c> more</c>
+as your secret weapon to land more
+as your secret weapon to land more
+Defense<00:03:46.140><c> work</c><00:03:46.319><c> with</c><00:03:46.560><c> higher</c><00:03:46.860><c> profit</c><00:03:47.159><c> margins</c>
+Defense work with higher profit margins
+Defense work with higher profit margins
+and<00:03:47.879><c> that's</c><00:03:48.060><c> what</c><00:03:48.239><c> becoming</c><00:03:48.480><c> an</c><00:03:48.599><c> on-call</c>
+and that's what becoming an on-call
+and that's what becoming an on-call
+compliance<00:03:49.260><c> Bureau</c><00:03:49.560><c> can</c><00:03:49.680><c> do</c><00:03:49.799><c> for</c><00:03:49.920><c> you</c><00:03:50.040><c> if</c>
+compliance Bureau can do for you if
+compliance Bureau can do for you if
+you're<00:03:50.819><c> looking</c><00:03:51.000><c> for</c><00:03:51.239><c> more</c><00:03:51.420><c> help</c><00:03:51.659><c> getting</c>
+you're looking for more help getting
+you're looking for more help getting
+compliant<00:03:52.500><c> or</c><00:03:53.340><c> just</c><00:03:53.580><c> figure</c><00:03:53.700><c> out</c><00:03:53.819><c> what</c><00:03:54.000><c> your</c>
+compliant or just figure out what your
+compliant or just figure out what your
+mobile<00:03:54.180><c> devices</c><00:03:54.480><c> are</c><00:03:54.780><c> our</c><00:03:55.319><c> compliance</c>
+mobile devices are our compliance
+mobile devices are our compliance
+experts<00:03:56.220><c> are</c><00:03:56.519><c> always</c><00:03:56.760><c> on</c><00:03:57.000><c> call</c><00:03:57.180><c> for</c><00:03:57.420><c> you</c><00:03:57.540><c> you</c>
+experts are always on call for you you
+experts are always on call for you you
+can<00:03:57.840><c> visit</c><00:03:58.220><c> cmmccompliance</c><00:03:59.220><c> secrets.com</c><00:03:59.819><c> or</c>
+can visit cmmccompliance secrets.com or
+can visit cmmccompliance secrets.com or
+check<00:04:00.840><c> out</c><00:04:00.959><c> the</c><00:04:01.140><c> bio</c><00:04:01.319><c> below</c><00:04:01.560><c> for</c><00:04:01.739><c> links</c><00:04:01.980><c> to</c><00:04:02.099><c> get</c>
+check out the bio below for links to get
+check out the bio below for links to get
+help<00:04:02.340><c> right</c><00:04:02.580><c> now</c><00:04:02.760><c> if</c><00:04:03.239><c> you</c><00:04:03.360><c> love</c><00:04:03.540><c> the</c><00:04:03.659><c> content</c>
+help right now if you love the content
+help right now if you love the content
+we're<00:04:04.019><c> putting</c><00:04:04.260><c> out</c><00:04:04.319><c> here</c><00:04:04.500><c> for</c><00:04:04.680><c> you</c><00:04:04.799><c> help</c><00:04:05.459><c> us</c>
+we're putting out here for you help us
+we're putting out here for you help us
+out<00:04:05.760><c> with</c><00:04:06.120><c> a</c><00:04:06.239><c> big</c><00:04:06.420><c> thumbs</c><00:04:06.840><c> up</c><00:04:06.900><c> on</c><00:04:07.140><c> that</c><00:04:07.319><c> like</c>
+out with a big thumbs up on that like
+out with a big thumbs up on that like
+button<00:04:07.799><c> it</c><00:04:07.980><c> really</c><00:04:08.159><c> helps</c><00:04:08.459><c> us</c><00:04:08.580><c> out</c><00:04:08.760><c> Keeps</c><00:04:09.360><c> Us</c>
+button it really helps us out Keeps Us
+button it really helps us out Keeps Us
+motivated<00:04:09.900><c> here</c><00:04:10.140><c> back</c><00:04:10.379><c> at</c><00:04:10.439><c> the</c><00:04:10.560><c> home</c><00:04:10.680><c> base</c><00:04:10.860><c> all</c>
+motivated here back at the home base all
+motivated here back at the home base all
+right<00:04:11.280><c> we're</c><00:04:12.180><c> even</c><00:04:12.360><c> better</c><00:04:12.540><c> smash</c><00:04:13.379><c> the</c>
+right we're even better smash the
+right we're even better smash the
+Subscribe<00:04:13.980><c> button</c><00:04:14.280><c> guys</c><00:04:14.400><c> we</c><00:04:14.700><c> get</c><00:04:14.819><c> so</c><00:04:15.060><c> excited</c>
+Subscribe button guys we get so excited
+Subscribe button guys we get so excited
+we<00:04:15.480><c> get</c><00:04:15.659><c> no</c><00:04:15.780><c> subscribers</c><00:04:16.260><c> it's</c><00:04:16.500><c> like</c><00:04:16.680><c> a</c><00:04:16.919><c> dance</c>
+we get no subscribers it's like a dance
+we get no subscribers it's like a dance
+party<00:04:17.340><c> in</c><00:04:17.579><c> our</c><00:04:17.699><c> Halls</c><00:04:18.060><c> every</c><00:04:18.479><c> day</c><00:04:18.660><c> when</c><00:04:18.959><c> that</c>
+party in our Halls every day when that
+party in our Halls every day when that
+happens<00:04:19.260><c> all</c><00:04:19.560><c> right</c><00:04:19.739><c> smash</c><00:04:20.400><c> the</c><00:04:20.519><c> Subscribe</c>
+happens all right smash the Subscribe
+happens all right smash the Subscribe
+button<00:04:21.180><c> get</c><00:04:21.540><c> a</c><00:04:21.720><c> compliance</c><00:04:22.019><c> nerve</c><00:04:22.320><c> to</c><00:04:22.380><c> do</c><00:04:22.500><c> a</c>
+button get a compliance nerve to do a
+button get a compliance nerve to do a
+little<00:04:22.740><c> dance</c><00:04:22.979><c> and</c><00:04:23.759><c> we'll</c><00:04:23.940><c> videotape</c><00:04:24.300><c> it</c>
+little dance and we'll videotape it
+little dance and we'll videotape it
+we'll<00:04:24.540><c> put</c><00:04:24.600><c> it</c><00:04:24.660><c> on</c><00:04:24.840><c> do</c><00:04:25.380><c> all</c><00:04:25.860><c> right</c><00:04:26.040><c> until</c><00:04:26.220><c> the</c>
+we'll put it on do all right until the
+we'll put it on do all right until the
+next<00:04:26.580><c> supplies</c><00:04:26.940><c> tip</c><00:04:27.180><c> my</c><00:04:27.360><c> friends</c><00:04:27.479><c> stay</c><00:04:27.900><c> safe</c>
+next supplies tip my friends stay safe
+next supplies tip my friends stay safe
+and<00:04:28.380><c> secure</c><00:04:28.440><c> out</c><00:04:28.800><c> there</c><00:04:28.919><c> and</c><00:04:29.160><c> hit</c><00:04:29.340><c> us</c><00:04:29.460><c> in</c><00:04:29.580><c> the</c>
+and secure out there and hit us in the
+and secure out there and hit us in the
+comments<00:04:29.940><c> below</c><00:04:30.120><c> to</c><00:04:30.240><c> let</c><00:04:30.419><c> us</c><00:04:30.479><c> know</c><00:04:30.540><c> what</c><00:04:30.720><c> you'd</c>
+comments below to let us know what you'd
+comments below to let us know what you'd
+like<00:04:30.960><c> to</c><00:04:31.080><c> know</c><00:04:31.199><c> more</c><00:04:31.380><c> about</c><00:04:31.560><c> when</c><00:04:31.979><c> it</c><00:04:32.100><c> comes</c><00:04:32.220><c> to</c>
+like to know more about when it comes to
+like to know more about when it comes to
+information<00:04:32.520><c> security</c><00:04:33.000><c> and</c><00:04:33.300><c> compliance</c><00:04:33.780><c> and</c>
+information security and compliance and
+information security and compliance and
+I'll<00:04:34.199><c> see</c><00:04:34.380><c> you</c><00:04:34.500><c> on</c><00:04:34.620><c> the</c><00:04:34.740><c> next</c><00:04:34.860><c> one</c>
+I'll see you on the next one
+I'll see you on the next one
+foreign
+foreign
+foreign
+[Music]

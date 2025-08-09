@@ -1,0 +1,382 @@
+Kind: captions
+Language: en
+hey<00:00:00.399><c> everybody</c><00:00:00.719><c> it's</c><00:00:00.799><c> Mike</c><00:00:00.960><c> frer</c><00:00:01.280><c> here</c><00:00:01.360><c> with</c>
+hey everybody it's Mike frer here with
+hey everybody it's Mike frer here with
+on<00:00:01.680><c> call</c><00:00:01.839><c> compliance</c><00:00:02.200><c> Solutions</c><00:00:02.520><c> and</c><00:00:02.639><c> I'm</c>
+on call compliance Solutions and I'm
+on call compliance Solutions and I'm
+back<00:00:02.960><c> with</c><00:00:03.120><c> another</c><00:00:03.360><c> compliance</c><00:00:03.760><c> tip</c><00:00:03.919><c> of</c><00:00:04.040><c> the</c>
+back with another compliance tip of the
+back with another compliance tip of the
+week<00:00:04.799><c> today</c><00:00:05.040><c> we're</c><00:00:05.200><c> talking</c><00:00:05.400><c> about</c><00:00:05.600><c> cmmc</c>
+week today we're talking about cmmc
+week today we're talking about cmmc
+control<00:00:06.680><c> acl2</c>
+control acl2
+control acl2
+d314<00:00:09.920><c> route</c><00:00:10.280><c> remote</c><00:00:10.759><c> access</c><00:00:11.160><c> via</c><00:00:11.480><c> managed</c>
+d314 route remote access via managed
+d314 route remote access via managed
+access<00:00:12.679><c> control</c><00:00:13.160><c> points</c><00:00:13.519><c> you</c><00:00:13.639><c> know</c><00:00:13.839><c> whatever</c>
+access control points you know whatever
+access control points you know whatever
+those
+those
+those
+[Music]
+[Music]
+[Music]
+are<00:00:24.840><c> so</c><00:00:25.119><c> hey</c><00:00:25.240><c> if</c><00:00:25.320><c> you're</c><00:00:25.439><c> a</c><00:00:25.560><c> defense</c>
+are so hey if you're a defense
+are so hey if you're a defense
+contractor<00:00:26.279><c> who's</c><00:00:26.439><c> feeling</c><00:00:26.720><c> overwhelmed</c>
+contractor who's feeling overwhelmed
+contractor who's feeling overwhelmed
+tired<00:00:27.960><c> and</c>
+tired and
+tired and
+alone<00:00:29.640><c> depressed</c>
+alone depressed
+alone depressed
+and<00:00:31.079><c> sad</c><00:00:32.079><c> trying</c><00:00:32.399><c> to</c><00:00:32.759><c> understand</c><00:00:32.880><c> all</c><00:00:33.079><c> this</c>
+and sad trying to understand all this
+and sad trying to understand all this
+cmmc<00:00:33.760><c> def</c><00:00:34.000><c> fars</c><00:00:34.160><c> and</c><00:00:34.320><c> nist</c><00:00:34.559><c> SP</c><00:00:34.719><c> sp800</c><00:00:35.079><c> 171</c>
+cmmc def fars and nist SP sp800 171
+cmmc def fars and nist SP sp800 171
+compliance<00:00:36.079><c> stuff</c><00:00:36.920><c> on</c><00:00:37.200><c> top</c><00:00:37.360><c> of</c><00:00:37.559><c> an</c><00:00:37.760><c> already</c>
+compliance stuff on top of an already
+compliance stuff on top of an already
+crushing<00:00:39.719><c> workload</c><00:00:40.719><c> I've</c><00:00:40.920><c> got</c><00:00:41.120><c> good</c><00:00:41.320><c> news</c>
+crushing workload I've got good news
+crushing workload I've got good news
+great<00:00:42.559><c> news</c><00:00:42.879><c> in</c><00:00:43.079><c> fact</c><00:00:43.440><c> it</c><00:00:43.559><c> says</c><00:00:43.840><c> great</c><00:00:44.079><c> news</c>
+great news in fact it says great news
+great news in fact it says great news
+right<00:00:44.480><c> there</c><00:00:44.680><c> not</c><00:00:44.879><c> good</c><00:00:45.039><c> news</c><00:00:45.760><c> it's</c><00:00:46.039><c> better</c>
+right there not good news it's better
+right there not good news it's better
+than<00:00:46.399><c> good</c><00:00:46.640><c> it's</c><00:00:46.879><c> great</c><00:00:47.320><c> I</c><00:00:47.399><c> got</c><00:00:47.640><c> great</c><00:00:47.840><c> news</c>
+than good it's great I got great news
+than good it's great I got great news
+you<00:00:48.640><c> found</c><00:00:48.840><c> your</c><00:00:49.000><c> home</c><00:00:49.199><c> here</c><00:00:49.320><c> at</c><00:00:49.440><c> on</c><00:00:49.719><c> call</c>
+you found your home here at on call
+you found your home here at on call
+compliance<00:00:50.239><c> solution</c><00:00:50.640><c> we</c><00:00:50.719><c> can</c><00:00:50.840><c> help</c><00:00:51.000><c> you</c>
+compliance solution we can help you
+compliance solution we can help you
+transform<00:00:52.320><c> into</c><00:00:52.600><c> your</c><00:00:52.840><c> company's</c><00:00:53.359><c> on</c><00:00:53.719><c> call</c>
+transform into your company's on call
+transform into your company's on call
+compliance<00:00:54.440><c> hero</c><00:00:54.879><c> and</c><00:00:55.079><c> make</c><00:00:55.440><c> compliance</c><00:00:56.000><c> suck</c>
+compliance hero and make compliance suck
+compliance hero and make compliance suck
+less<00:00:57.039><c> that's</c><00:00:57.199><c> what</c><00:00:57.359><c> we</c><00:00:57.920><c> do</c><00:00:58.920><c> let's</c><00:00:59.120><c> jump</c><00:00:59.359><c> into</c>
+less that's what we do let's jump into
+less that's what we do let's jump into
+it<00:00:59.719><c> so</c><00:00:59.960><c> so</c><00:01:00.039><c> in</c><00:01:00.120><c> cmmc</c><00:01:00.640><c> control</c><00:01:00.960><c> ac.</c>
+it so so in cmmc control ac.
+it so so in cmmc control ac.
+l231<00:01:03.440><c> 14</c><00:01:04.239><c> route</c><00:01:04.559><c> remote</c><00:01:04.920><c> access</c><00:01:05.239><c> via</c><00:01:05.479><c> managed</c>
+l231 14 route remote access via managed
+l231 14 route remote access via managed
+access<00:01:06.200><c> control</c><00:01:06.560><c> points</c><00:01:06.799><c> is</c><00:01:07.119><c> all</c><00:01:07.400><c> about</c>
+access control points is all about
+access control points is all about
+controlling<00:01:08.360><c> traffic</c><00:01:09.280><c> right</c><00:01:09.680><c> got</c><00:01:09.880><c> the</c>
+controlling traffic right got the
+controlling traffic right got the
+traffic<00:01:10.360><c> controllers</c><00:01:10.880><c> out</c><00:01:11.360><c> trying</c><00:01:11.600><c> to</c><00:01:11.720><c> bring</c>
+traffic controllers out trying to bring
+traffic controllers out trying to bring
+some<00:01:12.080><c> planes</c><00:01:12.400><c> in</c><00:01:12.720><c> trying</c><00:01:12.960><c> to</c><00:01:13.080><c> get</c><00:01:13.159><c> some</c><00:01:13.320><c> planes</c>
+some planes in trying to get some planes
+some planes in trying to get some planes
+out<00:01:13.880><c> that's</c><00:01:14.040><c> what</c><00:01:14.119><c> we're</c><00:01:14.280><c> doing</c><00:01:14.880><c> and</c><00:01:15.040><c> also</c>
+out that's what we're doing and also
+out that's what we're doing and also
+having<00:01:15.560><c> it</c><00:01:15.759><c> documented</c><00:01:16.400><c> for</c><00:01:16.560><c> the</c><00:01:16.720><c> purpose</c><00:01:17.000><c> of</c>
+having it documented for the purpose of
+having it documented for the purpose of
+compliance<00:01:17.799><c> system</c><00:01:18.200><c> architecture</c>
+compliance system architecture
+compliance system architecture
+considerations<00:01:19.680><c> like</c><00:01:19.920><c> best</c><00:01:20.159><c> practices</c><00:01:20.960><c> Etc</c>
+considerations like best practices Etc
+considerations like best practices Etc
+when<00:01:22.159><c> they</c><00:01:22.280><c> say</c><00:01:22.680><c> managed</c><00:01:23.200><c> access</c><00:01:23.560><c> control</c>
+when they say managed access control
+when they say managed access control
+points<00:01:24.320><c> an</c><00:01:24.560><c> example</c><00:01:25.560><c> of</c><00:01:25.799><c> what</c><00:01:25.920><c> in</c><00:01:26.000><c> the</c><00:01:26.079><c> world</c>
+points an example of what in the world
+points an example of what in the world
+they're<00:01:26.560><c> talking</c><00:01:26.920><c> about</c><00:01:27.840><c> is</c><00:01:28.560><c> uh</c><00:01:29.000><c> things</c><00:01:29.280><c> like</c>
+they're talking about is uh things like
+they're talking about is uh things like
+refer<00:01:29.920><c> referring</c><00:01:30.159><c> to</c><00:01:30.479><c> routing</c><00:01:31.119><c> external</c>
+refer referring to routing external
+refer referring to routing external
+traffic<00:01:32.079><c> through</c><00:01:32.240><c> a</c><00:01:32.520><c> firewall</c><00:01:33.520><c> uh</c><00:01:33.640><c> or</c><00:01:33.759><c> a</c><00:01:33.920><c> VPN</c>
+traffic through a firewall uh or a VPN
+traffic through a firewall uh or a VPN
+or<00:01:34.600><c> a</c><00:01:34.720><c> wireless</c><00:01:35.159><c> access</c><00:01:35.479><c> point</c><00:01:35.920><c> in</c><00:01:36.040><c> order</c><00:01:36.200><c> to</c>
+or a wireless access point in order to
+or a wireless access point in order to
+manage<00:01:36.640><c> and</c><00:01:36.799><c> control</c><00:01:37.040><c> the</c><00:01:37.240><c> traffic</c><00:01:37.600><c> along</c>
+manage and control the traffic along
+manage and control the traffic along
+with<00:01:38.119><c> verifying</c><00:01:38.600><c> the</c><00:01:39.320><c> identity</c><00:01:40.320><c> uh</c><00:01:40.520><c> and</c><00:01:40.640><c> then</c>
+with verifying the identity uh and then
+with verifying the identity uh and then
+logging<00:01:41.560><c> what</c><00:01:41.759><c> they</c><00:01:41.880><c> are</c><00:01:42.079><c> doing</c><00:01:42.520><c> through</c><00:01:42.720><c> your</c>
+logging what they are doing through your
+logging what they are doing through your
+seam<00:01:43.840><c> solution</c><00:01:44.840><c> uh</c><00:01:45.240><c> and</c><00:01:45.560><c> you</c><00:01:45.640><c> know</c><00:01:45.719><c> if</c><00:01:45.759><c> you're</c>
+seam solution uh and you know if you're
+seam solution uh and you know if you're
+not<00:01:46.000><c> familiar</c><00:01:46.240><c> with</c><00:01:46.320><c> the</c><00:01:46.360><c> seam</c><00:01:46.600><c> solution</c><00:01:46.880><c> it's</c>
+not familiar with the seam solution it's
+not familiar with the seam solution it's
+a<00:01:47.159><c> security</c><00:01:47.600><c> information</c><00:01:48.000><c> and</c><00:01:48.200><c> event</c>
+a security information and event
+a security information and event
+management<00:01:48.880><c> system</c><00:01:49.640><c> that's</c><00:01:49.799><c> what</c><00:01:49.920><c> they're</c>
+management system that's what they're
+management system that's what they're
+doing<00:01:50.479><c> now</c><00:01:51.159><c> if</c><00:01:51.280><c> I'm</c><00:01:51.399><c> an</c><00:01:51.600><c> assessor</c><00:01:51.960><c> and</c><00:01:52.040><c> I'm</c>
+doing now if I'm an assessor and I'm
+doing now if I'm an assessor and I'm
+looking<00:01:52.320><c> at</c><00:01:52.399><c> this</c><00:01:52.520><c> control</c><00:01:52.840><c> I'm</c><00:01:52.920><c> trying</c><00:01:53.040><c> to</c>
+looking at this control I'm trying to
+looking at this control I'm trying to
+figure<00:01:53.280><c> out</c><00:01:53.360><c> if</c><00:01:53.399><c> you're</c><00:01:53.560><c> compliant</c><00:01:53.920><c> there's</c>
+figure out if you're compliant there's
+figure out if you're compliant there's
+two<00:01:54.240><c> points</c><00:01:54.479><c> I'm</c><00:01:54.640><c> looking</c><00:01:54.840><c> at</c><00:01:55.159><c> Point</c><00:01:55.360><c> number</c>
+two points I'm looking at Point number
+two points I'm looking at Point number
+one<00:01:55.719><c> determine</c><00:01:56.119><c> if</c><00:01:56.320><c> managed</c><00:01:56.840><c> access</c><00:01:57.200><c> control</c>
+one determine if managed access control
+one determine if managed access control
+points<00:01:57.799><c> are</c><00:01:58.079><c> identified</c><00:01:58.880><c> and</c><00:01:59.079><c> implemented</c>
+points are identified and implemented
+points are identified and implemented
+so<00:02:01.640><c> what</c><00:02:01.759><c> would</c><00:02:01.920><c> I</c><00:02:02.000><c> do</c><00:02:02.119><c> for</c><00:02:02.240><c> a</c><00:02:02.360><c> sample</c><00:02:02.640><c> answer</c><00:02:02.880><c> I</c>
+so what would I do for a sample answer I
+so what would I do for a sample answer I
+would<00:02:03.079><c> say</c><00:02:03.240><c> managed</c><00:02:03.680><c> access</c><00:02:04.000><c> control</c><00:02:04.360><c> points</c>
+would say managed access control points
+would say managed access control points
+are<00:02:04.840><c> identified</c><00:02:05.439><c> as</c><00:02:05.680><c> VPN</c><00:02:06.680><c> and</c><00:02:06.840><c> secure</c>
+are identified as VPN and secure
+are identified as VPN and secure
+verified<00:02:07.799><c> access</c><00:02:08.160><c> to</c><00:02:08.360><c> the</c><00:02:08.560><c> Azure</c><00:02:09.000><c> government</c>
+verified access to the Azure government
+verified access to the Azure government
+environment<00:02:10.479><c> access</c><00:02:10.920><c> control</c><00:02:11.560><c> is</c>
+environment access control is
+environment access control is
+implemented<00:02:12.360><c> via</c><00:02:12.640><c> active</c><00:02:12.920><c> directory</c><00:02:13.400><c> and</c><00:02:13.560><c> MFA</c>
+implemented via active directory and MFA
+implemented via active directory and MFA
+so<00:02:14.280><c> again</c><00:02:14.599><c> just</c><00:02:14.720><c> depends</c><00:02:14.959><c> on</c><00:02:15.120><c> what</c><00:02:15.239><c> systems</c>
+so again just depends on what systems
+so again just depends on what systems
+you're<00:02:15.599><c> using</c><00:02:15.840><c> if</c><00:02:15.920><c> you're</c><00:02:16.000><c> using</c><00:02:16.239><c> Office</c><00:02:16.480><c> 365</c>
+you're using if you're using Office 365
+you're using if you're using Office 365
+gcci<00:02:18.120><c> there's</c><00:02:18.319><c> an</c><00:02:18.440><c> answer</c><00:02:18.640><c> in</c><00:02:18.720><c> there</c><00:02:18.840><c> for</c><00:02:19.000><c> you</c>
+gcci there's an answer in there for you
+gcci there's an answer in there for you
+if<00:02:19.280><c> you</c><00:02:19.400><c> got</c><00:02:19.519><c> on</c><00:02:19.760><c> Prem</c><00:02:20.080><c> there</c><00:02:20.200><c> an</c><00:02:20.319><c> answer</c><00:02:20.519><c> in</c>
+if you got on Prem there an answer in
+if you got on Prem there an answer in
+there<00:02:20.800><c> for</c><00:02:20.959><c> you</c><00:02:21.400><c> you</c><00:02:21.480><c> might</c><00:02:21.680><c> even</c><00:02:21.840><c> bring</c><00:02:22.000><c> up</c>
+there for you you might even bring up
+there for you you might even bring up
+firewalls<00:02:22.680><c> and</c><00:02:22.840><c> vpns</c><00:02:23.319><c> and</c><00:02:23.480><c> things</c><00:02:23.640><c> like</c><00:02:23.840><c> that</c>
+firewalls and vpns and things like that
+firewalls and vpns and things like that
+uh<00:02:24.560><c> but</c><00:02:24.760><c> again</c><00:02:25.080><c> the</c><00:02:25.920><c> the</c><00:02:26.400><c> the</c><00:02:27.160><c> idea</c><00:02:27.640><c> is</c><00:02:27.920><c> are</c>
+uh but again the the the idea is are
+uh but again the the the idea is are
+they<00:02:28.239><c> implemented</c><00:02:29.000><c> yes</c><00:02:29.400><c> are</c><00:02:29.519><c> they</c><00:02:29.879><c> identified</c>
+they implemented yes are they identified
+they implemented yes are they identified
+we<00:02:30.800><c> also</c><00:02:31.080><c> might</c><00:02:31.239><c> look</c><00:02:31.360><c> at</c><00:02:31.480><c> our</c><00:02:31.680><c> Network</c>
+we also might look at our Network
+we also might look at our Network
+documentation<00:02:32.800><c> are</c><00:02:32.959><c> they</c><00:02:33.160><c> identified</c><00:02:33.840><c> on</c><00:02:34.080><c> a</c>
+documentation are they identified on a
+documentation are they identified on a
+network<00:02:34.640><c> diagram</c><00:02:35.200><c> or</c><00:02:35.519><c> cui</c><00:02:36.040><c> flow</c><00:02:36.360><c> control</c><00:02:37.160><c> all</c>
+network diagram or cui flow control all
+network diagram or cui flow control all
+of<00:02:37.440><c> those</c><00:02:37.560><c> things</c><00:02:37.720><c> are</c><00:02:37.920><c> very</c><00:02:38.360><c> important</c><00:02:39.360><c> now</c>
+of those things are very important now
+of those things are very important now
+second<00:02:40.120><c> thing</c><00:02:40.239><c> I</c><00:02:40.319><c> would</c><00:02:40.519><c> assess</c><00:02:40.760><c> for</c>
+second thing I would assess for
+second thing I would assess for
+determine<00:02:41.440><c> if</c><00:02:41.599><c> remote</c><00:02:42.040><c> access</c><00:02:42.400><c> is</c><00:02:42.560><c> routed</c>
+determine if remote access is routed
+determine if remote access is routed
+through<00:02:43.200><c> manag</c><00:02:43.599><c> network</c><00:02:43.959><c> access</c><00:02:44.280><c> control</c>
+through manag network access control
+through manag network access control
+points<00:02:45.400><c> so</c><00:02:46.159><c> maybe</c><00:02:46.440><c> we</c><00:02:46.640><c> say</c><00:02:47.599><c> no</c><00:02:48.080><c> remote</c><00:02:48.519><c> access</c>
+points so maybe we say no remote access
+points so maybe we say no remote access
+is<00:02:49.120><c> possible</c><00:02:49.680><c> without</c><00:02:50.080><c> being</c><00:02:50.599><c> routed</c><00:02:51.519><c> through</c>
+is possible without being routed through
+is possible without being routed through
+the<00:02:51.959><c> organization's</c><00:02:52.680><c> VPN</c><00:02:53.519><c> a</c><00:02:53.800><c> all</c><00:02:53.959><c> right</c><00:02:54.239><c> can't</c>
+the organization's VPN a all right can't
+the organization's VPN a all right can't
+get<00:02:54.480><c> to</c><00:02:54.599><c> the</c><00:02:54.680><c> cui</c><00:02:55.080><c> unless</c><00:02:55.280><c> we're</c><00:02:55.400><c> routing</c>
+get to the cui unless we're routing
+get to the cui unless we're routing
+through<00:02:55.840><c> that</c><00:02:56.000><c> managed</c><00:02:56.440><c> Access</c><00:02:56.720><c> Control</c>
+through that managed Access Control
+through that managed Access Control
+point<00:02:57.200><c> of</c><00:02:57.280><c> the</c><00:02:57.400><c> VPN</c><00:02:58.400><c> or</c><00:02:59.040><c> maybe</c><00:02:59.319><c> if</c><00:02:59.400><c> you</c><00:02:59.519><c> got</c>
+point of the VPN or maybe if you got
+point of the VPN or maybe if you got
+Office<00:03:00.040><c> 365</c><00:03:00.640><c> GCC</c><00:03:01.159><c> High</c><00:03:01.319><c> we're</c><00:03:01.440><c> looking</c><00:03:01.599><c> at</c>
+Office 365 GCC High we're looking at
+Office 365 GCC High we're looking at
+Azure<00:03:02.120><c> government</c><00:03:02.560><c> access</c><00:03:03.239><c> including</c>
+Azure government access including
+Azure government access including
+requirements<00:03:04.400><c> to</c><00:03:04.720><c> for</c><00:03:05.080><c> ad</c><00:03:05.560><c> or</c><00:03:05.760><c> active</c>
+requirements to for ad or active
+requirements to for ad or active
+directory<00:03:06.680><c> and</c><00:03:07.159><c> multiactor</c><00:03:07.840><c> authentication</c>
+directory and multiactor authentication
+directory and multiactor authentication
+so<00:03:09.080><c> again</c><00:03:09.480><c> lots</c><00:03:09.680><c> of</c><00:03:09.840><c> ways</c><00:03:10.000><c> to</c><00:03:10.159><c> determine</c><00:03:10.560><c> if</c>
+so again lots of ways to determine if
+so again lots of ways to determine if
+the<00:03:10.799><c> remote</c><00:03:11.159><c> access</c><00:03:11.560><c> is</c><00:03:11.720><c> actually</c><00:03:11.959><c> routed</c>
+the remote access is actually routed
+the remote access is actually routed
+through<00:03:12.599><c> those</c><00:03:12.720><c> manage</c><00:03:13.120><c> access</c><00:03:13.440><c> control</c>
+through those manage access control
+through those manage access control
+points<00:03:14.720><c> now</c><00:03:15.280><c> if</c><00:03:15.400><c> you're</c><00:03:15.599><c> a</c><00:03:15.799><c> defense</c>
+points now if you're a defense
+points now if you're a defense
+contractor<00:03:17.280><c> and</c><00:03:17.560><c> you're</c><00:03:17.760><c> struggling</c><00:03:18.200><c> to</c>
+contractor and you're struggling to
+contractor and you're struggling to
+figure<00:03:18.599><c> this</c><00:03:18.720><c> out</c><00:03:19.560><c> we</c><00:03:19.799><c> can</c><00:03:20.000><c> help</c><00:03:20.400><c> because</c><00:03:20.519><c> at</c>
+figure this out we can help because at
+figure this out we can help because at
+on<00:03:20.959><c> call</c><00:03:21.239><c> we</c><00:03:21.360><c> work</c><00:03:21.560><c> with</c><00:03:21.720><c> defense</c><00:03:22.080><c> contractors</c>
+on call we work with defense contractors
+on call we work with defense contractors
+just<00:03:23.080><c> like</c><00:03:23.560><c> you</c><00:03:24.560><c> like</c><00:03:24.879><c> you</c><00:03:25.200><c> the</c><00:03:25.519><c> guy</c><00:03:25.640><c> that's</c>
+just like you like you the guy that's
+just like you like you the guy that's
+watching<00:03:26.120><c> this</c><00:03:26.319><c> video</c><00:03:26.720><c> or</c><00:03:26.840><c> the</c><00:03:26.959><c> girl</c><00:03:27.159><c> that's</c>
+watching this video or the girl that's
+watching this video or the girl that's
+watching<00:03:27.640><c> this</c><00:03:27.799><c> video</c><00:03:28.519><c> yeah</c><00:03:28.840><c> we</c><00:03:29.000><c> work</c><00:03:29.159><c> with</c>
+watching this video yeah we work with
+watching this video yeah we work with
+people<00:03:29.439><c> just</c><00:03:29.560><c> like</c><00:03:30.000><c> you</c><00:03:30.519><c> who</c><00:03:30.840><c> have</c><00:03:31.040><c> had</c><00:03:31.200><c> this</c>
+people just like you who have had this
+people just like you who have had this
+defar<00:03:32.599><c> nist</c><00:03:33.599><c> itar</c><00:03:34.120><c> and</c><00:03:34.280><c> cmmc</c><00:03:34.920><c> compliance</c>
+defar nist itar and cmmc compliance
+defar nist itar and cmmc compliance
+stuff<00:03:36.000><c> dropped</c><00:03:36.400><c> into</c><00:03:36.599><c> their</c><00:03:36.760><c> laps</c><00:03:37.040><c> like</c><00:03:37.159><c> a</c>
+stuff dropped into their laps like a
+stuff dropped into their laps like a
+seagull<00:03:37.640><c> on</c><00:03:37.760><c> a</c><00:03:37.879><c> sunny</c><00:03:38.200><c> day</c><00:03:38.640><c> and</c><00:03:38.760><c> we</c><00:03:38.920><c> teach</c><00:03:39.200><c> you</c>
+seagull on a sunny day and we teach you
+seagull on a sunny day and we teach you
+how<00:03:39.799><c> to</c><00:03:39.959><c> level</c><00:03:40.200><c> up</c><00:03:40.360><c> and</c><00:03:40.480><c> be</c><00:03:40.599><c> a</c><00:03:40.720><c> proper</c><00:03:40.959><c> on</c><00:03:41.239><c> call</c>
+how to level up and be a proper on call
+how to level up and be a proper on call
+compliance<00:03:41.799><c> hero</c><00:03:42.040><c> for</c><00:03:42.159><c> your</c><00:03:42.360><c> company</c>
+compliance hero for your company
+compliance hero for your company
+eliminating<00:03:43.280><c> gaps</c><00:03:43.599><c> great</c><00:03:43.879><c> areas</c><00:03:44.480><c> and</c><00:03:44.640><c> getting</c>
+eliminating gaps great areas and getting
+eliminating gaps great areas and getting
+this<00:03:45.080><c> solved</c><00:03:45.799><c> all</c><00:03:46.000><c> while</c><00:03:46.200><c> showing</c><00:03:46.480><c> you</c><00:03:46.720><c> how</c><00:03:46.799><c> to</c>
+this solved all while showing you how to
+this solved all while showing you how to
+leverage<00:03:47.280><c> compliance</c><00:03:47.720><c> as</c><00:03:47.879><c> your</c><00:03:48.040><c> secret</c>
+leverage compliance as your secret
+leverage compliance as your secret
+weapon<00:03:48.799><c> to</c><00:03:48.959><c> land</c><00:03:49.200><c> more</c><00:03:49.400><c> Defense</c><00:03:49.720><c> work</c><00:03:50.000><c> with</c>
+weapon to land more Defense work with
+weapon to land more Defense work with
+higher<00:03:50.480><c> profit</c><00:03:50.720><c> margins</c><00:03:51.400><c> now</c><00:03:51.560><c> that's</c><00:03:51.680><c> what</c>
+higher profit margins now that's what
+higher profit margins now that's what
+becoming<00:03:52.079><c> an</c><00:03:52.159><c> on</c><00:03:52.400><c> call</c><00:03:52.560><c> compliance</c><00:03:52.920><c> hero</c><00:03:53.159><c> can</c>
+becoming an on call compliance hero can
+becoming an on call compliance hero can
+do<00:03:53.360><c> for</c><00:03:53.560><c> you</c><00:03:54.560><c> if</c><00:03:54.680><c> you're</c><00:03:54.920><c> looking</c><00:03:55.200><c> for</c><00:03:55.439><c> more</c>
+do for you if you're looking for more
+do for you if you're looking for more
+help<00:03:56.519><c> getting</c><00:03:56.840><c> compliant</c><00:03:57.640><c> You</c><00:03:57.760><c> Are</c><00:03:57.959><c> Not</c><00:03:58.159><c> Alone</c>
+help getting compliant You Are Not Alone
+help getting compliant You Are Not Alone
+our<00:03:59.000><c> compliance</c><00:03:59.439><c> EXP</c><00:04:00.040><c> are</c><00:04:00.280><c> always</c><00:04:00.599><c> on</c><00:04:00.840><c> call</c>
+our compliance EXP are always on call
+our compliance EXP are always on call
+for<00:04:01.200><c> you</c><00:04:01.360><c> you</c><00:04:01.439><c> can</c><00:04:01.599><c> visit</c><00:04:01.840><c> cmmc</c>
+for you you can visit cmmc
+for you you can visit cmmc
+compliance.com<00:04:04.040><c> or</c><00:04:04.680><c> check</c><00:04:04.879><c> out</c><00:04:05.079><c> the</c><00:04:05.239><c> bio</c>
+compliance.com or check out the bio
+compliance.com or check out the bio
+below<00:04:05.799><c> for</c><00:04:05.959><c> links</c><00:04:06.159><c> to</c><00:04:06.319><c> get</c><00:04:06.480><c> help</c><00:04:06.799><c> right</c><00:04:06.959><c> now</c><00:04:07.519><c> if</c>
+below for links to get help right now if
+below for links to get help right now if
+you<00:04:07.840><c> love</c><00:04:08.000><c> the</c><00:04:08.120><c> content</c><00:04:08.439><c> we're</c><00:04:08.560><c> putting</c><00:04:08.760><c> out</c>
+you love the content we're putting out
+you love the content we're putting out
+here<00:04:09.079><c> for</c><00:04:09.319><c> you</c><00:04:09.879><c> help</c><00:04:10.079><c> us</c><00:04:10.280><c> out</c><00:04:10.840><c> with</c><00:04:10.959><c> a</c><00:04:11.159><c> big</c>
+here for you help us out with a big
+here for you help us out with a big
+thumbs<00:04:11.599><c> up</c><00:04:11.760><c> on</c><00:04:11.920><c> that</c><00:04:12.079><c> like</c><00:04:12.319><c> button</c><00:04:12.760><c> or</c><00:04:12.920><c> even</c>
+thumbs up on that like button or even
+thumbs up on that like button or even
+better<00:04:13.640><c> smash</c><00:04:14.000><c> the</c><00:04:14.200><c> Subscribe</c><00:04:14.640><c> button</c><00:04:15.000><c> to</c><00:04:15.159><c> get</c>
+better smash the Subscribe button to get
+better smash the Subscribe button to get
+the<00:04:15.360><c> latest</c><00:04:15.680><c> compliance</c><00:04:16.160><c> content</c><00:04:16.600><c> as</c><00:04:16.759><c> soon</c><00:04:16.959><c> as</c>
+the latest compliance content as soon as
+the latest compliance content as soon as
+our<00:04:17.239><c> compliance</c><00:04:17.639><c> nerds</c><00:04:17.919><c> roll</c><00:04:18.120><c> it</c><00:04:18.239><c> out</c><00:04:18.680><c> until</c>
+our compliance nerds roll it out until
+our compliance nerds roll it out until
+the<00:04:19.000><c> next</c><00:04:19.199><c> compliance</c><00:04:19.600><c> tip</c><00:04:19.799><c> my</c><00:04:19.919><c> friends</c><00:04:20.560><c> stay</c>
+the next compliance tip my friends stay
+the next compliance tip my friends stay
+safe<00:04:21.120><c> out</c><00:04:21.359><c> there</c><00:04:21.840><c> and</c><00:04:22.079><c> secure</c><00:04:22.639><c> and</c><00:04:22.800><c> hit</c><00:04:22.919><c> us</c><00:04:23.040><c> in</c>
+safe out there and secure and hit us in
+safe out there and secure and hit us in
+the<00:04:23.240><c> comments</c><00:04:23.520><c> below</c><00:04:23.759><c> to</c><00:04:23.880><c> let</c><00:04:23.960><c> us</c><00:04:24.080><c> know</c><00:04:24.240><c> what</c>
+the comments below to let us know what
+the comments below to let us know what
+you'd<00:04:24.479><c> like</c><00:04:24.600><c> to</c><00:04:24.720><c> learn</c><00:04:24.919><c> more</c><00:04:25.120><c> about</c><00:04:25.360><c> when</c><00:04:25.479><c> it</c>
+you'd like to learn more about when it
+you'd like to learn more about when it
+comes<00:04:25.759><c> to</c><00:04:25.960><c> information</c><00:04:26.440><c> security</c><00:04:26.840><c> and</c>
+comes to information security and
+comes to information security and
+compliance<00:04:27.759><c> and</c><00:04:27.880><c> I'll</c><00:04:28.000><c> see</c><00:04:28.160><c> you</c><00:04:28.280><c> on</c><00:04:28.400><c> the</c><00:04:28.560><c> next</c>
+compliance and I'll see you on the next
+compliance and I'll see you on the next
+one
+one
+one
+w
+[Music]

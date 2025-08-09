@@ -1,0 +1,534 @@
+Kind: captions
+Language: en
+hey<00:00:00.420><c> everybody</c><00:00:00.539><c> it's</c><00:00:00.780><c> Mike</c><00:00:00.960><c> frieder</c><00:00:01.319><c> here</c>
+hey everybody it's Mike frieder here
+hey everybody it's Mike frieder here
+with<00:00:01.500><c> on-call</c><00:00:01.800><c> compliance</c><00:00:02.159><c> Solutions</c><00:00:02.340><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:02.700><c> back</c><00:00:02.820><c> with</c><00:00:03.000><c> another</c><00:00:03.120><c> compliance</c><00:00:03.659><c> tip</c><00:00:03.840><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.080><c> week</c><00:00:04.140><c> this</c><00:00:04.560><c> week</c><00:00:04.680><c> we're</c><00:00:04.860><c> talking</c><00:00:05.040><c> about</c>
+the week this week we're talking about
+the week this week we're talking about
+cmmc<00:00:05.700><c> control</c><00:00:05.880><c> cm</c><00:00:06.480><c> .l2</c><00:00:06.960><c> Dash</c><00:00:07.519><c> 3.4.7</c><00:00:08.519><c> restrict</c>
+cmmc control cm .l2 Dash 3.4.7 restrict
+cmmc control cm .l2 Dash 3.4.7 restrict
+disabler<00:00:09.420><c> prevent</c><00:00:09.720><c> the</c><00:00:09.900><c> use</c><00:00:10.080><c> of</c>
+disabler prevent the use of
+disabler prevent the use of
+non-essential<00:00:10.920><c> programs</c><00:00:11.400><c> functions</c><00:00:12.120><c> ports</c>
+non-essential programs functions ports
+non-essential programs functions ports
+protocols<00:00:13.080><c> and</c><00:00:13.320><c> services</c><00:00:13.639><c> let's</c><00:00:14.639><c> get</c><00:00:14.820><c> into</c><00:00:15.000><c> it</c>
+protocols and services let's get into it
+protocols and services let's get into it
+[Music]
+[Music]
+[Music]
+say<00:00:25.320><c> hey</c><00:00:25.500><c> if</c><00:00:25.619><c> you're</c><00:00:25.740><c> a</c><00:00:25.859><c> defense</c><00:00:26.100><c> contractor</c>
+say hey if you're a defense contractor
+say hey if you're a defense contractor
+who's<00:00:26.640><c> feeling</c><00:00:26.820><c> overwhelmed</c><00:00:27.420><c> tired</c><00:00:27.840><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:28.140><c> trying</c><00:00:28.680><c> to</c><00:00:28.859><c> understand</c><00:00:28.980><c> all</c><00:00:29.279><c> the</c><00:00:29.460><c> cmmc</c>
+alone trying to understand all the cmmc
+alone trying to understand all the cmmc
+dfars<00:00:30.599><c> and</c><00:00:30.660><c> nist</c><00:00:30.920><c> sp80171</c><00:00:31.920><c> compliance</c><00:00:32.399><c> stuff</c>
+dfars and nist sp80171 compliance stuff
+dfars and nist sp80171 compliance stuff
+on<00:00:33.120><c> top</c><00:00:33.239><c> of</c><00:00:33.360><c> an</c><00:00:33.540><c> already</c><00:00:33.660><c> colossal</c><00:00:34.200><c> workload</c>
+on top of an already colossal workload
+on top of an already colossal workload
+well<00:00:34.920><c> I've</c><00:00:35.160><c> got</c><00:00:35.219><c> great</c><00:00:35.460><c> news</c><00:00:35.640><c> for</c><00:00:35.880><c> you</c><00:00:35.940><c> you</c>
+well I've got great news for you you
+well I've got great news for you you
+found<00:00:36.420><c> your</c><00:00:36.540><c> home</c><00:00:36.719><c> here</c><00:00:36.899><c> at</c><00:00:37.140><c> on-call</c>
+found your home here at on-call
+found your home here at on-call
+compliance<00:00:37.980><c> solution</c><00:00:38.160><c> where</c><00:00:38.399><c> we</c><00:00:38.579><c> can</c><00:00:38.700><c> help</c>
+compliance solution where we can help
+compliance solution where we can help
+you<00:00:39.000><c> transform</c><00:00:39.660><c> into</c><00:00:40.260><c> your</c><00:00:40.500><c> company's</c>
+you transform into your company's
+you transform into your company's
+on-call<00:00:41.399><c> compliance</c><00:00:41.879><c> Hero</c><00:00:42.300><c> Let's</c><00:00:42.960><c> jump</c><00:00:43.140><c> into</c>
+on-call compliance Hero Let's jump into
+on-call compliance Hero Let's jump into
+it<00:00:43.559><c> so</c><00:00:43.739><c> in</c><00:00:43.980><c> cmmc</c><00:00:44.520><c> control</c>
+it so in cmmc control
+it so in cmmc control
+cm.l2-3.4.7<00:00:46.980><c> restrict</c><00:00:47.399><c> disabler</c><00:00:47.879><c> prevent</c>
+cm.l2-3.4.7 restrict disabler prevent
+cm.l2-3.4.7 restrict disabler prevent
+the<00:00:48.360><c> use</c><00:00:48.480><c> of</c><00:00:48.660><c> non-essential</c><00:00:49.200><c> programs</c>
+the use of non-essential programs
+the use of non-essential programs
+functions<00:00:49.980><c> ports</c><00:00:50.340><c> protocols</c><00:00:50.820><c> and</c><00:00:50.940><c> services</c>
+functions ports protocols and services
+functions ports protocols and services
+uh<00:00:52.200><c> hey</c><00:00:52.379><c> look</c><00:00:52.559><c> same</c><00:00:53.160><c> basic</c><00:00:53.579><c> principle</c><00:00:54.059><c> about</c>
+uh hey look same basic principle about
+uh hey look same basic principle about
+not<00:00:55.260><c> letting</c><00:00:55.680><c> people</c><00:00:55.800><c> access</c><00:00:56.160><c> files</c><00:00:56.760><c> and</c>
+not letting people access files and
+not letting people access files and
+systems<00:00:57.300><c> they</c><00:00:57.539><c> don't</c><00:00:57.660><c> need</c><00:00:57.840><c> access</c><00:00:58.079><c> to</c><00:00:58.379><c> to</c>
+systems they don't need access to to
+systems they don't need access to to
+perform<00:00:58.980><c> their</c><00:00:59.280><c> currently</c><00:00:59.520><c> assigned</c><00:00:59.820><c> job</c>
+perform their currently assigned job
+perform their currently assigned job
+duties<00:01:00.360><c> let's</c><00:01:00.960><c> extend</c><00:01:01.379><c> it</c><00:01:01.559><c> all</c><00:01:01.680><c> right</c><00:01:01.800><c> let's</c>
+duties let's extend it all right let's
+duties let's extend it all right let's
+also<00:01:02.340><c> make</c><00:01:02.579><c> sure</c><00:01:02.760><c> that</c><00:01:02.940><c> we</c><00:01:03.059><c> eliminate</c><00:01:03.480><c> access</c>
+also make sure that we eliminate access
+also make sure that we eliminate access
+to<00:01:04.019><c> any</c><00:01:04.199><c> other</c><00:01:04.440><c> capabilities</c><00:01:05.400><c> that</c><00:01:06.299><c> they</c><00:01:06.479><c> have</c>
+to any other capabilities that they have
+to any other capabilities that they have
+right<00:01:06.960><c> so</c><00:01:07.380><c> now</c><00:01:07.560><c> it's</c><00:01:07.740><c> not</c><00:01:07.920><c> just</c><00:01:08.100><c> accessing</c><00:01:08.640><c> you</c>
+right so now it's not just accessing you
+right so now it's not just accessing you
+know<00:01:09.060><c> files</c><00:01:09.600><c> and</c><00:01:09.780><c> things</c><00:01:09.960><c> like</c><00:01:10.140><c> that</c><00:01:10.400><c> uh</c><00:01:11.400><c> now</c>
+know files and things like that uh now
+know files and things like that uh now
+we<00:01:11.939><c> want</c><00:01:12.060><c> to</c><00:01:12.180><c> just</c><00:01:12.299><c> straight</c><00:01:12.479><c> up</c><00:01:12.659><c> just</c><00:01:12.960><c> we</c><00:01:13.560><c> want</c>
+we want to just straight up just we want
+we want to just straight up just we want
+to<00:01:13.799><c> disable</c><00:01:14.100><c> their</c><00:01:14.400><c> ability</c><00:01:14.700><c> to</c><00:01:15.060><c> do</c><00:01:15.299><c> dumb</c>
+to disable their ability to do dumb
+to disable their ability to do dumb
+things<00:01:16.260><c> like</c><00:01:16.619><c> that's</c><00:01:16.920><c> the</c><00:01:17.100><c> really</c><00:01:17.220><c> the</c><00:01:17.400><c> best</c>
+things like that's the really the best
+things like that's the really the best
+way<00:01:17.700><c> to</c><00:01:17.820><c> explain</c><00:01:18.060><c> it</c><00:01:18.299><c> all</c><00:01:18.479><c> right</c><00:01:18.659><c> don't</c><00:01:19.500><c> let</c>
+way to explain it all right don't let
+way to explain it all right don't let
+them<00:01:19.920><c> have</c>
+them have
+them have
+bit<00:01:21.479><c> torrent</c><00:01:21.960><c> ports</c><00:01:22.259><c> open</c><00:01:22.439><c> on</c><00:01:22.680><c> the</c><00:01:22.799><c> network</c>
+bit torrent ports open on the network
+bit torrent ports open on the network
+they<00:01:23.520><c> don't</c><00:01:23.640><c> need</c><00:01:23.820><c> it</c><00:01:24.000><c> they</c><00:01:24.840><c> don't</c><00:01:25.020><c> you're</c>
+they don't need it they don't you're
+they don't need it they don't you're
+paying<00:01:26.220><c> for</c><00:01:26.340><c> the</c><00:01:26.400><c> bandwidth</c><00:01:26.880><c> shut</c><00:01:27.420><c> it</c><00:01:27.600><c> down</c>
+paying for the bandwidth shut it down
+paying for the bandwidth shut it down
+all<00:01:28.320><c> right</c><00:01:28.500><c> fastest</c><00:01:29.460><c> way</c><00:01:29.580><c> to</c><00:01:29.759><c> get</c><00:01:29.880><c> in</c><00:01:30.060><c> trouble</c>
+all right fastest way to get in trouble
+all right fastest way to get in trouble
+is<00:01:31.020><c> leave</c><00:01:31.740><c> your</c><00:01:31.920><c> front</c><00:01:32.040><c> door</c><00:01:32.220><c> open</c><00:01:32.460><c> at</c><00:01:32.759><c> night</c>
+is leave your front door open at night
+is leave your front door open at night
+maybe<00:01:33.420><c> you</c><00:01:33.659><c> leave</c><00:01:34.080><c> some</c><00:01:34.259><c> milk</c><00:01:34.439><c> and</c><00:01:34.619><c> cookies</c>
+maybe you leave some milk and cookies
+maybe you leave some milk and cookies
+for<00:01:35.100><c> the</c><00:01:35.220><c> bad</c><00:01:35.400><c> guys</c><00:01:35.579><c> to</c><00:01:35.880><c> come</c><00:01:36.000><c> in</c><00:01:36.180><c> at</c><00:01:36.360><c> the</c><00:01:36.540><c> front</c>
+for the bad guys to come in at the front
+for the bad guys to come in at the front
+door<00:01:36.900><c> right</c><00:01:37.320><c> it</c><00:01:37.920><c> only</c><00:01:38.040><c> works</c><00:01:38.340><c> one</c><00:01:38.460><c> time</c><00:01:38.579><c> a</c><00:01:38.759><c> year</c>
+door right it only works one time a year
+door right it only works one time a year
+guys<00:01:39.119><c> that's</c><00:01:39.540><c> Christmas</c><00:01:39.840><c> and</c><00:01:40.680><c> you</c><00:01:40.799><c> have</c><00:01:40.979><c> to</c>
+guys that's Christmas and you have to
+guys that's Christmas and you have to
+leave<00:01:41.159><c> by</c><00:01:41.340><c> the</c><00:01:41.460><c> chimney</c><00:01:41.700><c> anyway</c><00:01:41.939><c> uh</c><00:01:42.720><c> the</c><00:01:42.960><c> point</c>
+leave by the chimney anyway uh the point
+leave by the chimney anyway uh the point
+is<00:01:43.259><c> is</c><00:01:43.560><c> again</c><00:01:43.860><c> we</c><00:01:44.520><c> just</c><00:01:44.759><c> really</c><00:01:45.000><c> want</c><00:01:45.360><c> to</c><00:01:45.720><c> be</c>
+is is again we just really want to be
+is is again we just really want to be
+able<00:01:46.320><c> to</c><00:01:46.799><c> restrict</c><00:01:47.520><c> and</c><00:01:48.299><c> disable</c><00:01:48.740><c> anything</c><00:01:49.939><c> uh</c>
+able to restrict and disable anything uh
+able to restrict and disable anything uh
+you<00:01:51.180><c> know</c><00:01:51.299><c> that</c><00:01:52.020><c> would</c><00:01:52.320><c> allow</c><00:01:52.740><c> someone</c><00:01:53.040><c> to</c><00:01:53.700><c> get</c>
+you know that would allow someone to get
+you know that would allow someone to get
+in<00:01:54.600><c> and</c><00:01:54.840><c> do</c><00:01:55.020><c> bad</c><00:01:55.259><c> things</c><00:01:55.439><c> or</c><00:01:55.860><c> our</c><00:01:56.159><c> people</c><00:01:56.460><c> to</c>
+in and do bad things or our people to
+in and do bad things or our people to
+get<00:01:57.479><c> out</c><00:01:57.720><c> and</c><00:01:57.899><c> do</c><00:01:58.140><c> dumb</c><00:01:58.560><c> things</c><00:01:58.740><c> that's</c>
+get out and do dumb things that's
+get out and do dumb things that's
+probably<00:01:59.399><c> the</c><00:01:59.579><c> best</c><00:01:59.640><c> way</c><00:01:59.820><c> to</c><00:01:59.939><c> say</c><00:02:00.119><c> it</c><00:02:00.240><c> all</c>
+probably the best way to say it all
+probably the best way to say it all
+right<00:02:00.600><c> so</c><00:02:00.960><c> let's</c><00:02:01.200><c> check</c><00:02:01.380><c> out</c><00:02:01.500><c> what</c><00:02:01.619><c> the</c>
+right so let's check out what the
+right so let's check out what the
+assessors<00:02:02.040><c> are</c><00:02:02.220><c> looking</c><00:02:02.340><c> for</c><00:02:02.520><c> on</c><00:02:02.820><c> this</c><00:02:03.000><c> one</c>
+assessors are looking for on this one
+assessors are looking for on this one
+how<00:02:03.420><c> to</c><00:02:03.600><c> make</c><00:02:03.720><c> them</c><00:02:03.840><c> happy</c>
+how to make them happy
+how to make them happy
+first<00:02:05.460><c> assessment</c><00:02:05.939><c> Point</c><00:02:06.119><c> determine</c><00:02:06.899><c> if</c>
+first assessment Point determine if
+first assessment Point determine if
+essential<00:02:07.439><c> programs</c><00:02:07.860><c> are</c><00:02:08.039><c> defined</c><00:02:08.520><c> oh</c><00:02:09.300><c> we</c><00:02:09.899><c> got</c>
+essential programs are defined oh we got
+essential programs are defined oh we got
+to<00:02:10.080><c> Define</c><00:02:10.259><c> programs</c><00:02:10.860><c> yes</c><00:02:11.039><c> essential</c>
+to Define programs yes essential
+to Define programs yes essential
+programs<00:02:11.819><c> are</c><00:02:11.940><c> defined</c><00:02:12.239><c> by</c><00:02:12.360><c> the</c><00:02:12.480><c> IT</c><00:02:12.599><c> team</c><00:02:12.959><c> uh</c>
+programs are defined by the IT team uh
+programs are defined by the IT team uh
+only<00:02:13.920><c> the</c><00:02:14.099><c> IT</c><00:02:14.280><c> team</c><00:02:14.580><c> can</c><00:02:14.760><c> allow</c><00:02:15.000><c> program</c>
+only the IT team can allow program
+only the IT team can allow program
+installation<00:02:15.959><c> right</c><00:02:16.680><c> so</c><00:02:16.920><c> that's</c><00:02:17.099><c> the</c><00:02:17.280><c> first</c>
+installation right so that's the first
+installation right so that's the first
+thing<00:02:17.520><c> if</c><00:02:17.879><c> you're</c><00:02:17.940><c> an</c><00:02:18.060><c> I.T</c><00:02:18.360><c> director</c><00:02:18.660><c> okay</c><00:02:18.840><c> the</c>
+thing if you're an I.T director okay the
+thing if you're an I.T director okay the
+first<00:02:19.200><c> thing</c><00:02:19.319><c> you</c><00:02:19.440><c> do</c><00:02:19.560><c> is</c><00:02:19.620><c> you</c><00:02:19.739><c> get</c><00:02:19.860><c> in</c><00:02:19.980><c> there</c>
+first thing you do is you get in there
+first thing you do is you get in there
+and<00:02:20.160><c> you</c><00:02:20.280><c> stop</c><00:02:20.520><c> people</c><00:02:20.700><c> from</c><00:02:20.940><c> installing</c><00:02:21.300><c> all</c>
+and you stop people from installing all
+and you stop people from installing all
+kinds<00:02:21.660><c> of</c><00:02:21.720><c> Rogue</c><00:02:22.020><c> software</c><00:02:22.379><c> okay</c><00:02:22.920><c> sorry</c><00:02:23.340><c> if</c>
+kinds of Rogue software okay sorry if
+kinds of Rogue software okay sorry if
+you're<00:02:23.760><c> an</c><00:02:23.879><c> I.T</c><00:02:24.120><c> director</c><00:02:24.360><c> to</c><00:02:24.480><c> be</c><00:02:24.599><c> with</c><00:02:24.840><c> your</c>
+you're an I.T director to be with your
+you're an I.T director to be with your
+company's<00:02:25.140><c> big</c><00:02:25.319><c> enough</c><00:02:25.440><c> that</c><00:02:25.680><c> your</c><00:02:25.800><c> people</c>
+company's big enough that your people
+company's big enough that your people
+shouldn't<00:02:26.280><c> just</c><00:02:26.400><c> be</c><00:02:26.520><c> installing</c><00:02:27.000><c> things</c><00:02:27.120><c> they</c>
+shouldn't just be installing things they
+shouldn't just be installing things they
+need<00:02:27.959><c> to</c><00:02:28.020><c> be</c><00:02:28.140><c> restricted</c><00:02:28.620><c> and</c><00:02:29.040><c> you</c><00:02:29.220><c> need</c><00:02:29.340><c> to</c>
+need to be restricted and you need to
+need to be restricted and you need to
+know<00:02:29.580><c> what's</c><00:02:29.700><c> going</c><00:02:29.879><c> on</c><00:02:30.120><c> all</c><00:02:30.540><c> right</c><00:02:30.660><c> so</c>
+know what's going on all right so
+know what's going on all right so
+essential<00:02:31.260><c> programs</c><00:02:31.620><c> are</c><00:02:31.739><c> defined</c><00:02:32.040><c> in</c><00:02:32.220><c> the</c>
+essential programs are defined in the
+essential programs are defined in the
+Baseline<00:02:32.760><c> configuration</c><00:02:33.239><c> documentation</c>
+Baseline configuration documentation
+Baseline configuration documentation
+right<00:02:34.620><c> and</c><00:02:35.099><c> you</c><00:02:35.340><c> have</c><00:02:35.580><c> that</c><00:02:35.700><c> because</c><00:02:35.879><c> you</c><00:02:36.060><c> have</c>
+right and you have that because you have
+right and you have that because you have
+a<00:02:36.300><c> system</c><00:02:36.420><c> security</c><00:02:36.660><c> plan</c><00:02:37.020><c> and</c><00:02:37.260><c> you</c>
+a system security plan and you
+a system security plan and you
+we<00:02:38.520><c> have</c><00:02:38.700><c> that</c><00:02:38.879><c> right</c><00:02:39.060><c> of</c><00:02:39.420><c> course</c><00:02:39.599><c> you</c><00:02:39.780><c> do</c><00:02:39.959><c> so</c>
+we have that right of course you do so
+we have that right of course you do so
+again<00:02:40.700><c> Baseline</c><00:02:41.700><c> configuration</c><00:02:42.120><c> is</c><00:02:42.180><c> going</c><00:02:42.360><c> to</c>
+again Baseline configuration is going to
+again Baseline configuration is going to
+determine<00:02:42.660><c> what</c><00:02:42.900><c> the</c><00:02:43.019><c> what</c><00:02:43.319><c> the</c><00:02:43.500><c> programs</c><00:02:43.800><c> are</c>
+determine what the what the programs are
+determine what the what the programs are
+that<00:02:44.099><c> are</c><00:02:44.220><c> allowed</c><00:02:44.459><c> you're</c><00:02:44.760><c> going</c><00:02:44.879><c> to</c>
+that are allowed you're going to
+that are allowed you're going to
+restrict<00:02:45.239><c> everything</c><00:02:45.540><c> else</c><00:02:45.780><c> and</c><00:02:46.140><c> then</c><00:02:46.200><c> you're</c>
+restrict everything else and then you're
+restrict everything else and then you're
+going<00:02:46.440><c> to</c><00:02:46.500><c> allow</c><00:02:46.800><c> by</c><00:02:46.980><c> exception</c><00:02:47.459><c> anything</c>
+going to allow by exception anything
+going to allow by exception anything
+else<00:02:48.000><c> coming</c><00:02:48.180><c> in</c><00:02:48.420><c> so</c><00:02:48.540><c> that's</c><00:02:48.599><c> a</c><00:02:48.780><c> great</c><00:02:48.840><c> way</c><00:02:49.019><c> to</c>
+else coming in so that's a great way to
+else coming in so that's a great way to
+do<00:02:49.260><c> it</c><00:02:49.379><c> all</c><00:02:49.620><c> right</c><00:02:49.739><c> determine</c><00:02:50.220><c> if</c><00:02:50.340><c> use</c><00:02:50.580><c> of</c>
+do it all right determine if use of
+do it all right determine if use of
+non-essential<00:02:51.420><c> programs</c><00:02:51.780><c> is</c><00:02:51.959><c> defined</c><00:02:52.400><c> uh</c>
+non-essential programs is defined uh
+non-essential programs is defined uh
+non-essential<00:02:54.120><c> programs</c><00:02:54.540><c> are</c><00:02:54.780><c> not</c><00:02:54.959><c> allowed</c>
+non-essential programs are not allowed
+non-essential programs are not allowed
+to<00:02:55.260><c> be</c><00:02:55.440><c> installed</c><00:02:55.739><c> on</c><00:02:55.980><c> organizational</c>
+to be installed on organizational
+to be installed on organizational
+systems<00:02:57.000><c> uh</c><00:02:57.840><c> you</c><00:02:58.080><c> want</c><00:02:58.140><c> to</c><00:02:58.319><c> deny</c><00:02:58.620><c> all</c><00:02:58.739><c> of</c><00:02:58.920><c> those</c>
+systems uh you want to deny all of those
+systems uh you want to deny all of those
+so<00:02:59.400><c> here's</c><00:02:59.640><c> a</c><00:02:59.700><c> great</c><00:02:59.819><c> example</c><00:03:00.120><c> okay</c>
+so here's a great example okay
+so here's a great example okay
+non-essential<00:03:01.440><c> programs</c><00:03:01.860><c> you</c><00:03:02.340><c> know</c><00:03:02.459><c> you</c><00:03:02.700><c> may</c>
+non-essential programs you know you may
+non-essential programs you know you may
+do<00:03:03.120><c> this</c><00:03:03.300><c> with</c><00:03:03.840><c> several</c><00:03:04.140><c> different</c>
+do this with several different
+do this with several different
+methodologies<00:03:04.980><c> right</c><00:03:05.220><c> you</c><00:03:05.459><c> may</c><00:03:05.580><c> do</c><00:03:05.760><c> it</c><00:03:05.940><c> by</c>
+methodologies right you may do it by
+methodologies right you may do it by
+restricting<00:03:06.660><c> by</c><00:03:07.200><c> individual</c><00:03:07.800><c> program</c><00:03:08.220><c> name</c>
+restricting by individual program name
+restricting by individual program name
+we<00:03:09.120><c> probably</c><00:03:09.239><c> don't</c><00:03:09.480><c> really</c><00:03:09.660><c> need</c><00:03:09.840><c> a</c><00:03:10.019><c> whole</c>
+we probably don't really need a whole
+we probably don't really need a whole
+bunch<00:03:10.200><c> of</c><00:03:10.319><c> computer</c><00:03:10.500><c> games</c><00:03:10.800><c> on</c><00:03:11.099><c> here</c><00:03:11.280><c> we</c>
+bunch of computer games on here we
+bunch of computer games on here we
+certainly<00:03:12.300><c> want</c><00:03:12.480><c> to</c><00:03:12.599><c> eliminate</c><00:03:12.959><c> things</c><00:03:13.440><c> like</c>
+certainly want to eliminate things like
+certainly want to eliminate things like
+BitTorrent<00:03:14.400><c> you</c><00:03:14.580><c> know</c><00:03:14.700><c> known</c><00:03:14.819><c> BitTorrent</c>
+BitTorrent you know known BitTorrent
+BitTorrent you know known BitTorrent
+programs<00:03:16.019><c> uh</c><00:03:16.860><c> you</c><00:03:16.980><c> know</c><00:03:17.099><c> things</c><00:03:17.280><c> like</c><00:03:17.400><c> that</c>
+programs uh you know things like that
+programs uh you know things like that
+again<00:03:17.700><c> whatever</c><00:03:17.940><c> is</c><00:03:18.239><c> normal</c><00:03:18.540><c> but</c><00:03:18.840><c> you</c><00:03:18.959><c> know</c><00:03:19.080><c> it</c>
+again whatever is normal but you know it
+again whatever is normal but you know it
+Candy<00:03:19.440><c> Crush</c><00:03:19.739><c> you</c><00:03:20.159><c> probably</c><00:03:20.280><c> don't</c><00:03:20.459><c> need</c>
+Candy Crush you probably don't need
+Candy Crush you probably don't need
+Candy<00:03:20.760><c> Crush</c><00:03:21.060><c> except</c><00:03:21.659><c> for</c><00:03:21.840><c> the</c><00:03:21.959><c> CEO</c><00:03:22.440><c> he</c><00:03:22.800><c> can</c><00:03:22.920><c> go</c>
+Candy Crush except for the CEO he can go
+Candy Crush except for the CEO he can go
+into<00:03:23.159><c> a</c><00:03:23.400><c> DMZ</c><00:03:23.819><c> and</c><00:03:24.239><c> do</c><00:03:24.360><c> whatever</c><00:03:24.480><c> he</c><00:03:24.720><c> wants</c><00:03:25.019><c> but</c>
+into a DMZ and do whatever he wants but
+into a DMZ and do whatever he wants but
+everybody<00:03:25.560><c> else</c><00:03:25.920><c> no</c><00:03:26.340><c> Candy</c><00:03:26.580><c> Crush</c><00:03:27.000><c> so</c><00:03:27.480><c> again</c>
+everybody else no Candy Crush so again
+everybody else no Candy Crush so again
+they<00:03:28.080><c> want</c><00:03:28.260><c> you</c><00:03:28.440><c> to</c><00:03:28.680><c> prove</c><00:03:29.040><c> uh</c><00:03:29.940><c> you</c><00:03:30.060><c> know</c><00:03:30.180><c> via</c>
+they want you to prove uh you know via
+they want you to prove uh you know via
+VIA<00:03:30.900><c> showing</c><00:03:31.200><c> them</c><00:03:31.319><c> you</c><00:03:31.620><c> know</c><00:03:31.739><c> firewall</c><00:03:32.280><c> you</c>
+VIA showing them you know firewall you
+VIA showing them you know firewall you
+know<00:03:32.760><c> configurations</c><00:03:33.300><c> or</c><00:03:33.599><c> whatever</c><00:03:33.720><c> it</c><00:03:33.900><c> is</c>
+know configurations or whatever it is
+know configurations or whatever it is
+that<00:03:34.260><c> non-essential</c><00:03:34.860><c> programs</c><00:03:35.220><c> are</c><00:03:35.340><c> defined</c>
+that non-essential programs are defined
+that non-essential programs are defined
+maybe<00:03:36.000><c> it's</c><00:03:36.180><c> Group</c><00:03:36.420><c> Policy</c><00:03:36.780><c> however</c><00:03:37.080><c> you're</c>
+maybe it's Group Policy however you're
+maybe it's Group Policy however you're
+restricting<00:03:37.680><c> those</c><00:03:37.800><c> those</c><00:03:38.099><c> those</c><00:03:38.340><c> programs</c>
+restricting those those those programs
+restricting those those those programs
+are<00:03:38.940><c> being</c><00:03:39.060><c> installed</c><00:03:40.019><c> third</c><00:03:40.560><c> assessment</c>
+are being installed third assessment
+are being installed third assessment
+Point<00:03:41.040><c> determine</c><00:03:41.459><c> if</c><00:03:41.519><c> the</c><00:03:41.640><c> use</c><00:03:41.760><c> of</c>
+Point determine if the use of
+Point determine if the use of
+non-essential<00:03:42.420><c> programs</c><00:03:42.780><c> is</c><00:03:43.019><c> restricted</c>
+non-essential programs is restricted
+non-essential programs is restricted
+okay<00:03:44.159><c> disabled</c><00:03:44.819><c> or</c><00:03:45.000><c> prevented</c><00:03:45.420><c> as</c><00:03:45.599><c> defined</c>
+okay disabled or prevented as defined
+okay disabled or prevented as defined
+non-essential<00:03:47.220><c> programs</c><00:03:47.580><c> are</c><00:03:47.760><c> not</c><00:03:48.000><c> allowed</c>
+non-essential programs are not allowed
+non-essential programs are not allowed
+to<00:03:48.360><c> be</c><00:03:48.480><c> installed</c><00:03:48.900><c> on</c><00:03:49.140><c> organizational</c>
+to be installed on organizational
+to be installed on organizational
+systems<00:03:50.220><c> uh</c><00:03:50.879><c> deny</c><00:03:51.180><c> all</c><00:03:51.360><c> permit</c><00:03:51.659><c> by</c><00:03:51.780><c> exception</c>
+systems uh deny all permit by exception
+systems uh deny all permit by exception
+that<00:03:52.319><c> is</c><00:03:52.440><c> how</c><00:03:52.620><c> we</c><00:03:52.739><c> would</c><00:03:52.920><c> set</c><00:03:53.099><c> it</c><00:03:53.280><c> up</c><00:03:53.459><c> if</c><00:03:54.239><c> we</c>
+that is how we would set it up if we
+that is how we would set it up if we
+were<00:03:54.540><c> involved</c><00:03:55.159><c> but</c><00:03:56.159><c> again</c><00:03:56.400><c> the</c><00:03:56.700><c> idea</c><00:03:56.940><c> really</c>
+were involved but again the idea really
+were involved but again the idea really
+is<00:03:57.480><c> is</c><00:03:57.780><c> that</c><00:03:58.140><c> you</c><00:03:58.379><c> know</c><00:03:58.500><c> hopefully</c><00:03:58.799><c> you've</c><00:03:58.920><c> got</c>
+is is that you know hopefully you've got
+is is that you know hopefully you've got
+some<00:03:59.159><c> group</c><00:03:59.340><c> policy</c><00:03:59.819><c> or</c><00:03:59.940><c> just</c><00:04:00.120><c> general</c><00:04:00.360><c> some</c>
+some group policy or just general some
+some group policy or just general some
+kind<00:04:01.140><c> of</c><00:04:01.260><c> policy</c><00:04:01.799><c> in</c><00:04:02.040><c> place</c><00:04:02.220><c> lots</c><00:04:03.180><c> and</c><00:04:03.239><c> lots</c><00:04:03.480><c> of</c>
+kind of policy in place lots and lots of
+kind of policy in place lots and lots of
+ways<00:04:03.720><c> to</c><00:04:03.840><c> do</c><00:04:03.959><c> it</c>
+ways to do it
+ways to do it
+um you<00:04:05.700><c> know</c><00:04:05.760><c> again</c>
+um you know again
+um you know again
+we<00:04:07.379><c> don't</c><00:04:07.500><c> have</c><00:04:07.680><c> a</c><00:04:07.739><c> sponsorship</c><00:04:08.040><c> so</c><00:04:08.220><c> we'll</c>
+we don't have a sponsorship so we'll
+we don't have a sponsorship so we'll
+talk<00:04:08.580><c> about</c><00:04:08.640><c> any</c><00:04:08.819><c> particular</c><00:04:09.120><c> software</c>
+talk about any particular software
+talk about any particular software
+Solutions<00:04:09.780><c> but</c><00:04:09.959><c> there's</c><00:04:10.140><c> lots</c><00:04:10.439><c> of</c><00:04:10.500><c> stuff</c><00:04:10.680><c> out</c>
+Solutions but there's lots of stuff out
+Solutions but there's lots of stuff out
+there<00:04:10.980><c> that</c><00:04:11.519><c> allows</c><00:04:12.000><c> for</c><00:04:12.599><c> uh</c><00:04:13.500><c> software</c><00:04:13.920><c> to</c><00:04:14.040><c> be</c>
+there that allows for uh software to be
+there that allows for uh software to be
+restricted<00:04:14.519><c> on</c><00:04:14.879><c> installation</c>
+restricted on installation
+restricted on installation
+but<00:04:16.680><c> if</c><00:04:17.400><c> you</c><00:04:17.579><c> happen</c><00:04:17.820><c> to</c><00:04:18.060><c> be</c><00:04:18.180><c> called</c><00:04:18.359><c> VMware</c>
+but if you happen to be called VMware
+but if you happen to be called VMware
+and<00:04:20.040><c> you</c><00:04:20.280><c> want</c><00:04:20.400><c> to</c><00:04:20.519><c> sponsor</c><00:04:20.760><c> one</c><00:04:20.880><c> of</c><00:04:21.060><c> our</c>
+and you want to sponsor one of our
+and you want to sponsor one of our
+videos<00:04:21.299><c> we</c><00:04:21.959><c> can</c><00:04:22.199><c> definitely</c><00:04:22.440><c> talk</c><00:04:22.560><c> about</c><00:04:22.680><c> your</c>
+videos we can definitely talk about your
+videos we can definitely talk about your
+solution<00:04:23.160><c> how</c><00:04:23.400><c> it</c><00:04:23.520><c> can</c><00:04:23.639><c> solve</c><00:04:23.820><c> for</c><00:04:23.940><c> a</c><00:04:24.060><c> bunch</c><00:04:24.120><c> of</c>
+solution how it can solve for a bunch of
+solution how it can solve for a bunch of
+these<00:04:24.300><c> nist</c><00:04:24.600><c> controls</c><00:04:24.960><c> hit</c><00:04:25.199><c> me</c><00:04:25.320><c> up</c><00:04:25.440><c> in</c><00:04:25.560><c> the</c><00:04:25.620><c> DMS</c>
+these nist controls hit me up in the DMS
+these nist controls hit me up in the DMS
+all<00:04:26.340><c> right</c><00:04:26.520><c> determine</c><00:04:27.000><c> if</c><00:04:27.120><c> essential</c>
+all right determine if essential
+all right determine if essential
+functions<00:04:27.840><c> are</c><00:04:28.139><c> defined</c><00:04:28.620><c> essential</c>
+functions are defined essential
+functions are defined essential
+functions<00:04:29.639><c> are</c><00:04:29.759><c> defined</c><00:04:30.120><c> by</c><00:04:30.300><c> those</c><00:04:30.540><c> functions</c>
+functions are defined by those functions
+functions are defined by those functions
+authorized<00:04:31.800><c> to</c><00:04:32.340><c> execute</c><00:04:32.759><c> by</c><00:04:33.120><c> and</c><00:04:33.479><c> in</c><00:04:33.840><c> this</c>
+authorized to execute by and in this
+authorized to execute by and in this
+case<00:04:34.139><c> we're</c><00:04:34.440><c> going</c><00:04:34.560><c> to</c><00:04:34.620><c> say</c><00:04:34.740><c> Group</c><00:04:34.979><c> Policy</c><00:04:35.520><c> all</c>
+case we're going to say Group Policy all
+case we're going to say Group Policy all
+right<00:04:36.360><c> because</c><00:04:36.540><c> that's</c><00:04:36.840><c> a</c><00:04:37.020><c> great</c><00:04:37.139><c> way</c><00:04:37.440><c> to</c><00:04:37.620><c> do</c>
+right because that's a great way to do
+right because that's a great way to do
+that<00:04:38.060><c> uh</c><00:04:39.060><c> and</c><00:04:39.240><c> you</c><00:04:39.479><c> know</c><00:04:39.540><c> there's</c><00:04:39.720><c> lots</c><00:04:40.020><c> and</c>
+that uh and you know there's lots and
+that uh and you know there's lots and
+lots<00:04:40.259><c> of</c><00:04:40.320><c> ways</c><00:04:40.560><c> okay</c><00:04:40.740><c> lots</c><00:04:41.639><c> of</c><00:04:41.699><c> ways</c><00:04:42.000><c> you</c><00:04:42.120><c> can</c>
+lots of ways okay lots of ways you can
+lots of ways okay lots of ways you can
+have<00:04:42.300><c> third-party</c><00:04:42.780><c> programs</c><00:04:43.080><c> that</c><00:04:43.259><c> set</c><00:04:43.440><c> up</c>
+have third-party programs that set up
+have third-party programs that set up
+what<00:04:43.800><c> can</c><00:04:43.979><c> and</c><00:04:44.160><c> can't</c><00:04:44.340><c> be</c><00:04:44.460><c> installed</c><00:04:44.699><c> uh</c><00:04:45.600><c> Group</c>
+what can and can't be installed uh Group
+what can and can't be installed uh Group
+Policy<00:04:46.199><c> security</c><00:04:46.500><c> groups</c><00:04:47.220><c> ous</c><00:04:47.220><c> you</c><00:04:47.580><c> name</c><00:04:47.759><c> it</c>
+Policy security groups ous you name it
+Policy security groups ous you name it
+right<00:04:48.240><c> all</c><00:04:48.540><c> that</c><00:04:48.720><c> stuff</c><00:04:48.900><c> applies</c><00:04:49.320><c> so</c><00:04:49.919><c> hey</c><00:04:50.100><c> and</c>
+right all that stuff applies so hey and
+right all that stuff applies so hey and
+on<00:04:50.580><c> call</c><00:04:50.759><c> we</c><00:04:50.940><c> work</c><00:04:51.060><c> with</c><00:04:51.240><c> defense</c><00:04:51.540><c> contractors</c>
+on call we work with defense contractors
+on call we work with defense contractors
+just<00:04:52.259><c> like</c><00:04:52.380><c> you</c><00:04:52.560><c> who've</c><00:04:52.860><c> had</c><00:04:52.919><c> this</c><00:04:53.040><c> defars</c>
+just like you who've had this defars
+just like you who've had this defars
+nist<00:04:53.940><c> itar</c><00:04:54.419><c> and</c><00:04:54.540><c> cmmc</c><00:04:55.020><c> compliant</c><00:04:55.380><c> stuff</c>
+nist itar and cmmc compliant stuff
+nist itar and cmmc compliant stuff
+dropping<00:04:56.220><c> their</c><00:04:56.400><c> laps</c><00:04:56.699><c> like</c><00:04:56.759><c> a</c><00:04:56.880><c> seagull</c><00:04:57.180><c> on</c><00:04:57.300><c> a</c>
+dropping their laps like a seagull on a
+dropping their laps like a seagull on a
+sunny<00:04:57.540><c> day</c><00:04:57.780><c> we</c><00:04:58.320><c> teach</c><00:04:58.500><c> you</c><00:04:58.620><c> how</c><00:04:58.800><c> to</c><00:04:58.919><c> level</c><00:04:59.040><c> up</c>
+sunny day we teach you how to level up
+sunny day we teach you how to level up
+and<00:04:59.340><c> be</c><00:04:59.460><c> a</c><00:04:59.580><c> proper</c><00:04:59.820><c> on-call</c><00:05:00.180><c> compliance</c><00:05:00.600><c> hero</c>
+and be a proper on-call compliance hero
+and be a proper on-call compliance hero
+for<00:05:01.380><c> your</c><00:05:01.500><c> company</c><00:05:01.680><c> eliminating</c><00:05:02.220><c> gaps</c><00:05:02.639><c> great</c>
+for your company eliminating gaps great
+for your company eliminating gaps great
+areas<00:05:03.419><c> and</c><00:05:03.720><c> getting</c><00:05:03.900><c> this</c><00:05:04.139><c> solved</c><00:05:04.560><c> all</c><00:05:04.919><c> while</c>
+areas and getting this solved all while
+areas and getting this solved all while
+showing<00:05:05.400><c> you</c><00:05:05.520><c> how</c><00:05:05.759><c> to</c><00:05:05.820><c> leverage</c><00:05:06.060><c> compliance</c>
+showing you how to leverage compliance
+showing you how to leverage compliance
+is<00:05:06.720><c> your</c><00:05:06.900><c> secret</c><00:05:07.080><c> weapon</c><00:05:07.500><c> to</c><00:05:07.800><c> land</c><00:05:07.979><c> more</c>
+is your secret weapon to land more
+is your secret weapon to land more
+Defense<00:05:08.460><c> work</c><00:05:08.639><c> with</c><00:05:08.820><c> higher</c><00:05:09.120><c> profit</c><00:05:09.419><c> margins</c>
+Defense work with higher profit margins
+Defense work with higher profit margins
+now<00:05:10.139><c> that's</c><00:05:10.320><c> what</c><00:05:10.500><c> becoming</c><00:05:10.860><c> an</c><00:05:10.979><c> on-call</c>
+now that's what becoming an on-call
+now that's what becoming an on-call
+compliance<00:05:11.699><c> hero</c><00:05:11.940><c> can</c><00:05:12.120><c> do</c><00:05:12.240><c> for</c><00:05:12.360><c> you</c><00:05:12.479><c> if</c><00:05:13.080><c> you're</c>
+compliance hero can do for you if you're
+compliance hero can do for you if you're
+looking<00:05:13.380><c> for</c><00:05:13.560><c> more</c><00:05:13.680><c> help</c><00:05:13.860><c> getting</c><00:05:13.979><c> compliant</c>
+looking for more help getting compliant
+looking for more help getting compliant
+our<00:05:14.880><c> compliance</c><00:05:15.300><c> experts</c><00:05:15.660><c> are</c><00:05:15.720><c> always</c><00:05:15.840><c> on</c>
+our compliance experts are always on
+our compliance experts are always on
+call<00:05:16.560><c> for</c><00:05:16.740><c> you</c><00:05:16.860><c> visit</c><00:05:17.060><c> cmmccompliance</c>
+call for you visit cmmccompliance
+call for you visit cmmccompliance
+secrets.com<00:05:18.540><c> or</c><00:05:19.440><c> check</c><00:05:19.860><c> out</c><00:05:19.979><c> the</c><00:05:20.100><c> bio</c><00:05:20.280><c> below</c>
+secrets.com or check out the bio below
+secrets.com or check out the bio below
+for<00:05:20.759><c> links</c><00:05:21.000><c> to</c><00:05:21.120><c> get</c><00:05:21.180><c> help</c><00:05:21.360><c> right</c><00:05:21.780><c> now</c><00:05:22.020><c> if</c><00:05:22.500><c> you</c>
+for links to get help right now if you
+for links to get help right now if you
+love<00:05:22.800><c> the</c><00:05:22.919><c> content</c><00:05:23.160><c> we're</c><00:05:23.340><c> putting</c><00:05:23.520><c> out</c><00:05:23.580><c> here</c>
+love the content we're putting out here
+love the content we're putting out here
+for<00:05:23.940><c> you</c><00:05:24.000><c> help</c><00:05:24.360><c> us</c><00:05:24.539><c> out</c><00:05:24.660><c> with</c><00:05:24.780><c> a</c><00:05:24.840><c> big</c><00:05:24.960><c> thumbs</c><00:05:25.139><c> up</c>
+for you help us out with a big thumbs up
+for you help us out with a big thumbs up
+on<00:05:25.380><c> that</c><00:05:25.500><c> like</c><00:05:25.620><c> button</c><00:05:25.919><c> or</c><00:05:26.220><c> even</c><00:05:26.400><c> better</c><00:05:26.580><c> smash</c>
+on that like button or even better smash
+on that like button or even better smash
+the<00:05:27.539><c> Subscribe</c><00:05:27.900><c> button</c><00:05:28.139><c> to</c><00:05:28.259><c> get</c><00:05:28.380><c> the</c><00:05:28.500><c> latest</c>
+the Subscribe button to get the latest
+the Subscribe button to get the latest
+compliance<00:05:29.160><c> content</c><00:05:29.460><c> as</c><00:05:29.699><c> soon</c><00:05:29.880><c> as</c><00:05:29.940><c> our</c>
+compliance content as soon as our
+compliance content as soon as our
+compliances<00:05:30.539><c> roll</c><00:05:30.840><c> it</c><00:05:31.020><c> out</c><00:05:31.139><c> until</c><00:05:31.620><c> next</c>
+compliances roll it out until next
+compliances roll it out until next
+compliance<00:05:32.340><c> tip</c><00:05:32.580><c> my</c><00:05:32.699><c> friends</c><00:05:32.820><c> stay</c><00:05:33.360><c> safe</c><00:05:33.539><c> and</c>
+compliance tip my friends stay safe and
+compliance tip my friends stay safe and
+secure<00:05:33.960><c> out</c><00:05:34.139><c> there</c><00:05:34.320><c> hit</c><00:05:34.740><c> us</c><00:05:34.919><c> in</c><00:05:35.039><c> the</c><00:05:35.100><c> comments</c>
+secure out there hit us in the comments
+secure out there hit us in the comments
+below<00:05:35.520><c> to</c><00:05:35.639><c> let</c><00:05:35.759><c> us</c><00:05:35.880><c> know</c><00:05:36.000><c> what</c><00:05:36.300><c> you'd</c><00:05:36.479><c> like</c><00:05:36.600><c> to</c>
+below to let us know what you'd like to
+below to let us know what you'd like to
+know<00:05:36.840><c> more</c><00:05:36.960><c> about</c><00:05:37.139><c> when</c><00:05:37.380><c> it</c><00:05:37.500><c> comes</c><00:05:37.620><c> to</c>
+know more about when it comes to
+know more about when it comes to
+information<00:05:37.919><c> security</c><00:05:38.400><c> and</c><00:05:38.699><c> compliance</c><00:05:39.240><c> I'll</c>
+information security and compliance I'll
+information security and compliance I'll
+see<00:05:39.840><c> you</c><00:05:39.900><c> on</c><00:05:40.080><c> the</c><00:05:40.199><c> next</c><00:05:40.320><c> one</c>
+see you on the next one
+see you on the next one
+[Music]
+[Music]
+[Music]
+foreign
+foreign
+foreign
+[Music]
+[Music]
+[Music]
+foreign

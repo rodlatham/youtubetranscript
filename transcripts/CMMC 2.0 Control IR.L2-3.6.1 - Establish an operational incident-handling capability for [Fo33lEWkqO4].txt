@@ -1,0 +1,523 @@
+Kind: captions
+Language: en
+hey<00:00:00.359><c> everybody</c><00:00:00.539><c> it's</c><00:00:00.780><c> Mike</c><00:00:00.900><c> frieder</c><00:00:01.319><c> here</c>
+hey everybody it's Mike frieder here
+hey everybody it's Mike frieder here
+with<00:00:01.500><c> on-call</c><00:00:01.800><c> compliance</c><00:00:02.220><c> Solutions</c><00:00:02.399><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:02.760><c> back</c><00:00:02.879><c> with</c><00:00:03.060><c> another</c><00:00:03.179><c> compliance</c><00:00:03.600><c> tip</c><00:00:03.720><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.020><c> week</c><00:00:04.080><c> this</c><00:00:04.440><c> week</c><00:00:04.620><c> we're</c><00:00:04.740><c> talking</c><00:00:04.920><c> about</c>
+the week this week we're talking about
+the week this week we're talking about
+cmfc<00:00:05.640><c> control</c>
+ir.l2-3.6.1<00:00:09.380><c> establish</c><00:00:10.380><c> an</c><00:00:10.559><c> operational</c>
+ir.l2-3.6.1 establish an operational
+ir.l2-3.6.1 establish an operational
+incident<00:00:11.400><c> handling</c><00:00:11.820><c> capability</c><00:00:12.360><c> for</c>
+incident handling capability for
+incident handling capability for
+organizational<00:00:13.259><c> systems</c><00:00:13.740><c> that</c><00:00:13.980><c> includes</c>
+organizational systems that includes
+organizational systems that includes
+preparation<00:00:15.299><c> detection</c><00:00:16.279><c> analysis</c>
+preparation detection analysis
+preparation detection analysis
+containment<00:00:18.119><c> recovery</c><00:00:18.900><c> and</c><00:00:19.440><c> user</c><00:00:19.859><c> response</c>
+containment recovery and user response
+containment recovery and user response
+activities
+activities
+activities
+[Music]
+[Music]
+[Music]
+so<00:00:30.960><c> hey</c><00:00:31.080><c> if</c><00:00:31.320><c> you're</c><00:00:31.439><c> a</c><00:00:31.560><c> defense</c><00:00:31.800><c> contractor</c>
+so hey if you're a defense contractor
+so hey if you're a defense contractor
+who's<00:00:32.340><c> feeling</c><00:00:32.520><c> overwhelmed</c><00:00:33.180><c> tired</c><00:00:33.600><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:33.840><c> trying</c><00:00:34.320><c> to</c><00:00:34.440><c> understand</c><00:00:34.559><c> all</c><00:00:34.920><c> this</c><00:00:35.040><c> cmmc</c>
+alone trying to understand all this cmmc
+alone trying to understand all this cmmc
+dfars<00:00:36.540><c> and</c><00:00:36.660><c> nist</c><00:00:36.780><c> SP</c><00:00:36.960><c> 800</c><00:00:37.320><c> 171</c><00:00:37.800><c> compliance</c>
+dfars and nist SP 800 171 compliance
+dfars and nist SP 800 171 compliance
+stuff<00:00:38.520><c> on</c><00:00:39.120><c> top</c><00:00:39.239><c> of</c><00:00:39.420><c> an</c><00:00:39.540><c> already</c><00:00:39.660><c> colossal</c>
+stuff on top of an already colossal
+stuff on top of an already colossal
+workload<00:00:40.680><c> well</c><00:00:41.040><c> I've</c><00:00:41.219><c> got</c><00:00:41.340><c> great</c><00:00:41.520><c> news</c><00:00:41.760><c> for</c>
+workload well I've got great news for
+workload well I've got great news for
+you<00:00:42.059><c> you</c><00:00:42.300><c> found</c><00:00:42.480><c> your</c><00:00:42.660><c> home</c><00:00:42.780><c> here</c><00:00:42.960><c> at</c><00:00:43.079><c> on-call</c>
+you you found your home here at on-call
+you you found your home here at on-call
+compliance<00:00:43.860><c> Solutions</c><00:00:44.100><c> where</c><00:00:44.340><c> we</c><00:00:44.460><c> can</c><00:00:44.579><c> help</c>
+compliance Solutions where we can help
+compliance Solutions where we can help
+you<00:00:44.879><c> transform</c><00:00:45.420><c> into</c><00:00:45.899><c> your</c><00:00:46.200><c> company's</c>
+you transform into your company's
+you transform into your company's
+on-call<00:00:47.160><c> compliance</c><00:00:47.640><c> Hero</c><00:00:48.000><c> Let's</c><00:00:48.600><c> jump</c><00:00:48.780><c> into</c>
+on-call compliance Hero Let's jump into
+on-call compliance Hero Let's jump into
+it<00:00:49.200><c> so</c><00:00:49.500><c> what</c><00:00:50.280><c> is</c><00:00:50.460><c> this</c><00:00:50.879><c> control</c><00:00:51.059><c> really</c><00:00:51.539><c> all</c>
+it so what is this control really all
+it so what is this control really all
+about
+about
+about
+well<00:00:53.280><c> my</c><00:00:53.579><c> good</c><00:00:53.700><c> friends</c><00:00:53.879><c> in</c><00:00:54.300><c> the</c><00:00:54.480><c> Marines</c><00:00:54.780><c> they</c>
+well my good friends in the Marines they
+well my good friends in the Marines they
+say<00:00:55.500><c> the</c><00:00:55.680><c> worst</c><00:00:55.980><c> time</c><00:00:56.219><c> to</c><00:00:56.520><c> start</c><00:00:56.699><c> planning</c><00:00:57.180><c> a</c>
+say the worst time to start planning a
+say the worst time to start planning a
+good<00:00:57.600><c> defense</c><00:00:57.960><c> is</c><00:00:58.440><c> when</c><00:00:58.620><c> the</c><00:00:58.739><c> bullets</c><00:00:58.980><c> are</c>
+good defense is when the bullets are
+good defense is when the bullets are
+flying<00:00:59.399><c> in</c><00:00:59.460><c> your</c><00:00:59.579><c> head</c><00:00:59.780><c> yes</c><00:01:00.780><c> this</c><00:01:01.320><c> control</c><00:01:01.500><c> is</c>
+flying in your head yes this control is
+flying in your head yes this control is
+all<00:01:02.280><c> about</c><00:01:02.399><c> being</c><00:01:02.760><c> prepared</c><00:01:03.120><c> having</c><00:01:03.660><c> a</c>
+all about being prepared having a
+all about being prepared having a
+written<00:01:04.199><c> and</c><00:01:04.500><c> practice</c><00:01:04.680><c> plan</c><00:01:04.979><c> in</c><00:01:05.220><c> place</c><00:01:05.460><c> so</c>
+written and practice plan in place so
+written and practice plan in place so
+your<00:01:06.119><c> entire</c><00:01:06.420><c> team</c><00:01:06.659><c> knows</c><00:01:07.380><c> exactly</c><00:01:07.680><c> what</c><00:01:07.979><c> to</c>
+your entire team knows exactly what to
+your entire team knows exactly what to
+do<00:01:08.280><c> when</c><00:01:08.760><c> an</c><00:01:08.939><c> attack</c><00:01:09.119><c> happens</c><00:01:09.420><c> now</c><00:01:10.200><c> this</c>
+do when an attack happens now this
+do when an attack happens now this
+control<00:01:10.740><c> also</c><00:01:11.159><c> requires</c><00:01:11.580><c> you</c><00:01:11.700><c> to</c><00:01:11.880><c> essentially</c>
+control also requires you to essentially
+control also requires you to essentially
+have<00:01:12.360><c> a</c><00:01:12.600><c> written</c><00:01:12.840><c> incident</c><00:01:13.140><c> response</c><00:01:13.619><c> plan</c>
+have a written incident response plan
+have a written incident response plan
+okay<00:01:14.100><c> so</c><00:01:14.340><c> there's</c><00:01:14.460><c> a</c><00:01:14.700><c> big</c><00:01:14.820><c> hint</c><00:01:15.060><c> right</c><00:01:15.299><c> there</c>
+okay so there's a big hint right there
+okay so there's a big hint right there
+about<00:01:16.020><c> how</c><00:01:16.260><c> to</c><00:01:16.380><c> solve</c><00:01:16.680><c> for</c><00:01:16.799><c> it</c><00:01:17.340><c> that</c><00:01:17.939><c> will</c><00:01:18.119><c> have</c>
+about how to solve for it that will have
+about how to solve for it that will have
+several<00:01:18.720><c> key</c><00:01:18.960><c> steps</c><00:01:19.320><c> included</c><00:01:19.680><c> in</c><00:01:19.799><c> it</c><00:01:19.979><c> the</c>
+several key steps included in it the
+several key steps included in it the
+idea<00:01:20.820><c> is</c><00:01:21.180><c> that</c><00:01:21.360><c> if</c><00:01:21.540><c> you</c><00:01:21.659><c> know</c><00:01:21.840><c> how</c><00:01:22.080><c> to</c><00:01:22.200><c> respond</c>
+idea is that if you know how to respond
+idea is that if you know how to respond
+the<00:01:23.159><c> response</c><00:01:23.580><c> will</c><00:01:23.700><c> be</c><00:01:23.880><c> faster</c><00:01:24.299><c> more</c>
+the response will be faster more
+the response will be faster more
+effective<00:01:25.439><c> and</c><00:01:26.220><c> there</c><00:01:26.520><c> is</c><00:01:26.700><c> a</c><00:01:26.880><c> chance</c><00:01:27.060><c> at</c>
+effective and there is a chance at
+effective and there is a chance at
+actually<00:01:27.600><c> limiting</c><00:01:28.080><c> damage</c><00:01:28.439><c> and</c><00:01:28.740><c> having</c><00:01:28.920><c> as</c>
+actually limiting damage and having as
+actually limiting damage and having as
+much<00:01:29.520><c> having</c><00:01:30.119><c> a</c><00:01:30.420><c> much</c><00:01:30.540><c> faster</c><00:01:30.840><c> recovery</c><00:01:31.320><c> from</c>
+much having a much faster recovery from
+much having a much faster recovery from
+the<00:01:31.740><c> incident</c><00:01:32.040><c> so</c><00:01:32.880><c> let's</c><00:01:33.240><c> dive</c><00:01:33.479><c> into</c><00:01:33.659><c> what</c><00:01:33.840><c> the</c>
+the incident so let's dive into what the
+the incident so let's dive into what the
+assessors<00:01:34.200><c> are</c><00:01:34.320><c> looking</c><00:01:34.439><c> for</c><00:01:34.619><c> on</c><00:01:34.799><c> this</c><00:01:34.920><c> one</c>
+assessors are looking for on this one
+assessors are looking for on this one
+how<00:01:35.520><c> we</c><00:01:35.640><c> can</c><00:01:35.820><c> make</c><00:01:35.880><c> them</c><00:01:36.000><c> happy</c><00:01:36.259><c> so</c><00:01:37.259><c> I</c><00:01:37.799><c> will</c>
+how we can make them happy so I will
+how we can make them happy so I will
+warn<00:01:38.220><c> you</c><00:01:38.280><c> this</c><00:01:38.579><c> one</c><00:01:38.700><c> has</c><00:01:38.880><c> got</c><00:01:39.119><c> several</c>
+warn you this one has got several
+warn you this one has got several
+different<00:01:39.720><c> assessment</c><00:01:40.200><c> points</c><00:01:40.500><c> there's</c>
+different assessment points there's
+different assessment points there's
+probably<00:01:40.799><c> about</c><00:01:40.920><c> seven</c><00:01:41.100><c> or</c><00:01:41.280><c> eight</c><00:01:41.400><c> of</c><00:01:41.520><c> them</c>
+probably about seven or eight of them
+probably about seven or eight of them
+we'll<00:01:42.000><c> dive</c><00:01:42.299><c> in</c><00:01:42.420><c> the</c><00:01:42.540><c> first</c><00:01:42.720><c> one</c><00:01:42.900><c> here</c>
+we'll dive in the first one here
+we'll dive in the first one here
+determine<00:01:43.680><c> if</c><00:01:43.860><c> an</c><00:01:44.100><c> operational</c><00:01:44.460><c> incident</c>
+determine if an operational incident
+determine if an operational incident
+handling<00:01:45.540><c> capability</c><00:01:46.200><c> is</c><00:01:47.040><c> established</c><00:01:47.520><c> so</c><00:01:47.640><c> do</c>
+handling capability is established so do
+handling capability is established so do
+you<00:01:48.000><c> have</c><00:01:48.060><c> the</c><00:01:48.180><c> capability</c><00:01:48.540><c> to</c><00:01:48.780><c> respond</c><00:01:49.079><c> uh</c><00:01:49.920><c> if</c>
+you have the capability to respond uh if
+you have the capability to respond uh if
+I<00:01:50.340><c> was</c><00:01:50.399><c> going</c><00:01:50.579><c> to</c><00:01:50.700><c> answer</c><00:01:50.880><c> this</c><00:01:51.119><c> we</c><00:01:51.420><c> might</c><00:01:51.540><c> have</c>
+I was going to answer this we might have
+I was going to answer this we might have
+a<00:01:51.899><c> simple</c><00:01:52.020><c> answer</c><00:01:52.259><c> in</c><00:01:52.439><c> the</c><00:01:52.560><c> plan</c><00:01:52.680><c> say</c>
+a simple answer in the plan say
+a simple answer in the plan say
+something<00:01:53.159><c> like</c><00:01:53.399><c> implemented</c><00:01:54.060><c> see</c><00:01:54.540><c> the</c>
+something like implemented see the
+something like implemented see the
+incident<00:01:55.020><c> response</c><00:01:55.500><c> policy</c><00:01:55.979><c> and</c><00:01:56.280><c> incident</c>
+incident response policy and incident
+incident response policy and incident
+response<00:01:57.240><c> form</c><00:01:57.540><c> note</c><00:01:58.259><c> that</c><00:01:58.500><c> there's</c><00:01:58.680><c> two</c>
+response form note that there's two
+response form note that there's two
+parts<00:01:59.100><c> of</c><00:01:59.340><c> the</c><00:01:59.520><c> capability</c><00:01:59.960><c> there's</c><00:02:00.960><c> how</c><00:02:01.439><c> are</c>
+parts of the capability there's how are
+parts of the capability there's how are
+you<00:02:01.740><c> going</c><00:02:01.920><c> to</c><00:02:02.040><c> sort</c><00:02:02.280><c> of</c><00:02:02.399><c> identify</c><00:02:02.880><c> that</c><00:02:03.119><c> there</c>
+you going to sort of identify that there
+you going to sort of identify that there
+was<00:02:03.420><c> an</c><00:02:03.540><c> issue</c><00:02:03.840><c> and</c><00:02:04.320><c> then</c><00:02:04.439><c> how</c><00:02:04.740><c> are</c><00:02:04.920><c> you</c><00:02:04.979><c> going</c>
+was an issue and then how are you going
+was an issue and then how are you going
+to<00:02:05.280><c> resolve</c><00:02:05.640><c> it</c><00:02:05.700><c> and</c><00:02:05.880><c> then</c><00:02:06.000><c> what's</c><00:02:06.180><c> the</c>
+to resolve it and then what's the
+to resolve it and then what's the
+procedure<00:02:06.719><c> for</c><00:02:06.899><c> all</c><00:02:07.079><c> of</c><00:02:07.200><c> that</c><00:02:07.320><c> so</c><00:02:07.740><c> this</c><00:02:08.220><c> is</c>
+procedure for all of that so this is
+procedure for all of that so this is
+another<00:02:08.459><c> one</c><00:02:08.759><c> of</c><00:02:08.880><c> those</c><00:02:08.940><c> controls</c><00:02:09.420><c> where</c>
+another one of those controls where
+another one of those controls where
+they're<00:02:09.780><c> assessing</c><00:02:10.140><c> on</c><00:02:10.259><c> a</c><00:02:10.380><c> bunch</c><00:02:10.500><c> of</c>
+they're assessing on a bunch of
+they're assessing on a bunch of
+different<00:02:10.739><c> points</c><00:02:11.220><c> and</c><00:02:11.879><c> surprise</c><00:02:12.239><c> surprise</c>
+different points and surprise surprise
+different points and surprise surprise
+it's<00:02:12.900><c> not</c><00:02:13.080><c> so</c><00:02:13.200><c> much</c><00:02:13.379><c> your</c><00:02:13.620><c> the</c><00:02:13.920><c> answer</c><00:02:14.220><c> in</c><00:02:14.459><c> the</c>
+it's not so much your the answer in the
+it's not so much your the answer in the
+system<00:02:14.760><c> security</c><00:02:15.060><c> plan</c><00:02:15.360><c> that</c><00:02:15.540><c> they're</c>
+system security plan that they're
+system security plan that they're
+looking<00:02:15.900><c> for</c><00:02:16.140><c> it's</c><00:02:16.560><c> giving</c><00:02:16.800><c> me</c><00:02:16.920><c> the</c><00:02:17.040><c> backup</c>
+looking for it's giving me the backup
+looking for it's giving me the backup
+documentation<00:02:18.120><c> which</c><00:02:18.420><c> is</c><00:02:18.540><c> why</c><00:02:18.720><c> there's</c><00:02:18.840><c> so</c>
+documentation which is why there's so
+documentation which is why there's so
+many<00:02:19.080><c> assessment</c><00:02:19.440><c> points</c><00:02:19.860><c> so</c><00:02:20.580><c> assessment</c>
+many assessment points so assessment
+many assessment points so assessment
+Point<00:02:21.180><c> number</c><00:02:21.360><c> two</c><00:02:21.540><c> determine</c><00:02:21.900><c> if</c><00:02:22.020><c> the</c>
+Point number two determine if the
+Point number two determine if the
+operational<00:02:22.379><c> incident</c><00:02:22.739><c> handling</c><00:02:23.099><c> capability</c>
+operational incident handling capability
+operational incident handling capability
+includes<00:02:24.060><c> preparation</c><00:02:24.660><c> so</c><00:02:25.379><c> implemented</c><00:02:25.980><c> CNC</c>
+includes preparation so implemented CNC
+includes preparation so implemented CNC
+response<00:02:27.180><c> policy</c><00:02:27.480><c> and</c><00:02:27.599><c> instant</c><00:02:27.900><c> response</c>
+response policy and instant response
+response policy and instant response
+form<00:02:28.440><c> again</c><00:02:29.099><c> they're</c><00:02:29.459><c> going</c><00:02:29.640><c> to</c><00:02:29.700><c> look</c><00:02:29.819><c> and</c><00:02:29.940><c> see</c>
+form again they're going to look and see
+form again they're going to look and see
+how<00:02:30.420><c> are</c><00:02:30.540><c> you</c><00:02:30.660><c> preparing</c><00:02:31.200><c> uh</c><00:02:31.980><c> for</c><00:02:32.280><c> an</c><00:02:32.459><c> incident</c>
+how are you preparing uh for an incident
+how are you preparing uh for an incident
+to<00:02:33.000><c> happen</c><00:02:33.180><c> now</c><00:02:33.840><c> as</c><00:02:34.140><c> we</c><00:02:34.319><c> go</c><00:02:34.440><c> through</c><00:02:34.620><c> these</c>
+to happen now as we go through these
+to happen now as we go through these
+assessment<00:02:35.220><c> points</c><00:02:35.520><c> which</c><00:02:35.640><c> will</c><00:02:35.879><c> sort</c><00:02:36.000><c> of</c>
+assessment points which will sort of
+assessment points which will sort of
+begin<00:02:36.239><c> to</c><00:02:36.540><c> realize</c><00:02:36.840><c> is</c><00:02:37.140><c> they're</c><00:02:37.739><c> basically</c>
+begin to realize is they're basically
+begin to realize is they're basically
+outlining<00:02:38.700><c> the</c><00:02:39.120><c> the</c><00:02:39.540><c> parts</c><00:02:39.900><c> and</c><00:02:40.140><c> portions</c><00:02:40.500><c> of</c>
+outlining the the parts and portions of
+outlining the the parts and portions of
+an<00:02:40.980><c> incident</c><00:02:41.280><c> response</c><00:02:41.760><c> plan</c><00:02:41.940><c> so</c><00:02:42.599><c> the</c><00:02:42.780><c> cool</c>
+an incident response plan so the cool
+an incident response plan so the cool
+thing<00:02:43.080><c> is</c><00:02:43.200><c> if</c><00:02:43.379><c> you</c><00:02:43.500><c> don't</c><00:02:43.620><c> have</c><00:02:43.800><c> one</c><00:02:44.099><c> these</c>
+thing is if you don't have one these
+thing is if you don't have one these
+assessment<00:02:45.120><c> points</c><00:02:45.360><c> will</c><00:02:45.480><c> help</c><00:02:45.599><c> you</c><00:02:45.720><c> to</c><00:02:45.840><c> write</c>
+assessment points will help you to write
+assessment points will help you to write
+one<00:02:46.140><c> so</c><00:02:46.680><c> third</c><00:02:46.920><c> assessment</c><00:02:47.280><c> Point</c><00:02:47.459><c> determine</c>
+one so third assessment Point determine
+one so third assessment Point determine
+if<00:02:48.000><c> the</c><00:02:48.120><c> operational</c><00:02:48.360><c> incident</c><00:02:48.780><c> handling</c>
+if the operational incident handling
+if the operational incident handling
+capability<00:02:49.560><c> includes</c><00:02:50.160><c> detection</c><00:02:50.580><c> so</c><00:02:51.360><c> in</c><00:02:51.780><c> your</c>
+capability includes detection so in your
+capability includes detection so in your
+plan<00:02:52.080><c> are</c><00:02:52.500><c> you</c><00:02:52.739><c> do</c><00:02:53.400><c> you</c><00:02:53.580><c> have</c><00:02:53.640><c> a</c><00:02:53.819><c> mechanism</c><00:02:54.120><c> for</c>
+plan are you do you have a mechanism for
+plan are you do you have a mechanism for
+detection<00:02:54.780><c> Implement</c><00:02:55.319><c> is</c><00:02:55.500><c> the</c><00:02:55.680><c> incident</c>
+detection Implement is the incident
+detection Implement is the incident
+response<00:02:56.340><c> policy</c><00:02:56.640><c> and</c><00:02:56.760><c> incident</c><00:02:57.000><c> response</c>
+response policy and incident response
+response policy and incident response
+form<00:02:57.800><c> next</c><00:02:58.800><c> determine</c><00:02:59.220><c> if</c><00:02:59.400><c> the</c><00:02:59.580><c> operational</c>
+form next determine if the operational
+form next determine if the operational
+incident<00:03:00.360><c> handling</c><00:03:00.840><c> capability</c><00:03:01.260><c> includes</c>
+incident handling capability includes
+incident handling capability includes
+analysis<00:03:02.599><c> so</c><00:03:03.599><c> again</c><00:03:03.840><c> in</c><00:03:04.500><c> your</c><00:03:05.040><c> incident</c>
+analysis so again in your incident
+analysis so again in your incident
+response<00:03:06.120><c> you</c><00:03:07.019><c> need</c><00:03:07.200><c> to</c><00:03:07.319><c> have</c><00:03:07.620><c> mechanisms</c><00:03:08.459><c> in</c>
+response you need to have mechanisms in
+response you need to have mechanisms in
+place<00:03:08.760><c> or</c><00:03:09.000><c> steps</c><00:03:09.420><c> in</c><00:03:09.540><c> place</c><00:03:09.720><c> to</c><00:03:10.319><c> be</c><00:03:10.440><c> able</c><00:03:10.620><c> to</c>
+place or steps in place to be able to
+place or steps in place to be able to
+actually<00:03:11.400><c> uh</c><00:03:12.239><c> analyze</c><00:03:13.200><c> what's</c><00:03:13.620><c> going</c><00:03:13.800><c> on</c><00:03:13.980><c> with</c>
+actually uh analyze what's going on with
+actually uh analyze what's going on with
+that<00:03:14.580><c> incident</c><00:03:14.879><c> to</c><00:03:15.120><c> determine</c><00:03:15.420><c> what</c><00:03:15.599><c> the</c>
+that incident to determine what the
+that incident to determine what the
+right<00:03:15.840><c> next</c><00:03:16.080><c> move</c><00:03:16.319><c> is</c>
+right next move is
+right next move is
+so<00:03:17.760><c> again</c><00:03:17.879><c> steps</c><00:03:18.360><c> in</c><00:03:18.420><c> the</c><00:03:18.540><c> plan</c><00:03:18.659><c> if</c><00:03:18.900><c> you</c><00:03:19.019><c> will</c>
+so again steps in the plan if you will
+so again steps in the plan if you will
+so<00:03:20.159><c> next</c><00:03:20.340><c> we</c><00:03:20.519><c> have</c><00:03:20.640><c> determine</c><00:03:21.000><c> if</c><00:03:21.120><c> the</c>
+so next we have determine if the
+so next we have determine if the
+operational<00:03:21.540><c> incident</c><00:03:21.959><c> handling</c><00:03:22.379><c> capability</c>
+operational incident handling capability
+operational incident handling capability
+includes<00:03:23.459><c> containment</c><00:03:24.060><c> so</c><00:03:24.420><c> do</c><00:03:24.599><c> we</c><00:03:24.780><c> have</c><00:03:24.900><c> some</c>
+includes containment so do we have some
+includes containment so do we have some
+methodology<00:03:25.800><c> for</c><00:03:26.220><c> containing</c><00:03:26.760><c> the</c><00:03:26.940><c> incident</c>
+methodology for containing the incident
+methodology for containing the incident
+and<00:03:27.599><c> obviously</c><00:03:27.900><c> limiting</c><00:03:28.440><c> the</c><00:03:28.560><c> damage</c><00:03:28.860><c> again</c>
+and obviously limiting the damage again
+and obviously limiting the damage again
+all<00:03:29.879><c> these</c><00:03:30.060><c> answers</c><00:03:30.300><c> will</c><00:03:30.480><c> kind</c><00:03:30.659><c> of</c><00:03:30.720><c> be</c><00:03:30.840><c> the</c>
+all these answers will kind of be the
+all these answers will kind of be the
+same<00:03:31.080><c> that</c><00:03:31.319><c> we're</c><00:03:31.440><c> going</c><00:03:31.560><c> to</c><00:03:31.620><c> say</c><00:03:31.739><c> hey</c><00:03:31.920><c> go</c><00:03:32.099><c> look</c>
+same that we're going to say hey go look
+same that we're going to say hey go look
+at<00:03:32.400><c> our</c><00:03:32.519><c> documentation</c><00:03:32.940><c> in</c><00:03:33.180><c> other</c><00:03:33.300><c> words</c><00:03:33.480><c> the</c>
+at our documentation in other words the
+at our documentation in other words the
+incident<00:03:34.200><c> response</c><00:03:34.680><c> policy</c><00:03:35.159><c> uh</c><00:03:35.940><c> incident</c>
+incident response policy uh incident
+incident response policy uh incident
+response<00:03:36.659><c> plan</c><00:03:36.780><c> however</c><00:03:37.140><c> you</c><00:03:37.260><c> want</c><00:03:37.379><c> to</c><00:03:37.440><c> phrase</c>
+response plan however you want to phrase
+response plan however you want to phrase
+it<00:03:37.800><c> and</c><00:03:38.099><c> then</c><00:03:38.220><c> of</c><00:03:38.340><c> course</c><00:03:38.400><c> the</c><00:03:38.580><c> incident</c>
+it and then of course the incident
+it and then of course the incident
+response<00:03:39.239><c> form</c><00:03:39.480><c> now</c><00:03:40.260><c> to</c><00:03:40.379><c> determine</c><00:03:40.680><c> if</c><00:03:40.799><c> the</c>
+response form now to determine if the
+response form now to determine if the
+operational<00:03:41.220><c> incident</c><00:03:41.640><c> handling</c><00:03:42.000><c> capability</c>
+operational incident handling capability
+operational incident handling capability
+includes<00:03:42.959><c> recovery</c><00:03:43.560><c> this</c><00:03:44.519><c> is</c><00:03:44.640><c> implemented</c>
+includes recovery this is implemented
+includes recovery this is implemented
+CNC<00:03:45.420><c> response</c><00:03:45.840><c> policy</c><00:03:46.140><c> and</c><00:03:46.260><c> instant</c><00:03:46.560><c> response</c>
+CNC response policy and instant response
+CNC response policy and instant response
+form<00:03:46.980><c> again</c><00:03:47.280><c> the</c><00:03:48.120><c> idea</c><00:03:48.540><c> here</c><00:03:48.840><c> is</c><00:03:49.440><c> do</c><00:03:49.920><c> you</c><00:03:50.099><c> have</c>
+form again the idea here is do you have
+form again the idea here is do you have
+steps<00:03:51.360><c> in</c><00:03:51.780><c> your</c><00:03:51.959><c> plan</c><00:03:52.200><c> for</c><00:03:52.680><c> how</c><00:03:52.799><c> to</c><00:03:52.920><c> recover</c>
+steps in your plan for how to recover
+steps in your plan for how to recover
+from<00:03:53.640><c> an</c><00:03:53.760><c> incident</c><00:03:54.060><c> final</c><00:03:54.900><c> assessment</c><00:03:55.319><c> Point</c>
+from an incident final assessment Point
+from an incident final assessment Point
+determine<00:03:55.920><c> if</c><00:03:56.040><c> the</c><00:03:56.159><c> operational</c><00:03:56.400><c> incident</c>
+determine if the operational incident
+determine if the operational incident
+handling<00:03:57.060><c> capability</c><00:03:57.420><c> includes</c><00:03:57.840><c> user</c>
+handling capability includes user
+handling capability includes user
+response<00:03:58.739><c> activities</c><00:03:59.159><c> so</c><00:04:00.000><c> what</c><00:04:00.420><c> are</c><00:04:00.599><c> your</c>
+response activities so what are your
+response activities so what are your
+users<00:04:00.900><c> supposed</c><00:04:01.140><c> to</c><00:04:01.379><c> do</c><00:04:01.500><c> and</c><00:04:01.980><c> specifically</c>
+users supposed to do and specifically
+users supposed to do and specifically
+how<00:04:02.879><c> are</c><00:04:03.000><c> your</c><00:04:03.120><c> users</c><00:04:03.420><c> supposed</c><00:04:03.659><c> to</c><00:04:03.780><c> respond</c>
+how are your users supposed to respond
+how are your users supposed to respond
+in<00:04:04.500><c> every</c><00:04:04.680><c> step</c><00:04:04.940><c> again</c><00:04:05.940><c> go</c><00:04:06.480><c> back</c><00:04:06.599><c> to</c>
+in every step again go back to
+in every step again go back to
+documentation<00:04:07.319><c> we'll</c><00:04:07.860><c> hear</c><00:04:08.040><c> instant</c>
+documentation we'll hear instant
+documentation we'll hear instant
+response<00:04:08.819><c> plans</c><00:04:09.120><c> and</c><00:04:10.019><c> also</c><00:04:10.379><c> the</c><00:04:10.500><c> incident</c>
+response plans and also the incident
+response plans and also the incident
+response<00:04:11.159><c> forms</c><00:04:11.340><c> that</c><00:04:11.459><c> people</c><00:04:11.580><c> are</c><00:04:11.700><c> filling</c>
+response forms that people are filling
+response forms that people are filling
+out<00:04:12.000><c> when</c><00:04:12.120><c> they're</c><00:04:12.239><c> filing</c><00:04:12.599><c> for</c><00:04:12.720><c> an</c><00:04:12.900><c> incident</c>
+out when they're filing for an incident
+out when they're filing for an incident
+and<00:04:13.500><c> determine</c><00:04:13.860><c> exactly</c><00:04:14.220><c> how</c><00:04:14.459><c> effective</c>
+and determine exactly how effective
+and determine exactly how effective
+those<00:04:15.000><c> are</c><00:04:15.239><c> and</c><00:04:15.780><c> specifically</c><00:04:16.199><c> what</c><00:04:16.739><c> the</c><00:04:16.859><c> user</c>
+those are and specifically what the user
+those are and specifically what the user
+responses<00:04:17.459><c> should</c><00:04:17.699><c> be</c><00:04:17.820><c> and</c><00:04:17.940><c> if</c><00:04:18.120><c> those</c><00:04:18.180><c> are</c>
+responses should be and if those are
+responses should be and if those are
+there<00:04:18.540><c> you</c><00:04:19.079><c> should</c><00:04:19.139><c> be</c><00:04:19.320><c> good</c><00:04:19.440><c> to</c><00:04:19.500><c> go</c><00:04:19.620><c> but</c><00:04:20.340><c> if</c>
+there you should be good to go but if
+there you should be good to go but if
+they're<00:04:20.639><c> not</c><00:04:20.820><c> because</c><00:04:21.060><c> you</c><00:04:21.239><c> don't</c><00:04:21.359><c> have</c><00:04:21.479><c> any</c>
+they're not because you don't have any
+they're not because you don't have any
+of<00:04:21.720><c> these</c><00:04:21.900><c> policies</c><00:04:22.320><c> or</c><00:04:22.919><c> if</c><00:04:23.460><c> you're</c><00:04:23.580><c> like</c><00:04:23.759><c> so</c>
+of these policies or if you're like so
+of these policies or if you're like so
+many<00:04:24.120><c> defense</c><00:04:24.479><c> contractors</c><00:04:24.900><c> out</c><00:04:25.080><c> in</c><00:04:25.259><c> there</c>
+many defense contractors out in there
+many defense contractors out in there
+who<00:04:25.620><c> are</c><00:04:25.740><c> just</c><00:04:25.919><c> looking</c><00:04:26.040><c> at</c><00:04:26.220><c> this</c><00:04:26.400><c> whole</c><00:04:26.580><c> thing</c>
+who are just looking at this whole thing
+who are just looking at this whole thing
+going<00:04:27.000><c> oh</c><00:04:27.419><c> my</c><00:04:27.540><c> goodness</c><00:04:27.780><c> I'm</c><00:04:28.020><c> throwing</c><00:04:28.320><c> my</c>
+going oh my goodness I'm throwing my
+going oh my goodness I'm throwing my
+hands<00:04:28.620><c> up</c><00:04:28.680><c> in</c><00:04:28.860><c> the</c><00:04:28.919><c> air</c><00:04:29.040><c> I</c><00:04:29.460><c> don't</c><00:04:29.580><c> know</c><00:04:29.699><c> what</c><00:04:29.759><c> to</c>
+hands up in the air I don't know what to
+hands up in the air I don't know what to
+do
+do
+do
+um<00:04:31.259><c> I'm</c><00:04:31.440><c> gonna</c><00:04:31.560><c> go</c><00:04:31.740><c> have</c><00:04:31.860><c> a</c><00:04:31.979><c> beer</c><00:04:32.220><c> then</c><00:04:32.580><c> hey</c><00:04:32.880><c> the</c>
+um I'm gonna go have a beer then hey the
+um I'm gonna go have a beer then hey the
+good<00:04:33.540><c> news</c><00:04:33.660><c> is</c><00:04:33.900><c> here</c><00:04:34.800><c> at</c><00:04:34.979><c> on-call</c><00:04:35.400><c> we</c><00:04:35.699><c> work</c>
+good news is here at on-call we work
+good news is here at on-call we work
+with<00:04:36.000><c> defense</c><00:04:36.300><c> contractors</c><00:04:36.840><c> just</c><00:04:37.080><c> like</c><00:04:37.259><c> you</c>
+with defense contractors just like you
+with defense contractors just like you
+who<00:04:37.560><c> have</c><00:04:37.740><c> had</c><00:04:37.860><c> this</c><00:04:37.979><c> D</c><00:04:38.160><c> fars</c><00:04:38.699><c> nist</c><00:04:39.360><c> itar</c><00:04:39.960><c> and</c>
+who have had this D fars nist itar and
+who have had this D fars nist itar and
+cmmc<00:04:40.680><c> compliant</c><00:04:41.100><c> stuff</c><00:04:41.280><c> dropped</c><00:04:41.940><c> in</c><00:04:42.000><c> their</c>
+cmmc compliant stuff dropped in their
+cmmc compliant stuff dropped in their
+laps<00:04:42.419><c> like</c><00:04:42.479><c> a</c><00:04:42.600><c> seagull</c><00:04:42.900><c> on</c><00:04:43.080><c> a</c><00:04:43.199><c> sunny</c><00:04:43.259><c> day</c><00:04:43.500><c> and</c>
+laps like a seagull on a sunny day and
+laps like a seagull on a sunny day and
+we<00:04:44.100><c> teach</c><00:04:44.280><c> you</c><00:04:44.400><c> how</c><00:04:44.520><c> to</c><00:04:44.639><c> level</c><00:04:44.880><c> up</c><00:04:45.120><c> and</c><00:04:45.419><c> be</c><00:04:45.540><c> a</c>
+we teach you how to level up and be a
+we teach you how to level up and be a
+proper<00:04:45.900><c> on-call</c><00:04:46.259><c> compliance</c><00:04:46.620><c> hero</c><00:04:46.919><c> for</c><00:04:46.979><c> your</c>
+proper on-call compliance hero for your
+proper on-call compliance hero for your
+company<00:04:47.280><c> eliminating</c><00:04:47.940><c> gaps</c><00:04:48.360><c> gray</c><00:04:48.840><c> areas</c><00:04:49.259><c> and</c>
+company eliminating gaps gray areas and
+company eliminating gaps gray areas and
+getting<00:04:49.919><c> this</c><00:04:50.100><c> solved</c><00:04:50.520><c> all</c><00:04:50.940><c> while</c><00:04:51.120><c> showing</c>
+getting this solved all while showing
+getting this solved all while showing
+you<00:04:51.540><c> how</c><00:04:51.720><c> to</c><00:04:51.840><c> leverage</c><00:04:52.080><c> compliance</c><00:04:52.620><c> is</c><00:04:52.740><c> your</c>
+you how to leverage compliance is your
+you how to leverage compliance is your
+secret<00:04:53.100><c> weapon</c><00:04:53.460><c> to</c><00:04:53.520><c> land</c><00:04:53.699><c> more</c><00:04:53.880><c> Defense</c><00:04:54.240><c> work</c>
+secret weapon to land more Defense work
+secret weapon to land more Defense work
+with<00:04:54.840><c> higher</c><00:04:55.139><c> profit</c><00:04:55.440><c> margins</c><00:04:55.919><c> now</c><00:04:56.280><c> that's</c>
+with higher profit margins now that's
+with higher profit margins now that's
+what<00:04:56.820><c> becoming</c><00:04:57.120><c> an</c><00:04:57.240><c> on-call</c><00:04:57.540><c> compliance</c><00:04:57.900><c> hero</c>
+what becoming an on-call compliance hero
+what becoming an on-call compliance hero
+can<00:04:58.259><c> do</c><00:04:58.320><c> for</c><00:04:58.500><c> you</c><00:04:58.620><c> if</c><00:04:59.220><c> you're</c><00:04:59.340><c> looking</c><00:04:59.460><c> for</c>
+can do for you if you're looking for
+can do for you if you're looking for
+more<00:04:59.940><c> content</c><00:05:00.360><c> uh</c><00:05:01.259><c> or</c><00:05:01.440><c> more</c><00:05:01.680><c> help</c><00:05:01.919><c> our</c>
+more content uh or more help our
+more content uh or more help our
+compliance<00:05:02.940><c> experts</c><00:05:03.360><c> are</c><00:05:03.479><c> always</c><00:05:03.660><c> on</c><00:05:03.900><c> call</c>
+compliance experts are always on call
+compliance experts are always on call
+for<00:05:04.320><c> you</c><00:05:04.440><c> you</c><00:05:04.560><c> can</c><00:05:04.680><c> visit</c><00:05:04.800><c> cmmc</c>
+for you you can visit cmmc
+for you you can visit cmmc
+compliancecrets.com<00:05:06.360><c> or</c><00:05:06.720><c> check</c><00:05:06.960><c> out</c><00:05:07.139><c> the</c><00:05:07.380><c> bio</c>
+compliancecrets.com or check out the bio
+compliancecrets.com or check out the bio
+below<00:05:07.979><c> for</c><00:05:08.400><c> links</c><00:05:08.699><c> to</c><00:05:08.820><c> get</c><00:05:08.940><c> help</c><00:05:09.120><c> right</c><00:05:09.360><c> now</c><00:05:09.540><c> if</c>
+below for links to get help right now if
+below for links to get help right now if
+you<00:05:10.199><c> love</c><00:05:10.320><c> the</c><00:05:10.440><c> content</c><00:05:10.680><c> we're</c><00:05:10.800><c> putting</c><00:05:11.040><c> out</c>
+you love the content we're putting out
+you love the content we're putting out
+here<00:05:11.220><c> for</c><00:05:11.340><c> you</c><00:05:11.460><c> help</c><00:05:11.759><c> us</c><00:05:11.880><c> out</c><00:05:12.000><c> with</c><00:05:12.120><c> big</c><00:05:12.240><c> thumbs</c>
+here for you help us out with big thumbs
+here for you help us out with big thumbs
+up<00:05:12.540><c> on</c><00:05:12.660><c> that</c><00:05:12.780><c> like</c><00:05:12.960><c> button</c><00:05:13.259><c> and</c><00:05:13.680><c> of</c><00:05:13.860><c> course</c><00:05:13.979><c> you</c>
+up on that like button and of course you
+up on that like button and of course you
+know<00:05:14.460><c> what</c><00:05:14.520><c> to</c><00:05:14.699><c> do</c><00:05:14.820><c> smash</c><00:05:15.479><c> that</c><00:05:15.660><c> subscribe</c>
+know what to do smash that subscribe
+know what to do smash that subscribe
+button<00:05:16.259><c> because</c><00:05:16.380><c> you</c><00:05:16.620><c> know</c><00:05:16.740><c> what</c><00:05:16.860><c> they're</c>
+button because you know what they're
+button because you know what they're
+constantly<00:05:17.520><c> changing</c><00:05:17.940><c> things</c><00:05:18.180><c> I</c><00:05:18.720><c> just</c><00:05:18.840><c> saw</c>
+constantly changing things I just saw
+constantly changing things I just saw
+the<00:05:19.139><c> other</c><00:05:19.199><c> day</c><00:05:19.320><c> they</c><00:05:19.380><c> brought</c><00:05:19.620><c> out</c><00:05:19.979><c> nist</c><00:05:20.280><c> SP</c>
+the other day they brought out nist SP
+the other day they brought out nist SP
+800<00:05:20.820><c> 171</c><00:05:21.240><c> revision</c><00:05:21.660><c> three</c><00:05:22.080><c> and</c><00:05:22.680><c> again</c><00:05:22.919><c> this</c>
+800 171 revision three and again this
+800 171 revision three and again this
+stuff<00:05:23.400><c> changes</c><00:05:23.940><c> all</c><00:05:24.240><c> the</c><00:05:24.360><c> time</c><00:05:24.539><c> so</c><00:05:24.840><c> Mash</c><00:05:25.259><c> that</c>
+stuff changes all the time so Mash that
+stuff changes all the time so Mash that
+subscribe<00:05:25.919><c> button</c><00:05:26.220><c> uh</c><00:05:26.880><c> and</c><00:05:27.060><c> until</c><00:05:27.180><c> the</c><00:05:27.419><c> next</c>
+subscribe button uh and until the next
+subscribe button uh and until the next
+compliance<00:05:27.900><c> tip</c><00:05:28.139><c> my</c><00:05:28.259><c> friend</c><00:05:28.380><c> stay</c><00:05:28.740><c> safe</c><00:05:28.919><c> and</c>
+compliance tip my friend stay safe and
+compliance tip my friend stay safe and
+secure<00:05:29.340><c> out</c><00:05:29.520><c> there</c><00:05:29.699><c> hit</c><00:05:30.180><c> us</c><00:05:30.300><c> in</c><00:05:30.419><c> the</c><00:05:30.539><c> comments</c>
+secure out there hit us in the comments
+secure out there hit us in the comments
+below<00:05:30.840><c> to</c><00:05:30.960><c> let</c><00:05:31.080><c> us</c><00:05:31.139><c> know</c><00:05:31.259><c> what</c><00:05:31.440><c> you'd</c><00:05:31.560><c> like</c><00:05:31.680><c> to</c>
+below to let us know what you'd like to
+below to let us know what you'd like to
+know<00:05:31.919><c> more</c><00:05:32.039><c> about</c><00:05:32.220><c> when</c><00:05:32.639><c> it</c><00:05:32.820><c> comes</c><00:05:32.940><c> to</c>
+know more about when it comes to
+know more about when it comes to
+information<00:05:33.240><c> security</c><00:05:33.600><c> and</c><00:05:33.840><c> compliance</c><00:05:34.320><c> I'll</c>
+information security and compliance I'll
+information security and compliance I'll
+see<00:05:34.860><c> you</c><00:05:34.979><c> on</c><00:05:35.100><c> the</c><00:05:35.220><c> next</c><00:05:35.340><c> one</c>
+see you on the next one
+see you on the next one
+foreign
+foreign
+foreign
+[Music]

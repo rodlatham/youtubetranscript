@@ -1,0 +1,512 @@
+Kind: captions
+Language: en
+hey<00:00:00.919><c> everybody</c><00:00:01.199><c> it's</c><00:00:01.319><c> Mike</c><00:00:01.480><c> freder</c><00:00:01.800><c> here</c><00:00:01.880><c> with</c>
+hey everybody it's Mike freder here with
+hey everybody it's Mike freder here with
+on<00:00:02.200><c> call</c><00:00:02.320><c> compliance</c><00:00:02.639><c> Solutions</c><00:00:02.960><c> and</c><00:00:03.080><c> I'm</c>
+on call compliance Solutions and I'm
+on call compliance Solutions and I'm
+back<00:00:03.439><c> with</c><00:00:03.600><c> another</c><00:00:03.840><c> compliance</c><00:00:04.240><c> tip</c><00:00:04.400><c> of</c><00:00:04.480><c> the</c>
+back with another compliance tip of the
+back with another compliance tip of the
+week<00:00:05.080><c> this</c><00:00:05.240><c> week</c><00:00:05.400><c> we're</c><00:00:05.560><c> talking</c><00:00:05.839><c> about</c><00:00:06.040><c> cmmc</c>
+week this week we're talking about cmmc
+week this week we're talking about cmmc
+control<00:00:07.040><c> cm.</c>
+control cm.
+control cm.
+l234<00:00:09.800><c> do5</c><00:00:10.800><c> Define</c><00:00:11.519><c> document</c><00:00:12.120><c> approve</c><00:00:12.719><c> and</c>
+l234 do5 Define document approve and
+l234 do5 Define document approve and
+enforce<00:00:13.960><c> physical</c><00:00:14.519><c> and</c><00:00:14.759><c> logical</c><00:00:15.320><c> access</c>
+enforce physical and logical access
+enforce physical and logical access
+restrictions<00:00:16.640><c> associated</c><00:00:17.080><c> with</c><00:00:17.199><c> changes</c><00:00:17.520><c> to</c>
+restrictions associated with changes to
+restrictions associated with changes to
+organizational
+organizational
+organizational
+[Music]
+systems<00:00:28.840><c> so</c><00:00:29.119><c> hey</c><00:00:29.400><c> if</c><00:00:29.519><c> you're</c><00:00:29.640><c> a</c><00:00:29.720><c> def</c>
+systems so hey if you're a def
+systems so hey if you're a def
+contractor<00:00:30.599><c> who's</c><00:00:30.759><c> feeling</c><00:00:31.080><c> overwhelmed</c>
+contractor who's feeling overwhelmed
+contractor who's feeling overwhelmed
+tired<00:00:32.439><c> and</c><00:00:32.599><c> alone</c><00:00:33.200><c> trying</c><00:00:33.440><c> to</c><00:00:33.840><c> understand</c><00:00:34.000><c> all</c>
+tired and alone trying to understand all
+tired and alone trying to understand all
+of<00:00:34.239><c> this</c><00:00:34.360><c> cmmc</c><00:00:35.320><c> defs</c><00:00:35.840><c> and</c><00:00:36.000><c> nist</c><00:00:36.280><c> sp800</c><00:00:36.879><c> 171</c>
+of this cmmc defs and nist sp800 171
+of this cmmc defs and nist sp800 171
+compliance<00:00:37.960><c> stuff</c><00:00:38.480><c> on</c><00:00:38.719><c> top</c><00:00:38.879><c> of</c><00:00:39.000><c> an</c><00:00:39.200><c> already</c>
+compliance stuff on top of an already
+compliance stuff on top of an already
+colossal<00:00:40.200><c> workload</c><00:00:41.120><c> well</c><00:00:41.640><c> I've</c><00:00:41.840><c> got</c><00:00:42.039><c> great</c>
+colossal workload well I've got great
+colossal workload well I've got great
+news<00:00:42.440><c> for</c><00:00:42.640><c> you</c><00:00:43.079><c> you</c><00:00:43.280><c> found</c><00:00:43.440><c> your</c><00:00:43.600><c> home</c><00:00:43.800><c> here</c><00:00:43.920><c> at</c>
+news for you you found your home here at
+news for you you found your home here at
+on<00:00:44.320><c> call</c><00:00:44.480><c> compliance</c><00:00:44.879><c> Solutions</c><00:00:45.440><c> where</c><00:00:45.600><c> we</c>
+on call compliance Solutions where we
+on call compliance Solutions where we
+can<00:00:45.840><c> help</c><00:00:46.079><c> you</c><00:00:46.239><c> transform</c><00:00:46.800><c> into</c><00:00:47.039><c> your</c>
+can help you transform into your
+can help you transform into your
+company's<00:00:47.559><c> on</c><00:00:47.840><c> call</c><00:00:48.000><c> compliance</c><00:00:48.440><c> Hero</c><00:00:48.960><c> Let's</c>
+company's on call compliance Hero Let's
+company's on call compliance Hero Let's
+jump<00:00:49.399><c> into</c><00:00:49.640><c> it</c><00:00:49.840><c> so</c><00:00:50.600><c> uh</c><00:00:50.719><c> in</c><00:00:50.840><c> cmmc</c><00:00:51.399><c> control</c><00:00:51.800><c> cm.</c>
+jump into it so uh in cmmc control cm.
+jump into it so uh in cmmc control cm.
+l234<00:00:53.559><c> do5</c><00:00:54.120><c> Define</c><00:00:54.520><c> document</c><00:00:54.920><c> approve</c><00:00:55.399><c> and</c>
+l234 do5 Define document approve and
+l234 do5 Define document approve and
+enforce<00:00:56.160><c> physical</c><00:00:56.559><c> and</c><00:00:56.719><c> logical</c><00:00:57.239><c> access</c>
+enforce physical and logical access
+enforce physical and logical access
+restrictions<00:00:58.600><c> associated</c><00:00:59.039><c> with</c><00:00:59.120><c> changes</c><00:00:59.399><c> to</c>
+restrictions associated with changes to
+restrictions associated with changes to
+organization<00:01:00.000><c> ation</c><00:01:00.239><c> systems</c><00:01:01.199><c> I</c><00:01:01.280><c> got</c><00:01:01.359><c> to</c><00:01:01.480><c> tell</c>
+organization ation systems I got to tell
+organization ation systems I got to tell
+you<00:01:02.039><c> this</c><00:01:02.120><c> is</c><00:01:02.239><c> a</c><00:01:02.359><c> big</c><00:01:02.519><c> one</c><00:01:02.960><c> and</c><00:01:03.120><c> it's</c><00:01:03.440><c> a</c><00:01:03.640><c> control</c>
+you this is a big one and it's a control
+you this is a big one and it's a control
+thing<00:01:04.720><c> that</c><00:01:04.839><c> is</c><00:01:05.040><c> going</c><00:01:05.199><c> to</c><00:01:05.400><c> take</c><00:01:05.640><c> more</c><00:01:05.920><c> than</c>
+thing that is going to take more than
+thing that is going to take more than
+just<00:01:06.320><c> the</c><00:01:06.439><c> IT</c><00:01:06.720><c> department</c><00:01:07.159><c> here</c><00:01:07.600><c> because</c><00:01:07.840><c> it's</c>
+just the IT department here because it's
+just the IT department here because it's
+talking<00:01:08.479><c> about</c><00:01:08.920><c> both</c><00:01:09.320><c> physical</c><00:01:09.840><c> and</c><00:01:10.080><c> logical</c>
+talking about both physical and logical
+talking about both physical and logical
+security<00:01:11.520><c> which</c><00:01:11.680><c> means</c><00:01:12.320><c> we've</c><00:01:12.640><c> got</c><00:01:12.759><c> to</c><00:01:12.960><c> work</c>
+security which means we've got to work
+security which means we've got to work
+together<00:01:13.560><c> baby</c><00:01:14.159><c> yes</c><00:01:14.720><c> it</c><00:01:15.320><c> physical</c><00:01:15.759><c> security</c>
+together baby yes it physical security
+together baby yes it physical security
+The<00:01:16.600><c> Works</c><00:01:17.119><c> we're</c><00:01:17.280><c> all</c><00:01:17.439><c> involved</c><00:01:17.799><c> in</c><00:01:17.960><c> this</c><00:01:18.080><c> one</c>
+The Works we're all involved in this one
+The Works we're all involved in this one
+and<00:01:19.040><c> lots</c><00:01:19.280><c> of</c><00:01:19.520><c> things</c><00:01:20.240><c> uh</c><00:01:20.400><c> assessors</c><00:01:20.799><c> are</c>
+and lots of things uh assessors are
+and lots of things uh assessors are
+going<00:01:21.079><c> to</c><00:01:21.159><c> be</c><00:01:21.320><c> looking</c><00:01:21.560><c> for</c><00:01:21.880><c> on</c><00:01:22.119><c> this</c><00:01:22.240><c> one</c><00:01:22.560><c> so</c>
+going to be looking for on this one so
+going to be looking for on this one so
+let's<00:01:23.079><c> get</c><00:01:23.200><c> straight</c><00:01:23.479><c> into</c><00:01:23.720><c> it</c><00:01:24.280><c> let's</c><00:01:24.439><c> check</c>
+let's get straight into it let's check
+let's get straight into it let's check
+out<00:01:24.840><c> the</c><00:01:24.960><c> assessors</c><00:01:25.360><c> are</c><00:01:25.560><c> looking</c><00:01:25.799><c> for</c><00:01:25.960><c> on</c>
+out the assessors are looking for on
+out the assessors are looking for on
+this<00:01:26.280><c> one</c><00:01:26.799><c> and</c><00:01:26.920><c> I</c><00:01:27.000><c> think</c><00:01:27.159><c> that's</c><00:01:27.320><c> the</c><00:01:27.479><c> fastest</c>
+this one and I think that's the fastest
+this one and I think that's the fastest
+way<00:01:27.880><c> to</c><00:01:28.000><c> know</c><00:01:28.159><c> what</c><00:01:28.240><c> will</c><00:01:28.360><c> make</c><00:01:28.479><c> them</c><00:01:28.680><c> happy</c><00:01:29.040><c> so</c>
+way to know what will make them happy so
+way to know what will make them happy so
+uh<00:01:30.000><c> first</c><00:01:30.280><c> assessment</c><00:01:30.759><c> Point</c><00:01:31.280><c> determined</c>
+uh first assessment Point determined
+uh first assessment Point determined
+physical<00:01:32.280><c> access</c><00:01:32.640><c> restrictions</c><00:01:33.200><c> associated</c>
+physical access restrictions associated
+physical access restrictions associated
+with<00:01:33.759><c> changes</c><00:01:34.159><c> to</c><00:01:34.399><c> the</c><00:01:34.600><c> system</c><00:01:34.960><c> are</c><00:01:35.280><c> defined</c>
+with changes to the system are defined
+with changes to the system are defined
+so<00:01:36.079><c> if</c><00:01:36.200><c> we</c><00:01:36.360><c> Define</c><00:01:36.880><c> what</c><00:01:37.159><c> physical</c><00:01:37.640><c> access</c>
+so if we Define what physical access
+so if we Define what physical access
+restrictions<00:01:38.640><c> exist</c><00:01:39.640><c> now</c><00:01:40.200><c> again</c><00:01:40.439><c> we've</c><00:01:40.600><c> got</c><00:01:40.720><c> a</c>
+restrictions exist now again we've got a
+restrictions exist now again we've got a
+definition<00:01:41.360><c> typically</c><00:01:41.720><c> in</c><00:01:41.799><c> our</c><00:01:41.960><c> plan</c><00:01:42.200><c> in</c><00:01:42.320><c> the</c>
+definition typically in our plan in the
+definition typically in our plan in the
+beginning<00:01:42.880><c> that</c><00:01:43.040><c> talks</c><00:01:43.360><c> about</c><00:01:43.680><c> all</c><00:01:43.799><c> of</c><00:01:43.920><c> the</c>
+beginning that talks about all of the
+beginning that talks about all of the
+different<00:01:44.280><c> elements</c><00:01:44.719><c> of</c><00:01:44.840><c> the</c><00:01:45.000><c> physical</c><00:01:45.719><c> uh</c>
+different elements of the physical uh
+different elements of the physical uh
+physical<00:01:46.799><c> security</c><00:01:47.280><c> system</c><00:01:47.680><c> things</c><00:01:47.920><c> like</c>
+physical security system things like
+physical security system things like
+door<00:01:48.719><c> access</c><00:01:49.079><c> swipes</c><00:01:49.799><c> locking</c><00:01:50.240><c> key</c><00:01:51.040><c> cameras</c>
+door access swipes locking key cameras
+door access swipes locking key cameras
+you<00:01:51.799><c> name</c><00:01:52.000><c> it</c><00:01:52.600><c> so</c><00:01:52.960><c> again</c><00:01:53.200><c> that</c><00:01:53.320><c> shortens</c><00:01:53.719><c> up</c>
+you name it so again that shortens up
+you name it so again that shortens up
+our<00:01:54.079><c> answer</c><00:01:54.280><c> and</c><00:01:54.399><c> allows</c><00:01:54.640><c> us</c><00:01:54.759><c> to</c><00:01:54.880><c> put</c><00:01:55.040><c> a</c><00:01:55.159><c> simple</c>
+our answer and allows us to put a simple
+our answer and allows us to put a simple
+answer<00:01:55.799><c> that</c><00:01:55.920><c> says</c><00:01:56.560><c> physical</c><00:01:57.039><c> access</c>
+answer that says physical access
+answer that says physical access
+restrictions<00:01:57.920><c> are</c><00:01:58.200><c> defined</c><00:01:58.719><c> by</c><00:01:58.880><c> the</c><00:01:59.000><c> physical</c>
+restrictions are defined by the physical
+restrictions are defined by the physical
+premise<00:01:59.880><c> security</c><00:02:00.280><c> system</c><00:02:00.960><c> and</c><00:02:01.119><c> again</c><00:02:01.399><c> we</c>
+premise security system and again we
+premise security system and again we
+should<00:02:01.680><c> have</c><00:02:01.799><c> a</c><00:02:02.000><c> policy</c><00:02:02.399><c> that</c><00:02:02.520><c> says</c><00:02:02.840><c> hey</c><00:02:02.960><c> our</c>
+should have a policy that says hey our
+should have a policy that says hey our
+physical<00:02:03.399><c> premise</c><00:02:03.759><c> security</c><00:02:04.119><c> system</c><00:02:04.920><c> uh</c>
+physical premise security system uh
+physical premise security system uh
+contains<00:02:05.479><c> these</c><00:02:05.719><c> elements</c><00:02:06.600><c> and</c><00:02:06.799><c> that's</c><00:02:06.960><c> how</c>
+contains these elements and that's how
+contains these elements and that's how
+we<00:02:07.200><c> know</c><00:02:07.399><c> that</c><00:02:07.520><c> we</c><00:02:07.640><c> are</c><00:02:07.960><c> properly</c><00:02:08.399><c> protecting</c>
+we know that we are properly protecting
+we know that we are properly protecting
+and<00:02:09.000><c> can</c><00:02:09.160><c> demonstrate</c><00:02:09.599><c> that</c><00:02:09.720><c> to</c><00:02:09.840><c> an</c><00:02:10.000><c> assessor</c>
+and can demonstrate that to an assessor
+and can demonstrate that to an assessor
+so<00:02:11.039><c> again</c><00:02:11.560><c> very</c><00:02:11.840><c> key</c><00:02:12.080><c> is</c><00:02:12.200><c> to</c><00:02:12.360><c> have</c><00:02:12.440><c> a</c><00:02:12.599><c> physical</c>
+so again very key is to have a physical
+so again very key is to have a physical
+security<00:02:13.840><c> policy</c><00:02:14.760><c> determined</c><00:02:15.360><c> physical</c>
+security policy determined physical
+security policy determined physical
+access<00:02:16.080><c> restrictions</c><00:02:16.560><c> associated</c><00:02:16.959><c> with</c>
+access restrictions associated with
+access restrictions associated with
+changes<00:02:17.440><c> to</c><00:02:17.640><c> the</c><00:02:17.800><c> system</c><00:02:18.080><c> are</c><00:02:18.360><c> documented</c>
+changes to the system are documented
+changes to the system are documented
+physical<00:02:19.560><c> premise</c><00:02:19.920><c> security</c><00:02:20.480><c> is</c><00:02:20.840><c> documented</c>
+physical premise security is documented
+physical premise security is documented
+within<00:02:21.680><c> the</c><00:02:21.840><c> organization's</c><00:02:22.519><c> physical</c>
+within the organization's physical
+within the organization's physical
+premise<00:02:23.239><c> security</c><00:02:23.560><c> system</c><00:02:24.360><c> documentation</c>
+premise security system documentation
+premise security system documentation
+pretty<00:02:25.599><c> simple</c><00:02:25.840><c> and</c><00:02:25.959><c> straightforward</c>
+pretty simple and straightforward
+pretty simple and straightforward
+determine<00:02:27.200><c> if</c><00:02:27.360><c> physical</c><00:02:27.760><c> access</c>
+determine if physical access
+determine if physical access
+restrictions<00:02:28.640><c> Associated</c><00:02:29.440><c> uh</c><00:02:29.519><c> with</c><00:02:29.840><c> changes</c>
+restrictions Associated uh with changes
+restrictions Associated uh with changes
+to<00:02:30.560><c> the</c><00:02:30.760><c> system</c><00:02:31.080><c> are</c><00:02:31.319><c> approved</c><00:02:32.200><c> now</c><00:02:32.319><c> we</c><00:02:32.440><c> start</c>
+to the system are approved now we start
+to the system are approved now we start
+getting<00:02:32.879><c> into</c><00:02:33.040><c> some</c><00:02:33.200><c> more</c><00:02:33.360><c> interesting</c>
+getting into some more interesting
+getting into some more interesting
+things<00:02:34.440><c> physical</c><00:02:34.840><c> access</c><00:02:35.160><c> restrictions</c><00:02:35.680><c> are</c>
+things physical access restrictions are
+things physical access restrictions are
+approved<00:02:36.319><c> by</c><00:02:36.440><c> the</c><00:02:36.519><c> organization</c><00:02:37.160><c> CIO</c><00:02:38.000><c> who</c><00:02:38.120><c> is</c>
+approved by the organization CIO who is
+approved by the organization CIO who is
+in<00:02:38.440><c> charge</c><00:02:38.800><c> of</c><00:02:38.959><c> the</c><00:02:39.080><c> building's</c><00:02:39.480><c> physical</c>
+in charge of the building's physical
+in charge of the building's physical
+premise<00:02:40.239><c> security</c><00:02:40.680><c> so</c><00:02:40.840><c> again</c><00:02:41.040><c> now</c><00:02:41.159><c> we're</c>
+premise security so again now we're
+premise security so again now we're
+naming<00:02:41.760><c> someone</c><00:02:42.440><c> who</c><00:02:42.599><c> is</c><00:02:42.800><c> ultimately</c><00:02:43.280><c> in</c>
+naming someone who is ultimately in
+naming someone who is ultimately in
+charge<00:02:43.840><c> of</c><00:02:44.000><c> the</c><00:02:44.080><c> building's</c><00:02:44.519><c> physical</c>
+charge of the building's physical
+charge of the building's physical
+security<00:02:45.519><c> very</c><00:02:45.840><c> important</c><00:02:46.360><c> we</c><00:02:46.480><c> got</c><00:02:46.599><c> to</c><00:02:46.800><c> have</c>
+security very important we got to have
+security very important we got to have
+somebody<00:02:47.560><c> who</c><00:02:47.760><c> we</c><00:02:47.879><c> can</c><00:02:48.040><c> say</c><00:02:48.360><c> is</c><00:02:48.480><c> in</c><00:02:48.640><c> charge</c><00:02:48.920><c> of</c>
+somebody who we can say is in charge of
+somebody who we can say is in charge of
+this<00:02:50.000><c> next</c><00:02:50.400><c> determinate</c><00:02:51.080><c> physical</c><00:02:51.560><c> access</c>
+this next determinate physical access
+this next determinate physical access
+restrictions<00:02:52.560><c> associated</c><00:02:53.040><c> with</c><00:02:53.159><c> changes</c><00:02:53.480><c> to</c>
+restrictions associated with changes to
+restrictions associated with changes to
+the<00:02:53.879><c> system</c><00:02:54.159><c> are</c><00:02:54.480><c> enforced</c><00:02:55.480><c> the</c><00:02:55.599><c> building's</c>
+the system are enforced the building's
+the system are enforced the building's
+physical<00:02:56.280><c> premise</c><00:02:56.599><c> security</c><00:02:56.920><c> system</c><00:02:57.159><c> is</c>
+physical premise security system is
+physical premise security system is
+enforced<00:02:58.239><c> active</c><00:02:58.879><c> and</c><00:02:59.080><c> is</c><00:02:59.280><c> tested</c><00:02:59.959><c> daily</c><00:03:00.599><c> by</c>
+enforced active and is tested daily by
+enforced active and is tested daily by
+all<00:03:01.080><c> authorized</c><00:03:01.519><c> users</c><00:03:01.920><c> accessing</c><00:03:02.319><c> the</c>
+all authorized users accessing the
+all authorized users accessing the
+physical<00:03:02.720><c> premise</c><00:03:03.159><c> of</c><00:03:03.319><c> course</c><00:03:03.640><c> right</c><00:03:03.840><c> every</c>
+physical premise of course right every
+physical premise of course right every
+time<00:03:04.120><c> you</c><00:03:04.280><c> hit</c><00:03:04.400><c> a</c><00:03:04.519><c> door</c><00:03:04.680><c> swipe</c><00:03:05.040><c> that's</c><00:03:05.159><c> a</c><00:03:05.280><c> test</c>
+time you hit a door swipe that's a test
+time you hit a door swipe that's a test
+to<00:03:05.599><c> see</c><00:03:05.720><c> if</c><00:03:05.799><c> it's</c><00:03:05.920><c> going</c><00:03:06.000><c> to</c><00:03:06.159><c> work</c><00:03:06.640><c> every</c><00:03:06.799><c> time</c>
+to see if it's going to work every time
+to see if it's going to work every time
+you<00:03:07.000><c> use</c><00:03:07.120><c> a</c><00:03:07.239><c> lock</c><00:03:07.400><c> and</c><00:03:07.519><c> key</c><00:03:07.760><c> do</c><00:03:07.840><c> we</c><00:03:07.959><c> know</c><00:03:08.080><c> if</c><00:03:08.159><c> the</c>
+you use a lock and key do we know if the
+you use a lock and key do we know if the
+key<00:03:08.480><c> works</c><00:03:09.120><c> every</c><00:03:09.280><c> time</c><00:03:09.440><c> we</c><00:03:09.519><c> show</c><00:03:09.760><c> up</c><00:03:09.840><c> on</c>
+key works every time we show up on
+key works every time we show up on
+camera<00:03:10.400><c> the</c><00:03:10.519><c> security</c><00:03:10.879><c> camera</c><00:03:11.200><c> the</c><00:03:11.280><c> entrances</c>
+camera the security camera the entrances
+camera the security camera the entrances
+exits<00:03:12.080><c> in</c><00:03:12.280><c> security</c><00:03:12.640><c> sensitive</c><00:03:13.080><c> areas</c><00:03:14.080><c> well</c>
+exits in security sensitive areas well
+exits in security sensitive areas well
+do<00:03:14.599><c> the</c><00:03:14.680><c> cameras</c><00:03:15.040><c> pick</c><00:03:15.200><c> us</c><00:03:15.319><c> up</c><00:03:15.480><c> and</c><00:03:15.599><c> so</c><00:03:15.760><c> that's</c>
+do the cameras pick us up and so that's
+do the cameras pick us up and so that's
+a<00:03:16.000><c> daily</c><00:03:16.319><c> test</c><00:03:16.560><c> of</c><00:03:16.680><c> the</c><00:03:16.959><c> system</c><00:03:17.959><c> next</c>
+a daily test of the system next
+a daily test of the system next
+determine<00:03:18.560><c> if</c><00:03:18.720><c> logical</c><00:03:19.120><c> access</c><00:03:19.440><c> restrictions</c>
+determine if logical access restrictions
+determine if logical access restrictions
+associate<00:03:20.400><c> with</c><00:03:20.519><c> changes</c><00:03:20.799><c> to</c><00:03:20.920><c> the</c><00:03:21.040><c> system</c><00:03:21.280><c> are</c>
+associate with changes to the system are
+associate with changes to the system are
+defined<00:03:21.760><c> now</c><00:03:21.879><c> be</c><00:03:22.040><c> careful</c><00:03:22.680><c> we're</c><00:03:22.840><c> switching</c>
+defined now be careful we're switching
+defined now be careful we're switching
+from<00:03:23.440><c> physical</c><00:03:23.840><c> to</c><00:03:24.000><c> logical</c><00:03:24.400><c> here</c><00:03:24.560><c> all</c><00:03:24.680><c> of</c><00:03:24.760><c> a</c>
+from physical to logical here all of a
+from physical to logical here all of a
+sudden<00:03:25.000><c> you're</c><00:03:25.120><c> going</c><00:03:25.280><c> from</c><00:03:25.480><c> physical</c>
+sudden you're going from physical
+sudden you're going from physical
+premise<00:03:26.159><c> security</c><00:03:26.799><c> to</c><00:03:27.040><c> it</c><00:03:27.480><c> security</c><00:03:28.040><c> so</c><00:03:28.280><c> again</c>
+premise security to it security so again
+premise security to it security so again
+logical<00:03:29.239><c> access</c><00:03:29.760><c> restrictions</c><00:03:30.159><c> are</c><00:03:30.400><c> defined</c>
+logical access restrictions are defined
+logical access restrictions are defined
+within<00:03:31.080><c> the</c><00:03:31.239><c> firewall</c><00:03:32.200><c> Network</c>
+within the firewall Network
+within the firewall Network
+infrastructure<00:03:33.400><c> system</c><00:03:33.879><c> permissions</c><00:03:34.760><c> Active</c>
+infrastructure system permissions Active
+infrastructure system permissions Active
+Directory<00:03:35.560><c> Group</c><00:03:35.879><c> Policy</c><00:03:36.239><c> and</c><00:03:36.439><c> individual</c>
+Directory Group Policy and individual
+Directory Group Policy and individual
+system<00:03:37.280><c> access</c><00:03:37.720><c> so</c><00:03:37.959><c> again</c><00:03:38.959><c> uh</c><00:03:39.120><c> you</c><00:03:39.239><c> know</c><00:03:39.400><c> with</c>
+system access so again uh you know with
+system access so again uh you know with
+this<00:03:39.760><c> we're</c><00:03:39.959><c> definitely</c><00:03:40.439><c> kind</c><00:03:40.560><c> of</c><00:03:40.680><c> moving</c><00:03:41.000><c> the</c>
+this we're definitely kind of moving the
+this we're definitely kind of moving the
+needle<00:03:41.480><c> from</c><00:03:41.720><c> physical</c><00:03:42.239><c> into</c><00:03:42.799><c> more</c><00:03:43.000><c> of</c><00:03:43.080><c> an</c><00:03:43.239><c> IT</c>
+needle from physical into more of an IT
+needle from physical into more of an IT
+world<00:03:44.680><c> next</c><00:03:45.000><c> assessment</c><00:03:45.400><c> point</c><00:03:45.599><c> I</c><00:03:45.720><c> know</c><00:03:45.879><c> this</c>
+world next assessment point I know this
+world next assessment point I know this
+is<00:03:46.040><c> a</c><00:03:46.159><c> big</c><00:03:46.319><c> control</c><00:03:46.720><c> you</c><00:03:46.879><c> guys</c><00:03:47.120><c> lots</c><00:03:47.280><c> of</c>
+is a big control you guys lots of
+is a big control you guys lots of
+assessment<00:03:47.879><c> points</c><00:03:48.560><c> determine</c><00:03:48.959><c> if</c><00:03:49.120><c> logical</c>
+assessment points determine if logical
+assessment points determine if logical
+access<00:03:49.840><c> restrictions</c><00:03:50.400><c> associated</c><00:03:50.840><c> with</c>
+access restrictions associated with
+access restrictions associated with
+changes<00:03:51.200><c> to</c><00:03:51.360><c> the</c><00:03:51.519><c> system</c><00:03:51.799><c> are</c><00:03:52.280><c> documented</c><00:03:53.280><c> uh</c>
+changes to the system are documented uh
+changes to the system are documented uh
+logical<00:03:53.920><c> access</c><00:03:54.200><c> restrictions</c><00:03:54.680><c> are</c>
+logical access restrictions are
+logical access restrictions are
+documented<00:03:55.400><c> within</c><00:03:55.720><c> configuration</c>
+documented within configuration
+documented within configuration
+baselines<00:03:57.319><c> and</c><00:03:57.599><c> network</c><00:03:58.200><c> documentation</c><00:03:59.200><c> next</c>
+baselines and network documentation next
+baselines and network documentation next
+determine<00:03:59.920><c> if</c><00:04:00.040><c> logical</c><00:04:00.480><c> access</c><00:04:00.840><c> restrictions</c>
+determine if logical access restrictions
+determine if logical access restrictions
+associated<00:04:01.959><c> with</c><00:04:02.120><c> changes</c><00:04:02.480><c> to</c><00:04:02.680><c> the</c><00:04:02.840><c> system</c>
+associated with changes to the system
+associated with changes to the system
+are<00:04:03.439><c> approved</c><00:04:04.319><c> logical</c><00:04:05.239><c> uh</c><00:04:05.400><c> access</c>
+are approved logical uh access
+are approved logical uh access
+restrictions<00:04:06.280><c> associated</c><00:04:06.720><c> with</c><00:04:06.840><c> the</c><00:04:06.959><c> system</c>
+restrictions associated with the system
+restrictions associated with the system
+changes<00:04:07.920><c> are</c><00:04:08.159><c> approved</c><00:04:08.599><c> via</c><00:04:08.840><c> the</c><00:04:08.959><c> it</c><00:04:09.200><c> ticking</c>
+changes are approved via the it ticking
+changes are approved via the it ticking
+system<00:04:10.640><c> finally</c><00:04:10.959><c> determine</c><00:04:11.360><c> if</c><00:04:11.519><c> logical</c>
+system finally determine if logical
+system finally determine if logical
+access<00:04:12.319><c> restrictions</c><00:04:12.920><c> associated</c><00:04:13.560><c> with</c><00:04:13.799><c> the</c>
+access restrictions associated with the
+access restrictions associated with the
+changes<00:04:14.319><c> to</c><00:04:14.480><c> the</c><00:04:14.640><c> system</c><00:04:14.920><c> are</c><00:04:15.120><c> enforced</c><00:04:15.959><c> aha</c>
+changes to the system are enforced aha
+changes to the system are enforced aha
+are<00:04:16.880><c> they</c><00:04:17.079><c> actually</c><00:04:17.479><c> enabled</c><00:04:18.079><c> and</c><00:04:18.280><c> working</c>
+are they actually enabled and working
+are they actually enabled and working
+enforcement<00:04:19.479><c> of</c><00:04:19.600><c> logical</c><00:04:19.959><c> access</c>
+enforcement of logical access
+enforcement of logical access
+restrictions<00:04:20.759><c> associated</c><00:04:21.160><c> with</c><00:04:21.280><c> changes</c><00:04:21.639><c> to</c>
+restrictions associated with changes to
+restrictions associated with changes to
+the<00:04:21.919><c> system</c><00:04:22.240><c> are</c><00:04:22.520><c> executed</c><00:04:23.280><c> as</c><00:04:23.400><c> a</c><00:04:23.639><c> part</c><00:04:23.840><c> of</c><00:04:23.960><c> the</c>
+the system are executed as a part of the
+the system are executed as a part of the
+it<00:04:24.360><c> ticketing</c><00:04:24.759><c> resolution</c><00:04:25.360><c> process</c><00:04:25.759><c> and</c>
+it ticketing resolution process and
+it ticketing resolution process and
+tested<00:04:26.680><c> by</c><00:04:26.840><c> authorized</c><00:04:27.320><c> users</c><00:04:27.680><c> to</c><00:04:27.840><c> ensure</c>
+tested by authorized users to ensure
+tested by authorized users to ensure
+they<00:04:28.680><c> get</c><00:04:28.840><c> the</c><00:04:28.960><c> intended</c><00:04:29.320><c> result</c><00:04:30.080><c> in</c>
+they get the intended result in
+they get the intended result in
+coordination<00:04:30.800><c> with</c><00:04:30.919><c> the</c><00:04:31.039><c> IT</c><00:04:31.400><c> team</c><00:04:32.000><c> now</c><00:04:32.600><c> I</c>
+coordination with the IT team now I
+coordination with the IT team now I
+don't<00:04:32.800><c> know</c><00:04:32.960><c> about</c><00:04:33.199><c> you</c><00:04:33.520><c> but</c><00:04:33.680><c> that's</c><00:04:33.800><c> a</c><00:04:33.919><c> whole</c>
+don't know about you but that's a whole
+don't know about you but that's a whole
+lot<00:04:34.199><c> of</c><00:04:34.360><c> assessment</c><00:04:34.720><c> points</c><00:04:35.039><c> and</c><00:04:35.120><c> a</c><00:04:35.240><c> whole</c><00:04:35.400><c> lot</c>
+lot of assessment points and a whole lot
+lot of assessment points and a whole lot
+of<00:04:35.639><c> information</c><00:04:36.039><c> to</c><00:04:36.199><c> cover</c><00:04:36.759><c> and</c><00:04:37.000><c> everybody's</c>
+of information to cover and everybody's
+of information to cover and everybody's
+going<00:04:37.520><c> to</c><00:04:37.600><c> be</c><00:04:37.720><c> a</c><00:04:37.759><c> little</c><00:04:37.880><c> bit</c><00:04:38.039><c> different</c><00:04:38.240><c> on</c>
+going to be a little bit different on
+going to be a little bit different on
+this<00:04:38.560><c> one</c><00:04:39.160><c> and</c><00:04:39.479><c> it's</c><00:04:39.720><c> always</c><00:04:40.039><c> tough</c><00:04:40.240><c> when</c>
+this one and it's always tough when
+this one and it's always tough when
+you've<00:04:40.520><c> got</c><00:04:40.639><c> to</c><00:04:40.840><c> really</c><00:04:41.160><c> have</c><00:04:41.360><c> multiple</c>
+you've got to really have multiple
+you've got to really have multiple
+members<00:04:42.039><c> of</c><00:04:42.199><c> your</c><00:04:42.400><c> team</c><00:04:42.680><c> working</c><00:04:43.120><c> together</c><00:04:43.680><c> to</c>
+members of your team working together to
+members of your team working together to
+come<00:04:44.039><c> up</c><00:04:44.160><c> with</c><00:04:44.240><c> the</c><00:04:44.360><c> answer</c><00:04:44.520><c> to</c><00:04:44.680><c> a</c><00:04:44.759><c> single</c>
+come up with the answer to a single
+come up with the answer to a single
+control<00:04:45.479><c> so</c><00:04:45.759><c> hey</c><00:04:46.280><c> at</c><00:04:46.440><c> on</c><00:04:46.759><c> call</c><00:04:47.160><c> the</c><00:04:47.320><c> good</c><00:04:47.479><c> news</c>
+control so hey at on call the good news
+control so hey at on call the good news
+is<00:04:47.880><c> we</c><00:04:48.039><c> can</c><00:04:48.199><c> help</c><00:04:48.479><c> we</c><00:04:48.600><c> work</c><00:04:48.800><c> with</c><00:04:49.000><c> defense</c>
+is we can help we work with defense
+is we can help we work with defense
+contractors<00:04:50.000><c> just</c><00:04:50.199><c> like</c><00:04:50.400><c> you</c><00:04:50.840><c> who</c><00:04:50.960><c> have</c><00:04:51.120><c> had</c>
+contractors just like you who have had
+contractors just like you who have had
+the<00:04:51.360><c> DARS</c><00:04:52.320><c> nist</c><00:04:53.039><c> itar</c><00:04:53.520><c> and</c><00:04:53.639><c> cmmc</c><00:04:54.199><c> compliance</c>
+the DARS nist itar and cmmc compliance
+the DARS nist itar and cmmc compliance
+stuff<00:04:55.160><c> dropped</c><00:04:55.560><c> in</c><00:04:55.680><c> their</c><00:04:55.840><c> laps</c><00:04:56.120><c> like</c><00:04:56.240><c> a</c>
+stuff dropped in their laps like a
+stuff dropped in their laps like a
+seagull<00:04:56.680><c> on</c><00:04:56.759><c> a</c><00:04:56.880><c> sunny</c><00:04:57.199><c> day</c><00:04:57.680><c> we</c><00:04:57.840><c> teach</c><00:04:58.120><c> you</c><00:04:58.560><c> how</c>
+seagull on a sunny day we teach you how
+seagull on a sunny day we teach you how
+to<00:04:58.800><c> level</c><00:04:59.039><c> up</c><00:04:59.199><c> and</c><00:04:59.280><c> be</c><00:04:59.400><c> a</c><00:04:59.560><c> a</c><00:04:59.680><c> proper</c><00:04:59.919><c> on</c><00:05:00.160><c> call</c>
+to level up and be a a proper on call
+to level up and be a a proper on call
+compliance<00:05:00.680><c> hero</c><00:05:00.960><c> for</c><00:05:01.120><c> your</c><00:05:01.280><c> company</c>
+compliance hero for your company
+compliance hero for your company
+eliminating<00:05:02.440><c> gaps</c><00:05:02.960><c> great</c><00:05:03.280><c> areas</c><00:05:03.919><c> and</c><00:05:04.080><c> getting</c>
+eliminating gaps great areas and getting
+eliminating gaps great areas and getting
+this<00:05:04.520><c> solved</c><00:05:05.080><c> all</c><00:05:05.320><c> while</c><00:05:05.479><c> showing</c><00:05:05.800><c> you</c><00:05:05.960><c> how</c><00:05:06.080><c> to</c>
+this solved all while showing you how to
+this solved all while showing you how to
+leverage<00:05:06.600><c> compliance</c><00:05:07.280><c> as</c><00:05:07.440><c> your</c><00:05:07.639><c> secret</c>
+leverage compliance as your secret
+leverage compliance as your secret
+weapon<00:05:08.120><c> to</c><00:05:08.240><c> land</c><00:05:08.479><c> more</c><00:05:08.639><c> Defense</c><00:05:08.960><c> work</c><00:05:09.440><c> with</c>
+weapon to land more Defense work with
+weapon to land more Defense work with
+higher<00:05:09.960><c> profit</c><00:05:10.199><c> margins</c><00:05:10.759><c> now</c><00:05:11.400><c> that's</c><00:05:11.639><c> what</c>
+higher profit margins now that's what
+higher profit margins now that's what
+becoming<00:05:12.320><c> an</c><00:05:12.440><c> on</c><00:05:12.720><c> call</c><00:05:12.880><c> compliance</c><00:05:13.280><c> hero</c><00:05:13.520><c> can</c>
+becoming an on call compliance hero can
+becoming an on call compliance hero can
+do<00:05:13.759><c> for</c><00:05:13.919><c> you</c><00:05:14.520><c> if</c><00:05:14.639><c> you're</c><00:05:14.759><c> looking</c><00:05:15.000><c> for</c><00:05:15.120><c> more</c>
+do for you if you're looking for more
+do for you if you're looking for more
+help<00:05:15.600><c> getting</c><00:05:15.880><c> compliant</c><00:05:16.600><c> our</c><00:05:16.800><c> compliance</c>
+help getting compliant our compliance
+help getting compliant our compliance
+experts<00:05:17.600><c> are</c><00:05:17.800><c> always</c><00:05:18.039><c> on</c><00:05:18.280><c> call</c><00:05:18.440><c> for</c><00:05:18.639><c> you</c><00:05:19.080><c> visit</c>
+experts are always on call for you visit
+experts are always on call for you visit
+cmmc<00:05:20.440><c> compliance.com</c><00:05:21.440><c> or</c><00:05:22.080><c> check</c><00:05:22.280><c> out</c><00:05:22.400><c> the</c><00:05:22.520><c> bio</c>
+cmmc compliance.com or check out the bio
+cmmc compliance.com or check out the bio
+below<00:05:23.560><c> to</c><00:05:23.680><c> for</c><00:05:23.840><c> links</c><00:05:24.120><c> to</c><00:05:24.319><c> help</c><00:05:24.560><c> get</c><00:05:24.680><c> help</c>
+below to for links to help get help
+below to for links to help get help
+right<00:05:25.160><c> now</c><00:05:25.720><c> love</c><00:05:25.919><c> the</c><00:05:26.039><c> content</c><00:05:26.280><c> we're</c><00:05:26.400><c> putting</c>
+right now love the content we're putting
+right now love the content we're putting
+out<00:05:26.720><c> here</c><00:05:26.840><c> for</c><00:05:27.039><c> you</c><00:05:27.400><c> help</c><00:05:27.560><c> us</c><00:05:27.680><c> out</c><00:05:27.800><c> with</c><00:05:27.919><c> a</c><00:05:28.000><c> big</c>
+out here for you help us out with a big
+out here for you help us out with a big
+thumbs<00:05:28.400><c> up</c><00:05:28.520><c> on</c><00:05:28.639><c> that</c><00:05:28.800><c> like</c><00:05:28.960><c> button</c><00:05:29.560><c> really</c>
+thumbs up on that like button really
+thumbs up on that like button really
+means<00:05:29.880><c> the</c><00:05:29.960><c> world</c><00:05:30.160><c> to</c><00:05:30.280><c> us</c><00:05:30.400><c> when</c><00:05:30.520><c> you</c><00:05:30.600><c> do</c><00:05:30.800><c> that</c>
+means the world to us when you do that
+means the world to us when you do that
+and<00:05:31.520><c> smash</c><00:05:31.840><c> the</c><00:05:32.000><c> Subscribe</c><00:05:32.319><c> button</c><00:05:32.520><c> to</c><00:05:32.600><c> get</c>
+and smash the Subscribe button to get
+and smash the Subscribe button to get
+the<00:05:32.840><c> latest</c><00:05:33.120><c> compliance</c><00:05:33.639><c> content</c><00:05:34.280><c> as</c><00:05:34.400><c> soon</c><00:05:34.600><c> as</c>
+the latest compliance content as soon as
+the latest compliance content as soon as
+our<00:05:34.880><c> compliance</c><00:05:35.240><c> ners</c><00:05:35.520><c> roll</c><00:05:35.720><c> it</c><00:05:35.840><c> out</c><00:05:36.319><c> until</c>
+our compliance ners roll it out until
+our compliance ners roll it out until
+the<00:05:36.639><c> next</c><00:05:36.800><c> compliance</c><00:05:37.160><c> tip</c><00:05:37.360><c> my</c><00:05:37.520><c> friends</c><00:05:38.000><c> stay</c>
+the next compliance tip my friends stay
+the next compliance tip my friends stay
+safe<00:05:38.440><c> and</c><00:05:38.600><c> secure</c><00:05:38.880><c> out</c><00:05:39.080><c> there</c><00:05:39.360><c> and</c><00:05:39.479><c> hit</c><00:05:39.600><c> us</c><00:05:39.720><c> in</c>
+safe and secure out there and hit us in
+safe and secure out there and hit us in
+the<00:05:39.919><c> comments</c><00:05:40.199><c> below</c><00:05:40.400><c> to</c><00:05:40.520><c> let</c><00:05:40.639><c> us</c><00:05:40.759><c> know</c><00:05:40.960><c> what</c>
+the comments below to let us know what
+the comments below to let us know what
+you'd<00:05:41.280><c> like</c><00:05:41.400><c> to</c><00:05:41.520><c> know</c><00:05:41.720><c> more</c><00:05:41.960><c> about</c><00:05:42.440><c> when</c><00:05:42.560><c> it</c>
+you'd like to know more about when it
+you'd like to know more about when it
+comes<00:05:42.840><c> to</c><00:05:43.000><c> information</c><00:05:43.479><c> security</c><00:05:44.039><c> and</c>
+comes to information security and
+comes to information security and
+compliance<00:05:44.919><c> I'll</c><00:05:45.039><c> see</c><00:05:45.199><c> you</c><00:05:45.319><c> next</c>
+compliance I'll see you next
+compliance I'll see you next
+[Music]
+time

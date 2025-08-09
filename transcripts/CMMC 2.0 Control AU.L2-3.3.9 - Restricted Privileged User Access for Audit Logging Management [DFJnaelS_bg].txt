@@ -1,0 +1,379 @@
+Kind: captions
+Language: en
+hey<00:00:00.359><c> everybody</c><00:00:00.539><c> it's</c><00:00:00.780><c> Mike</c><00:00:00.900><c> for</c><00:00:01.079><c> your</c><00:00:01.260><c> here</c>
+hey everybody it's Mike for your here
+hey everybody it's Mike for your here
+with<00:00:01.439><c> on-call</c><00:00:01.800><c> compliance</c><00:00:02.159><c> Solutions</c><00:00:02.399><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:02.700><c> back</c><00:00:02.820><c> with</c><00:00:03.000><c> another</c><00:00:03.120><c> compliance</c><00:00:03.600><c> tip</c><00:00:03.780><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.020><c> week</c><00:00:04.080><c> this</c><00:00:04.500><c> week</c><00:00:04.680><c> we're</c><00:00:04.799><c> talking</c><00:00:04.980><c> about</c>
+the week this week we're talking about
+the week this week we're talking about
+cmmccontrol
+au.l2-3.3.9<00:00:09.480><c> limit</c><00:00:10.260><c> management</c><00:00:10.559><c> of</c><00:00:10.980><c> audit</c>
+au.l2-3.3.9 limit management of audit
+au.l2-3.3.9 limit management of audit
+logging<00:00:12.000><c> functionality</c><00:00:12.540><c> to</c><00:00:12.900><c> a</c><00:00:13.080><c> subset</c><00:00:13.500><c> of</c>
+logging functionality to a subset of
+logging functionality to a subset of
+privileged<00:00:14.340><c> users</c>
+privileged users
+privileged users
+[Music]
+[Music]
+[Music]
+so<00:00:24.840><c> hey</c><00:00:24.960><c> if</c><00:00:25.260><c> you're</c><00:00:25.320><c> a</c><00:00:25.500><c> defense</c><00:00:25.680><c> contractor</c>
+so hey if you're a defense contractor
+so hey if you're a defense contractor
+who's<00:00:26.279><c> feeling</c><00:00:26.460><c> overwhelmed</c><00:00:27.000><c> tired</c><00:00:27.420><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:27.660><c> trying</c><00:00:28.320><c> to</c><00:00:28.560><c> understand</c><00:00:28.680><c> all</c><00:00:29.039><c> this</c><00:00:29.220><c> cmfc</c>
+alone trying to understand all this cmfc
+alone trying to understand all this cmfc
+dfars<00:00:30.720><c> and</c><00:00:30.960><c> nist</c><00:00:31.199><c> SP</c><00:00:31.439><c> 800171</c><00:00:32.480><c> compliance</c>
+dfars and nist SP 800171 compliance
+dfars and nist SP 800171 compliance
+stuff<00:00:33.840><c> on</c><00:00:34.739><c> top</c><00:00:34.860><c> of</c><00:00:35.040><c> an</c><00:00:35.160><c> already</c><00:00:35.280><c> colossal</c>
+stuff on top of an already colossal
+stuff on top of an already colossal
+workload<00:00:36.420><c> well</c><00:00:36.899><c> I</c><00:00:37.079><c> got</c><00:00:37.140><c> great</c><00:00:37.380><c> news</c><00:00:37.559><c> for</c><00:00:37.800><c> you</c>
+workload well I got great news for you
+workload well I got great news for you
+you<00:00:38.340><c> found</c><00:00:38.579><c> your</c><00:00:38.700><c> home</c><00:00:38.880><c> here</c><00:00:39.059><c> at</c><00:00:39.239><c> on-call</c>
+you found your home here at on-call
+you found your home here at on-call
+compliance<00:00:40.140><c> Solutions</c><00:00:40.379><c> we</c><00:00:40.920><c> can</c><00:00:41.040><c> help</c><00:00:41.160><c> you</c>
+compliance Solutions we can help you
+compliance Solutions we can help you
+transform<00:00:41.760><c> into</c><00:00:42.000><c> your</c><00:00:42.300><c> company's</c><00:00:42.600><c> on-call</c>
+transform into your company's on-call
+transform into your company's on-call
+compliance<00:00:43.440><c> hero</c><00:00:43.800><c> and</c><00:00:44.219><c> learn</c><00:00:44.399><c> some</c><00:00:44.579><c> new</c><00:00:44.700><c> dad</c>
+compliance hero and learn some new dad
+compliance hero and learn some new dad
+jokes<00:00:45.360><c> let's</c><00:00:45.719><c> jump</c><00:00:45.960><c> into</c><00:00:46.140><c> it</c><00:00:46.440><c> so</c><00:00:47.219><c> in</c><00:00:47.640><c> cmmc</c>
+jokes let's jump into it so in cmmc
+jokes let's jump into it so in cmmc
+control
+control
+control
+au.l2-3.3.9<00:00:51.600><c> limit</c><00:00:52.079><c> management</c><00:00:52.379><c> of</c><00:00:52.739><c> audit</c>
+au.l2-3.3.9 limit management of audit
+au.l2-3.3.9 limit management of audit
+logging<00:00:53.340><c> functionality</c><00:00:53.879><c> to</c><00:00:54.180><c> a</c><00:00:54.420><c> subset</c><00:00:54.780><c> of</c>
+logging functionality to a subset of
+logging functionality to a subset of
+privileged<00:00:55.379><c> users</c><00:00:55.620><c> this</c><00:00:56.460><c> control</c><00:00:56.640><c> is</c><00:00:57.120><c> all</c>
+privileged users this control is all
+privileged users this control is all
+about<00:00:57.539><c> limiting</c><00:00:58.260><c> access</c><00:00:58.440><c> to</c><00:00:58.860><c> only</c><00:00:58.980><c> those</c>
+about limiting access to only those
+about limiting access to only those
+people<00:00:59.579><c> who</c><00:01:00.239><c> really</c><00:01:00.420><c> need</c><00:01:00.660><c> it</c><00:01:00.780><c> again</c><00:01:01.020><c> there's</c>
+people who really need it again there's
+people who really need it again there's
+a<00:01:01.440><c> recurring</c><00:01:01.800><c> theme</c><00:01:02.039><c> throughout</c><00:01:02.399><c> nist</c><00:01:02.760><c> sp800</c>
+a recurring theme throughout nist sp800
+a recurring theme throughout nist sp800
+171<00:01:04.260><c> it's</c><00:01:04.860><c> basically</c><00:01:05.220><c> all</c><00:01:05.400><c> about</c><00:01:05.519><c> making</c><00:01:05.880><c> sure</c>
+171 it's basically all about making sure
+171 it's basically all about making sure
+that<00:01:06.299><c> people</c><00:01:06.479><c> only</c><00:01:06.780><c> have</c><00:01:07.080><c> access</c><00:01:07.380><c> to</c><00:01:08.220><c> what</c>
+that people only have access to what
+that people only have access to what
+they<00:01:08.820><c> actually</c><00:01:09.119><c> need</c><00:01:09.659><c> access</c><00:01:10.020><c> to</c><00:01:10.500><c> and</c><00:01:10.979><c> if</c><00:01:11.159><c> they</c>
+they actually need access to and if they
+they actually need access to and if they
+don't<00:01:11.460><c> have</c><00:01:11.580><c> access</c><00:01:11.820><c> to</c><00:01:12.119><c> anything</c><00:01:12.240><c> else</c><00:01:12.600><c> so</c><00:01:13.439><c> as</c>
+don't have access to anything else so as
+don't have access to anything else so as
+they<00:01:14.159><c> say</c><00:01:14.340><c> too</c><00:01:14.760><c> many</c><00:01:14.939><c> chefs</c><00:01:15.299><c> in</c><00:01:15.420><c> the</c><00:01:15.540><c> kitchen</c>
+they say too many chefs in the kitchen
+they say too many chefs in the kitchen
+doesn't<00:01:16.439><c> make</c><00:01:16.799><c> for</c><00:01:17.100><c> a</c><00:01:17.280><c> better</c><00:01:17.400><c> tasting</c><00:01:17.880><c> cake</c>
+doesn't make for a better tasting cake
+doesn't make for a better tasting cake
+or<00:01:19.439><c> something</c><00:01:20.040><c> so</c><00:01:20.820><c> only</c><00:01:21.360><c> those</c><00:01:21.600><c> people</c><00:01:21.840><c> who</c>
+or something so only those people who
+or something so only those people who
+really<00:01:22.200><c> need</c><00:01:22.439><c> to</c><00:01:22.560><c> see</c><00:01:22.799><c> seam</c><00:01:23.340><c> information</c>
+really need to see seam information
+really need to see seam information
+should<00:01:24.420><c> have</c><00:01:24.659><c> access</c><00:01:24.900><c> to</c><00:01:25.259><c> it</c><00:01:25.439><c> so</c><00:01:26.220><c> let's</c><00:01:26.460><c> check</c>
+should have access to it so let's check
+should have access to it so let's check
+out<00:01:26.820><c> what</c><00:01:26.939><c> the</c><00:01:27.060><c> assessor</c><00:01:27.360><c> is</c><00:01:27.479><c> looking</c><00:01:27.600><c> for</c><00:01:27.780><c> on</c>
+out what the assessor is looking for on
+out what the assessor is looking for on
+this<00:01:28.080><c> one</c><00:01:28.259><c> in</c><00:01:28.799><c> order</c><00:01:28.920><c> to</c><00:01:29.159><c> bake</c><00:01:29.340><c> them</c><00:01:29.460><c> a</c><00:01:29.640><c> cake</c>
+this one in order to bake them a cake
+this one in order to bake them a cake
+they'll<00:01:30.060><c> love</c><00:01:30.360><c> to</c><00:01:30.540><c> eat</c><00:01:30.720><c> all</c><00:01:31.560><c> right</c><00:01:31.740><c> so</c><00:01:32.159><c> two</c>
+they'll love to eat all right so two
+they'll love to eat all right so two
+things<00:01:32.580><c> you're</c><00:01:32.759><c> looking</c><00:01:32.880><c> for</c><00:01:33.060><c> on</c><00:01:33.180><c> this</c><00:01:33.299><c> one</c>
+things you're looking for on this one
+things you're looking for on this one
+number<00:01:33.600><c> one</c><00:01:33.780><c> determine</c><00:01:34.320><c> if</c><00:01:34.439><c> a</c><00:01:34.619><c> subset</c><00:01:34.979><c> of</c>
+number one determine if a subset of
+number one determine if a subset of
+privileged<00:01:35.460><c> users</c><00:01:35.759><c> are</c><00:01:36.119><c> granted</c><00:01:36.540><c> access</c><00:01:36.840><c> to</c>
+privileged users are granted access to
+privileged users are granted access to
+manage<00:01:37.619><c> audit</c><00:01:38.040><c> logging</c><00:01:38.400><c> functionality</c><00:01:39.060><c> and</c>
+manage audit logging functionality and
+manage audit logging functionality and
+make<00:01:39.960><c> sure</c><00:01:40.079><c> it's</c><00:01:40.259><c> defined</c><00:01:40.740><c> okay</c><00:01:41.220><c> so</c><00:01:41.640><c> uh</c><00:01:42.479><c> if</c><00:01:42.659><c> we</c>
+make sure it's defined okay so uh if we
+make sure it's defined okay so uh if we
+were<00:01:42.840><c> to</c><00:01:42.960><c> give</c><00:01:43.079><c> a</c><00:01:43.140><c> sample</c><00:01:43.380><c> answer</c><00:01:43.500><c> we</c><00:01:43.740><c> would</c>
+were to give a sample answer we would
+were to give a sample answer we would
+say<00:01:44.040><c> something</c><00:01:44.220><c> like</c><00:01:44.520><c> uh</c><00:01:45.119><c> Hey</c><00:01:45.299><c> look</c><00:01:45.600><c> it's</c>
+say something like uh Hey look it's
+say something like uh Hey look it's
+implemented<00:01:46.380><c> because</c><00:01:46.500><c> the</c><00:01:46.799><c> seam</c><00:01:47.040><c> solution</c><00:01:47.460><c> is</c>
+implemented because the seam solution is
+implemented because the seam solution is
+only<00:01:48.240><c> accessible</c><00:01:48.900><c> by</c><00:01:49.799><c> specific</c><00:01:50.220><c> authorized</c>
+only accessible by specific authorized
+only accessible by specific authorized
+seam<00:01:51.180><c> administrative</c><00:01:51.659><c> users</c><00:01:52.140><c> so</c><00:01:52.680><c> if</c><00:01:53.040><c> you</c><00:01:53.159><c> had</c>
+seam administrative users so if you had
+seam administrative users so if you had
+a<00:01:53.399><c> standalone</c><00:01:53.759><c> steam</c><00:01:54.119><c> system</c><00:01:54.240><c> that</c><00:01:54.479><c> might</c><00:01:54.600><c> be</c>
+a standalone steam system that might be
+a standalone steam system that might be
+an<00:01:54.840><c> answer</c><00:01:54.960><c> if</c><00:01:55.500><c> you</c><00:01:55.619><c> had</c><00:01:55.740><c> active</c><00:01:56.040><c> directory</c>
+an answer if you had active directory
+an answer if you had active directory
+maybe<00:01:56.640><c> you</c><00:01:56.820><c> had</c><00:01:57.000><c> some</c><00:01:57.180><c> kind</c><00:01:57.299><c> of</c><00:01:57.479><c> a</c><00:01:57.659><c> you</c><00:01:58.200><c> know</c>
+maybe you had some kind of a you know
+maybe you had some kind of a you know
+accessible<00:01:59.100><c> through</c><00:01:59.460><c> domain</c><00:02:00.000><c> credentials</c>
+accessible through domain credentials
+accessible through domain credentials
+you<00:02:00.780><c> might</c><00:02:00.899><c> say</c><00:02:01.020><c> only</c><00:02:01.259><c> this</c><00:02:01.560><c> the</c><00:02:01.799><c> people</c><00:02:02.040><c> in</c>
+you might say only this the people in
+you might say only this the people in
+this<00:02:02.460><c> certain</c><00:02:03.060><c> OU</c><00:02:03.060><c> have</c><00:02:03.960><c> access</c><00:02:04.200><c> to</c><00:02:04.619><c> get</c><00:02:04.799><c> to</c>
+this certain OU have access to get to
+this certain OU have access to get to
+the<00:02:05.280><c> seam</c><00:02:05.640><c> unit</c><00:02:05.820><c> but</c><00:02:06.240><c> one</c><00:02:06.360><c> way</c><00:02:06.479><c> or</c><00:02:06.600><c> another</c><00:02:06.659><c> you</c>
+the seam unit but one way or another you
+the seam unit but one way or another you
+have<00:02:07.259><c> to</c><00:02:07.439><c> actually</c><00:02:07.680><c> determine</c><00:02:08.340><c> if</c><00:02:08.580><c> the</c><00:02:08.759><c> subset</c>
+have to actually determine if the subset
+have to actually determine if the subset
+is<00:02:10.080><c> defined</c><00:02:10.679><c> so</c><00:02:10.860><c> who</c><00:02:11.039><c> are</c><00:02:11.160><c> those</c><00:02:11.400><c> people</c>
+is defined so who are those people
+is defined so who are those people
+that's<00:02:11.940><c> what</c><00:02:12.120><c> they're</c><00:02:12.239><c> looking</c><00:02:12.420><c> for</c><00:02:12.599><c> now</c>
+that's what they're looking for now
+that's what they're looking for now
+assessment<00:02:13.920><c> Point</c><00:02:14.040><c> number</c><00:02:14.220><c> two</c><00:02:14.400><c> determine</c><00:02:14.819><c> if</c>
+assessment Point number two determine if
+assessment Point number two determine if
+management<00:02:15.180><c> of</c><00:02:15.720><c> audit</c><00:02:16.080><c> logging</c>
+management of audit logging
+management of audit logging
+functionality<00:02:16.920><c> is</c><00:02:17.280><c> limited</c><00:02:17.760><c> to</c><00:02:18.120><c> the</c><00:02:18.300><c> defined</c>
+functionality is limited to the defined
+functionality is limited to the defined
+a<00:02:19.500><c> subset</c><00:02:19.980><c> of</c><00:02:20.220><c> privileged</c><00:02:20.700><c> users</c><00:02:21.060><c> so</c><00:02:21.540><c> in</c><00:02:21.720><c> other</c>
+a subset of privileged users so in other
+a subset of privileged users so in other
+words
+words
+words
+you<00:02:23.640><c> have</c><00:02:23.760><c> to</c><00:02:23.879><c> determine</c><00:02:24.420><c> if</c><00:02:25.260><c> the</c><00:02:25.920><c> actual</c>
+you have to determine if the actual
+you have to determine if the actual
+management<00:02:26.780><c> of</c><00:02:27.780><c> the</c><00:02:27.959><c> functionality</c><00:02:28.500><c> right</c><00:02:28.860><c> so</c>
+management of the functionality right so
+management of the functionality right so
+the<00:02:29.520><c> settings</c><00:02:29.720><c> configurations</c><00:02:30.720><c> things</c><00:02:31.200><c> like</c>
+the settings configurations things like
+the settings configurations things like
+that<00:02:31.620><c> can</c><00:02:32.280><c> only</c><00:02:32.520><c> a</c><00:02:32.760><c> certain</c><00:02:33.000><c> subset</c><00:02:33.480><c> of</c><00:02:33.599><c> those</c>
+that can only a certain subset of those
+that can only a certain subset of those
+people<00:02:34.080><c> see</c><00:02:34.860><c> the</c><00:02:35.099><c> settings</c><00:02:35.280><c> configuration</c>
+people see the settings configuration
+people see the settings configuration
+Etc<00:02:36.739><c> so</c><00:02:37.739><c> again</c><00:02:37.920><c> there's</c><00:02:38.220><c> the</c><00:02:38.700><c> management</c><00:02:38.940><c> of</c>
+Etc so again there's the management of
+Etc so again there's the management of
+audit<00:02:39.840><c> logging</c><00:02:40.200><c> functionality</c><00:02:40.739><c> then</c><00:02:41.459><c> there's</c>
+audit logging functionality then there's
+audit logging functionality then there's
+actually<00:02:42.000><c> the</c><00:02:42.300><c> management</c><00:02:42.420><c> of</c><00:02:43.019><c> uh</c><00:02:43.379><c> there's</c>
+actually the management of uh there's
+actually the management of uh there's
+there's<00:02:43.980><c> the</c><00:02:44.599><c> management</c><00:02:45.599><c> audit</c><00:02:46.019><c> logging</c>
+there's the management audit logging
+there's the management audit logging
+function<00:02:46.440><c> I</c><00:02:46.620><c> was</c><00:02:46.739><c> limited</c><00:02:47.099><c> to</c><00:02:47.220><c> Define</c><00:02:47.340><c> subset</c>
+function I was limited to Define subset
+function I was limited to Define subset
+of<00:02:48.000><c> proposal</c><00:02:48.300><c> users</c><00:02:48.540><c> so</c><00:02:48.660><c> who</c><00:02:48.840><c> can</c><00:02:48.959><c> actually</c>
+of proposal users so who can actually
+of proposal users so who can actually
+change<00:02:49.739><c> settings</c><00:02:49.980><c> and</c><00:02:50.280><c> things</c><00:02:50.400><c> like</c><00:02:50.580><c> that</c><00:02:50.700><c> all</c>
+change settings and things like that all
+change settings and things like that all
+right<00:02:51.599><c> now</c><00:02:52.019><c> if</c><00:02:52.620><c> I</c><00:02:52.800><c> was</c><00:02:52.860><c> to</c><00:02:52.980><c> give</c><00:02:53.099><c> a</c><00:02:53.160><c> sample</c>
+right now if I was to give a sample
+right now if I was to give a sample
+that's<00:02:53.580><c> that</c><00:02:53.760><c> second</c><00:02:53.879><c> piece</c><00:02:54.120><c> it's</c><00:02:54.239><c> really</c><00:02:54.420><c> the</c>
+that's that second piece it's really the
+that's that second piece it's really the
+same<00:02:54.720><c> answer</c><00:02:54.900><c> as</c><00:02:55.200><c> the</c><00:02:55.319><c> first</c><00:02:55.440><c> piece</c><00:02:55.620><c> right</c>
+same answer as the first piece right
+same answer as the first piece right
+it's<00:02:56.160><c> just</c><00:02:56.280><c> it's</c><00:02:56.519><c> more</c><00:02:56.760><c> of</c><00:02:56.879><c> the</c><00:02:57.000><c> same</c><00:02:57.120><c> you're</c>
+it's just it's more of the same you're
+it's just it's more of the same you're
+limiting<00:02:57.720><c> the</c><00:02:57.900><c> people</c><00:02:58.080><c> who</c><00:02:58.379><c> actually</c><00:02:58.500><c> have</c>
+limiting the people who actually have
+limiting the people who actually have
+access<00:02:58.920><c> to</c><00:02:59.220><c> it</c><00:02:59.400><c> so</c><00:02:59.640><c> again</c><00:02:59.819><c> we'd</c><00:03:00.660><c> say</c>
+access to it so again we'd say
+access to it so again we'd say
+implemented<00:03:01.260><c> the</c><00:03:01.440><c> same</c><00:03:01.560><c> solution</c><00:03:01.860><c> is</c><00:03:02.099><c> only</c>
+implemented the same solution is only
+implemented the same solution is only
+accessible<00:03:02.640><c> by</c><00:03:03.000><c> specific</c><00:03:03.540><c> authorized</c><00:03:04.200><c> team</c>
+accessible by specific authorized team
+accessible by specific authorized team
+administrative<00:03:04.920><c> users</c><00:03:05.340><c> and</c><00:03:05.760><c> again</c><00:03:05.879><c> if</c><00:03:06.239><c> you</c>
+administrative users and again if you
+administrative users and again if you
+had<00:03:06.480><c> an</c><00:03:06.599><c> assessor</c><00:03:07.019><c> on</c><00:03:07.140><c> your</c><00:03:07.260><c> hands</c><00:03:07.440><c> you'd</c>
+had an assessor on your hands you'd
+had an assessor on your hands you'd
+probably<00:03:07.920><c> just</c><00:03:08.160><c> have</c><00:03:08.459><c> them</c><00:03:08.640><c> look</c><00:03:08.760><c> over</c><00:03:08.940><c> your</c>
+probably just have them look over your
+probably just have them look over your
+shoulder<00:03:09.360><c> log</c><00:03:09.720><c> into</c><00:03:09.900><c> your</c><00:03:10.080><c> seam</c><00:03:10.319><c> system</c><00:03:10.440><c> and</c>
+shoulder log into your seam system and
+shoulder log into your seam system and
+show<00:03:10.800><c> them</c><00:03:10.920><c> all</c><00:03:11.040><c> the</c><00:03:11.159><c> cool</c><00:03:11.340><c> settings</c><00:03:11.519><c> how</c><00:03:12.480><c> the</c>
+show them all the cool settings how the
+show them all the cool settings how the
+magic<00:03:12.780><c> happens</c><00:03:13.140><c> all</c><00:03:13.980><c> right</c><00:03:14.220><c> now</c><00:03:14.519><c> if</c><00:03:14.760><c> you're</c>
+magic happens all right now if you're
+magic happens all right now if you're
+looking<00:03:14.940><c> for</c><00:03:15.120><c> more</c><00:03:15.360><c> magic</c><00:03:15.599><c> to</c><00:03:15.900><c> happen</c><00:03:16.080><c> guess</c>
+looking for more magic to happen guess
+looking for more magic to happen guess
+what<00:03:16.860><c> you're</c><00:03:17.159><c> in</c><00:03:17.280><c> the</c><00:03:17.459><c> right</c><00:03:17.519><c> place</c><00:03:17.700><c> because</c>
+what you're in the right place because
+what you're in the right place because
+in<00:03:18.060><c> on</c><00:03:18.239><c> call</c><00:03:18.480><c> we</c><00:03:18.840><c> work</c><00:03:18.959><c> with</c><00:03:19.140><c> defense</c>
+in on call we work with defense
+in on call we work with defense
+contractors<00:03:19.980><c> just</c><00:03:20.280><c> like</c><00:03:20.459><c> you</c><00:03:20.700><c> who</c><00:03:21.180><c> have</c><00:03:21.300><c> had</c>
+contractors just like you who have had
+contractors just like you who have had
+this<00:03:21.659><c> defars</c><00:03:22.200><c> nist</c><00:03:22.560><c> itar</c><00:03:23.340><c> and</c><00:03:23.459><c> cmmc</c><00:03:24.000><c> compliant</c>
+this defars nist itar and cmmc compliant
+this defars nist itar and cmmc compliant
+stuff<00:03:24.659><c> dropped</c><00:03:25.379><c> in</c><00:03:25.440><c> their</c><00:03:25.620><c> laps</c><00:03:25.920><c> like</c><00:03:26.040><c> a</c>
+stuff dropped in their laps like a
+stuff dropped in their laps like a
+seagull<00:03:26.459><c> on</c><00:03:26.640><c> a</c><00:03:26.760><c> sunny</c><00:03:26.819><c> day</c><00:03:27.060><c> and</c><00:03:27.599><c> we</c><00:03:27.780><c> teach</c><00:03:27.900><c> you</c>
+seagull on a sunny day and we teach you
+seagull on a sunny day and we teach you
+how<00:03:28.200><c> to</c><00:03:28.319><c> level</c><00:03:28.500><c> up</c><00:03:28.739><c> and</c><00:03:29.040><c> be</c><00:03:29.159><c> a</c><00:03:29.340><c> proper</c><00:03:29.519><c> on-call</c>
+how to level up and be a proper on-call
+how to level up and be a proper on-call
+compliance<00:03:30.360><c> hero</c><00:03:30.659><c> for</c><00:03:30.780><c> your</c><00:03:30.959><c> company</c>
+compliance hero for your company
+compliance hero for your company
+eliminating<00:03:31.920><c> gaps</c><00:03:32.400><c> gray</c><00:03:32.879><c> areas</c><00:03:33.239><c> getting</c><00:03:33.900><c> this</c>
+eliminating gaps gray areas getting this
+eliminating gaps gray areas getting this
+solved<00:03:34.500><c> all</c><00:03:34.800><c> while</c><00:03:34.980><c> showing</c><00:03:35.280><c> you</c><00:03:35.340><c> how</c><00:03:35.580><c> to</c>
+solved all while showing you how to
+solved all while showing you how to
+leverage<00:03:35.879><c> compliance</c><00:03:36.480><c> is</c><00:03:36.659><c> your</c><00:03:36.959><c> secret</c>
+leverage compliance is your secret
+leverage compliance is your secret
+weapon<00:03:37.560><c> to</c><00:03:37.860><c> land</c><00:03:38.040><c> more</c><00:03:38.280><c> Defense</c><00:03:38.519><c> work</c><00:03:38.700><c> with</c>
+weapon to land more Defense work with
+weapon to land more Defense work with
+higher<00:03:39.239><c> profit</c><00:03:39.540><c> margins</c><00:03:39.959><c> now</c><00:03:40.500><c> that's</c><00:03:40.860><c> what</c>
+higher profit margins now that's what
+higher profit margins now that's what
+becoming<00:03:41.400><c> an</c><00:03:41.519><c> on-call</c><00:03:41.819><c> compliance</c><00:03:42.180><c> hero</c><00:03:42.420><c> can</c>
+becoming an on-call compliance hero can
+becoming an on-call compliance hero can
+do<00:03:42.659><c> for</c><00:03:42.780><c> you</c><00:03:42.959><c> and</c><00:03:43.260><c> if</c><00:03:43.440><c> you're</c><00:03:43.500><c> looking</c><00:03:43.680><c> for</c>
+do for you and if you're looking for
+do for you and if you're looking for
+more<00:03:44.040><c> help</c><00:03:44.220><c> getting</c><00:03:44.459><c> compliant</c><00:03:45.000><c> our</c>
+more help getting compliant our
+more help getting compliant our
+compliance<00:03:45.840><c> experts</c><00:03:46.260><c> are</c><00:03:46.379><c> always</c><00:03:46.500><c> on</c><00:03:46.739><c> call</c>
+compliance experts are always on call
+compliance experts are always on call
+for<00:03:47.159><c> you</c><00:03:47.280><c> visit</c><00:03:47.580><c> cmmc</c><00:03:48.239><c> compliance</c>
+for you visit cmmc compliance
+for you visit cmmc compliance
+secrets.com<00:03:49.200><c> or</c><00:03:49.739><c> check</c><00:03:49.860><c> out</c><00:03:50.040><c> the</c><00:03:50.159><c> bio</c><00:03:50.340><c> below</c>
+secrets.com or check out the bio below
+secrets.com or check out the bio below
+for<00:03:50.760><c> links</c><00:03:51.000><c> to</c><00:03:51.120><c> get</c><00:03:51.239><c> help</c><00:03:51.420><c> right</c><00:03:51.720><c> now</c><00:03:51.900><c> if</c><00:03:52.379><c> you</c>
+for links to get help right now if you
+for links to get help right now if you
+love<00:03:52.620><c> the</c><00:03:52.799><c> content</c><00:03:53.040><c> we're</c><00:03:53.159><c> putting</c><00:03:53.400><c> out</c><00:03:53.459><c> here</c>
+love the content we're putting out here
+love the content we're putting out here
+for<00:03:53.760><c> you</c><00:03:53.879><c> help</c><00:03:54.180><c> us</c><00:03:54.360><c> out</c><00:03:54.480><c> with</c><00:03:54.599><c> a</c><00:03:54.720><c> big</c><00:03:54.840><c> thumbs</c><00:03:55.019><c> up</c>
+for you help us out with a big thumbs up
+for you help us out with a big thumbs up
+on<00:03:55.260><c> that</c><00:03:55.379><c> like</c><00:03:55.500><c> button</c><00:03:55.860><c> or</c><00:03:56.159><c> even</c><00:03:56.280><c> better</c><00:03:56.519><c> you</c>
+on that like button or even better you
+on that like button or even better you
+guessed<00:03:57.480><c> it</c><00:03:57.540><c> baby</c><00:03:57.720><c> smash</c><00:03:58.440><c> that</c><00:03:58.560><c> subscribe</c>
+guessed it baby smash that subscribe
+guessed it baby smash that subscribe
+button<00:03:59.220><c> to</c><00:03:59.340><c> get</c><00:03:59.459><c> the</c><00:03:59.580><c> latest</c><00:03:59.700><c> compliance</c>
+button to get the latest compliance
+button to get the latest compliance
+content<00:04:00.540><c> as</c><00:04:00.780><c> soon</c><00:04:01.019><c> as</c><00:04:01.140><c> our</c><00:04:01.260><c> compliance</c><00:04:01.680><c> errors</c>
+content as soon as our compliance errors
+content as soon as our compliance errors
+roll<00:04:02.099><c> it</c><00:04:02.220><c> out</c><00:04:02.400><c> until</c><00:04:02.879><c> the</c><00:04:03.120><c> next</c><00:04:03.239><c> compliance</c>
+roll it out until the next compliance
+roll it out until the next compliance
+tip<00:04:03.840><c> my</c><00:04:03.959><c> friends</c><00:04:04.080><c> stay</c><00:04:04.620><c> safe</c><00:04:04.799><c> and</c><00:04:05.040><c> secure</c><00:04:05.280><c> out</c>
+tip my friends stay safe and secure out
+tip my friends stay safe and secure out
+there<00:04:05.580><c> and</c><00:04:05.879><c> hit</c><00:04:06.120><c> us</c><00:04:06.239><c> in</c><00:04:06.360><c> the</c><00:04:06.420><c> comments</c><00:04:06.659><c> below</c>
+there and hit us in the comments below
+there and hit us in the comments below
+to<00:04:06.959><c> let</c><00:04:07.140><c> us</c><00:04:07.200><c> know</c><00:04:07.319><c> what</c><00:04:07.500><c> you'd</c><00:04:07.680><c> like</c><00:04:07.799><c> to</c><00:04:07.920><c> know</c>
+to let us know what you'd like to know
+to let us know what you'd like to know
+more<00:04:08.159><c> about</c><00:04:08.340><c> when</c><00:04:08.700><c> it</c><00:04:08.879><c> comes</c><00:04:09.000><c> to</c><00:04:09.120><c> information</c>
+more about when it comes to information
+more about when it comes to information
+security<00:04:09.780><c> and</c><00:04:10.140><c> compliance</c><00:04:10.620><c> and</c><00:04:10.860><c> I'll</c><00:04:11.040><c> see</c><00:04:11.159><c> you</c>
+security and compliance and I'll see you
+security and compliance and I'll see you
+on<00:04:11.400><c> the</c><00:04:11.519><c> next</c><00:04:11.640><c> one</c>
+on the next one
+on the next one
+[Music]
+[Music]
+[Music]
+foreign
+foreign
+foreign
+[Music]

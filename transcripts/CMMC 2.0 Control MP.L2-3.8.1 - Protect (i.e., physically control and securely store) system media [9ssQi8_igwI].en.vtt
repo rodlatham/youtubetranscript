@@ -1,0 +1,1208 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.550 align:start position:0%
+ 
+hey<00:00:00.420><c> everybody</c><00:00:00.539><c> it's</c><00:00:00.840><c> Mike</c><00:00:00.960><c> reader</c><00:00:01.380><c> here</c><00:00:01.500><c> with</c>
+
+00:00:01.550 --> 00:00:01.560 align:start position:0%
+hey everybody it's Mike reader here with
+ 
+
+00:00:01.560 --> 00:00:02.869 align:start position:0%
+hey everybody it's Mike reader here with
+on-call<00:00:01.860><c> compliance</c><00:00:02.280><c> Solutions</c><00:00:02.520><c> and</c><00:00:02.700><c> I'm</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+on-call compliance Solutions and I'm
+ 
+
+00:00:02.879 --> 00:00:04.130 align:start position:0%
+on-call compliance Solutions and I'm
+back<00:00:03.000><c> with</c><00:00:03.179><c> another</c><00:00:03.300><c> compliance</c><00:00:03.780><c> tip</c><00:00:03.959><c> of</c><00:00:04.020><c> the</c>
+
+00:00:04.130 --> 00:00:04.140 align:start position:0%
+back with another compliance tip of the
+ 
+
+00:00:04.140 --> 00:00:05.809 align:start position:0%
+back with another compliance tip of the
+week<00:00:04.259><c> this</c><00:00:04.620><c> week</c><00:00:04.799><c> we're</c><00:00:04.920><c> talking</c><00:00:05.100><c> about</c><00:00:05.160><c> cmmc</c>
+
+00:00:05.809 --> 00:00:05.819 align:start position:0%
+week this week we're talking about cmmc
+ 
+
+00:00:05.819 --> 00:00:09.589 align:start position:0%
+week this week we're talking about cmmc
+control<00:00:06.000><c> mp.l</c><00:00:07.400><c> 2-3.8.1</c><00:00:08.400><c> protect</c><00:00:08.940><c> IE</c>
+
+00:00:09.589 --> 00:00:09.599 align:start position:0%
+control mp.l 2-3.8.1 protect IE
+ 
+
+00:00:09.599 --> 00:00:11.750 align:start position:0%
+control mp.l 2-3.8.1 protect IE
+physically<00:00:09.900><c> control</c><00:00:10.320><c> and</c><00:00:10.980><c> securely</c><00:00:11.400><c> store</c>
+
+00:00:11.750 --> 00:00:11.760 align:start position:0%
+physically control and securely store
+ 
+
+00:00:11.760 --> 00:00:14.690 align:start position:0%
+physically control and securely store
+system<00:00:12.540><c> media</c><00:00:12.960><c> containing</c><00:00:13.380><c> cui</c><00:00:13.920><c> both</c><00:00:14.340><c> paper</c>
+
+00:00:14.690 --> 00:00:14.700 align:start position:0%
+system media containing cui both paper
+ 
+
+00:00:14.700 --> 00:00:16.550 align:start position:0%
+system media containing cui both paper
+and<00:00:15.240><c> digital</c>
+
+00:00:16.550 --> 00:00:16.560 align:start position:0%
+and digital
+ 
+
+00:00:16.560 --> 00:00:24.730 align:start position:0%
+and digital
+[Music]
+
+00:00:24.730 --> 00:00:24.740 align:start position:0%
+[Music]
+ 
+
+00:00:24.740 --> 00:00:26.689 align:start position:0%
+[Music]
+so<00:00:25.740><c> hey</c><00:00:25.859><c> if</c><00:00:25.980><c> you're</c><00:00:26.100><c> a</c><00:00:26.220><c> defense</c><00:00:26.400><c> contractor</c>
+
+00:00:26.689 --> 00:00:26.699 align:start position:0%
+so hey if you're a defense contractor
+ 
+
+00:00:26.699 --> 00:00:28.130 align:start position:0%
+so hey if you're a defense contractor
+who's<00:00:26.880><c> feeling</c><00:00:27.060><c> overwhelmed</c><00:00:27.599><c> tired</c><00:00:28.080><c> and</c>
+
+00:00:28.130 --> 00:00:28.140 align:start position:0%
+who's feeling overwhelmed tired and
+ 
+
+00:00:28.140 --> 00:00:29.929 align:start position:0%
+who's feeling overwhelmed tired and
+alone<00:00:28.320><c> trying</c><00:00:28.740><c> to</c><00:00:28.920><c> understand</c><00:00:29.039><c> all</c><00:00:29.340><c> the</c><00:00:29.460><c> cmmc</c>
+
+00:00:29.929 --> 00:00:29.939 align:start position:0%
+alone trying to understand all the cmmc
+ 
+
+00:00:29.939 --> 00:00:32.630 align:start position:0%
+alone trying to understand all the cmmc
+dfars<00:00:30.599><c> and</c><00:00:30.720><c> nist</c><00:00:30.900><c> SP</c><00:00:31.080><c> 10171</c><00:00:31.920><c> compliant</c><00:00:32.399><c> stuff</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+dfars and nist SP 10171 compliant stuff
+ 
+
+00:00:32.640 --> 00:00:34.790 align:start position:0%
+dfars and nist SP 10171 compliant stuff
+on<00:00:33.300><c> top</c><00:00:33.420><c> of</c><00:00:33.540><c> an</c><00:00:33.719><c> already</c><00:00:33.840><c> colossal</c><00:00:34.320><c> workload</c>
+
+00:00:34.790 --> 00:00:34.800 align:start position:0%
+on top of an already colossal workload
+ 
+
+00:00:34.800 --> 00:00:37.370 align:start position:0%
+on top of an already colossal workload
+well<00:00:35.340><c> I've</c><00:00:35.700><c> got</c><00:00:35.820><c> great</c><00:00:36.000><c> news</c><00:00:36.239><c> for</c><00:00:36.480><c> you</c><00:00:36.600><c> you</c>
+
+00:00:37.370 --> 00:00:37.380 align:start position:0%
+well I've got great news for you you
+ 
+
+00:00:37.380 --> 00:00:38.510 align:start position:0%
+well I've got great news for you you
+found<00:00:37.559><c> your</c><00:00:37.739><c> home</c><00:00:37.860><c> here</c><00:00:38.040><c> at</c><00:00:38.160><c> on-call</c>
+
+00:00:38.510 --> 00:00:38.520 align:start position:0%
+found your home here at on-call
+ 
+
+00:00:38.520 --> 00:00:39.709 align:start position:0%
+found your home here at on-call
+compliance<00:00:38.940><c> Solutions</c><00:00:39.180><c> where</c><00:00:39.360><c> we</c><00:00:39.540><c> can</c><00:00:39.600><c> help</c>
+
+00:00:39.709 --> 00:00:39.719 align:start position:0%
+compliance Solutions where we can help
+ 
+
+00:00:39.719 --> 00:00:41.690 align:start position:0%
+compliance Solutions where we can help
+you<00:00:39.899><c> transform</c><00:00:40.379><c> into</c><00:00:41.040><c> your</c><00:00:41.280><c> company's</c>
+
+00:00:41.690 --> 00:00:41.700 align:start position:0%
+you transform into your company's
+ 
+
+00:00:41.700 --> 00:00:43.910 align:start position:0%
+you transform into your company's
+on-call<00:00:42.300><c> compliance</c><00:00:42.719><c> hero</c>
+
+00:00:43.910 --> 00:00:43.920 align:start position:0%
+on-call compliance hero
+ 
+
+00:00:43.920 --> 00:00:46.069 align:start position:0%
+on-call compliance hero
+let's<00:00:44.520><c> jump</c><00:00:44.700><c> into</c><00:00:44.879><c> it</c><00:00:45.120><c> let's</c><00:00:45.420><c> jump</c><00:00:45.660><c> into</c><00:00:45.840><c> it</c>
+
+00:00:46.069 --> 00:00:46.079 align:start position:0%
+let's jump into it let's jump into it
+ 
+
+00:00:46.079 --> 00:00:47.930 align:start position:0%
+let's jump into it let's jump into it
+let's<00:00:46.379><c> jump</c><00:00:46.620><c> into</c><00:00:46.800><c> it</c><00:00:47.040><c> I</c><00:00:47.399><c> don't</c><00:00:47.579><c> really</c><00:00:47.700><c> jump</c>
+
+00:00:47.930 --> 00:00:47.940 align:start position:0%
+let's jump into it I don't really jump
+ 
+
+00:00:47.940 --> 00:00:49.910 align:start position:0%
+let's jump into it I don't really jump
+on<00:00:48.180><c> camera</c><00:00:48.360><c> actually</c><00:00:48.719><c> so</c><00:00:49.140><c> I</c><00:00:49.379><c> don't</c><00:00:49.440><c> know</c><00:00:49.559><c> why</c><00:00:49.739><c> I</c>
+
+00:00:49.910 --> 00:00:49.920 align:start position:0%
+on camera actually so I don't know why I
+ 
+
+00:00:49.920 --> 00:00:51.830 align:start position:0%
+on camera actually so I don't know why I
+keep<00:00:50.039><c> saying</c><00:00:50.340><c> let's</c><00:00:50.520><c> jump</c><00:00:50.760><c> into</c><00:00:50.940><c> it</c><00:00:51.239><c> it's</c><00:00:51.660><c> more</c>
+
+00:00:51.830 --> 00:00:51.840 align:start position:0%
+keep saying let's jump into it it's more
+ 
+
+00:00:51.840 --> 00:00:53.330 align:start position:0%
+keep saying let's jump into it it's more
+like<00:00:52.020><c> let's</c><00:00:52.200><c> roll</c><00:00:52.500><c> into</c><00:00:52.680><c> it</c><00:00:52.980><c> because</c><00:00:53.160><c> that's</c>
+
+00:00:53.330 --> 00:00:53.340 align:start position:0%
+like let's roll into it because that's
+ 
+
+00:00:53.340 --> 00:00:55.310 align:start position:0%
+like let's roll into it because that's
+kind<00:00:53.520><c> of</c><00:00:53.579><c> more</c><00:00:53.700><c> my</c><00:00:53.879><c> speed</c><00:00:54.120><c> but</c>
+
+00:00:55.310 --> 00:00:55.320 align:start position:0%
+kind of more my speed but
+ 
+
+00:00:55.320 --> 00:00:57.110 align:start position:0%
+kind of more my speed but
+you<00:00:55.739><c> seem</c><00:00:55.920><c> pretty</c><00:00:56.100><c> energetic</c><00:00:56.640><c> so</c><00:00:56.760><c> let's</c><00:00:56.940><c> just</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+you seem pretty energetic so let's just
+ 
+
+00:00:57.120 --> 00:00:58.490 align:start position:0%
+you seem pretty energetic so let's just
+jump<00:00:57.300><c> into</c><00:00:57.420><c> it</c><00:00:57.660><c> together</c><00:00:57.840><c> like</c><00:00:58.140><c> we'll</c><00:00:58.320><c> hold</c>
+
+00:00:58.490 --> 00:00:58.500 align:start position:0%
+jump into it together like we'll hold
+ 
+
+00:00:58.500 --> 00:01:00.049 align:start position:0%
+jump into it together like we'll hold
+hands<00:00:58.800><c> we'll</c><00:00:58.980><c> just</c><00:00:59.160><c> jump</c><00:00:59.340><c> into</c><00:00:59.460><c> the</c><00:00:59.699><c> foam</c><00:00:59.940><c> pit</c>
+
+00:01:00.049 --> 00:01:00.059 align:start position:0%
+hands we'll just jump into the foam pit
+ 
+
+00:01:00.059 --> 00:01:02.150 align:start position:0%
+hands we'll just jump into the foam pit
+like<00:01:00.300><c> at</c><00:01:00.480><c> gymnastics</c><00:01:01.020><c> you</c><00:01:01.500><c> tell</c><00:01:01.680><c> I</c><00:01:01.860><c> have</c><00:01:01.980><c> kids</c>
+
+00:01:02.150 --> 00:01:02.160 align:start position:0%
+like at gymnastics you tell I have kids
+ 
+
+00:01:02.160 --> 00:01:04.969 align:start position:0%
+like at gymnastics you tell I have kids
+that<00:01:02.579><c> might</c><00:01:02.820><c> be</c><00:01:02.940><c> part</c><00:01:03.180><c> of</c><00:01:03.300><c> it</c><00:01:03.480><c> okay</c><00:01:03.960><c> so</c><00:01:04.500><c> here</c><00:01:04.799><c> we</c>
+
+00:01:04.969 --> 00:01:04.979 align:start position:0%
+that might be part of it okay so here we
+ 
+
+00:01:04.979 --> 00:01:06.950 align:start position:0%
+that might be part of it okay so here we
+find<00:01:05.159><c> ourselves</c><00:01:05.580><c> formalizing</c><00:01:06.299><c> what</c><00:01:06.659><c> I</c><00:01:06.840><c> think</c>
+
+00:01:06.950 --> 00:01:06.960 align:start position:0%
+find ourselves formalizing what I think
+ 
+
+00:01:06.960 --> 00:01:09.770 align:start position:0%
+find ourselves formalizing what I think
+is<00:01:07.200><c> oftentimes</c><00:01:07.799><c> not</c><00:01:08.159><c> really</c><00:01:08.340><c> common</c><00:01:08.640><c> sense</c>
+
+00:01:09.770 --> 00:01:09.780 align:start position:0%
+is oftentimes not really common sense
+ 
+
+00:01:09.780 --> 00:01:11.570 align:start position:0%
+is oftentimes not really common sense
+like<00:01:10.320><c> this</c><00:01:10.560><c> entire</c><00:01:10.799><c> compliance</c><00:01:11.220><c> standard</c>
+
+00:01:11.570 --> 00:01:11.580 align:start position:0%
+like this entire compliance standard
+ 
+
+00:01:11.580 --> 00:01:13.969 align:start position:0%
+like this entire compliance standard
+most<00:01:12.360><c> companies</c><00:01:12.720><c> typically</c><00:01:13.020><c> have</c><00:01:13.260><c> at</c><00:01:13.500><c> least</c><00:01:13.619><c> a</c>
+
+00:01:13.969 --> 00:01:13.979 align:start position:0%
+most companies typically have at least a
+ 
+
+00:01:13.979 --> 00:01:15.590 align:start position:0%
+most companies typically have at least a
+few<00:01:14.100><c> Rogue</c><00:01:14.520><c> thumb</c><00:01:14.640><c> drives</c><00:01:15.000><c> and</c><00:01:15.119><c> portable</c><00:01:15.420><c> hard</c>
+
+00:01:15.590 --> 00:01:15.600 align:start position:0%
+few Rogue thumb drives and portable hard
+ 
+
+00:01:15.600 --> 00:01:17.030 align:start position:0%
+few Rogue thumb drives and portable hard
+drives<00:01:15.840><c> just</c><00:01:16.080><c> laying</c><00:01:16.380><c> around</c><00:01:16.500><c> they're</c>
+
+00:01:17.030 --> 00:01:17.040 align:start position:0%
+drives just laying around they're
+ 
+
+00:01:17.040 --> 00:01:19.550 align:start position:0%
+drives just laying around they're
+unmarked<00:01:17.580><c> who</c><00:01:18.060><c> knows</c><00:01:18.299><c> what</c><00:01:18.479><c> on</c><00:01:18.659><c> them</c><00:01:18.840><c> and</c><00:01:19.380><c> of</c>
+
+00:01:19.550 --> 00:01:19.560 align:start position:0%
+unmarked who knows what on them and of
+ 
+
+00:01:19.560 --> 00:01:21.170 align:start position:0%
+unmarked who knows what on them and of
+course<00:01:19.740><c> when</c><00:01:20.040><c> it</c><00:01:20.159><c> comes</c><00:01:20.280><c> to</c><00:01:20.400><c> having</c><00:01:20.520><c> cui</c><00:01:21.060><c> on</c>
+
+00:01:21.170 --> 00:01:21.180 align:start position:0%
+course when it comes to having cui on
+ 
+
+00:01:21.180 --> 00:01:23.270 align:start position:0%
+course when it comes to having cui on
+the<00:01:21.299><c> environment</c><00:01:21.659><c> uh</c><00:01:22.560><c> well</c><00:01:22.799><c> that's</c><00:01:23.040><c> just</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+the environment uh well that's just
+ 
+
+00:01:23.280 --> 00:01:25.490 align:start position:0%
+the environment uh well that's just
+really<00:01:23.520><c> not</c><00:01:23.700><c> cool</c><00:01:24.000><c> not</c><00:01:24.420><c> not</c><00:01:24.720><c> so</c><00:01:24.960><c> cool</c><00:01:25.140><c> at</c><00:01:25.380><c> all</c>
+
+00:01:25.490 --> 00:01:25.500 align:start position:0%
+really not cool not not so cool at all
+ 
+
+00:01:25.500 --> 00:01:27.590 align:start position:0%
+really not cool not not so cool at all
+all<00:01:25.740><c> right</c><00:01:25.860><c> so</c><00:01:26.759><c> what</c><00:01:26.939><c> needs</c><00:01:27.119><c> to</c><00:01:27.240><c> happen</c><00:01:27.360><c> with</c>
+
+00:01:27.590 --> 00:01:27.600 align:start position:0%
+all right so what needs to happen with
+ 
+
+00:01:27.600 --> 00:01:30.350 align:start position:0%
+all right so what needs to happen with
+that<00:01:27.720><c> stuff</c><00:01:27.900><c> well</c><00:01:28.439><c> if</c><00:01:28.799><c> it</c><00:01:28.979><c> was</c><00:01:29.100><c> us</c><00:01:29.520><c> we</c><00:01:30.060><c> would</c><00:01:30.180><c> be</c>
+
+00:01:30.350 --> 00:01:30.360 align:start position:0%
+that stuff well if it was us we would be
+ 
+
+00:01:30.360 --> 00:01:31.850 align:start position:0%
+that stuff well if it was us we would be
+asking<00:01:30.659><c> everyone</c><00:01:30.900><c> to</c><00:01:31.200><c> immediately</c><00:01:31.500><c> turn</c><00:01:31.740><c> in</c>
+
+00:01:31.850 --> 00:01:31.860 align:start position:0%
+asking everyone to immediately turn in
+ 
+
+00:01:31.860 --> 00:01:32.929 align:start position:0%
+asking everyone to immediately turn in
+all<00:01:31.979><c> thumb</c><00:01:32.159><c> drives</c><00:01:32.460><c> and</c><00:01:32.520><c> portable</c><00:01:32.759><c> hard</c>
+
+00:01:32.929 --> 00:01:32.939 align:start position:0%
+all thumb drives and portable hard
+ 
+
+00:01:32.939 --> 00:01:34.550 align:start position:0%
+all thumb drives and portable hard
+drives<00:01:33.119><c> the</c><00:01:33.299><c> it</c><00:01:33.479><c> office</c><00:01:33.720><c> within</c><00:01:34.080><c> 24</c><00:01:34.259><c> hours</c>
+
+00:01:34.550 --> 00:01:34.560 align:start position:0%
+drives the it office within 24 hours
+ 
+
+00:01:34.560 --> 00:01:37.370 align:start position:0%
+drives the it office within 24 hours
+we'd<00:01:35.220><c> be</c><00:01:35.280><c> serializing</c><00:01:35.939><c> them</c><00:01:36.060><c> uh</c><00:01:36.780><c> identifying</c>
+
+00:01:37.370 --> 00:01:37.380 align:start position:0%
+we'd be serializing them uh identifying
+ 
+
+00:01:37.380 --> 00:01:38.749 align:start position:0%
+we'd be serializing them uh identifying
+them<00:01:37.500><c> logging</c><00:01:37.979><c> them</c><00:01:38.040><c> and</c><00:01:38.220><c> of</c><00:01:38.340><c> course</c><00:01:38.460><c> putting</c>
+
+00:01:38.749 --> 00:01:38.759 align:start position:0%
+them logging them and of course putting
+ 
+
+00:01:38.759 --> 00:01:40.730 align:start position:0%
+them logging them and of course putting
+some<00:01:38.820><c> cui</c><00:01:39.180><c> stickers</c><00:01:39.479><c> on</c><00:01:39.659><c> them</c><00:01:39.840><c> and</c><00:01:40.439><c> entering</c>
+
+00:01:40.730 --> 00:01:40.740 align:start position:0%
+some cui stickers on them and entering
+ 
+
+00:01:40.740 --> 00:01:42.490 align:start position:0%
+some cui stickers on them and entering
+them<00:01:40.920><c> into</c><00:01:41.040><c> a</c><00:01:41.220><c> cui</c><00:01:41.579><c> media</c><00:01:41.880><c> access</c><00:01:42.000><c> log</c>
+
+00:01:42.490 --> 00:01:42.500 align:start position:0%
+them into a cui media access log
+ 
+
+00:01:42.500 --> 00:01:44.929 align:start position:0%
+them into a cui media access log
+everyone<00:01:43.500><c> that</c><00:01:43.799><c> has</c><00:01:44.100><c> those</c><00:01:44.340><c> portable</c><00:01:44.700><c> storage</c>
+
+00:01:44.929 --> 00:01:44.939 align:start position:0%
+everyone that has those portable storage
+ 
+
+00:01:44.939 --> 00:01:47.149 align:start position:0%
+everyone that has those portable storage
+media<00:01:45.299><c> devices</c><00:01:45.600><c> and</c><00:01:46.320><c> why</c><00:01:46.560><c> they</c><00:01:46.799><c> have</c><00:01:46.920><c> them</c>
+
+00:01:47.149 --> 00:01:47.159 align:start position:0%
+media devices and why they have them
+ 
+
+00:01:47.159 --> 00:01:49.789 align:start position:0%
+media devices and why they have them
+along<00:01:47.520><c> with</c><00:01:47.820><c> what</c><00:01:48.360><c> the</c><00:01:48.479><c> intended</c><00:01:48.840><c> use</c><00:01:49.079><c> is</c><00:01:49.439><c> so</c>
+
+00:01:49.789 --> 00:01:49.799 align:start position:0%
+along with what the intended use is so
+ 
+
+00:01:49.799 --> 00:01:51.830 align:start position:0%
+along with what the intended use is so
+again<00:01:50.220><c> really</c><00:01:50.759><c> truly</c><00:01:51.119><c> keeping</c><00:01:51.479><c> track</c><00:01:51.600><c> in</c>
+
+00:01:51.830 --> 00:01:51.840 align:start position:0%
+again really truly keeping track in
+ 
+
+00:01:51.840 --> 00:01:53.330 align:start position:0%
+again really truly keeping track in
+inventory<00:01:52.259><c> of</c><00:01:52.439><c> what</c><00:01:52.619><c> you've</c><00:01:52.799><c> got</c><00:01:52.979><c> going</c><00:01:53.159><c> on</c>
+
+00:01:53.330 --> 00:01:53.340 align:start position:0%
+inventory of what you've got going on
+ 
+
+00:01:53.340 --> 00:01:54.230 align:start position:0%
+inventory of what you've got going on
+there
+
+00:01:54.230 --> 00:01:54.240 align:start position:0%
+there
+ 
+
+00:01:54.240 --> 00:01:56.210 align:start position:0%
+there
+and<00:01:54.420><c> we</c><00:01:54.780><c> would</c><00:01:54.960><c> be</c><00:01:55.079><c> training</c><00:01:55.560><c> those</c><00:01:55.920><c> same</c>
+
+00:01:56.210 --> 00:01:56.220 align:start position:0%
+and we would be training those same
+ 
+
+00:01:56.220 --> 00:01:59.270 align:start position:0%
+and we would be training those same
+Personnel<00:01:56.880><c> on</c><00:01:57.240><c> device</c><00:01:57.420><c> checkout</c><00:01:58.159><c> that</c><00:01:59.159><c> you</c>
+
+00:01:59.270 --> 00:01:59.280 align:start position:0%
+Personnel on device checkout that you
+ 
+
+00:01:59.280 --> 00:02:00.969 align:start position:0%
+Personnel on device checkout that you
+are<00:01:59.460><c> not</c><00:01:59.579><c> allowed</c><00:01:59.880><c> to</c><00:02:00.180><c> leave</c><00:02:00.360><c> these</c><00:02:00.720><c> devices</c>
+
+00:02:00.969 --> 00:02:00.979 align:start position:0%
+are not allowed to leave these devices
+ 
+
+00:02:00.979 --> 00:02:03.530 align:start position:0%
+are not allowed to leave these devices
+unsecured<00:02:01.979><c> and</c><00:02:02.340><c> they</c><00:02:02.579><c> must</c><00:02:02.700><c> be</c><00:02:02.880><c> locked</c><00:02:03.180><c> up</c><00:02:03.299><c> or</c>
+
+00:02:03.530 --> 00:02:03.540 align:start position:0%
+unsecured and they must be locked up or
+ 
+
+00:02:03.540 --> 00:02:05.630 align:start position:0%
+unsecured and they must be locked up or
+physically<00:02:03.899><c> physical</c><00:02:04.439><c> physically</c><00:02:05.219><c> secured</c>
+
+00:02:05.630 --> 00:02:05.640 align:start position:0%
+physically physical physically secured
+ 
+
+00:02:05.640 --> 00:02:07.789 align:start position:0%
+physically physical physically secured
+somehow<00:02:06.060><c> and</c><00:02:06.719><c> be</c><00:02:06.960><c> able</c><00:02:07.079><c> to</c><00:02:07.200><c> be</c><00:02:07.320><c> accounted</c><00:02:07.680><c> for</c>
+
+00:02:07.789 --> 00:02:07.799 align:start position:0%
+somehow and be able to be accounted for
+ 
+
+00:02:07.799 --> 00:02:10.850 align:start position:0%
+somehow and be able to be accounted for
+the<00:02:08.340><c> digital</c><00:02:08.640><c> cui</c><00:02:09.239><c> well</c><00:02:10.020><c> that</c><00:02:10.500><c> already</c><00:02:10.619><c> should</c>
+
+00:02:10.850 --> 00:02:10.860 align:start position:0%
+the digital cui well that already should
+ 
+
+00:02:10.860 --> 00:02:12.350 align:start position:0%
+the digital cui well that already should
+be<00:02:11.039><c> locked</c><00:02:11.280><c> down</c><00:02:11.340><c> by</c><00:02:11.640><c> permissions</c><00:02:12.060><c> most</c>
+
+00:02:12.350 --> 00:02:12.360 align:start position:0%
+be locked down by permissions most
+ 
+
+00:02:12.360 --> 00:02:14.210 align:start position:0%
+be locked down by permissions most
+likely<00:02:12.660><c> but</c><00:02:12.959><c> let's</c><00:02:13.379><c> see</c><00:02:13.560><c> what</c><00:02:13.739><c> the</c><00:02:13.860><c> assessors</c>
+
+00:02:14.210 --> 00:02:14.220 align:start position:0%
+likely but let's see what the assessors
+ 
+
+00:02:14.220 --> 00:02:16.250 align:start position:0%
+likely but let's see what the assessors
+are<00:02:14.400><c> looking</c><00:02:14.520><c> for</c><00:02:14.760><c> on</c><00:02:15.300><c> this</c><00:02:15.480><c> one</c>
+
+00:02:16.250 --> 00:02:16.260 align:start position:0%
+are looking for on this one
+ 
+
+00:02:16.260 --> 00:02:19.070 align:start position:0%
+are looking for on this one
+okay<00:02:16.800><c> so</c><00:02:17.520><c> uh</c><00:02:18.060><c> determine</c><00:02:18.480><c> if</c><00:02:18.599><c> paper</c><00:02:18.720><c> media</c>
+
+00:02:19.070 --> 00:02:19.080 align:start position:0%
+okay so uh determine if paper media
+ 
+
+00:02:19.080 --> 00:02:21.650 align:start position:0%
+okay so uh determine if paper media
+containing<00:02:19.500><c> Cy</c><00:02:19.860><c> is</c><00:02:20.099><c> physically</c><00:02:20.459><c> controlled</c>
+
+00:02:21.650 --> 00:02:21.660 align:start position:0%
+containing Cy is physically controlled
+ 
+
+00:02:21.660 --> 00:02:24.410 align:start position:0%
+containing Cy is physically controlled
+okay<00:02:22.220><c> uh</c><00:02:23.220><c> all</c><00:02:23.340><c> paper</c><00:02:23.580><c> media</c><00:02:23.940><c> is</c><00:02:24.120><c> securely</c>
+
+00:02:24.410 --> 00:02:24.420 align:start position:0%
+okay uh all paper media is securely
+ 
+
+00:02:24.420 --> 00:02:26.270 align:start position:0%
+okay uh all paper media is securely
+stored<00:02:24.780><c> in</c><00:02:24.900><c> Lock</c><00:02:25.080><c> storage</c><00:02:25.319><c> containers</c><00:02:25.800><c> where</c>
+
+00:02:26.270 --> 00:02:26.280 align:start position:0%
+stored in Lock storage containers where
+ 
+
+00:02:26.280 --> 00:02:28.610 align:start position:0%
+stored in Lock storage containers where
+uh<00:02:26.640><c> when</c><00:02:26.879><c> not</c><00:02:27.120><c> in</c><00:02:27.360><c> use</c><00:02:27.540><c> uh</c><00:02:28.260><c> temporary</c>
+
+00:02:28.610 --> 00:02:28.620 align:start position:0%
+uh when not in use uh temporary
+ 
+
+00:02:28.620 --> 00:02:31.490 align:start position:0%
+uh when not in use uh temporary
+temporary<00:02:29.459><c> secure</c><00:02:29.819><c> facilities</c><00:02:30.239><c> uh</c><00:02:31.200><c> may</c><00:02:31.379><c> be</c>
+
+00:02:31.490 --> 00:02:31.500 align:start position:0%
+temporary secure facilities uh may be
+ 
+
+00:02:31.500 --> 00:02:33.290 align:start position:0%
+temporary secure facilities uh may be
+constructed<00:02:31.980><c> or</c><00:02:32.220><c> used</c><00:02:32.400><c> in</c><00:02:32.700><c> order</c><00:02:32.879><c> to</c><00:02:33.060><c> protect</c>
+
+00:02:33.290 --> 00:02:33.300 align:start position:0%
+constructed or used in order to protect
+ 
+
+00:02:33.300 --> 00:02:35.869 align:start position:0%
+constructed or used in order to protect
+cui<00:02:33.780><c> depending</c><00:02:34.140><c> upon</c><00:02:34.379><c> project</c><00:02:34.680><c> needs</c><00:02:35.340><c> again</c>
+
+00:02:35.869 --> 00:02:35.879 align:start position:0%
+cui depending upon project needs again
+ 
+
+00:02:35.879 --> 00:02:38.690 align:start position:0%
+cui depending upon project needs again
+every<00:02:36.480><c> facility</c><00:02:36.959><c> is</c><00:02:37.319><c> different</c><00:02:37.560><c> everyone</c><00:02:38.400><c> has</c>
+
+00:02:38.690 --> 00:02:38.700 align:start position:0%
+every facility is different everyone has
+ 
+
+00:02:38.700 --> 00:02:39.970 align:start position:0%
+every facility is different everyone has
+different<00:02:38.819><c> ways</c><00:02:39.120><c> they</c><00:02:39.180><c> need</c><00:02:39.300><c> to</c><00:02:39.420><c> solve</c><00:02:39.660><c> that</c>
+
+00:02:39.970 --> 00:02:39.980 align:start position:0%
+different ways they need to solve that
+ 
+
+00:02:39.980 --> 00:02:42.589 align:start position:0%
+different ways they need to solve that
+second<00:02:40.980><c> assessment</c><00:02:41.519><c> points</c><00:02:41.940><c> determine</c><00:02:42.480><c> if</c>
+
+00:02:42.589 --> 00:02:42.599 align:start position:0%
+second assessment points determine if
+ 
+
+00:02:42.599 --> 00:02:44.390 align:start position:0%
+second assessment points determine if
+digital<00:02:42.959><c> media</c><00:02:43.260><c> containing</c><00:02:43.739><c> cui</c><00:02:44.220><c> is</c>
+
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+digital media containing cui is
+ 
+
+00:02:44.400 --> 00:02:46.670 align:start position:0%
+digital media containing cui is
+physically<00:02:44.819><c> controlled</c><00:02:45.480><c> is</c><00:02:45.900><c> it</c><00:02:46.140><c> I</c><00:02:46.440><c> don't</c><00:02:46.560><c> know</c>
+
+00:02:46.670 --> 00:02:46.680 align:start position:0%
+physically controlled is it I don't know
+ 
+
+00:02:46.680 --> 00:02:48.530 align:start position:0%
+physically controlled is it I don't know
+digital<00:02:47.459><c> media</c><00:02:47.760><c> is</c><00:02:47.879><c> physically</c><00:02:48.180><c> controlled</c>
+
+00:02:48.530 --> 00:02:48.540 align:start position:0%
+digital media is physically controlled
+ 
+
+00:02:48.540 --> 00:02:50.030 align:start position:0%
+digital media is physically controlled
+including<00:02:48.900><c> locking</c><00:02:49.319><c> server</c><00:02:49.680><c> rooms</c>
+
+00:02:50.030 --> 00:02:50.040 align:start position:0%
+including locking server rooms
+ 
+
+00:02:50.040 --> 00:02:51.589 align:start position:0%
+including locking server rooms
+serialized<00:02:50.700><c> and</c><00:02:50.940><c> controlled</c><00:02:51.300><c> portable</c>
+
+00:02:51.589 --> 00:02:51.599 align:start position:0%
+serialized and controlled portable
+ 
+
+00:02:51.599 --> 00:02:53.990 align:start position:0%
+serialized and controlled portable
+storage<00:02:51.840><c> media</c><00:02:52.379><c> specifically</c><00:02:53.280><c> for</c><00:02:53.459><c> cui</c><00:02:53.879><c> and</c>
+
+00:02:53.990 --> 00:02:54.000 align:start position:0%
+storage media specifically for cui and
+ 
+
+00:02:54.000 --> 00:02:56.869 align:start position:0%
+storage media specifically for cui and
+cui<00:02:54.360><c> media</c><00:02:54.599><c> access</c><00:02:54.780><c> logs</c><00:02:55.700><c> determinive</c><00:02:56.700><c> paper</c>
+
+00:02:56.869 --> 00:02:56.879 align:start position:0%
+cui media access logs determinive paper
+ 
+
+00:02:56.879 --> 00:02:58.729 align:start position:0%
+cui media access logs determinive paper
+media<00:02:57.180><c> containing</c><00:02:57.540><c> CI</c><00:02:57.900><c> is</c><00:02:58.019><c> securely</c><00:02:58.319><c> stored</c>
+
+00:02:58.729 --> 00:02:58.739 align:start position:0%
+media containing CI is securely stored
+ 
+
+00:02:58.739 --> 00:03:01.070 align:start position:0%
+media containing CI is securely stored
+implemented<00:02:59.700><c> all</c><00:03:00.060><c> paper</c><00:03:00.239><c> media</c><00:03:00.660><c> is</c><00:03:00.780><c> securely</c>
+
+00:03:01.070 --> 00:03:01.080 align:start position:0%
+implemented all paper media is securely
+ 
+
+00:03:01.080 --> 00:03:02.750 align:start position:0%
+implemented all paper media is securely
+stored<00:03:01.379><c> in</c><00:03:01.560><c> Lock</c><00:03:01.680><c> storage</c><00:03:01.980><c> containers</c><00:03:02.459><c> when</c>
+
+00:03:02.750 --> 00:03:02.760 align:start position:0%
+stored in Lock storage containers when
+ 
+
+00:03:02.760 --> 00:03:04.309 align:start position:0%
+stored in Lock storage containers when
+not<00:03:03.000><c> in</c><00:03:03.239><c> direct</c><00:03:03.420><c> use</c>
+
+00:03:04.309 --> 00:03:04.319 align:start position:0%
+not in direct use
+ 
+
+00:03:04.319 --> 00:03:06.229 align:start position:0%
+not in direct use
+next<00:03:05.040><c> one</c><00:03:05.220><c> determine</c><00:03:05.580><c> if</c><00:03:05.700><c> digital</c><00:03:05.940><c> media</c>
+
+00:03:06.229 --> 00:03:06.239 align:start position:0%
+next one determine if digital media
+ 
+
+00:03:06.239 --> 00:03:08.930 align:start position:0%
+next one determine if digital media
+contains<00:03:06.540><c> UI</c><00:03:06.900><c> securely</c><00:03:07.319><c> stored</c>
+
+00:03:08.930 --> 00:03:08.940 align:start position:0%
+contains UI securely stored
+ 
+
+00:03:08.940 --> 00:03:10.790 align:start position:0%
+contains UI securely stored
+is<00:03:09.480><c> it</c><00:03:09.599><c> the</c><00:03:09.780><c> same</c>
+
+00:03:10.790 --> 00:03:10.800 align:start position:0%
+is it the same
+ 
+
+00:03:10.800 --> 00:03:12.470 align:start position:0%
+is it the same
+it<00:03:11.159><c> looks</c><00:03:11.400><c> the</c><00:03:11.519><c> same</c><00:03:11.640><c> but</c><00:03:11.819><c> there's</c><00:03:12.000><c> a</c><00:03:12.120><c> c</c><00:03:12.239><c> and</c><00:03:12.420><c> a</c>
+
+00:03:12.470 --> 00:03:12.480 align:start position:0%
+it looks the same but there's a c and a
+ 
+
+00:03:12.480 --> 00:03:14.089 align:start position:0%
+it looks the same but there's a c and a
+d<00:03:12.599><c> that's</c><00:03:12.780><c> weird</c>
+
+00:03:14.089 --> 00:03:14.099 align:start position:0%
+d that's weird
+ 
+
+00:03:14.099 --> 00:03:16.790 align:start position:0%
+d that's weird
+oh<00:03:14.580><c> one's</c><00:03:15.180><c> paper</c><00:03:15.360><c> media</c><00:03:15.780><c> one's</c><00:03:16.140><c> digital</c><00:03:16.440><c> media</c>
+
+00:03:16.790 --> 00:03:16.800 align:start position:0%
+oh one's paper media one's digital media
+ 
+
+00:03:16.800 --> 00:03:18.770 align:start position:0%
+oh one's paper media one's digital media
+you<00:03:17.159><c> see</c><00:03:17.340><c> how</c><00:03:17.459><c> easy</c><00:03:17.700><c> that</c><00:03:17.940><c> is</c><00:03:18.060><c> to</c><00:03:18.300><c> miss</c><00:03:18.420><c> one</c><00:03:18.659><c> of</c>
+
+00:03:18.770 --> 00:03:18.780 align:start position:0%
+you see how easy that is to miss one of
+ 
+
+00:03:18.780 --> 00:03:20.149 align:start position:0%
+you see how easy that is to miss one of
+these<00:03:18.900><c> assessment</c><00:03:19.260><c> points</c><00:03:19.620><c> it's</c><00:03:19.739><c> so</c><00:03:19.980><c> easy</c>
+
+00:03:20.149 --> 00:03:20.159 align:start position:0%
+these assessment points it's so easy
+ 
+
+00:03:20.159 --> 00:03:22.490 align:start position:0%
+these assessment points it's so easy
+first<00:03:21.120><c> one</c><00:03:21.360><c> was</c><00:03:21.480><c> all</c><00:03:21.720><c> paper</c><00:03:21.959><c> media</c><00:03:22.379><c> is</c>
+
+00:03:22.490 --> 00:03:22.500 align:start position:0%
+first one was all paper media is
+ 
+
+00:03:22.500 --> 00:03:23.990 align:start position:0%
+first one was all paper media is
+securely<00:03:22.800><c> stored</c><00:03:23.099><c> next</c><00:03:23.280><c> one</c><00:03:23.459><c> is</c><00:03:23.580><c> all</c><00:03:23.760><c> digital</c>
+
+00:03:23.990 --> 00:03:24.000 align:start position:0%
+securely stored next one is all digital
+ 
+
+00:03:24.000 --> 00:03:26.149 align:start position:0%
+securely stored next one is all digital
+media<00:03:24.360><c> is</c><00:03:24.480><c> securely</c><00:03:24.780><c> stored</c><00:03:25.260><c> in</c><00:03:25.680><c> Lock</c><00:03:25.860><c> storage</c>
+
+00:03:26.149 --> 00:03:26.159 align:start position:0%
+media is securely stored in Lock storage
+ 
+
+00:03:26.159 --> 00:03:28.670 align:start position:0%
+media is securely stored in Lock storage
+containers<00:03:26.760><c> and</c><00:03:27.480><c> servers</c><00:03:27.959><c> you</c><00:03:28.260><c> know</c><00:03:28.379><c> all</c><00:03:28.560><c> that</c>
+
+00:03:28.670 --> 00:03:28.680 align:start position:0%
+containers and servers you know all that
+ 
+
+00:03:28.680 --> 00:03:30.649 align:start position:0%
+containers and servers you know all that
+kind<00:03:28.800><c> of</c><00:03:28.860><c> stuff</c><00:03:28.980><c> you</c><00:03:29.159><c> get</c><00:03:29.280><c> the</c><00:03:29.400><c> point</c><00:03:29.580><c> so</c><00:03:30.480><c> hey</c>
+
+00:03:30.649 --> 00:03:30.659 align:start position:0%
+kind of stuff you get the point so hey
+ 
+
+00:03:30.659 --> 00:03:32.270 align:start position:0%
+kind of stuff you get the point so hey
+uh<00:03:31.080><c> at</c><00:03:31.260><c> on</c><00:03:31.379><c> call</c><00:03:31.560><c> we</c><00:03:31.739><c> work</c><00:03:31.860><c> with</c><00:03:32.040><c> defense</c>
+
+00:03:32.270 --> 00:03:32.280 align:start position:0%
+uh at on call we work with defense
+ 
+
+00:03:32.280 --> 00:03:33.530 align:start position:0%
+uh at on call we work with defense
+contractors<00:03:32.700><c> to</c><00:03:32.879><c> catch</c><00:03:33.120><c> little</c><00:03:33.180><c> mistakes</c>
+
+00:03:33.530 --> 00:03:33.540 align:start position:0%
+contractors to catch little mistakes
+ 
+
+00:03:33.540 --> 00:03:35.330 align:start position:0%
+contractors to catch little mistakes
+like<00:03:33.720><c> that</c><00:03:33.840><c> because</c><00:03:34.019><c> we're</c><00:03:34.200><c> very</c><00:03:34.500><c> very</c><00:03:35.040><c> very</c>
+
+00:03:35.330 --> 00:03:35.340 align:start position:0%
+like that because we're very very very
+ 
+
+00:03:35.340 --> 00:03:37.430 align:start position:0%
+like that because we're very very very
+uh<00:03:35.940><c> detail-oriented</c><00:03:36.900><c> that's</c><00:03:37.080><c> what</c><00:03:37.200><c> we</c><00:03:37.319><c> are</c>
+
+00:03:37.430 --> 00:03:37.440 align:start position:0%
+uh detail-oriented that's what we are
+ 
+
+00:03:37.440 --> 00:03:40.850 align:start position:0%
+uh detail-oriented that's what we are
+yeah<00:03:37.620><c> very</c><00:03:37.860><c> detail-oriented</c><00:03:39.060><c> uh</c><00:03:40.019><c> and</c><00:03:40.260><c> we</c><00:03:40.500><c> work</c>
+
+00:03:40.850 --> 00:03:40.860 align:start position:0%
+yeah very detail-oriented uh and we work
+ 
+
+00:03:40.860 --> 00:03:42.350 align:start position:0%
+yeah very detail-oriented uh and we work
+with<00:03:41.040><c> defense</c><00:03:41.280><c> contractors</c><00:03:41.760><c> just</c><00:03:42.060><c> like</c><00:03:42.239><c> you</c>
+
+00:03:42.350 --> 00:03:42.360 align:start position:0%
+with defense contractors just like you
+ 
+
+00:03:42.360 --> 00:03:45.530 align:start position:0%
+with defense contractors just like you
+who<00:03:42.540><c> have</c><00:03:42.720><c> had</c><00:03:42.840><c> this</c><00:03:43.019><c> defars</c><00:03:43.739><c> nist</c><00:03:44.459><c> itar</c><00:03:45.360><c> and</c>
+
+00:03:45.530 --> 00:03:45.540 align:start position:0%
+who have had this defars nist itar and
+ 
+
+00:03:45.540 --> 00:03:47.570 align:start position:0%
+who have had this defars nist itar and
+cmmc<00:03:46.080><c> compliant</c><00:03:46.500><c> stuff</c><00:03:46.680><c> dropped</c><00:03:47.340><c> to</c><00:03:47.459><c> their</c>
+
+00:03:47.570 --> 00:03:47.580 align:start position:0%
+cmmc compliant stuff dropped to their
+ 
+
+00:03:47.580 --> 00:03:49.490 align:start position:0%
+cmmc compliant stuff dropped to their
+laps<00:03:47.879><c> like</c><00:03:48.000><c> a</c><00:03:48.120><c> seagull</c><00:03:48.360><c> on</c><00:03:48.480><c> a</c><00:03:48.599><c> sunny</c><00:03:48.720><c> day</c><00:03:48.959><c> we</c>
+
+00:03:49.490 --> 00:03:49.500 align:start position:0%
+laps like a seagull on a sunny day we
+ 
+
+00:03:49.500 --> 00:03:50.750 align:start position:0%
+laps like a seagull on a sunny day we
+teach<00:03:49.680><c> you</c><00:03:49.799><c> how</c><00:03:49.920><c> to</c><00:03:50.099><c> level</c><00:03:50.159><c> up</c><00:03:50.400><c> and</c><00:03:50.519><c> be</c><00:03:50.640><c> a</c>
+
+00:03:50.750 --> 00:03:50.760 align:start position:0%
+teach you how to level up and be a
+ 
+
+00:03:50.760 --> 00:03:52.190 align:start position:0%
+teach you how to level up and be a
+proper<00:03:50.940><c> on-call</c><00:03:51.360><c> compliance</c><00:03:51.720><c> hero</c><00:03:51.959><c> for</c><00:03:52.080><c> your</c>
+
+00:03:52.190 --> 00:03:52.200 align:start position:0%
+proper on-call compliance hero for your
+ 
+
+00:03:52.200 --> 00:03:54.890 align:start position:0%
+proper on-call compliance hero for your
+company<00:03:52.440><c> eliminated</c><00:03:52.980><c> gaps</c><00:03:53.459><c> great</c><00:03:54.000><c> areas</c><00:03:54.420><c> and</c>
+
+00:03:54.890 --> 00:03:54.900 align:start position:0%
+company eliminated gaps great areas and
+ 
+
+00:03:54.900 --> 00:03:56.809 align:start position:0%
+company eliminated gaps great areas and
+getting<00:03:55.140><c> this</c><00:03:55.379><c> solved</c><00:03:55.739><c> all</c><00:03:56.099><c> showing</c><00:03:56.580><c> you</c><00:03:56.700><c> how</c>
+
+00:03:56.809 --> 00:03:56.819 align:start position:0%
+getting this solved all showing you how
+ 
+
+00:03:56.819 --> 00:03:58.130 align:start position:0%
+getting this solved all showing you how
+to<00:03:56.940><c> leverage</c><00:03:57.180><c> compliance</c><00:03:57.659><c> is</c><00:03:57.780><c> your</c><00:03:57.959><c> secret</c>
+
+00:03:58.130 --> 00:03:58.140 align:start position:0%
+to leverage compliance is your secret
+ 
+
+00:03:58.140 --> 00:03:59.869 align:start position:0%
+to leverage compliance is your secret
+weapon<00:03:58.440><c> to</c><00:03:58.560><c> land</c><00:03:58.680><c> more</c><00:03:58.920><c> Defense</c><00:03:59.280><c> work</c><00:03:59.459><c> with</c>
+
+00:03:59.869 --> 00:03:59.879 align:start position:0%
+weapon to land more Defense work with
+ 
+
+00:03:59.879 --> 00:04:01.670 align:start position:0%
+weapon to land more Defense work with
+higher<00:04:00.180><c> profit</c><00:04:00.480><c> margins</c><00:04:00.900><c> now</c><00:04:01.260><c> that's</c><00:04:01.440><c> what</c>
+
+00:04:01.670 --> 00:04:01.680 align:start position:0%
+higher profit margins now that's what
+ 
+
+00:04:01.680 --> 00:04:03.170 align:start position:0%
+higher profit margins now that's what
+becoming<00:04:01.980><c> an</c><00:04:02.099><c> on-call</c><00:04:02.400><c> compliance</c><00:04:02.760><c> hero</c><00:04:03.060><c> can</c>
+
+00:04:03.170 --> 00:04:03.180 align:start position:0%
+becoming an on-call compliance hero can
+ 
+
+00:04:03.180 --> 00:04:04.729 align:start position:0%
+becoming an on-call compliance hero can
+do<00:04:03.299><c> for</c><00:04:03.420><c> you</c><00:04:03.540><c> if</c><00:04:04.200><c> you're</c><00:04:04.319><c> looking</c><00:04:04.440><c> for</c><00:04:04.620><c> more</c>
+
+00:04:04.729 --> 00:04:04.739 align:start position:0%
+do for you if you're looking for more
+ 
+
+00:04:04.739 --> 00:04:06.229 align:start position:0%
+do for you if you're looking for more
+help<00:04:04.980><c> getting</c><00:04:05.159><c> compliant</c><00:04:05.580><c> our</c><00:04:05.760><c> compliance</c>
+
+00:04:06.229 --> 00:04:06.239 align:start position:0%
+help getting compliant our compliance
+ 
+
+00:04:06.239 --> 00:04:08.330 align:start position:0%
+help getting compliant our compliance
+experts<00:04:06.599><c> are</c><00:04:06.780><c> always</c><00:04:06.959><c> on</c><00:04:07.200><c> call</c><00:04:07.379><c> for</c><00:04:07.680><c> you</c><00:04:07.799><c> visit</c>
+
+00:04:08.330 --> 00:04:08.340 align:start position:0%
+experts are always on call for you visit
+ 
+
+00:04:08.340 --> 00:04:10.309 align:start position:0%
+experts are always on call for you visit
+cmmcc<00:04:09.060><c> compliance</c><00:04:09.420><c> secrets.com</c><00:04:09.900><c> or</c><00:04:10.140><c> check</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+cmmcc compliance secrets.com or check
+ 
+
+00:04:10.319 --> 00:04:11.990 align:start position:0%
+cmmcc compliance secrets.com or check
+out<00:04:10.439><c> the</c><00:04:10.560><c> bio</c><00:04:10.739><c> below</c><00:04:11.099><c> for</c><00:04:11.220><c> links</c><00:04:11.580><c> to</c><00:04:11.700><c> get</c><00:04:11.819><c> help</c>
+
+00:04:11.990 --> 00:04:12.000 align:start position:0%
+out the bio below for links to get help
+ 
+
+00:04:12.000 --> 00:04:13.729 align:start position:0%
+out the bio below for links to get help
+right<00:04:12.239><c> now</c><00:04:12.480><c> if</c><00:04:12.959><c> you</c><00:04:13.140><c> love</c><00:04:13.260><c> the</c><00:04:13.379><c> content</c><00:04:13.620><c> we're</c>
+
+00:04:13.729 --> 00:04:13.739 align:start position:0%
+right now if you love the content we're
+ 
+
+00:04:13.739 --> 00:04:14.869 align:start position:0%
+right now if you love the content we're
+putting<00:04:13.860><c> out</c><00:04:13.980><c> here</c><00:04:14.159><c> for</c><00:04:14.280><c> you</c><00:04:14.340><c> help</c><00:04:14.640><c> us</c><00:04:14.760><c> out</c>
+
+00:04:14.869 --> 00:04:14.879 align:start position:0%
+putting out here for you help us out
+ 
+
+00:04:14.879 --> 00:04:16.129 align:start position:0%
+putting out here for you help us out
+with<00:04:15.000><c> a</c><00:04:15.060><c> big</c><00:04:15.180><c> thumbs</c><00:04:15.420><c> up</c><00:04:15.480><c> on</c><00:04:15.599><c> that</c><00:04:15.720><c> like</c><00:04:15.840><c> button</c>
+
+00:04:16.129 --> 00:04:16.139 align:start position:0%
+with a big thumbs up on that like button
+ 
+
+00:04:16.139 --> 00:04:20.810 align:start position:0%
+with a big thumbs up on that like button
+or<00:04:16.380><c> even</c><00:04:16.560><c> better</c>
+
+00:04:20.810 --> 00:04:20.820 align:start position:0%
+ 
+ 
+
+00:04:20.820 --> 00:04:25.129 align:start position:0%
+ 
+the<00:04:21.419><c> Subscribe</c><00:04:21.900><c> button</c>
+
+00:04:25.129 --> 00:04:25.139 align:start position:0%
+ 
+ 
+
+00:04:25.139 --> 00:04:26.629 align:start position:0%
+ 
+I<00:04:25.680><c> mean</c><00:04:25.740><c> how</c><00:04:25.919><c> else</c><00:04:26.040><c> are</c><00:04:26.160><c> you</c><00:04:26.280><c> going</c><00:04:26.400><c> to</c><00:04:26.520><c> be</c><00:04:26.580><c> able</c>
+
+00:04:26.629 --> 00:04:26.639 align:start position:0%
+I mean how else are you going to be able
+ 
+
+00:04:26.639 --> 00:04:28.430 align:start position:0%
+I mean how else are you going to be able
+to<00:04:26.820><c> see</c><00:04:26.940><c> the</c><00:04:27.180><c> awesome</c><00:04:27.360><c> amazing</c><00:04:27.900><c> content</c><00:04:28.259><c> that</c>
+
+00:04:28.430 --> 00:04:28.440 align:start position:0%
+to see the awesome amazing content that
+ 
+
+00:04:28.440 --> 00:04:29.689 align:start position:0%
+to see the awesome amazing content that
+we're<00:04:28.560><c> putting</c><00:04:28.800><c> out</c><00:04:28.919><c> here</c><00:04:29.160><c> for</c><00:04:29.340><c> you</c><00:04:29.520><c> guys</c>
+
+00:04:29.689 --> 00:04:29.699 align:start position:0%
+we're putting out here for you guys
+ 
+
+00:04:29.699 --> 00:04:31.430 align:start position:0%
+we're putting out here for you guys
+right<00:04:30.000><c> I</c><00:04:30.360><c> mean</c><00:04:30.479><c> like</c><00:04:30.660><c> YouTube</c><00:04:30.840><c> will</c><00:04:31.139><c> kind</c><00:04:31.320><c> of</c>
+
+00:04:31.430 --> 00:04:31.440 align:start position:0%
+right I mean like YouTube will kind of
+ 
+
+00:04:31.440 --> 00:04:32.629 align:start position:0%
+right I mean like YouTube will kind of
+tell<00:04:31.560><c> you</c><00:04:31.680><c> but</c><00:04:31.860><c> it's</c><00:04:32.040><c> way</c><00:04:32.220><c> better</c><00:04:32.340><c> if</c><00:04:32.520><c> you're</c>
+
+00:04:32.629 --> 00:04:32.639 align:start position:0%
+tell you but it's way better if you're
+ 
+
+00:04:32.639 --> 00:04:35.390 align:start position:0%
+tell you but it's way better if you're
+subscribed<00:04:33.120><c> then</c><00:04:33.960><c> when</c><00:04:34.440><c> I</c><00:04:34.620><c> drop</c><00:04:34.800><c> new</c><00:04:35.040><c> content</c>
+
+00:04:35.390 --> 00:04:35.400 align:start position:0%
+subscribed then when I drop new content
+ 
+
+00:04:35.400 --> 00:04:36.590 align:start position:0%
+subscribed then when I drop new content
+you<00:04:35.759><c> can</c><00:04:35.820><c> be</c><00:04:35.940><c> like</c>
+
+00:04:36.590 --> 00:04:36.600 align:start position:0%
+you can be like
+ 
+
+00:04:36.600 --> 00:04:37.909 align:start position:0%
+you can be like
+hey<00:04:36.960><c> Jimmy</c>
+
+00:04:37.909 --> 00:04:37.919 align:start position:0%
+hey Jimmy
+ 
+
+00:04:37.919 --> 00:04:40.850 align:start position:0%
+hey Jimmy
+dude<00:04:38.479><c> oncologists</c><00:04:39.479><c> drop</c><00:04:39.660><c> new</c><00:04:39.900><c> content</c>
+
+00:04:40.850 --> 00:04:40.860 align:start position:0%
+dude oncologists drop new content
+ 
+
+00:04:40.860 --> 00:04:43.370 align:start position:0%
+dude oncologists drop new content
+and<00:04:41.220><c> I</c><00:04:41.340><c> got</c><00:04:41.460><c> an</c><00:04:41.639><c> alert</c><00:04:41.940><c> about</c><00:04:42.240><c> it</c><00:04:42.419><c> so</c><00:04:42.660><c> subscribe</c>
+
+00:04:43.370 --> 00:04:43.380 align:start position:0%
+and I got an alert about it so subscribe
+ 
+
+00:04:43.380 --> 00:04:45.530 align:start position:0%
+and I got an alert about it so subscribe
+this<00:04:44.040><c> is</c><00:04:44.280><c> awesome</c><00:04:44.400><c> that's</c><00:04:45.060><c> exactly</c><00:04:45.419><c> what</c>
+
+00:04:45.530 --> 00:04:45.540 align:start position:0%
+this is awesome that's exactly what
+ 
+
+00:04:45.540 --> 00:04:48.409 align:start position:0%
+this is awesome that's exactly what
+you're<00:04:45.660><c> gonna</c><00:04:45.780><c> do</c><00:04:46.020><c> boom</c><00:04:46.800><c> boom</c><00:04:47.699><c> it's</c><00:04:48.240><c> the</c>
+
+00:04:48.409 --> 00:04:48.419 align:start position:0%
+you're gonna do boom boom it's the
+ 
+
+00:04:48.419 --> 00:04:49.850 align:start position:0%
+you're gonna do boom boom it's the
+brilliance
+
+00:04:49.850 --> 00:04:49.860 align:start position:0%
+brilliance
+ 
+
+00:04:49.860 --> 00:04:51.409 align:start position:0%
+brilliance
+and<00:04:50.280><c> then</c><00:04:50.340><c> you</c><00:04:50.460><c> can</c><00:04:50.580><c> go</c><00:04:50.699><c> and</c><00:04:50.820><c> have</c><00:04:51.000><c> some</c><00:04:51.120><c> sushi</c>
+
+00:04:51.409 --> 00:04:51.419 align:start position:0%
+and then you can go and have some sushi
+ 
+
+00:04:51.419 --> 00:04:53.629 align:start position:0%
+and then you can go and have some sushi
+afterwards<00:04:51.840><c> because</c><00:04:52.020><c> Sushi</c><00:04:52.680><c> and</c><00:04:53.280><c> listening</c>
+
+00:04:53.629 --> 00:04:53.639 align:start position:0%
+afterwards because Sushi and listening
+ 
+
+00:04:53.639 --> 00:04:56.450 align:start position:0%
+afterwards because Sushi and listening
+to<00:04:53.759><c> me</c><00:04:54.000><c> go</c><00:04:54.600><c> together</c><00:04:54.780><c> like</c>
+
+00:04:56.450 --> 00:04:56.460 align:start position:0%
+to me go together like
+ 
+
+00:04:56.460 --> 00:05:01.430 align:start position:0%
+to me go together like
+yum<00:04:57.060><c> yum</c><00:04:57.360><c> sauce</c><00:04:58.340><c> on</c><00:04:59.340><c> everything</c>
+
+00:05:01.430 --> 00:05:01.440 align:start position:0%
+yum yum sauce on everything
+ 
+
+00:05:01.440 --> 00:05:03.409 align:start position:0%
+yum yum sauce on everything
+already<00:05:01.919><c> then</c><00:05:02.280><c> with</c><00:05:02.580><c> that</c><00:05:02.759><c> until</c><00:05:03.060><c> the</c><00:05:03.300><c> next</c>
+
+00:05:03.409 --> 00:05:03.419 align:start position:0%
+already then with that until the next
+ 
+
+00:05:03.419 --> 00:05:04.909 align:start position:0%
+already then with that until the next
+compliance<00:05:03.780><c> tip</c><00:05:04.020><c> my</c><00:05:04.139><c> friends</c>
+
+00:05:04.909 --> 00:05:04.919 align:start position:0%
+compliance tip my friends
+ 
+
+00:05:04.919 --> 00:05:06.710 align:start position:0%
+compliance tip my friends
+stay<00:05:05.400><c> safe</c><00:05:05.520><c> and</c><00:05:05.699><c> secure</c><00:05:05.820><c> out</c><00:05:06.120><c> there</c><00:05:06.300><c> and</c><00:05:06.540><c> let</c>
+
+00:05:06.710 --> 00:05:06.720 align:start position:0%
+stay safe and secure out there and let
+ 
+
+00:05:06.720 --> 00:05:08.570 align:start position:0%
+stay safe and secure out there and let
+us<00:05:06.840><c> know</c><00:05:06.960><c> that</c><00:05:07.199><c> you</c><00:05:07.440><c> want</c><00:05:07.560><c> to</c><00:05:07.740><c> know</c><00:05:08.040><c> more</c><00:05:08.340><c> about</c>
+
+00:05:08.570 --> 00:05:08.580 align:start position:0%
+us know that you want to know more about
+ 
+
+00:05:08.580 --> 00:05:10.790 align:start position:0%
+us know that you want to know more about
+in<00:05:09.060><c> the</c><00:05:09.300><c> comments</c><00:05:09.780><c> below</c>
+
+00:05:10.790 --> 00:05:10.800 align:start position:0%
+in the comments below
+ 
+
+00:05:10.800 --> 00:05:12.340 align:start position:0%
+in the comments below
+peace
+
+00:05:12.340 --> 00:05:12.350 align:start position:0%
+peace
+ 
+
+00:05:12.350 --> 00:05:22.980 align:start position:0%
+peace
+[Music]
+

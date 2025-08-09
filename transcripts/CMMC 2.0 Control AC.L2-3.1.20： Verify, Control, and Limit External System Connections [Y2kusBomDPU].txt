@@ -1,0 +1,730 @@
+Kind: captions
+Language: en
+hey<00:00:01.140><c> everybody</c><00:00:01.260><c> it's</c><00:00:01.560><c> Mike</c><00:00:01.680><c> frieder</c><00:00:02.100><c> here</c>
+hey everybody it's Mike frieder here
+hey everybody it's Mike frieder here
+with<00:00:02.280><c> on-call</c><00:00:02.580><c> compliance</c><00:00:02.940><c> Solutions</c><00:00:03.179><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:03.540><c> back</c><00:00:03.659><c> with</c><00:00:03.840><c> another</c><00:00:03.959><c> compliance</c><00:00:04.500><c> tip</c><00:00:04.680><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.920><c> week</c><00:00:04.980><c> this</c><00:00:05.640><c> time</c><00:00:05.819><c> we're</c><00:00:06.000><c> talking</c><00:00:06.180><c> about</c>
+the week this time we're talking about
+the week this time we're talking about
+cmmc<00:00:07.080><c> control</c>
+ac.l2-3.1.20<00:00:10.820><c> verify</c><00:00:11.820><c> and</c><00:00:11.940><c> control</c><00:00:12.120><c> and</c>
+ac.l2-3.1.20 verify and control and
+ac.l2-3.1.20 verify and control and
+limit<00:00:12.540><c> connections</c><00:00:13.259><c> to</c><00:00:13.559><c> and</c><00:00:14.340><c> use</c><00:00:14.580><c> of</c><00:00:15.080><c> external</c>
+limit connections to and use of external
+limit connections to and use of external
+systems<00:00:16.560><c> not</c><00:00:16.920><c> internal</c><00:00:17.400><c> but</c><00:00:17.760><c> external</c><00:00:18.779><c> I</c><00:00:19.199><c> know</c>
+systems not internal but external I know
+systems not internal but external I know
+what's<00:00:19.619><c> that</c>
+what's that
+what's that
+[Music]
+[Music]
+[Music]
+so<00:00:30.119><c> hey</c><00:00:30.300><c> if</c><00:00:30.539><c> you're</c><00:00:30.660><c> a</c><00:00:30.779><c> defense</c><00:00:31.019><c> contractor</c>
+so hey if you're a defense contractor
+so hey if you're a defense contractor
+who's<00:00:31.619><c> feeling</c><00:00:31.800><c> overwhelmed</c><00:00:32.460><c> tired</c><00:00:33.000><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:33.300><c> trying</c><00:00:33.660><c> to</c><00:00:33.840><c> understand</c><00:00:33.960><c> all</c><00:00:34.320><c> this</c><00:00:34.500><c> cmmc</c>
+alone trying to understand all this cmmc
+alone trying to understand all this cmmc
+dfars<00:00:35.760><c> and</c><00:00:35.880><c> nist</c><00:00:36.059><c> SP</c><00:00:36.300><c> 10171</c><00:00:37.079><c> compliant</c><00:00:37.559><c> stuff</c>
+dfars and nist SP 10171 compliant stuff
+dfars and nist SP 10171 compliant stuff
+on<00:00:38.520><c> top</c><00:00:38.700><c> of</c><00:00:38.880><c> an</c><00:00:39.000><c> already</c><00:00:39.180><c> colossal</c><00:00:39.840><c> workload</c>
+on top of an already colossal workload
+on top of an already colossal workload
+well<00:00:40.680><c> I've</c><00:00:40.920><c> got</c><00:00:41.040><c> great</c><00:00:41.280><c> news</c><00:00:41.399><c> for</c><00:00:41.700><c> you</c><00:00:41.820><c> I'm</c>
+well I've got great news for you I'm
+well I've got great news for you I'm
+crazy<00:00:42.540><c> and</c><00:00:42.960><c> I</c><00:00:43.140><c> make</c><00:00:43.320><c> these</c><00:00:43.559><c> videos</c><00:00:43.680><c> no</c><00:00:44.040><c> you</c>
+crazy and I make these videos no you
+crazy and I make these videos no you
+found<00:00:44.460><c> your</c><00:00:44.700><c> home</c><00:00:44.879><c> here</c><00:00:45.120><c> at</c><00:00:45.360><c> on-call</c>
+found your home here at on-call
+found your home here at on-call
+compliant<00:00:46.200><c> Solutions</c><00:00:46.440><c> where</c><00:00:46.800><c> we</c><00:00:46.980><c> can</c><00:00:47.100><c> help</c>
+compliant Solutions where we can help
+compliant Solutions where we can help
+you<00:00:47.399><c> transform</c><00:00:47.760><c> into</c><00:00:48.000><c> your</c><00:00:48.180><c> company's</c>
+you transform into your company's
+you transform into your company's
+on-call<00:00:48.840><c> compliance</c><00:00:49.200><c> hero</c><00:00:49.500><c> and</c><00:00:49.800><c> sometimes</c>
+on-call compliance hero and sometimes
+on-call compliance hero and sometimes
+make<00:00:50.340><c> you</c><00:00:50.460><c> laugh</c><00:00:50.640><c> about</c><00:00:50.940><c> a</c><00:00:51.180><c> really</c><00:00:51.300><c> boring</c>
+make you laugh about a really boring
+make you laugh about a really boring
+subject<00:00:51.899><c> because</c><00:00:52.739><c> compliance</c><00:00:53.460><c> is</c><00:00:53.579><c> so</c>
+subject because compliance is so
+subject because compliance is so
+exciting<00:00:54.120><c> let's</c><00:00:54.539><c> jump</c><00:00:54.780><c> into</c><00:00:54.899><c> it</c><00:00:55.199><c> so</c><00:00:55.620><c> in</c>
+exciting let's jump into it so in
+exciting let's jump into it so in
+cmmccontrol
+cmmccontrol
+cmmccontrol
+ac.l1-3.1.20<00:00:59.960><c> verify</c><00:01:00.960><c> and</c><00:01:01.260><c> control</c><00:01:01.559><c> limit</c>
+ac.l1-3.1.20 verify and control limit
+ac.l1-3.1.20 verify and control limit
+connections<00:01:03.120><c> to</c><00:01:03.420><c> and</c><00:01:03.899><c> use</c><00:01:04.140><c> of</c><00:01:04.500><c> external</c>
+connections to and use of external
+connections to and use of external
+systems<00:01:05.640><c> what</c><00:01:06.540><c> they're</c><00:01:06.720><c> looking</c><00:01:06.960><c> for</c><00:01:07.260><c> is</c><00:01:07.680><c> for</c>
+systems what they're looking for is for
+systems what they're looking for is for
+you<00:01:07.979><c> to</c><00:01:08.100><c> demonstrate</c><00:01:08.520><c> both</c><00:01:08.820><c> an</c><00:01:09.060><c> understanding</c>
+you to demonstrate both an understanding
+you to demonstrate both an understanding
+and<00:01:09.960><c> an</c><00:01:10.140><c> ability</c><00:01:10.439><c> to</c><00:01:10.740><c> control</c><00:01:10.979><c> what</c><00:01:11.939><c> your</c>
+and an ability to control what your
+and an ability to control what your
+users<00:01:12.420><c> are</c><00:01:12.659><c> actually</c><00:01:12.840><c> connecting</c><00:01:13.380><c> to</c><00:01:13.740><c> on</c><00:01:14.100><c> the</c>
+users are actually connecting to on the
+users are actually connecting to on the
+outside<00:01:14.479><c> this</c><00:01:15.479><c> control</c><00:01:15.659><c> can</c><00:01:16.020><c> definitely</c><00:01:16.200><c> be</c><00:01:16.380><c> a</c>
+outside this control can definitely be a
+outside this control can definitely be a
+challenging<00:01:16.860><c> one</c><00:01:17.040><c> to</c><00:01:17.220><c> tackle</c><00:01:17.460><c> because</c><00:01:17.640><c> it's</c>
+challenging one to tackle because it's
+challenging one to tackle because it's
+so<00:01:18.299><c> broad</c><00:01:18.479><c> when</c><00:01:18.780><c> you</c><00:01:18.900><c> first</c><00:01:19.080><c> look</c><00:01:19.320><c> at</c><00:01:19.500><c> it</c><00:01:19.680><c> but</c>
+so broad when you first look at it but
+so broad when you first look at it but
+what<00:01:20.640><c> we</c><00:01:20.820><c> say</c><00:01:21.060><c> what</c><00:01:21.540><c> I</c><00:01:21.659><c> say</c><00:01:21.780><c> we</c><00:01:21.960><c> do</c><00:01:22.140><c> is</c><00:01:22.259><c> this</c>
+what we say what I say we do is this
+what we say what I say we do is this
+let's<00:01:23.040><c> check</c><00:01:23.280><c> out</c><00:01:23.400><c> what</c><00:01:23.520><c> the</c><00:01:23.700><c> assessors</c><00:01:24.060><c> are</c>
+let's check out what the assessors are
+let's check out what the assessors are
+looking<00:01:24.420><c> for</c><00:01:24.600><c> on</c><00:01:24.840><c> this</c><00:01:25.020><c> one</c><00:01:25.200><c> and</c><00:01:25.740><c> how</c><00:01:25.920><c> to</c><00:01:26.040><c> make</c>
+looking for on this one and how to make
+looking for on this one and how to make
+them<00:01:26.340><c> happy</c><00:01:26.659><c> and</c><00:01:27.659><c> I</c><00:01:27.960><c> think</c><00:01:28.080><c> the</c><00:01:28.259><c> sample</c>
+them happy and I think the sample
+them happy and I think the sample
+answers<00:01:28.860><c> in</c><00:01:29.100><c> this</c><00:01:29.220><c> case</c><00:01:29.340><c> should</c><00:01:29.640><c> shine</c><00:01:30.360><c> some</c>
+answers in this case should shine some
+answers in this case should shine some
+light<00:01:30.840><c> on</c><00:01:31.320><c> everything</c><00:01:31.560><c> for</c><00:01:31.979><c> you</c><00:01:32.159><c> now</c><00:01:33.060><c> there's</c>
+light on everything for you now there's
+light on everything for you now there's
+a<00:01:33.720><c> bunch</c><00:01:33.900><c> of</c><00:01:34.020><c> sample</c><00:01:34.380><c> answers</c><00:01:34.680><c> here</c><00:01:34.920><c> and</c>
+a bunch of sample answers here and
+a bunch of sample answers here and
+hopefully<00:01:36.420><c> I</c><00:01:36.540><c> watched</c><00:01:36.780><c> Sesame</c><00:01:37.079><c> Street</c><00:01:37.259><c> and</c><00:01:37.619><c> I</c>
+hopefully I watched Sesame Street and I
+hopefully I watched Sesame Street and I
+can<00:01:37.920><c> count</c><00:01:38.100><c> it</c><00:01:38.520><c> a</c><00:01:39.119><c> lot</c><00:01:39.240><c> because</c><00:01:39.420><c> there's</c><00:01:39.659><c> a</c><00:01:39.780><c> lot</c>
+can count it a lot because there's a lot
+can count it a lot because there's a lot
+of<00:01:39.960><c> assessment</c><00:01:40.320><c> points</c><00:01:40.619><c> very</c><00:01:40.979><c> complicated</c>
+of assessment points very complicated
+of assessment points very complicated
+but<00:01:42.060><c> I'm</c><00:01:42.119><c> going</c><00:01:42.240><c> to</c><00:01:42.299><c> try</c><00:01:42.420><c> to</c><00:01:42.540><c> make</c><00:01:42.600><c> it</c><00:01:42.780><c> simple</c>
+but I'm going to try to make it simple
+but I'm going to try to make it simple
+so<00:01:43.439><c> one</c><00:01:44.220><c> two</c><00:01:44.520><c> three</c><00:01:44.939><c> four</c><00:01:45.360><c> five</c><00:01:45.659><c> six</c><00:01:45.960><c> there</c><00:01:46.320><c> are</c>
+so one two three four five six there are
+so one two three four five six there are
+six<00:01:46.979><c> there's</c><00:01:47.520><c> six</c><00:01:47.820><c> this</c><00:01:48.060><c> is</c><00:01:48.240><c> four</c><00:01:48.420><c> fingers</c>
+six there's six this is four fingers
+six there's six this is four fingers
+just<00:01:49.079><c> in</c><00:01:49.200><c> case</c><00:01:49.320><c> you're</c><00:01:49.439><c> ever</c><00:01:49.560><c> wondered</c><00:01:49.920><c> so</c><00:01:50.460><c> I</c>
+just in case you're ever wondered so I
+just in case you're ever wondered so I
+have<00:01:50.700><c> to</c><00:01:50.759><c> use</c><00:01:50.880><c> my</c><00:01:51.000><c> other</c><00:01:51.119><c> hand</c><00:01:51.360><c> because</c>
+have to use my other hand because
+have to use my other hand because
+there's<00:01:52.320><c> a</c><00:01:52.500><c> hidden</c><00:01:52.740><c> thumb</c><00:01:52.860><c> back</c><00:01:53.100><c> here</c><00:01:53.220><c> and</c><00:01:53.460><c> it</c>
+there's a hidden thumb back here and it
+there's a hidden thumb back here and it
+holds<00:01:53.820><c> my</c><00:01:53.939><c> pointer</c>
+holds my pointer
+holds my pointer
+four<00:01:55.740><c> and</c><00:01:55.979><c> two</c><00:01:56.220><c> so</c><00:01:56.520><c> I</c><00:01:56.700><c> got</c><00:01:56.820><c> six</c><00:01:57.119><c> points</c><00:01:57.479><c> we're</c>
+four and two so I got six points we're
+four and two so I got six points we're
+gonna<00:01:57.960><c> talk</c><00:01:58.079><c> about</c><00:01:58.200><c> them</c><00:01:58.380><c> all</c><00:01:58.560><c> and</c><00:01:59.220><c> we're</c>
+gonna talk about them all and we're
+gonna talk about them all and we're
+gonna<00:01:59.460><c> tell</c><00:01:59.640><c> you</c><00:01:59.759><c> how</c><00:02:00.060><c> an</c><00:02:00.479><c> assessor</c><00:02:00.899><c> would</c>
+gonna tell you how an assessor would
+gonna tell you how an assessor would
+look<00:02:01.140><c> at</c><00:02:01.200><c> this</c><00:02:01.320><c> so</c>
+look at this so
+look at this so
+if<00:02:02.700><c> I'm</c><00:02:02.820><c> an</c><00:02:03.000><c> assessor</c><00:02:03.540><c> I</c><00:02:04.020><c> am</c><00:02:04.200><c> an</c><00:02:04.320><c> assessor</c><00:02:04.619><c> I'm</c>
+if I'm an assessor I am an assessor I'm
+if I'm an assessor I am an assessor I'm
+an<00:02:04.860><c> assessment</c><00:02:05.159><c> team</c><00:02:05.340><c> member</c><00:02:06.079><c> uh</c><00:02:07.079><c> CCP</c>
+an assessment team member uh CCP
+an assessment team member uh CCP
+certified<00:02:08.039><c> baby</c><00:02:08.280><c> all</c><00:02:08.640><c> right</c><00:02:08.819><c> determine</c><00:02:09.239><c> if</c>
+certified baby all right determine if
+certified baby all right determine if
+connections<00:02:09.780><c> to</c><00:02:09.959><c> external</c><00:02:10.500><c> systems</c><00:02:10.920><c> are</c>
+connections to external systems are
+connections to external systems are
+identified<00:02:11.660><c> uh</c><00:02:12.660><c> connections</c><00:02:13.020><c> to</c><00:02:13.200><c> external</c>
+identified uh connections to external
+identified uh connections to external
+systems<00:02:14.040><c> are</c><00:02:14.340><c> identified</c><00:02:14.879><c> via</c><00:02:15.540><c> again</c><00:02:16.500><c> I</c><00:02:16.800><c> just</c>
+systems are identified via again I just
+systems are identified via again I just
+give<00:02:17.099><c> some</c><00:02:17.280><c> random</c><00:02:17.580><c> examples</c><00:02:17.879><c> here</c><00:02:18.060><c> right</c>
+give some random examples here right
+give some random examples here right
+like<00:02:18.480><c> the</c><00:02:18.660><c> organizational</c><00:02:19.080><c> firewall</c><00:02:19.800><c> your</c>
+like the organizational firewall your
+like the organizational firewall your
+seam<00:02:20.819><c> Solutions</c><00:02:21.239><c> you</c><00:02:21.540><c> know</c><00:02:21.660><c> if</c><00:02:21.840><c> you</c><00:02:22.140><c> don't</c>
+seam Solutions you know if you don't
+seam Solutions you know if you don't
+know<00:02:22.319><c> that</c><00:02:22.500><c> is</c><00:02:22.680><c> go</c><00:02:22.860><c> back</c><00:02:22.920><c> and</c><00:02:23.099><c> watch</c><00:02:23.220><c> like</c><00:02:23.400><c> 40</c>
+know that is go back and watch like 40
+know that is go back and watch like 40
+my<00:02:23.819><c> other</c><00:02:23.940><c> videos</c><00:02:24.180><c> all</c><00:02:24.420><c> right</c><00:02:24.480><c> security</c>
+my other videos all right security
+my other videos all right security
+information<00:02:25.140><c> event</c><00:02:25.500><c> monitoring</c><00:02:26.099><c> or</c>
+information event monitoring or
+information event monitoring or
+management<00:02:27.080><c> uh</c><00:02:28.080><c> solution</c><00:02:28.379><c> endpoint</c>
+management uh solution endpoint
+management uh solution endpoint
+protection<00:02:29.400><c> solution</c><00:02:29.940><c> so</c><00:02:30.599><c> again</c><00:02:30.720><c> all</c><00:02:31.140><c> of</c>
+protection solution so again all of
+protection solution so again all of
+these<00:02:31.680><c> things</c><00:02:31.860><c> act</c><00:02:32.400><c> together</c><00:02:33.140><c> uh</c><00:02:34.140><c> to</c><00:02:34.560><c> control</c>
+these things act together uh to control
+these things act together uh to control
+how<00:02:35.879><c> you</c><00:02:36.180><c> connect</c><00:02:36.360><c> to</c><00:02:36.840><c> external</c><00:02:37.319><c> systems</c><00:02:37.680><c> and</c>
+how you connect to external systems and
+how you connect to external systems and
+in<00:02:38.099><c> some</c><00:02:38.220><c> cases</c><00:02:38.459><c> stop</c><00:02:38.819><c> some</c><00:02:39.120><c> of</c><00:02:39.239><c> those</c>
+in some cases stop some of those
+in some cases stop some of those
+connections<00:02:40.260><c> now</c><00:02:40.920><c> assessment</c><00:02:41.459><c> Point</c><00:02:41.700><c> number</c>
+connections now assessment Point number
+connections now assessment Point number
+two<00:02:42.060><c> determine</c><00:02:42.540><c> if</c><00:02:42.660><c> the</c><00:02:42.840><c> use</c><00:02:42.959><c> of</c><00:02:43.080><c> external</c>
+two determine if the use of external
+two determine if the use of external
+systems<00:02:43.920><c> is</c><00:02:44.280><c> identified</c><00:02:44.840><c> so</c><00:02:45.840><c> if</c><00:02:46.019><c> we're</c><00:02:46.140><c> going</c>
+systems is identified so if we're going
+systems is identified so if we're going
+to identify<00:02:46.800><c> how</c><00:02:47.099><c> we</c><00:02:47.220><c> do</c><00:02:47.340><c> that</c><00:02:47.459><c> well</c><00:02:47.700><c> use</c><00:02:47.940><c> of</c>
+to identify how we do that well use of
+to identify how we do that well use of
+external<00:02:48.660><c> systems</c><00:02:49.080><c> is</c><00:02:49.260><c> identified</c><00:02:49.680><c> via</c><00:02:50.099><c> maybe</c>
+external systems is identified via maybe
+external systems is identified via maybe
+a<00:02:50.640><c> seam</c><00:02:51.000><c> solution</c><00:02:51.300><c> right</c><00:02:51.540><c> because</c><00:02:51.660><c> you're</c>
+a seam solution right because you're
+a seam solution right because you're
+going<00:02:52.019><c> to</c><00:02:52.140><c> see</c><00:02:52.379><c> exactly</c><00:02:53.160><c> what's</c><00:02:53.459><c> coming</c><00:02:53.700><c> in</c><00:02:53.879><c> is</c>
+going to see exactly what's coming in is
+going to see exactly what's coming in is
+it<00:02:54.239><c> identified</c><00:02:54.599><c> by</c><00:02:54.780><c> IP</c><00:02:55.080><c> address</c><00:02:55.260><c> Mac</c><00:02:55.739><c> address</c>
+it identified by IP address Mac address
+it identified by IP address Mac address
+it's<00:02:56.280><c> going</c><00:02:56.519><c> to</c><00:02:56.580><c> show</c><00:02:56.760><c> all</c><00:02:57.000><c> that</c><00:02:57.180><c> another</c><00:02:57.720><c> way</c>
+it's going to show all that another way
+it's going to show all that another way
+that<00:02:58.140><c> you</c><00:02:58.319><c> could</c><00:02:58.500><c> potentially</c><00:02:58.920><c> answer</c><00:02:59.099><c> that</c>
+that you could potentially answer that
+that you could potentially answer that
+is<00:02:59.519><c> with</c><00:02:59.700><c> firewall</c><00:03:00.120><c> logs</c><00:03:00.540><c> uh</c><00:03:01.440><c> you</c><00:03:01.560><c> know</c><00:03:01.620><c> server</c>
+is with firewall logs uh you know server
+is with firewall logs uh you know server
+access<00:03:02.220><c> logs</c><00:03:02.819><c> lots</c><00:03:03.720><c> and</c><00:03:03.840><c> lots</c><00:03:04.080><c> of</c><00:03:04.140><c> options</c>
+access logs lots and lots of options
+access logs lots and lots of options
+there<00:03:04.680><c> but</c><00:03:04.860><c> again</c><00:03:05.040><c> you</c><00:03:05.340><c> have</c><00:03:05.459><c> to</c><00:03:05.640><c> show</c><00:03:06.420><c> it</c><00:03:06.599><c> you</c>
+there but again you have to show it you
+there but again you have to show it you
+have<00:03:07.080><c> to</c><00:03:07.200><c> show</c><00:03:07.379><c> an</c><00:03:07.620><c> assessor</c><00:03:08.099><c> an</c><00:03:08.819><c> example</c><00:03:09.180><c> of</c>
+have to show an assessor an example of
+have to show an assessor an example of
+external<00:03:10.140><c> systems</c><00:03:10.620><c> being</c><00:03:10.800><c> identified</c><00:03:11.280><c> same</c>
+external systems being identified same
+external systems being identified same
+solution<00:03:12.300><c> is</c><00:03:12.420><c> probably</c><00:03:12.599><c> your</c><00:03:12.840><c> best</c><00:03:13.019><c> bet</c>
+solution is probably your best bet
+solution is probably your best bet
+certainly<00:03:13.980><c> an</c><00:03:14.159><c> easy</c><00:03:14.280><c> one</c>
+certainly an easy one
+certainly an easy one
+now<00:03:15.659><c> the</c><00:03:15.780><c> next</c><00:03:15.959><c> one</c><00:03:16.140><c> number</c><00:03:16.440><c> one</c><00:03:17.099><c> two</c><00:03:17.940><c> three</c><00:03:18.540><c> is</c>
+now the next one number one two three is
+now the next one number one two three is
+determinive<00:03:19.980><c> can</c><00:03:20.159><c> actually</c><00:03:20.340><c> come</c><00:03:20.519><c> on</c><00:03:20.640><c> I</c><00:03:20.760><c> got</c>
+determinive can actually come on I got
+determinive can actually come on I got
+like<00:03:21.000><c> five</c><00:03:21.180><c> and</c><00:03:21.300><c> a</c><00:03:21.420><c> half</c><00:03:21.420><c> year</c><00:03:21.540><c> old</c><00:03:21.659><c> twins</c><00:03:21.840><c> at</c>
+like five and a half year old twins at
+like five and a half year old twins at
+home<00:03:22.080><c> I'm</c><00:03:22.200><c> pretty</c><00:03:22.319><c> good</c><00:03:22.500><c> at</c><00:03:22.560><c> by</c><00:03:22.739><c> now</c><00:03:22.860><c> right</c><00:03:23.099><c> all</c>
+home I'm pretty good at by now right all
+home I'm pretty good at by now right all
+right<00:03:23.580><c> comment</c><00:03:23.879><c> below</c><00:03:24.120><c> if</c><00:03:24.239><c> you</c><00:03:24.360><c> think</c><00:03:24.480><c> that</c>
+right comment below if you think that
+right comment below if you think that
+was<00:03:24.720><c> an</c><00:03:24.900><c> awesome</c><00:03:25.080><c> count</c><00:03:25.440><c> count</c>
+was an awesome count count
+was an awesome count count
+all<00:03:26.700><c> right</c><00:03:27.300><c> it's</c><00:03:27.480><c> not</c><00:03:27.659><c> the</c><00:03:27.780><c> wrong</c><00:03:27.900><c> Sesame</c>
+all right it's not the wrong Sesame
+all right it's not the wrong Sesame
+Street<00:03:28.440><c> I</c><00:03:28.920><c> mean</c><00:03:29.040><c> I'm</c><00:03:29.159><c> like</c><00:03:29.280><c> 40</c><00:03:29.400><c> years</c><00:03:29.580><c> old</c><00:03:29.760><c> I</c>
+Street I mean I'm like 40 years old I
+Street I mean I'm like 40 years old I
+I'm<00:03:30.900><c> not</c><00:03:31.019><c> gonna</c><00:03:31.140><c> admit</c><00:03:31.379><c> to</c><00:03:31.500><c> really</c><00:03:31.620><c> watching</c>
+I'm not gonna admit to really watching
+I'm not gonna admit to really watching
+Sesame<00:03:32.220><c> Street</c><00:03:32.340><c> on</c><00:03:32.640><c> YouTube</c><00:03:32.819><c> anyway</c>
+Sesame Street on YouTube anyway
+Sesame Street on YouTube anyway
+determinive<00:03:34.440><c> connections</c><00:03:34.860><c> to</c><00:03:35.040><c> external</c>
+determinive connections to external
+determinive connections to external
+systems<00:03:35.940><c> are</c><00:03:36.060><c> verified</c><00:03:36.680><c> connections</c><00:03:37.680><c> to</c>
+systems are verified connections to
+systems are verified connections to
+external<00:03:38.280><c> systems</c><00:03:38.640><c> are</c><00:03:38.879><c> verified</c><00:03:39.239><c> by</c><00:03:39.540><c> the</c>
+external systems are verified by the
+external systems are verified by the
+firewall<00:03:40.140><c> and</c><00:03:40.799><c> seam</c><00:03:41.159><c> Solution</c><00:03:41.580><c> that's</c><00:03:42.060><c> a</c>
+firewall and seam Solution that's a
+firewall and seam Solution that's a
+pretty<00:03:42.420><c> straightforward</c><00:03:43.319><c> pretty</c><00:03:43.620><c> easy</c>
+pretty straightforward pretty easy
+pretty straightforward pretty easy
+answer<00:03:44.099><c> again</c><00:03:44.340><c> that's</c><00:03:44.580><c> what</c><00:03:44.819><c> I</c><00:03:44.940><c> would</c>
+answer again that's what I would
+answer again that's what I would
+demonstrate<00:03:45.420><c> to</c><00:03:45.599><c> an</c><00:03:45.840><c> assessor</c><00:03:46.260><c> via</c><00:03:46.920><c> maybe</c>
+demonstrate to an assessor via maybe
+demonstrate to an assessor via maybe
+some<00:03:47.340><c> shoulder</c><00:03:47.700><c> surfing</c><00:03:48.120><c> uh</c><00:03:49.080><c> you</c><00:03:49.140><c> know</c><00:03:49.260><c> who</c>
+some shoulder surfing uh you know who
+some shoulder surfing uh you know who
+knows<00:03:49.620><c> all</c><00:03:50.220><c> right</c><00:03:50.340><c> assessment</c><00:03:50.940><c> Point</c><00:03:51.180><c> number</c>
+knows all right assessment Point number
+knows all right assessment Point number
+four<00:03:51.599><c> determine</c><00:03:52.319><c> if</c><00:03:52.680><c> the</c><00:03:52.920><c> use</c><00:03:53.159><c> of</c><00:03:53.459><c> external</c>
+four determine if the use of external
+four determine if the use of external
+systems<00:03:54.420><c> is</c><00:03:54.659><c> verified</c><00:03:55.080><c> all</c><00:03:55.620><c> right</c><00:03:55.799><c> ah</c><00:03:56.099><c> now</c><00:03:56.280><c> we</c>
+systems is verified all right ah now we
+systems is verified all right ah now we
+get<00:03:56.519><c> a</c><00:03:56.580><c> little</c><00:03:56.580><c> bit</c><00:03:56.700><c> more</c><00:03:56.819><c> complex</c><00:03:57.120><c> right</c><00:03:57.420><c> if</c>
+get a little bit more complex right if
+get a little bit more complex right if
+we're<00:03:57.780><c> going</c><00:03:57.959><c> on</c><00:03:58.200><c> to</c><00:03:58.319><c> an</c><00:03:58.500><c> external</c><00:03:58.799><c> system</c><00:03:58.980><c> is</c>
+we're going on to an external system is
+we're going on to an external system is
+there's<00:04:00.120><c> some</c><00:04:00.480><c> ability</c><00:04:00.780><c> to</c><00:04:01.140><c> verify</c><00:04:01.940><c> uh</c><00:04:02.940><c> that</c>
+there's some ability to verify uh that
+there's some ability to verify uh that
+we<00:04:03.480><c> are</c><00:04:03.599><c> actually</c><00:04:03.840><c> you</c><00:04:04.200><c> know</c><00:04:04.319><c> going</c><00:04:04.560><c> there</c>
+we are actually you know going there
+we are actually you know going there
+right<00:04:05.040><c> so</c><00:04:05.280><c> connections</c><00:04:05.700><c> to</c><00:04:05.819><c> external</c><00:04:06.120><c> systems</c>
+right so connections to external systems
+right so connections to external systems
+are<00:04:06.540><c> verified</c><00:04:06.900><c> by</c><00:04:07.140><c> the</c><00:04:07.260><c> firewall</c><00:04:07.680><c> right</c><00:04:07.920><c> the</c>
+are verified by the firewall right the
+are verified by the firewall right the
+firewalls<00:04:08.519><c> can</c><00:04:08.640><c> usually</c><00:04:08.819><c> authenticate</c>
+firewalls can usually authenticate
+firewalls can usually authenticate
+somehow<00:04:09.659><c> or</c><00:04:10.200><c> at</c><00:04:10.379><c> least</c><00:04:10.500><c> certainly</c><00:04:11.099><c> do</c><00:04:11.220><c> some</c>
+somehow or at least certainly do some
+somehow or at least certainly do some
+deep<00:04:11.580><c> pack</c><00:04:11.819><c> inspection</c><00:04:12.299><c> and</c><00:04:12.840><c> of</c><00:04:13.019><c> course</c><00:04:13.140><c> seam</c>
+deep pack inspection and of course seam
+deep pack inspection and of course seam
+Solutions<00:04:13.980><c> going</c><00:04:14.220><c> to</c><00:04:14.459><c> also</c><00:04:14.760><c> verify</c><00:04:15.239><c> that</c>
+Solutions going to also verify that
+Solutions going to also verify that
+there<00:04:15.599><c> was</c><00:04:15.720><c> a</c><00:04:15.959><c> successful</c><00:04:16.519><c> external</c><00:04:17.519><c> system</c>
+there was a successful external system
+there was a successful external system
+connection<00:04:17.940><c> and</c><00:04:18.299><c> verification</c><00:04:18.660><c> there</c><00:04:18.959><c> so</c>
+connection and verification there so
+connection and verification there so
+those<00:04:19.680><c> are</c><00:04:19.859><c> a</c><00:04:19.919><c> couple</c><00:04:20.100><c> of</c><00:04:20.220><c> answers</c><00:04:20.459><c> you</c><00:04:20.820><c> could</c>
+those are a couple of answers you could
+those are a couple of answers you could
+certainly<00:04:21.180><c> use</c><00:04:21.600><c> different</c><00:04:22.019><c> answers</c><00:04:22.380><c> than</c>
+certainly use different answers than
+certainly use different answers than
+those<00:04:22.860><c> lots</c><00:04:23.699><c> and</c><00:04:23.759><c> lots</c><00:04:24.000><c> of</c><00:04:24.060><c> ways</c><00:04:24.300><c> to</c><00:04:24.360><c> do</c><00:04:24.479><c> that</c>
+those lots and lots of ways to do that
+those lots and lots of ways to do that
+but<00:04:24.840><c> again</c><00:04:25.440><c> those</c><00:04:25.919><c> are</c><00:04:26.280><c> a</c><00:04:26.639><c> pretty</c><00:04:26.759><c> simple</c><00:04:26.940><c> way</c>
+but again those are a pretty simple way
+but again those are a pretty simple way
+to<00:04:27.720><c> answer</c><00:04:27.900><c> that</c>
+to answer that
+to answer that
+assessment<00:04:29.520><c> Point</c><00:04:29.699><c> number</c><00:04:29.880><c> five</c><00:04:30.120><c> determinive</c>
+assessment Point number five determinive
+assessment Point number five determinive
+connections<00:04:31.440><c> to</c><00:04:31.620><c> the</c><00:04:31.800><c> external</c><00:04:32.220><c> systems</c><00:04:32.699><c> are</c>
+connections to the external systems are
+connections to the external systems are
+controlled<00:04:33.540><c> slash</c><00:04:34.259><c> limited</c><00:04:35.060><c> uh</c><00:04:36.060><c> again</c><00:04:36.479><c> pretty</c>
+controlled slash limited uh again pretty
+controlled slash limited uh again pretty
+easy<00:04:37.199><c> and</c><00:04:37.440><c> straightforward</c><00:04:37.800><c> answer</c><00:04:37.919><c> there</c>
+easy and straightforward answer there
+easy and straightforward answer there
+because<00:04:38.340><c> uh</c><00:04:38.759><c> that's</c><00:04:39.000><c> what</c><00:04:39.180><c> a</c><00:04:39.300><c> firewall</c><00:04:39.600><c> does</c>
+because uh that's what a firewall does
+because uh that's what a firewall does
+right<00:04:40.139><c> connections</c><00:04:40.860><c> to</c><00:04:40.979><c> external</c><00:04:41.280><c> systems</c>
+right connections to external systems
+right connections to external systems
+are<00:04:41.699><c> controlled</c><00:04:42.000><c> limited</c><00:04:42.300><c> by</c><00:04:42.360><c> the</c><00:04:42.479><c> firewall</c>
+are controlled limited by the firewall
+are controlled limited by the firewall
+right<00:04:42.900><c> You've</c><00:04:43.080><c> Got</c><00:04:43.199><c> Deep</c><00:04:43.380><c> you</c><00:04:43.919><c> know</c><00:04:43.979><c> deep</c>
+right You've Got Deep you know deep
+right You've Got Deep you know deep
+packet<00:04:44.759><c> inspection</c><00:04:45.120><c> you've</c><00:04:45.479><c> got</c><00:04:45.600><c> intrusion</c>
+packet inspection you've got intrusion
+packet inspection you've got intrusion
+prevention<00:04:46.440><c> you've</c><00:04:46.800><c> got</c><00:04:46.919><c> all</c><00:04:47.160><c> kinds</c><00:04:47.340><c> of</c><00:04:47.400><c> other</c>
+prevention you've got all kinds of other
+prevention you've got all kinds of other
+things<00:04:47.759><c> in</c><00:04:48.000><c> there</c><00:04:48.180><c> that</c><00:04:48.660><c> are</c><00:04:48.840><c> essentially</c>
+things in there that are essentially
+things in there that are essentially
+controlling<00:04:49.680><c> and</c><00:04:49.860><c> limiting</c><00:04:50.280><c> what</c><00:04:50.580><c> systems</c>
+controlling and limiting what systems
+controlling and limiting what systems
+you<00:04:51.000><c> can</c><00:04:51.120><c> connect</c><00:04:51.240><c> to</c><00:04:51.419><c> and</c><00:04:51.720><c> if</c><00:04:51.900><c> it's</c><00:04:51.960><c> malicious</c>
+you can connect to and if it's malicious
+you can connect to and if it's malicious
+hopefully<00:04:52.680><c> it's</c><00:04:52.919><c> stopping</c><00:04:53.280><c> you</c><00:04:53.400><c> from</c><00:04:53.520><c> making</c>
+hopefully it's stopping you from making
+hopefully it's stopping you from making
+that<00:04:53.880><c> connection</c><00:04:54.060><c> now</c><00:04:54.720><c> I</c><00:04:54.840><c> could</c><00:04:55.020><c> have</c>
+that connection now I could have
+that connection now I could have
+answered<00:04:55.440><c> another</c><00:04:55.560><c> way</c><00:04:55.800><c> right</c><00:04:55.979><c> maybe</c><00:04:56.160><c> you</c>
+answered another way right maybe you
+answered another way right maybe you
+don't<00:04:56.460><c> have</c><00:04:56.639><c> a</c><00:04:56.880><c> firewall</c><00:04:57.240><c> like</c><00:04:57.419><c> a</c><00:04:57.600><c> physical</c>
+don't have a firewall like a physical
+don't have a firewall like a physical
+on-premise<00:04:58.500><c> type</c><00:04:58.680><c> firewall</c><00:04:59.160><c> like</c><00:04:59.340><c> a</c><00:04:59.520><c> Florida</c>
+on-premise type firewall like a Florida
+on-premise type firewall like a Florida
+gate<00:05:00.000><c> or</c><00:05:00.120><c> a</c><00:05:00.240><c> Sophos</c><00:05:00.600><c> unit</c><00:05:00.900><c> we're</c><00:05:01.259><c> big</c><00:05:01.380><c> fans</c><00:05:01.560><c> of</c>
+gate or a Sophos unit we're big fans of
+gate or a Sophos unit we're big fans of
+Sophos<00:05:02.100><c> here</c><00:05:02.419><c> uh</c><00:05:03.419><c> maybe</c><00:05:03.900><c> instead</c><00:05:04.440><c> you</c><00:05:04.919><c> have</c><00:05:05.100><c> an</c>
+Sophos here uh maybe instead you have an
+Sophos here uh maybe instead you have an
+endpoint<00:05:05.520><c> management</c><00:05:05.820><c> Solution</c><00:05:06.300><c> that's</c>
+endpoint management Solution that's
+endpoint management Solution that's
+managing<00:05:06.840><c> the</c><00:05:06.960><c> local</c><00:05:07.139><c> firewall</c><00:05:07.560><c> on</c><00:05:07.740><c> your</c>
+managing the local firewall on your
+managing the local firewall on your
+computer<00:05:08.040><c> that's</c><00:05:08.460><c> okay</c><00:05:08.639><c> too</c><00:05:08.940><c> so</c><00:05:09.720><c> again</c><00:05:09.960><c> lots</c>
+computer that's okay too so again lots
+computer that's okay too so again lots
+of<00:05:10.740><c> ways</c><00:05:10.979><c> you</c><00:05:11.040><c> can</c><00:05:11.160><c> demonstrate</c><00:05:11.520><c> to</c><00:05:11.699><c> an</c>
+of ways you can demonstrate to an
+of ways you can demonstrate to an
+assessor<00:05:12.180><c> that</c><00:05:12.360><c> that</c><00:05:12.540><c> is</c><00:05:12.660><c> being</c><00:05:12.840><c> met</c>
+assessor that that is being met
+assessor that that is being met
+the<00:05:14.400><c> sixth</c><00:05:14.820><c> and</c><00:05:14.880><c> final</c><00:05:15.000><c> one</c><00:05:15.300><c> is</c><00:05:15.600><c> determine</c><00:05:16.020><c> if</c>
+the sixth and final one is determine if
+the sixth and final one is determine if
+the<00:05:16.440><c> use</c><00:05:16.560><c> of</c><00:05:16.740><c> external</c><00:05:17.160><c> systems</c><00:05:17.580><c> is</c>
+the use of external systems is
+the use of external systems is
+controlled<00:05:18.300><c> and</c><00:05:18.419><c> limited</c><00:05:18.840><c> right</c><00:05:19.340><c> great</c>
+controlled and limited right great
+controlled and limited right great
+example<00:05:20.699><c> here</c><00:05:20.880><c> is</c><00:05:21.060><c> a</c><00:05:21.180><c> web</c><00:05:21.300><c> filter</c><00:05:21.540><c> right</c><00:05:21.960><c> are</c>
+example here is a web filter right are
+example here is a web filter right are
+you<00:05:22.380><c> controlling</c><00:05:22.800><c> the</c><00:05:22.919><c> ability</c><00:05:23.100><c> to</c><00:05:23.280><c> go</c><00:05:23.400><c> to</c>
+you controlling the ability to go to
+you controlling the ability to go to
+certain<00:05:23.759><c> websites</c><00:05:24.360><c> uh</c><00:05:25.199><c> maybe</c><00:05:25.380><c> you've</c><00:05:25.620><c> got</c>
+certain websites uh maybe you've got
+certain websites uh maybe you've got
+port<00:05:25.919><c> and</c><00:05:26.100><c> protocol</c><00:05:26.400><c> control</c><00:05:26.639><c> are</c><00:05:27.000><c> you</c>
+port and protocol control are you
+port and protocol control are you
+controlling<00:05:27.539><c> the</c><00:05:27.600><c> ability</c><00:05:27.840><c> to</c><00:05:27.960><c> go</c><00:05:28.080><c> to</c><00:05:28.139><c> an</c>
+controlling the ability to go to an
+controlling the ability to go to an
+external<00:05:28.500><c> system</c><00:05:28.680><c> through</c><00:05:28.979><c> various</c><00:05:29.280><c> ports</c><00:05:29.699><c> uh</c>
+external system through various ports uh
+external system through various ports uh
+or<00:05:30.479><c> disallowing</c><00:05:31.020><c> certain</c><00:05:31.199><c> protocols</c><00:05:31.800><c> like</c>
+or disallowing certain protocols like
+or disallowing certain protocols like
+maybe<00:05:32.100><c> we</c><00:05:32.340><c> don't</c><00:05:32.400><c> want</c><00:05:32.580><c> to</c><00:05:32.639><c> go</c><00:05:32.759><c> into</c><00:05:32.820><c> Gmail</c><00:05:33.120><c> we</c>
+maybe we don't want to go into Gmail we
+maybe we don't want to go into Gmail we
+want<00:05:33.900><c> to</c><00:05:34.020><c> limit</c><00:05:34.199><c> that</c><00:05:34.440><c> capability</c><00:05:34.860><c> so</c><00:05:35.639><c> again</c>
+want to limit that capability so again
+want to limit that capability so again
+those<00:05:36.120><c> are</c><00:05:36.300><c> a</c><00:05:36.360><c> couple</c><00:05:36.479><c> of</c><00:05:36.600><c> sample</c><00:05:37.020><c> ideas</c>
+those are a couple of sample ideas
+those are a couple of sample ideas
+sample<00:05:37.680><c> answers</c><00:05:37.979><c> there</c><00:05:38.220><c> we</c><00:05:39.060><c> might</c><00:05:39.240><c> answer</c>
+sample answers there we might answer
+sample answers there we might answer
+very<00:05:39.900><c> simply</c><00:05:40.199><c> with</c><00:05:40.320><c> connections</c><00:05:40.680><c> to</c><00:05:40.860><c> external</c>
+very simply with connections to external
+very simply with connections to external
+systems<00:05:41.639><c> are</c><00:05:41.880><c> limited</c><00:05:42.240><c> and</c><00:05:42.360><c> controlled</c><00:05:42.780><c> by</c>
+systems are limited and controlled by
+systems are limited and controlled by
+the<00:05:43.259><c> organization's</c><00:05:43.860><c> firewall</c><00:05:44.220><c> that</c><00:05:44.460><c> would</c>
+the organization's firewall that would
+the organization's firewall that would
+be<00:05:44.699><c> pretty</c><00:05:44.880><c> simple</c><00:05:45.060><c> just</c><00:05:45.780><c> be</c><00:05:45.960><c> prepared</c><00:05:46.320><c> to</c><00:05:46.560><c> Dem</c>
+be pretty simple just be prepared to Dem
+be pretty simple just be prepared to Dem
+to<00:05:47.220><c> to</c><00:05:47.400><c> demonstrate</c><00:05:47.940><c> this</c><00:05:48.180><c> one</c><00:05:48.300><c> to</c><00:05:48.479><c> an</c>
+to to demonstrate this one to an
+to to demonstrate this one to an
+assessor<00:05:49.080><c> I</c><00:05:49.199><c> think</c><00:05:49.320><c> this</c><00:05:49.440><c> is</c><00:05:49.560><c> one</c><00:05:49.800><c> that</c><00:05:50.100><c> you</c>
+assessor I think this is one that you
+assessor I think this is one that you
+know<00:05:50.759><c> an</c><00:05:51.060><c> interview</c><00:05:51.240><c> may</c><00:05:51.720><c> not</c><00:05:51.900><c> really</c><00:05:52.080><c> be</c><00:05:52.259><c> good</c>
+know an interview may not really be good
+know an interview may not really be good
+enough<00:05:52.620><c> for</c><00:05:52.919><c> you're</c><00:05:53.639><c> probably</c><00:05:53.880><c> looking</c><00:05:54.120><c> at</c>
+enough for you're probably looking at
+enough for you're probably looking at
+the<00:05:54.539><c> idea</c><00:05:54.840><c> of</c><00:05:55.199><c> a</c><00:05:55.380><c> little</c><00:05:55.620><c> bit</c><00:05:55.680><c> of</c><00:05:55.800><c> shoulder</c>
+the idea of a little bit of shoulder
+the idea of a little bit of shoulder
+surfing<00:05:56.400><c> a</c><00:05:56.520><c> little</c><00:05:56.580><c> bit</c><00:05:56.699><c> of</c><00:05:56.820><c> demonstration</c>
+surfing a little bit of demonstration
+surfing a little bit of demonstration
+virtually<00:05:57.780><c> on</c><00:05:58.320><c> this</c><00:05:58.500><c> control</c><00:05:58.759><c> now</c><00:05:59.759><c> at</c><00:06:00.120><c> on</c><00:06:00.300><c> call</c>
+virtually on this control now at on call
+virtually on this control now at on call
+we<00:06:00.900><c> work</c><00:06:01.080><c> with</c><00:06:01.259><c> defense</c><00:06:01.620><c> contractors</c><00:06:02.220><c> just</c>
+we work with defense contractors just
+we work with defense contractors just
+like<00:06:03.000><c> you</c><00:06:03.300><c> that's</c><00:06:03.840><c> you</c><00:06:04.139><c> it's</c><00:06:04.500><c> something</c><00:06:04.680><c> I'm</c>
+like you that's you it's something I'm
+like you that's you it's something I'm
+sitting<00:06:05.280><c> behind</c><00:06:05.580><c> you</c><00:06:05.699><c> not</c><00:06:06.240><c> your</c><00:06:06.479><c> boss</c><00:06:06.660><c> in</c>
+sitting behind you not your boss in
+sitting behind you not your boss in
+front<00:06:07.020><c> of</c><00:06:07.139><c> you</c><00:06:07.199><c> it's</c><00:06:07.620><c> you</c><00:06:07.860><c> we</c><00:06:08.100><c> work</c><00:06:08.220><c> with</c><00:06:08.400><c> you</c>
+front of you it's you we work with you
+front of you it's you we work with you
+who<00:06:09.060><c> have</c><00:06:09.180><c> had</c><00:06:09.419><c> this</c><00:06:09.780><c> D</c><00:06:10.020><c> fars</c><00:06:10.500><c> nist</c><00:06:10.800><c> itar</c><00:06:11.340><c> and</c>
+who have had this D fars nist itar and
+who have had this D fars nist itar and
+cmmc<00:06:12.060><c> compliance</c><00:06:12.539><c> stuff</c><00:06:12.720><c> dropped</c><00:06:13.199><c> into</c><00:06:13.320><c> their</c>
+cmmc compliance stuff dropped into their
+cmmc compliance stuff dropped into their
+lab<00:06:13.560><c> like</c><00:06:13.740><c> a</c><00:06:14.220><c> seagull</c><00:06:14.580><c> on</c><00:06:14.699><c> a</c><00:06:14.820><c> sunny</c><00:06:14.940><c> day</c><00:06:15.180><c> and</c><00:06:15.720><c> we</c>
+lab like a seagull on a sunny day and we
+lab like a seagull on a sunny day and we
+teach<00:06:16.020><c> you</c><00:06:16.199><c> how</c><00:06:16.380><c> to</c><00:06:16.500><c> level</c><00:06:16.620><c> up</c><00:06:16.860><c> and</c><00:06:17.039><c> be</c><00:06:17.160><c> a</c>
+teach you how to level up and be a
+teach you how to level up and be a
+proper<00:06:17.580><c> on-call</c><00:06:17.940><c> compliance</c><00:06:18.300><c> hero</c><00:06:18.600><c> for</c><00:06:18.720><c> your</c>
+proper on-call compliance hero for your
+proper on-call compliance hero for your
+company<00:06:19.080><c> eliminating</c><00:06:19.860><c> gaps</c><00:06:20.340><c> great</c><00:06:20.759><c> areas</c><00:06:21.180><c> in</c>
+company eliminating gaps great areas in
+company eliminating gaps great areas in
+getting<00:06:21.660><c> this</c><00:06:21.900><c> solved</c><00:06:22.319><c> all</c><00:06:22.620><c> while</c><00:06:22.800><c> showing</c>
+getting this solved all while showing
+getting this solved all while showing
+you<00:06:23.280><c> how</c><00:06:23.759><c> to</c><00:06:23.880><c> leverage</c><00:06:24.060><c> compliance</c><00:06:24.600><c> is</c><00:06:24.720><c> your</c>
+you how to leverage compliance is your
+you how to leverage compliance is your
+secret<00:06:25.080><c> weapon</c><00:06:25.440><c> to</c><00:06:25.560><c> land</c><00:06:25.800><c> more</c><00:06:26.340><c> Defense</c><00:06:26.759><c> work</c>
+secret weapon to land more Defense work
+secret weapon to land more Defense work
+I<00:06:27.360><c> know</c><00:06:27.539><c> sounds</c><00:06:28.139><c> crazy</c><00:06:29.000><c> compliance</c><00:06:30.000><c> leads</c><00:06:30.600><c> to</c>
+I know sounds crazy compliance leads to
+I know sounds crazy compliance leads to
+more<00:06:31.020><c> Defense</c><00:06:31.440><c> work</c><00:06:31.680><c> and</c><00:06:32.220><c> we</c><00:06:32.460><c> can</c><00:06:32.580><c> show</c><00:06:32.759><c> you</c>
+more Defense work and we can show you
+more Defense work and we can show you
+how<00:06:33.060><c> with</c><00:06:33.539><c> higher</c><00:06:33.900><c> profit</c><00:06:34.259><c> margins</c><00:06:34.740><c> yes</c><00:06:35.100><c> if</c>
+how with higher profit margins yes if
+how with higher profit margins yes if
+you're<00:06:35.580><c> more</c><00:06:35.819><c> secure</c><00:06:36.120><c> you're</c><00:06:36.300><c> more</c><00:06:36.539><c> valuable</c>
+you're more secure you're more valuable
+you're more secure you're more valuable
+believe<00:06:37.800><c> me</c><00:06:38.039><c> how</c><00:06:38.759><c> secure</c><00:06:39.060><c> you</c><00:06:39.360><c> are</c><00:06:39.539><c> on</c><00:06:39.960><c> a</c><00:06:40.139><c> DOD</c>
+believe me how secure you are on a DOD
+believe me how secure you are on a DOD
+purchasing<00:06:41.220><c> Matrix</c><00:06:41.900><c> looks</c><00:06:42.900><c> pretty</c><00:06:43.440><c> similar</c>
+purchasing Matrix looks pretty similar
+purchasing Matrix looks pretty similar
+to<00:06:44.220><c> what</c><00:06:44.460><c> the</c><00:06:44.639><c> whole</c><00:06:44.819><c> cost</c><00:06:45.060><c> is</c><00:06:45.360><c> all</c><00:06:45.600><c> right</c>
+to what the whole cost is all right
+to what the whole cost is all right
+literally<00:06:46.319><c> you</c><00:06:46.800><c> can't</c><00:06:46.919><c> even</c><00:06:47.100><c> do</c><00:06:47.340><c> business</c>
+literally you can't even do business
+literally you can't even do business
+with<00:06:47.699><c> you</c><00:06:47.880><c> if</c><00:06:48.060><c> you're</c><00:06:48.120><c> not</c><00:06:48.300><c> secure</c><00:06:48.600><c> and</c><00:06:49.319><c> the</c>
+with you if you're not secure and the
+with you if you're not secure and the
+price<00:06:49.680><c> is</c><00:06:49.860><c> a</c><00:06:49.979><c> variable</c><00:06:50.280><c> now</c><00:06:50.880><c> that's</c><00:06:51.360><c> what</c>
+price is a variable now that's what
+price is a variable now that's what
+becoming<00:06:52.020><c> an</c><00:06:52.139><c> on-call</c><00:06:52.500><c> compliance</c><00:06:52.860><c> hero</c><00:06:53.220><c> can</c>
+becoming an on-call compliance hero can
+becoming an on-call compliance hero can
+do<00:06:53.460><c> for</c><00:06:53.639><c> you</c><00:06:53.819><c> we</c><00:06:54.240><c> drop</c><00:06:54.479><c> knowledge</c><00:06:54.900><c> like</c><00:06:55.080><c> that</c>
+do for you we drop knowledge like that
+do for you we drop knowledge like that
+a<00:06:56.639><c> lot</c><00:06:56.819><c> okay</c><00:06:57.419><c> so</c><00:06:58.080><c> again</c><00:06:58.500><c> we're</c><00:06:58.919><c> all</c><00:06:59.100><c> about</c>
+a lot okay so again we're all about
+a lot okay so again we're all about
+helping<00:06:59.580><c> our</c><00:06:59.699><c> clients</c><00:06:59.940><c> grow</c><00:07:00.120><c> now</c><00:07:00.419><c> if</c><00:07:00.780><c> you're</c>
+helping our clients grow now if you're
+helping our clients grow now if you're
+looking<00:07:01.020><c> for</c><00:07:01.199><c> more</c><00:07:01.319><c> help</c><00:07:01.500><c> getting</c><00:07:01.680><c> compliant</c>
+looking for more help getting compliant
+looking for more help getting compliant
+our<00:07:02.280><c> compliance</c><00:07:02.699><c> experts</c><00:07:03.120><c> are</c><00:07:03.240><c> always</c><00:07:03.479><c> on</c>
+our compliance experts are always on
+our compliance experts are always on
+call<00:07:03.900><c> for</c><00:07:04.139><c> you</c><00:07:04.259><c> visit</c><00:07:04.800><c> cmmc</c><00:07:05.520><c> compliance</c>
+call for you visit cmmc compliance
+call for you visit cmmc compliance
+secrets.com<00:07:06.419><c> okay</c><00:07:06.860><c> cmmc</c><00:07:07.860><c> compliance</c>
+secrets.com okay cmmc compliance
+secrets.com okay cmmc compliance
+secrets.com<00:07:08.819><c> is</c><00:07:09.660><c> where</c><00:07:09.900><c> you</c><00:07:10.080><c> go</c><00:07:10.319><c> if</c><00:07:11.100><c> you</c><00:07:11.520><c> don't</c>
+secrets.com is where you go if you don't
+secrets.com is where you go if you don't
+want<00:07:12.060><c> to</c><00:07:12.240><c> deal</c><00:07:12.360><c> with</c><00:07:12.539><c> this</c><00:07:12.660><c> all</c><00:07:12.840><c> right</c><00:07:12.960><c> if</c><00:07:13.080><c> you</c>
+want to deal with this all right if you
+want to deal with this all right if you
+don't<00:07:13.319><c> want</c><00:07:13.380><c> to</c><00:07:13.500><c> deal</c><00:07:13.560><c> with</c><00:07:13.680><c> it</c><00:07:13.800><c> you</c><00:07:14.100><c> just</c><00:07:14.280><c> want</c>
+don't want to deal with it you just want
+don't want to deal with it you just want
+this<00:07:14.580><c> done</c><00:07:14.819><c> for</c><00:07:15.060><c> you</c><00:07:15.240><c> go</c><00:07:15.660><c> to</c><00:07:15.780><c> that</c><00:07:15.900><c> website</c>
+this done for you go to that website
+this done for you go to that website
+book<00:07:16.919><c> a</c><00:07:17.100><c> time</c><00:07:17.220><c> with</c><00:07:17.400><c> one</c><00:07:17.520><c> of</c><00:07:17.639><c> our</c><00:07:17.699><c> with</c><00:07:18.000><c> one</c><00:07:18.240><c> of</c>
+book a time with one of our with one of
+book a time with one of our with one of
+our<00:07:18.360><c> certified</c><00:07:18.720><c> compliance</c><00:07:19.199><c> experts</c><00:07:19.680><c> all</c>
+our certified compliance experts all
+our certified compliance experts all
+right<00:07:20.340><c> and</c><00:07:20.580><c> check</c><00:07:20.699><c> out</c><00:07:20.880><c> the</c><00:07:21.060><c> bio</c><00:07:21.300><c> below</c><00:07:21.660><c> for</c>
+right and check out the bio below for
+right and check out the bio below for
+more<00:07:22.259><c> links</c><00:07:22.560><c> on</c><00:07:22.680><c> how</c><00:07:22.860><c> to</c><00:07:22.979><c> get</c><00:07:23.099><c> help</c><00:07:23.340><c> right</c><00:07:23.580><c> now</c>
+more links on how to get help right now
+more links on how to get help right now
+if<00:07:24.840><c> you</c><00:07:24.960><c> love</c><00:07:25.080><c> the</c><00:07:25.199><c> content</c><00:07:25.440><c> we're</c><00:07:25.560><c> putting</c>
+if you love the content we're putting
+if you love the content we're putting
+out<00:07:25.860><c> here</c><00:07:26.039><c> for</c><00:07:26.220><c> you</c><00:07:26.340><c> or</c><00:07:26.699><c> just</c><00:07:26.880><c> don't</c><00:07:27.000><c> want</c><00:07:27.180><c> to</c>
+out here for you or just don't want to
+out here for you or just don't want to
+do<00:07:27.360><c> this</c><00:07:27.479><c> stuff</c><00:07:27.660><c> yourself</c><00:07:27.900><c> help</c><00:07:28.500><c> us</c><00:07:28.620><c> out</c><00:07:28.800><c> with</c>
+do this stuff yourself help us out with
+do this stuff yourself help us out with
+a<00:07:28.979><c> big</c><00:07:29.039><c> thumbs</c><00:07:29.280><c> up</c><00:07:29.340><c> on</c><00:07:29.460><c> that</c><00:07:29.580><c> like</c><00:07:29.699><c> button</c><00:07:30.000><c> you</c>
+a big thumbs up on that like button you
+a big thumbs up on that like button you
+know<00:07:30.240><c> we're</c><00:07:30.479><c> trying</c><00:07:30.720><c> to</c><00:07:30.900><c> feel</c><00:07:31.020><c> the</c><00:07:31.199><c> love</c><00:07:31.319><c> out</c>
+know we're trying to feel the love out
+know we're trying to feel the love out
+there<00:07:31.680><c> we're</c><00:07:31.919><c> trying</c><00:07:32.160><c> to</c><00:07:32.280><c> deliver</c><00:07:32.520><c> it</c><00:07:32.819><c> all</c><00:07:32.940><c> to</c>
+there we're trying to deliver it all to
+there we're trying to deliver it all to
+you<00:07:33.360><c> uh</c><00:07:34.319><c> again</c><00:07:34.500><c> a</c><00:07:34.979><c> thumbs</c><00:07:35.220><c> up</c><00:07:35.280><c> on</c><00:07:35.400><c> that</c><00:07:35.520><c> like</c>
+you uh again a thumbs up on that like
+you uh again a thumbs up on that like
+button<00:07:36.000><c> seriously</c><00:07:36.419><c> it</c><00:07:36.539><c> really</c><00:07:36.660><c> helps</c><00:07:36.960><c> us</c><00:07:37.080><c> out</c>
+button seriously it really helps us out
+button seriously it really helps us out
+even<00:07:37.800><c> better</c><00:07:38.099><c> Mash</c><00:07:38.880><c> that</c><00:07:39.060><c> subscribe</c><00:07:39.539><c> button</c>
+even better Mash that subscribe button
+even better Mash that subscribe button
+I'm<00:07:40.139><c> gonna</c><00:07:40.259><c> drop</c><00:07:40.440><c> the</c><00:07:40.680><c> S</c><00:07:40.860><c> I'm</c><00:07:41.280><c> just</c><00:07:41.400><c> gonna</c><00:07:41.580><c> mash</c>
+I'm gonna drop the S I'm just gonna mash
+I'm gonna drop the S I'm just gonna mash
+it<00:07:42.180><c> mash</c><00:07:42.900><c> it</c><00:07:43.020><c> in</c><00:07:43.199><c> the</c><00:07:43.319><c> ground</c><00:07:43.440><c> subscribe</c><00:07:44.340><c> again</c>
+it mash it in the ground subscribe again
+it mash it in the ground subscribe again
+go<00:07:45.060><c> get</c><00:07:45.240><c> another</c><00:07:45.360><c> Google</c><00:07:45.599><c> account</c><00:07:45.840><c> subscribe</c>
+go get another Google account subscribe
+go get another Google account subscribe
+again<00:07:46.560><c> it</c><00:07:46.919><c> all</c><00:07:47.099><c> helps</c><00:07:47.400><c> guys</c><00:07:47.580><c> to</c><00:07:48.060><c> get</c><00:07:48.240><c> the</c>
+again it all helps guys to get the
+again it all helps guys to get the
+latest<00:07:48.539><c> compliance</c><00:07:49.020><c> content</c><00:07:49.319><c> as</c><00:07:49.440><c> soon</c><00:07:49.620><c> as</c><00:07:49.680><c> our</c>
+latest compliance content as soon as our
+latest compliance content as soon as our
+compliances<00:07:50.220><c> roll</c><00:07:50.520><c> it</c><00:07:50.699><c> out</c>
+compliances roll it out
+compliances roll it out
+or<00:07:52.139><c> we</c><00:07:52.319><c> just</c><00:07:52.440><c> decided</c><00:07:52.680><c> it's</c><00:07:52.800><c> a</c><00:07:52.919><c> really</c><00:07:52.979><c> great</c>
+or we just decided it's a really great
+or we just decided it's a really great
+time<00:07:53.220><c> to</c><00:07:53.340><c> shamelessly</c><00:07:53.759><c> plug</c><00:07:53.940><c> ourselves</c><00:07:54.300><c> over</c>
+time to shamelessly plug ourselves over
+time to shamelessly plug ourselves over
+and<00:07:54.660><c> over</c><00:07:54.840><c> and</c><00:07:54.960><c> over</c><00:07:55.199><c> and</c><00:07:55.319><c> over</c><00:07:55.500><c> again</c><00:07:55.680><c> because</c>
+and over and over and over again because
+and over and over and over again because
+you<00:07:56.160><c> know</c><00:07:56.280><c> what</c><00:07:56.340><c> to</c><00:07:56.520><c> be</c><00:07:56.639><c> honest</c><00:07:56.819><c> it's</c><00:07:57.120><c> just</c><00:07:57.240><c> fun</c>
+you know what to be honest it's just fun
+you know what to be honest it's just fun
+it's<00:07:57.660><c> fun</c><00:07:57.900><c> to</c><00:07:58.020><c> do</c><00:07:58.139><c> it's</c><00:07:58.319><c> kind</c><00:07:58.500><c> of</c><00:07:58.620><c> hilarious</c>
+it's fun to do it's kind of hilarious
+it's fun to do it's kind of hilarious
+until<00:07:59.520><c> the</c><00:07:59.759><c> next</c><00:07:59.880><c> compliance</c><00:08:00.300><c> tip</c><00:08:00.479><c> my</c><00:08:00.660><c> friends</c>
+until the next compliance tip my friends
+until the next compliance tip my friends
+stay<00:08:01.380><c> safe</c><00:08:01.500><c> and</c><00:08:01.680><c> secure</c><00:08:01.860><c> out</c><00:08:02.099><c> there</c><00:08:02.280><c> hit</c><00:08:02.699><c> us</c><00:08:02.880><c> in</c>
+stay safe and secure out there hit us in
+stay safe and secure out there hit us in
+the<00:08:03.120><c> comments</c><00:08:03.360><c> below</c><00:08:03.539><c> to</c><00:08:03.660><c> let</c><00:08:03.780><c> us</c><00:08:03.840><c> know</c><00:08:03.960><c> what</c>
+the comments below to let us know what
+the comments below to let us know what
+you'd<00:08:04.259><c> like</c><00:08:04.380><c> to</c><00:08:04.500><c> know</c><00:08:04.620><c> more</c><00:08:04.740><c> about</c><00:08:04.919><c> when</c><00:08:05.160><c> it</c>
+you'd like to know more about when it
+you'd like to know more about when it
+comes<00:08:05.460><c> to</c><00:08:05.580><c> information</c><00:08:05.699><c> security</c><00:08:06.180><c> and</c>
+comes to information security and
+comes to information security and
+compliance<00:08:06.960><c> and</c><00:08:07.440><c> yes</c><00:08:07.620><c> sir</c><00:08:07.800><c> I'll</c><00:08:08.039><c> see</c><00:08:08.220><c> you</c><00:08:08.340><c> on</c>
+compliance and yes sir I'll see you on
+compliance and yes sir I'll see you on
+the<00:08:08.580><c> next</c><00:08:08.699><c> one</c>
+the next one
+the next one
+[Music]

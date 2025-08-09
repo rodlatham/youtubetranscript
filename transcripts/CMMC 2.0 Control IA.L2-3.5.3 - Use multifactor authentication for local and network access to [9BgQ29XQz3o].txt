@@ -1,0 +1,558 @@
+Kind: captions
+Language: en
+hey<00:00:00.420><c> everybody</c><00:00:00.539><c> it's</c><00:00:00.780><c> Mike</c><00:00:00.960><c> frieder</c><00:00:01.319><c> here</c>
+hey everybody it's Mike frieder here
+hey everybody it's Mike frieder here
+with<00:00:01.500><c> on-call</c><00:00:01.800><c> compliance</c><00:00:02.220><c> Solutions</c><00:00:02.460><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:02.760><c> back</c><00:00:02.940><c> with</c><00:00:03.060><c> another</c><00:00:03.179><c> compliance</c><00:00:03.659><c> tip</c><00:00:03.899><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.080><c> week</c><00:00:04.140><c> where</c><00:00:04.380><c> you'll</c><00:00:04.560><c> watch</c><00:00:04.740><c> me</c><00:00:04.920><c> try</c><00:00:05.160><c> to</c>
+the week where you'll watch me try to
+the week where you'll watch me try to
+not<00:00:05.400><c> burp</c><00:00:05.700><c> during</c><00:00:05.880><c> this</c><00:00:06.060><c> video</c><00:00:06.180><c> after</c>
+not burp during this video after
+not burp during this video after
+drinking<00:00:06.720><c> carbonated</c><00:00:07.140><c> water</c><00:00:07.379><c> to</c><00:00:07.620><c> make</c><00:00:07.680><c> it</c><00:00:07.799><c> so</c>
+drinking carbonated water to make it so
+drinking carbonated water to make it so
+I<00:00:08.099><c> can</c><00:00:08.160><c> talk</c><00:00:08.280><c> to</c><00:00:08.519><c> you</c><00:00:08.639><c> hey</c><00:00:09.360><c> this</c><00:00:09.660><c> week</c><00:00:09.780><c> we're</c>
+I can talk to you hey this week we're
+I can talk to you hey this week we're
+talking<00:00:10.139><c> about</c>
+cmmccontrolia.l2-3.5.3<00:00:13.920><c> use</c><00:00:14.580><c> multi-factor</c>
+cmmccontrolia.l2-3.5.3 use multi-factor
+cmmccontrolia.l2-3.5.3 use multi-factor
+authentication<00:00:15.719><c> for</c><00:00:16.020><c> local</c><00:00:16.260><c> and</c><00:00:16.619><c> network</c>
+authentication for local and network
+authentication for local and network
+access<00:00:17.100><c> to</c><00:00:17.400><c> privileged</c><00:00:17.820><c> accounts</c><00:00:18.240><c> and</c><00:00:18.660><c> for</c>
+access to privileged accounts and for
+access to privileged accounts and for
+network<00:00:19.020><c> access</c><00:00:19.320><c> to</c><00:00:19.619><c> non-privileged</c>
+network access to non-privileged
+network access to non-privileged
+accounts<00:00:20.520><c> let's</c><00:00:21.060><c> find</c><00:00:21.300><c> out</c>
+accounts let's find out
+accounts let's find out
+[Music]
+[Music]
+[Music]
+say<00:00:31.380><c> hey</c><00:00:31.500><c> if</c><00:00:31.619><c> you're</c><00:00:31.740><c> a</c><00:00:31.859><c> defense</c><00:00:32.099><c> contractor</c>
+say hey if you're a defense contractor
+say hey if you're a defense contractor
+who's<00:00:32.640><c> feeling</c><00:00:32.880><c> overwhelmed</c><00:00:33.420><c> tired</c><00:00:34.079><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:34.380><c> trying</c><00:00:34.920><c> to</c><00:00:35.100><c> figure</c><00:00:35.520><c> out</c><00:00:35.700><c> all</c><00:00:36.000><c> this</c><00:00:36.120><c> cmmc</c>
+alone trying to figure out all this cmmc
+alone trying to figure out all this cmmc
+dfars<00:00:37.440><c> and</c><00:00:37.559><c> nist</c><00:00:38.000><c> sp171</c><00:00:39.000><c> compliance</c><00:00:39.600><c> stuff</c><00:00:39.780><c> on</c>
+dfars and nist sp171 compliance stuff on
+dfars and nist sp171 compliance stuff on
+top<00:00:40.500><c> of</c><00:00:40.620><c> an</c><00:00:40.739><c> already</c><00:00:40.920><c> colossal</c><00:00:41.520><c> workload</c><00:00:41.940><c> well</c>
+top of an already colossal workload well
+top of an already colossal workload well
+I've<00:00:42.540><c> got</c><00:00:42.600><c> great</c><00:00:42.840><c> news</c><00:00:42.960><c> for</c><00:00:43.200><c> you</c><00:00:43.260><c> you</c><00:00:43.440><c> found</c>
+I've got great news for you you found
+I've got great news for you you found
+your<00:00:43.860><c> home</c><00:00:43.980><c> here</c><00:00:44.280><c> at</c><00:00:44.700><c> on-call</c><00:00:45.120><c> compliance</c>
+your home here at on-call compliance
+your home here at on-call compliance
+Solutions<00:00:45.899><c> where</c><00:00:46.079><c> we</c><00:00:46.260><c> can</c><00:00:46.379><c> help</c><00:00:46.559><c> you</c>
+Solutions where we can help you
+Solutions where we can help you
+transform<00:00:47.640><c> into</c><00:00:47.879><c> your</c><00:00:48.120><c> company's</c><00:00:48.420><c> con-call</c>
+transform into your company's con-call
+transform into your company's con-call
+compliance<00:00:49.440><c> Hero</c><00:00:49.800><c> Let's</c><00:00:50.399><c> jump</c><00:00:50.579><c> into</c><00:00:50.760><c> it</c>
+cmmccontrolia.l2-3.5.3<00:00:55.020><c> use</c><00:00:55.680><c> multi-factor</c>
+cmmccontrolia.l2-3.5.3 use multi-factor
+cmmccontrolia.l2-3.5.3 use multi-factor
+authentication<00:00:57.000><c> for</c><00:00:57.360><c> local</c><00:00:57.600><c> and</c><00:00:58.500><c> network</c>
+authentication for local and network
+authentication for local and network
+access<00:00:59.160><c> to</c><00:00:59.879><c> privileged</c><00:01:00.360><c> accounts</c><00:01:00.780><c> and</c><00:01:01.199><c> for</c>
+access to privileged accounts and for
+access to privileged accounts and for
+network<00:01:01.620><c> access</c><00:01:01.980><c> to</c><00:01:02.579><c> non-provised</c><00:01:03.300><c> accounts</c>
+network access to non-provised accounts
+network access to non-provised accounts
+yes<00:01:04.500><c> this</c><00:01:05.040><c> is</c><00:01:05.159><c> the</c><00:01:05.339><c> one</c><00:01:05.519><c> it</c><00:01:06.000><c> creates</c><00:01:06.299><c> the</c><00:01:06.479><c> big</c>
+yes this is the one it creates the big
+yes this is the one it creates the big
+giant<00:01:07.080><c> Nightmare</c><00:01:07.439><c> and</c><00:01:07.979><c> everybody</c><00:01:08.159><c> hates</c><00:01:09.119><c> it</c>
+giant Nightmare and everybody hates it
+giant Nightmare and everybody hates it
+but<00:01:10.020><c> guess</c><00:01:10.200><c> what</c>
+but guess what
+but guess what
+it<00:01:11.700><c> also</c><00:01:12.000><c> happens</c><00:01:12.180><c> to</c><00:01:12.420><c> be</c><00:01:12.540><c> the</c><00:01:12.720><c> one</c><00:01:12.900><c> control</c>
+it also happens to be the one control
+it also happens to be the one control
+that<00:01:13.920><c> will</c><00:01:14.100><c> save</c><00:01:14.520><c> your</c><00:01:15.299><c> tokis</c><00:01:15.840><c> right</c><00:01:16.260><c> because</c>
+that will save your tokis right because
+that will save your tokis right because
+ultimately<00:01:17.880><c> at</c><00:01:18.060><c> the</c><00:01:18.180><c> end</c><00:01:18.240><c> of</c><00:01:18.299><c> the</c><00:01:18.360><c> day</c>
+ultimately at the end of the day
+ultimately at the end of the day
+multi-factor<00:01:19.260><c> authentication</c><00:01:19.740><c> is</c><00:01:19.979><c> probably</c>
+multi-factor authentication is probably
+multi-factor authentication is probably
+the<00:01:20.340><c> greatest</c><00:01:20.520><c> invention</c><00:01:21.140><c> for</c><00:01:22.140><c> uh</c><00:01:22.860><c> you</c><00:01:23.100><c> know</c>
+the greatest invention for uh you know
+the greatest invention for uh you know
+network<00:01:23.939><c> security</c><00:01:24.299><c> and</c><00:01:24.720><c> just</c><00:01:24.900><c> generally</c>
+network security and just generally
+network security and just generally
+information<00:01:25.439><c> security</c><00:01:25.860><c> that's</c><00:01:26.159><c> come</c><00:01:26.400><c> around</c>
+information security that's come around
+information security that's come around
+in<00:01:26.759><c> the</c><00:01:26.939><c> last</c><00:01:27.119><c> I</c><00:01:27.659><c> don't</c><00:01:27.840><c> know</c><00:01:27.900><c> how</c><00:01:28.080><c> many</c><00:01:28.200><c> years</c>
+in the last I don't know how many years
+in the last I don't know how many years
+so<00:01:29.460><c> there's</c><00:01:29.820><c> a</c><00:01:30.119><c> big</c><00:01:30.240><c> challenge</c><00:01:30.420><c> control</c><00:01:30.780><c> a</c><00:01:31.380><c> lot</c>
+so there's a big challenge control a lot
+so there's a big challenge control a lot
+of<00:01:31.680><c> people</c><00:01:31.740><c> have</c><00:01:32.280><c> trouble</c><00:01:32.520><c> with</c><00:01:32.759><c> this</c><00:01:32.939><c> one</c>
+of people have trouble with this one
+of people have trouble with this one
+from<00:01:33.720><c> a</c><00:01:33.840><c> cultural</c><00:01:34.200><c> perspective</c><00:01:34.619><c> to</c><00:01:34.979><c> make</c>
+from a cultural perspective to make
+from a cultural perspective to make
+people<00:01:35.400><c> do</c><00:01:35.759><c> MFA</c><00:01:36.240><c> for</c><00:01:36.420><c> everything</c><00:01:36.659><c> that</c>
+people do MFA for everything that
+people do MFA for everything that
+touches<00:01:37.140><c> Cy</c><00:01:37.560><c> is</c><00:01:37.740><c> a</c><00:01:37.860><c> big</c><00:01:37.920><c> deal</c><00:01:38.040><c> for</c><00:01:38.280><c> some</c><00:01:38.400><c> people</c>
+touches Cy is a big deal for some people
+touches Cy is a big deal for some people
+okay<00:01:39.299><c> after</c><00:01:39.600><c> years</c><00:01:39.840><c> of</c><00:01:40.079><c> working</c><00:01:40.200><c> with</c><00:01:40.439><c> clients</c>
+okay after years of working with clients
+okay after years of working with clients
+on<00:01:40.860><c> this</c><00:01:41.040><c> here's</c><00:01:41.700><c> what</c><00:01:41.820><c> I</c><00:01:41.939><c> can</c><00:01:42.000><c> tell</c><00:01:42.180><c> you</c>
+on this here's what I can tell you
+on this here's what I can tell you
+if<00:01:43.380><c> you</c><00:01:43.500><c> have</c><00:01:43.619><c> network</c><00:01:43.860><c> access</c><00:01:44.220><c> as</c><00:01:44.939><c> an</c><00:01:45.180><c> example</c>
+if you have network access as an example
+if you have network access as an example
+a<00:01:45.840><c> map</c><00:01:45.960><c> network</c><00:01:46.200><c> drive</c><00:01:46.560><c> you're</c><00:01:47.280><c> going</c><00:01:47.520><c> to</c><00:01:47.640><c> need</c>
+a map network drive you're going to need
+a map network drive you're going to need
+MFA<00:01:48.180><c> to</c><00:01:48.299><c> access</c><00:01:48.420><c> that</c><00:01:48.720><c> data</c><00:01:49.020><c> Maybe</c><00:01:49.200><c> on</c>
+MFA to access that data Maybe on
+MFA to access that data Maybe on
+computer<00:01:49.619><c> sign</c><00:01:49.979><c> on</c><00:01:50.220><c> however</c><00:01:51.180><c> you</c><00:01:51.360><c> need</c><00:01:51.479><c> to</c><00:01:51.600><c> do</c>
+computer sign on however you need to do
+computer sign on however you need to do
+it<00:01:51.899><c> same</c><00:01:52.560><c> with</c><00:01:52.740><c> anything</c><00:01:53.040><c> others</c><00:01:53.820><c> any</c><00:01:54.299><c> any</c>
+it same with anything others any any
+it same with anything others any any
+other<00:01:54.720><c> system</c><00:01:55.020><c> which</c><00:01:55.320><c> contains</c><00:01:55.680><c> cui</c><00:01:56.159><c> you</c><00:01:56.399><c> have</c>
+other system which contains cui you have
+other system which contains cui you have
+to<00:01:56.700><c> have</c><00:01:56.820><c> MFA</c><00:01:57.299><c> your</c><00:01:57.960><c> email</c><00:01:58.079><c> if</c><00:01:58.380><c> your</c><00:01:58.560><c> email</c><00:01:58.740><c> is</c>
+to have MFA your email if your email is
+to have MFA your email if your email is
+Office<00:01:59.100><c> 365</c><00:01:59.759><c> GCC</c><00:02:00.180><c> hi</c><00:02:00.600><c> MFA</c><00:02:01.380><c> better</c><00:02:01.560><c> be</c><00:02:01.740><c> turned</c>
+Office 365 GCC hi MFA better be turned
+Office 365 GCC hi MFA better be turned
+on<00:02:02.159><c> okay</c><00:02:02.579><c> if</c><00:02:03.060><c> you've</c><00:02:03.240><c> got</c><00:02:03.299><c> an</c><00:02:03.479><c> accounting</c>
+on okay if you've got an accounting
+on okay if you've got an accounting
+system<00:02:03.960><c> and</c><00:02:04.200><c> it's</c><00:02:04.320><c> got</c><00:02:04.500><c> It's</c><00:02:04.799><c> got</c><00:02:04.920><c> accounting</c>
+system and it's got It's got accounting
+system and it's got It's got accounting
+data<00:02:05.460><c> that</c><00:02:05.520><c> includes</c><00:02:05.820><c> cui</c><00:02:06.360><c> you</c><00:02:06.659><c> better</c><00:02:06.840><c> have</c>
+data that includes cui you better have
+data that includes cui you better have
+MFA<00:02:07.439><c> to</c><00:02:07.619><c> sign</c><00:02:07.740><c> into</c><00:02:07.979><c> it</c><00:02:08.220><c> all</c><00:02:08.700><c> right</c><00:02:08.880><c> however</c>
+MFA to sign into it all right however
+MFA to sign into it all right however
+you'll<00:02:09.780><c> notice</c><00:02:10.080><c> that</c><00:02:10.259><c> MFA</c><00:02:10.739><c> is</c><00:02:10.920><c> not</c><00:02:11.039><c> required</c>
+you'll notice that MFA is not required
+you'll notice that MFA is not required
+for<00:02:11.819><c> local</c><00:02:12.300><c> standard</c><00:02:13.020><c> user</c><00:02:13.680><c> access</c><00:02:14.040><c> a</c><00:02:14.580><c> lot</c><00:02:14.760><c> of</c>
+for local standard user access a lot of
+for local standard user access a lot of
+people<00:02:15.000><c> miss</c><00:02:15.300><c> this</c><00:02:15.540><c> and</c><00:02:15.720><c> make</c><00:02:15.900><c> their</c><00:02:16.020><c> lives</c><00:02:16.260><c> a</c>
+people miss this and make their lives a
+people miss this and make their lives a
+whole<00:02:16.620><c> lot</c><00:02:16.739><c> harder</c><00:02:17.099><c> okay</c><00:02:17.340><c> however</c><00:02:18.300><c> you'll</c>
+whole lot harder okay however you'll
+whole lot harder okay however you'll
+notice<00:02:19.080><c> that</c><00:02:19.200><c> MFA</c><00:02:19.680><c> is</c><00:02:19.800><c> not</c><00:02:19.980><c> required</c><00:02:20.400><c> for</c>
+notice that MFA is not required for
+notice that MFA is not required for
+local<00:02:20.819><c> standard</c><00:02:21.300><c> user</c><00:02:21.959><c> access</c><00:02:22.140><c> to</c><00:02:22.500><c> cui</c><00:02:23.099><c> when</c>
+local standard user access to cui when
+local standard user access to cui when
+the<00:02:23.760><c> cuis</c><00:02:24.180><c> on</c><00:02:24.420><c> that</c><00:02:24.540><c> user's</c><00:02:24.959><c> Machine</c><00:02:25.080><c> by</c><00:02:25.560><c> the</c>
+the cuis on that user's Machine by the
+the cuis on that user's Machine by the
+way we<00:02:25.920><c> also</c><00:02:26.099><c> do</c><00:02:26.160><c> these</c><00:02:26.340><c> videos</c><00:02:26.459><c> in</c><00:02:26.700><c> exactly</c>
+way we also do these videos in exactly
+way we also do these videos in exactly
+one<00:02:27.120><c> take</c><00:02:27.360><c> because</c><00:02:27.540><c> I'm</c><00:02:27.780><c> way</c><00:02:27.959><c> too</c><00:02:28.080><c> lazy</c><00:02:28.440><c> to</c>
+one take because I'm way too lazy to
+one take because I'm way too lazy to
+actually<00:02:28.680><c> start</c><00:02:28.920><c> over</c><00:02:29.099><c> again</c><00:02:29.340><c> very</c>
+actually start over again very
+actually start over again very
+interesting<00:02:30.480><c> that</c><00:02:31.200><c> is</c><00:02:31.379><c> just</c><00:02:31.560><c> a</c><00:02:31.739><c> small</c><00:02:31.920><c> hint</c><00:02:32.160><c> of</c>
+interesting that is just a small hint of
+interesting that is just a small hint of
+where<00:02:32.459><c> mfa's</c><00:02:33.000><c> requirements</c><00:02:33.480><c> may</c><00:02:33.720><c> be</c><00:02:33.840><c> easier</c>
+where mfa's requirements may be easier
+where mfa's requirements may be easier
+to<00:02:34.980><c> implement</c><00:02:35.280><c> than</c><00:02:35.580><c> you</c><00:02:35.760><c> think</c><00:02:35.940><c> all</c><00:02:36.420><c> right</c>
+to implement than you think all right
+to implement than you think all right
+I'm<00:02:36.840><c> gonna</c><00:02:36.959><c> go</c><00:02:37.140><c> back</c><00:02:37.200><c> over</c><00:02:37.379><c> that</c><00:02:37.560><c> again</c>
+I'm gonna go back over that again
+I'm gonna go back over that again
+because<00:02:37.920><c> in</c><00:02:38.220><c> all</c><00:02:38.400><c> of</c><00:02:38.520><c> my</c><00:02:38.640><c> little</c><00:02:38.760><c> bantering</c>
+because in all of my little bantering
+because in all of my little bantering
+there<00:02:39.420><c> was</c><00:02:39.540><c> actually</c><00:02:39.660><c> an</c><00:02:39.900><c> important</c><00:02:40.200><c> point</c><00:02:40.379><c> in</c>
+there was actually an important point in
+there was actually an important point in
+there<00:02:40.739><c> so</c><00:02:40.980><c> again</c><00:02:41.180><c> if</c><00:02:42.180><c> you're</c><00:02:42.300><c> a</c><00:02:42.480><c> standard</c><00:02:42.660><c> user</c>
+there so again if you're a standard user
+there so again if you're a standard user
+non-admin<00:02:44.040><c> and</c><00:02:44.340><c> if</c><00:02:44.640><c> you</c><00:02:45.060><c> have</c><00:02:45.180><c> cui</c><00:02:45.720><c> only</c>
+non-admin and if you have cui only
+non-admin and if you have cui only
+locally<00:02:46.440><c> on</c><00:02:46.680><c> your</c><00:02:46.800><c> computer</c><00:02:46.920><c> and</c><00:02:47.280><c> you</c><00:02:47.459><c> can't</c>
+locally on your computer and you can't
+locally on your computer and you can't
+access<00:02:48.000><c> that</c><00:02:48.360><c> via</c><00:02:48.780><c> you</c><00:02:49.500><c> know</c><00:02:49.560><c> some</c><00:02:49.800><c> other</c>
+access that via you know some other
+access that via you know some other
+method<00:02:50.280><c> over</c><00:02:50.400><c> a</c><00:02:50.580><c> network</c><00:02:50.640><c> like</c><00:02:50.819><c> a</c><00:02:51.000><c> map</c><00:02:51.120><c> network</c>
+method over a network like a map network
+method over a network like a map network
+drive<00:02:51.540><c> from</c><00:02:51.840><c> your</c><00:02:51.959><c> computer</c><00:02:52.200><c> which</c><00:02:52.620><c> would</c><00:02:53.099><c> be</c>
+drive from your computer which would be
+drive from your computer which would be
+unusual<00:02:53.580><c> sort</c><00:02:53.819><c> of</c><00:02:54.000><c> uh</c><00:02:54.840><c> then</c><00:02:55.200><c> you</c><00:02:55.860><c> don't</c>
+unusual sort of uh then you don't
+unusual sort of uh then you don't
+actually<00:02:56.160><c> have</c><00:02:56.340><c> to</c><00:02:56.459><c> have</c><00:02:56.519><c> MFA</c><00:02:56.940><c> to</c><00:02:57.060><c> get</c><00:02:57.120><c> into</c>
+actually have to have MFA to get into
+actually have to have MFA to get into
+the<00:02:57.360><c> local</c><00:02:57.480><c> computer</c><00:02:57.780><c> if</c><00:02:58.440><c> you're</c><00:02:58.560><c> a</c><00:02:58.739><c> standard</c>
+the local computer if you're a standard
+the local computer if you're a standard
+user<00:02:59.220><c> not</c><00:02:59.340><c> an</c><00:02:59.519><c> admin</c><00:02:59.819><c> user</c><00:03:00.120><c> okay</c><00:03:00.480><c> so</c><00:03:01.080><c> there</c><00:03:01.319><c> is</c>
+user not an admin user okay so there is
+user not an admin user okay so there is
+this<00:03:01.680><c> loophole</c><00:03:02.099><c> from</c><00:03:02.400><c> for</c><00:03:02.640><c> basically</c>
+this loophole from for basically
+this loophole from for basically
+standard<00:03:03.660><c> users</c><00:03:03.959><c> on</c><00:03:04.080><c> the</c><00:03:04.200><c> network</c><00:03:04.319><c> where</c><00:03:04.800><c> they</c>
+standard users on the network where they
+standard users on the network where they
+don't<00:03:05.160><c> actually</c><00:03:05.280><c> have</c><00:03:05.459><c> to</c><00:03:05.580><c> have</c><00:03:05.640><c> MFA</c><00:03:06.000><c> to</c><00:03:06.120><c> sign</c>
+don't actually have to have MFA to sign
+don't actually have to have MFA to sign
+in<00:03:06.420><c> their</c><00:03:06.540><c> computer</c><00:03:06.720><c> a</c><00:03:07.440><c> lot</c><00:03:07.560><c> of</c><00:03:07.680><c> people</c><00:03:07.800><c> miss</c>
+in their computer a lot of people miss
+in their computer a lot of people miss
+that<00:03:08.340><c> all</c><00:03:08.700><c> right</c><00:03:08.879><c> your</c><00:03:09.420><c> buddy</c><00:03:09.780><c> Mike</c><00:03:09.900><c> this</c><00:03:10.620><c> guy</c>
+that all right your buddy Mike this guy
+that all right your buddy Mike this guy
+okay<00:03:11.220><c> hooking</c><00:03:11.819><c> you</c><00:03:11.940><c> up</c><00:03:12.060><c> trying</c><00:03:12.239><c> to</c><00:03:12.360><c> make</c><00:03:12.480><c> life</c>
+okay hooking you up trying to make life
+okay hooking you up trying to make life
+a<00:03:12.840><c> little</c><00:03:12.900><c> bit</c><00:03:13.019><c> easier</c><00:03:13.260><c> at</c><00:03:13.379><c> least</c><00:03:13.500><c> all</c><00:03:13.860><c> right</c>
+a little bit easier at least all right
+a little bit easier at least all right
+let's<00:03:14.280><c> jump</c><00:03:14.519><c> into</c><00:03:14.640><c> what</c><00:03:14.819><c> the</c><00:03:14.940><c> assessors</c><00:03:15.300><c> are</c>
+let's jump into what the assessors are
+let's jump into what the assessors are
+looking<00:03:15.599><c> for</c><00:03:15.720><c> on</c><00:03:15.900><c> this</c><00:03:16.080><c> one</c><00:03:16.200><c> and</c><00:03:16.500><c> try</c><00:03:16.739><c> to</c><00:03:16.860><c> not</c>
+looking for on this one and try to not
+looking for on this one and try to not
+hit<00:03:17.040><c> any</c><00:03:17.220><c> potholes</c>
+hit any potholes
+hit any potholes
+now<00:03:19.019><c> four</c><00:03:19.680><c> things</c><00:03:19.920><c> they're</c><00:03:20.099><c> assessing</c><00:03:20.519><c> for</c>
+now four things they're assessing for
+now four things they're assessing for
+one<00:03:21.480><c> determine</c><00:03:21.959><c> if</c><00:03:22.019><c> privileged</c><00:03:22.440><c> accounts</c><00:03:22.739><c> are</c>
+one determine if privileged accounts are
+one determine if privileged accounts are
+identified<00:03:23.220><c> that's</c><00:03:23.819><c> pretty</c><00:03:24.060><c> easy</c><00:03:24.239><c> right</c><00:03:24.420><c> of</c>
+identified that's pretty easy right of
+identified that's pretty easy right of
+course<00:03:24.720><c> they're</c><00:03:24.840><c> identified</c><00:03:25.200><c> you</c><00:03:25.379><c> look</c><00:03:25.500><c> at</c>
+course they're identified you look at
+course they're identified you look at
+active<00:03:25.860><c> directory</c><00:03:26.220><c> and</c><00:03:26.400><c> boom</c><00:03:26.700><c> there's</c><00:03:26.879><c> a</c><00:03:27.060><c> you</c>
+active directory and boom there's a you
+active directory and boom there's a you
+know<00:03:27.360><c> uh</c><00:03:27.780><c> people</c><00:03:28.019><c> in</c><00:03:28.260><c> the</c><00:03:28.379><c> admin</c><00:03:28.680><c> Security</c>
+know uh people in the admin Security
+know uh people in the admin Security
+Group<00:03:29.700><c> and</c><00:03:29.879><c> people</c><00:03:30.060><c> not</c><00:03:30.239><c> in</c><00:03:30.360><c> the</c><00:03:30.480><c> admin</c>
+Group and people not in the admin
+Group and people not in the admin
+Security<00:03:30.840><c> Group</c><00:03:31.140><c> as</c><00:03:31.379><c> an</c><00:03:31.500><c> example</c><00:03:31.800><c> all</c><00:03:32.340><c> right</c>
+Security Group as an example all right
+Security Group as an example all right
+session<00:03:32.700><c> Point</c><00:03:32.940><c> number</c><00:03:33.120><c> two</c><00:03:33.239><c> determine</c><00:03:33.659><c> if</c>
+session Point number two determine if
+session Point number two determine if
+multi-factor<00:03:34.260><c> authentication</c><00:03:34.739><c> is</c>
+multi-factor authentication is
+multi-factor authentication is
+implemented<00:03:35.340><c> for</c><00:03:35.459><c> local</c><00:03:35.700><c> access</c><00:03:36.000><c> to</c>
+implemented for local access to
+implemented for local access to
+privileged<00:03:36.840><c> accounts</c><00:03:37.140><c> so</c><00:03:37.200><c> again</c><00:03:37.379><c> if</c><00:03:37.980><c> you're</c>
+privileged accounts so again if you're
+privileged accounts so again if you're
+an<00:03:38.280><c> administrator</c><00:03:38.819><c> okay</c><00:03:39.599><c> and</c><00:03:40.080><c> if</c><00:03:40.200><c> the</c><00:03:40.379><c> system</c>
+an administrator okay and if the system
+an administrator okay and if the system
+you're<00:03:40.680><c> logging</c><00:03:40.980><c> into</c><00:03:41.040><c> has</c><00:03:41.340><c> cui</c><00:03:41.879><c> you</c><00:03:42.360><c> must</c>
+you're logging into has cui you must
+you're logging into has cui you must
+have<00:03:42.599><c> MFA</c><00:03:43.080><c> implemented</c><00:03:43.560><c> for</c><00:03:43.920><c> all</c><00:03:44.099><c> accounts</c>
+have MFA implemented for all accounts
+have MFA implemented for all accounts
+able<00:03:44.819><c> to</c><00:03:44.879><c> access</c><00:03:45.000><c> cui</c><00:03:45.659><c> all</c><00:03:45.959><c> right</c><00:03:46.140><c> pretty</c>
+able to access cui all right pretty
+able to access cui all right pretty
+straightforward<00:03:47.000><c> determine</c><00:03:48.000><c> if</c>
+straightforward determine if
+straightforward determine if
+multi-factor<00:03:48.599><c> authentication</c><00:03:49.080><c> is</c>
+multi-factor authentication is
+multi-factor authentication is
+implemented<00:03:49.739><c> for</c><00:03:49.920><c> network</c><00:03:50.220><c> access</c><00:03:50.519><c> to</c>
+implemented for network access to
+implemented for network access to
+privileged<00:03:51.480><c> accounts</c><00:03:51.840><c> okay</c><00:03:52.019><c> now</c><00:03:52.260><c> we're</c><00:03:52.379><c> going</c>
+privileged accounts okay now we're going
+privileged accounts okay now we're going
+over<00:03:52.739><c> a</c><00:03:52.980><c> network</c><00:03:53.099><c> to</c><00:03:53.400><c> a</c><00:03:53.580><c> privileged</c><00:03:53.940><c> account</c>
+over a network to a privileged account
+over a network to a privileged account
+okay<00:03:54.780><c> MFA</c><00:03:55.440><c> is</c><00:03:55.560><c> implemented</c><00:03:55.980><c> for</c><00:03:56.099><c> all</c><00:03:56.280><c> accounts</c>
+okay MFA is implemented for all accounts
+okay MFA is implemented for all accounts
+able<00:03:56.879><c> to</c><00:03:56.940><c> access</c><00:03:57.060><c> cui</c><00:03:57.780><c> would</c><00:03:58.140><c> be</c><00:03:58.319><c> a</c><00:03:58.440><c> really</c>
+able to access cui would be a really
+able to access cui would be a really
+great<00:03:58.799><c> answer</c><00:03:59.040><c> if</c><00:03:59.280><c> you</c><00:03:59.459><c> have</c><00:03:59.580><c> it</c><00:03:59.760><c> or</c><00:04:00.120><c> MFA</c><00:04:00.840><c> is</c>
+great answer if you have it or MFA is
+great answer if you have it or MFA is
+enabled<00:04:01.379><c> on</c><00:04:01.860><c> all</c><00:04:02.040><c> accounts</c><00:04:02.519><c> which</c><00:04:02.940><c> have</c>
+enabled on all accounts which have
+enabled on all accounts which have
+network<00:04:03.360><c> access</c><00:04:03.659><c> to</c><00:04:04.080><c> cui</c><00:04:04.860><c> that'd</c><00:04:05.159><c> be</c><00:04:05.220><c> another</c>
+network access to cui that'd be another
+network access to cui that'd be another
+good<00:04:05.640><c> answer</c><00:04:05.819><c> both</c><00:04:06.420><c> those</c><00:04:06.599><c> are</c><00:04:06.780><c> acceptable</c>
+good answer both those are acceptable
+good answer both those are acceptable
+now<00:04:07.860><c> final</c><00:04:08.159><c> final</c><00:04:08.519><c> assessment</c><00:04:09.000><c> point</c><00:04:09.120><c> in</c>
+now final final assessment point in
+now final final assessment point in
+terms<00:04:09.480><c> multi-factor</c><00:04:09.959><c> authentication</c>
+terms multi-factor authentication
+terms multi-factor authentication
+implant<00:04:10.739><c> for</c><00:04:10.920><c> network</c><00:04:11.159><c> access</c><00:04:11.519><c> to</c>
+implant for network access to
+implant for network access to
+non-probo's<00:04:12.900><c> accounts</c><00:04:13.200><c> so</c><00:04:13.319><c> if</c><00:04:13.799><c> you're</c><00:04:13.920><c> on</c><00:04:14.040><c> a</c>
+non-probo's accounts so if you're on a
+non-probo's accounts so if you're on a
+network<00:04:14.280><c> let's</c><00:04:14.640><c> say</c><00:04:14.819><c> you're</c><00:04:15.000><c> in</c><00:04:15.060><c> a</c><00:04:15.239><c> domain</c>
+network let's say you're in a domain
+network let's say you're in a domain
+you've<00:04:15.900><c> got</c><00:04:16.019><c> your</c><00:04:16.199><c> computer</c><00:04:16.380><c> you</c><00:04:16.739><c> got</c><00:04:16.919><c> a</c>
+you've got your computer you got a
+you've got your computer you got a
+server<00:04:17.220><c> the</c><00:04:17.400><c> server's</c><00:04:17.639><c> got</c><00:04:17.760><c> cui</c><00:04:18.060><c> on</c><00:04:18.180><c> it</c><00:04:18.479><c> you're</c>
+server the server's got cui on it you're
+server the server's got cui on it you're
+going<00:04:19.199><c> to</c><00:04:19.320><c> need</c><00:04:19.500><c> MFA</c><00:04:20.100><c> in</c><00:04:20.579><c> order</c><00:04:20.760><c> to</c><00:04:21.000><c> open</c><00:04:21.120><c> up</c>
+going to need MFA in order to open up
+going to need MFA in order to open up
+that<00:04:21.479><c> map</c><00:04:21.660><c> network</c><00:04:21.900><c> drive</c><00:04:22.199><c> so</c><00:04:22.440><c> you</c><00:04:22.560><c> can</c><00:04:22.620><c> either</c>
+that map network drive so you can either
+that map network drive so you can either
+do<00:04:22.979><c> it</c><00:04:23.040><c> that</c><00:04:23.220><c> way</c><00:04:23.340><c> you</c><00:04:23.639><c> can</c><00:04:23.759><c> do</c><00:04:23.880><c> MFA</c><00:04:24.240><c> on</c><00:04:24.419><c> sign</c>
+do it that way you can do MFA on sign
+do it that way you can do MFA on sign
+into<00:04:24.720><c> the</c><00:04:24.900><c> computer</c><00:04:25.020><c> whatever</c><00:04:25.620><c> you</c><00:04:25.919><c> want</c><00:04:26.040><c> to</c>
+into the computer whatever you want to
+into the computer whatever you want to
+do<00:04:26.220><c> but</c><00:04:26.400><c> MFA</c><00:04:26.880><c> has</c><00:04:27.120><c> to</c><00:04:27.240><c> be</c><00:04:27.360><c> somewhere</c><00:04:27.600><c> in</c><00:04:27.720><c> the</c>
+do but MFA has to be somewhere in the
+do but MFA has to be somewhere in the
+equation<00:04:28.139><c> before</c><00:04:28.800><c> you</c><00:04:29.100><c> touch</c><00:04:29.280><c> cui</c><00:04:29.940><c> if</c><00:04:30.479><c> it's</c>
+equation before you touch cui if it's
+equation before you touch cui if it's
+over<00:04:30.840><c> the</c><00:04:31.020><c> network</c><00:04:31.199><c> note</c><00:04:31.919><c> that</c><00:04:32.160><c> they</c><00:04:32.340><c> are</c><00:04:32.460><c> not</c>
+over the network note that they are not
+over the network note that they are not
+assessing<00:04:33.000><c> whether</c><00:04:33.120><c> you</c><00:04:33.300><c> have</c><00:04:33.419><c> MFA</c><00:04:33.840><c> on</c><00:04:34.020><c> your</c>
+assessing whether you have MFA on your
+assessing whether you have MFA on your
+local<00:04:34.259><c> machine</c><00:04:34.560><c> or</c><00:04:34.800><c> not</c><00:04:34.979><c> that's</c><00:04:35.460><c> not</c><00:04:35.699><c> an</c>
+local machine or not that's not an
+local machine or not that's not an
+assessment<00:04:36.180><c> point</c><00:04:36.419><c> because</c><00:04:36.900><c> that's</c><00:04:37.259><c> not</c>
+assessment point because that's not
+assessment point because that's not
+right<00:04:37.800><c> again</c><00:04:38.639><c> you</c><00:04:39.120><c> can</c><00:04:39.180><c> have</c><00:04:39.300><c> cui</c><00:04:39.780><c> on</c><00:04:39.900><c> your</c>
+right again you can have cui on your
+right again you can have cui on your
+local<00:04:40.139><c> device</c><00:04:40.440><c> you</c><00:04:41.040><c> can</c><00:04:41.100><c> do</c><00:04:41.280><c> that</c><00:04:41.460><c> you</c><00:04:41.759><c> can</c>
+local device you can do that you can
+local device you can do that you can
+physically<00:04:42.180><c> secure</c><00:04:42.540><c> that</c><00:04:42.780><c> device</c><00:04:43.020><c> which</c><00:04:43.620><c> is</c>
+physically secure that device which is
+physically secure that device which is
+the<00:04:43.919><c> alternative</c><00:04:44.160><c> to</c><00:04:44.340><c> MFA</c><00:04:44.820><c> but</c><00:04:45.600><c> if</c><00:04:46.080><c> it's</c><00:04:46.199><c> okay</c>
+the alternative to MFA but if it's okay
+the alternative to MFA but if it's okay
+what<00:04:46.560><c> over</c><00:04:46.740><c> the</c><00:04:46.860><c> network</c><00:04:46.979><c> or</c><00:04:47.340><c> it's</c><00:04:47.520><c> a</c>
+what over the network or it's a
+what over the network or it's a
+privileged<00:04:47.940><c> account</c><00:04:48.060><c> you</c><00:04:48.479><c> got</c><00:04:48.600><c> to</c><00:04:48.720><c> have</c><00:04:48.780><c> MFA</c>
+privileged account you got to have MFA
+privileged account you got to have MFA
+if<00:04:50.639><c> you're</c><00:04:50.820><c> scratching</c><00:04:51.300><c> your</c><00:04:51.419><c> head</c>
+if you're scratching your head
+if you're scratching your head
+if<00:04:52.560><c> you're</c><00:04:52.620><c> scratching</c><00:04:53.040><c> something</c><00:04:53.160><c> else</c>
+if you're scratching something else
+if you're scratching something else
+and
+and
+and
+you're<00:04:56.220><c> trying</c><00:04:56.400><c> to</c><00:04:56.520><c> figure</c><00:04:56.580><c> out</c><00:04:56.699><c> what</c><00:04:56.880><c> am</c><00:04:57.000><c> I</c>
+you're trying to figure out what am I
+you're trying to figure out what am I
+going<00:04:57.240><c> to</c><00:04:57.300><c> do</c>
+going to do
+going to do
+it's<00:04:58.440><c> not</c><00:04:58.620><c> a</c><00:04:58.860><c> multi-factor</c><00:04:59.280><c> authentication</c>
+it's not a multi-factor authentication
+it's not a multi-factor authentication
+on<00:04:59.880><c> my</c><00:05:00.000><c> network</c><00:05:00.180><c> seems</c><00:05:00.600><c> like</c><00:05:00.720><c> a</c>
+on my network seems like a
+on my network seems like a
+head<00:05:01.919><c> scratcher</c><00:05:02.400><c> a</c><00:05:02.820><c> giant</c><00:05:03.120><c> burden</c><00:05:03.419><c> maybe</c>
+head scratcher a giant burden maybe
+head scratcher a giant burden maybe
+something<00:05:04.080><c> really</c><00:05:04.259><c> tough</c><00:05:04.500><c> to</c><00:05:04.620><c> do</c><00:05:04.800><c> here's</c><00:05:05.639><c> the</c>
+something really tough to do here's the
+something really tough to do here's the
+good<00:05:05.880><c> news</c><00:05:06.139><c> uh</c><00:05:07.139><c> an</c><00:05:07.259><c> on-call</c><00:05:07.680><c> we</c><00:05:07.800><c> work</c><00:05:07.979><c> with</c>
+good news uh an on-call we work with
+good news uh an on-call we work with
+defense<00:05:08.460><c> contractors</c><00:05:09.000><c> just</c><00:05:09.300><c> like</c><00:05:09.419><c> you</c><00:05:09.600><c> who</c>
+defense contractors just like you who
+defense contractors just like you who
+have<00:05:09.960><c> had</c><00:05:10.139><c> this</c><00:05:10.320><c> D</c><00:05:10.500><c> fars</c><00:05:11.040><c> nist</c><00:05:11.880><c> itar</c><00:05:12.540><c> and</c><00:05:12.780><c> cmmc</c>
+have had this D fars nist itar and cmmc
+have had this D fars nist itar and cmmc
+compliance<00:05:13.800><c> stuff</c><00:05:13.979><c> dropped</c><00:05:14.940><c> into</c><00:05:15.060><c> their</c>
+compliance stuff dropped into their
+compliance stuff dropped into their
+lapsed<00:05:15.600><c> like</c><00:05:15.720><c> a</c><00:05:15.900><c> seal</c><00:05:16.139><c> on</c><00:05:16.320><c> a</c><00:05:16.440><c> sunny</c><00:05:16.500><c> day</c><00:05:16.740><c> and</c><00:05:17.460><c> we</c>
+lapsed like a seal on a sunny day and we
+lapsed like a seal on a sunny day and we
+teach<00:05:17.759><c> you</c><00:05:17.880><c> how</c><00:05:18.060><c> to</c><00:05:18.180><c> level</c><00:05:18.300><c> up</c><00:05:18.600><c> and</c><00:05:19.080><c> be</c><00:05:19.259><c> a</c>
+teach you how to level up and be a
+teach you how to level up and be a
+proper<00:05:19.620><c> on-call</c><00:05:19.979><c> compliance</c><00:05:20.340><c> hero</c><00:05:20.580><c> for</c><00:05:20.699><c> your</c>
+proper on-call compliance hero for your
+proper on-call compliance hero for your
+company<00:05:21.060><c> eliminate</c><00:05:21.900><c> any</c><00:05:22.020><c> gaps</c><00:05:22.380><c> gray</c><00:05:22.979><c> areas</c>
+company eliminate any gaps gray areas
+company eliminate any gaps gray areas
+and<00:05:24.120><c> getting</c><00:05:24.360><c> this</c><00:05:24.600><c> solved</c><00:05:25.020><c> all</c><00:05:25.560><c> while</c>
+and getting this solved all while
+and getting this solved all while
+showing<00:05:26.220><c> you</c><00:05:26.400><c> how</c><00:05:27.060><c> to</c><00:05:27.180><c> leverage</c><00:05:27.419><c> compliance</c>
+showing you how to leverage compliance
+showing you how to leverage compliance
+is<00:05:28.080><c> your</c><00:05:28.199><c> secret</c><00:05:28.380><c> weapon</c><00:05:28.740><c> to</c><00:05:28.860><c> land</c><00:05:28.979><c> more</c>
+is your secret weapon to land more
+is your secret weapon to land more
+Defense<00:05:29.520><c> work</c><00:05:29.699><c> with</c><00:05:30.240><c> higher</c><00:05:30.600><c> profit</c><00:05:30.900><c> margins</c>
+Defense work with higher profit margins
+Defense work with higher profit margins
+now<00:05:31.919><c> that</c><00:05:32.280><c> is</c><00:05:32.520><c> what</c><00:05:32.699><c> becoming</c><00:05:33.060><c> an</c><00:05:33.120><c> on-call</c>
+now that is what becoming an on-call
+now that is what becoming an on-call
+compliance<00:05:33.780><c> hero</c><00:05:34.080><c> can</c><00:05:34.199><c> do</c><00:05:34.320><c> for</c><00:05:34.440><c> you</c>
+compliance hero can do for you
+compliance hero can do for you
+and<00:05:35.520><c> if</c><00:05:35.699><c> you</c><00:05:35.820><c> want</c><00:05:35.940><c> more</c><00:05:36.120><c> help</c><00:05:36.419><c> getting</c>
+and if you want more help getting
+and if you want more help getting
+compliant<00:05:37.740><c> our</c><00:05:38.280><c> compliance</c><00:05:38.759><c> experts</c><00:05:39.240><c> are</c>
+compliant our compliance experts are
+compliant our compliance experts are
+always<00:05:39.720><c> on</c><00:05:40.080><c> call</c><00:05:40.320><c> for</c><00:05:40.560><c> you</c><00:05:40.740><c> all</c><00:05:40.919><c> right</c><00:05:41.100><c> visit</c>
+always on call for you all right visit
+always on call for you all right visit
+cmmccompliancecrets.com<00:05:42.960><c> or</c><00:05:43.740><c> check</c><00:05:43.919><c> out</c><00:05:44.039><c> the</c>
+cmmccompliancecrets.com or check out the
+cmmccompliancecrets.com or check out the
+bio<00:05:44.400><c> below</c><00:05:44.699><c> for</c><00:05:44.940><c> links</c><00:05:45.180><c> to</c><00:05:45.300><c> get</c><00:05:45.419><c> help</c><00:05:45.539><c> right</c>
+bio below for links to get help right
+bio below for links to get help right
+now<00:05:45.960><c> if</c><00:05:46.560><c> you</c><00:05:46.680><c> love</c><00:05:46.800><c> the</c><00:05:46.979><c> content</c><00:05:47.220><c> we're</c>
+now if you love the content we're
+now if you love the content we're
+putting<00:05:47.639><c> out</c><00:05:47.699><c> here</c><00:05:47.880><c> for</c><00:05:48.060><c> you</c><00:05:48.180><c> or</c><00:05:48.600><c> my</c>
+putting out here for you or my
+putting out here for you or my
+incredibly<00:05:49.139><c> disgusting</c><00:05:49.560><c> burps</c><00:05:49.919><c> help</c><00:05:50.460><c> us</c><00:05:50.639><c> out</c>
+incredibly disgusting burps help us out
+incredibly disgusting burps help us out
+with<00:05:50.880><c> a</c><00:05:51.000><c> big</c><00:05:51.060><c> thumbs</c><00:05:51.300><c> up</c><00:05:51.360><c> on</c><00:05:51.479><c> that</c><00:05:51.600><c> like</c><00:05:51.780><c> button</c>
+with a big thumbs up on that like button
+with a big thumbs up on that like button
+or<00:05:52.380><c> even</c><00:05:52.560><c> better</c><00:05:52.740><c> smash</c><00:05:53.460><c> the</c><00:05:53.580><c> Subscribe</c>
+or even better smash the Subscribe
+or even better smash the Subscribe
+button<00:05:54.120><c> to</c><00:05:54.240><c> get</c><00:05:54.360><c> the</c><00:05:54.479><c> latest</c><00:05:54.600><c> compliance</c><00:05:55.139><c> help</c>
+button to get the latest compliance help
+button to get the latest compliance help
+as<00:05:56.039><c> soon</c><00:05:56.220><c> as</c><00:05:56.280><c> our</c><00:05:56.460><c> compliances</c><00:05:56.940><c> roll</c><00:05:57.180><c> it</c><00:05:57.360><c> out</c>
+as soon as our compliances roll it out
+as soon as our compliances roll it out
+until<00:05:57.840><c> the</c><00:05:58.139><c> next</c><00:05:58.199><c> compliance</c><00:05:58.620><c> tip</c><00:05:58.860><c> my</c><00:05:58.979><c> friends</c>
+until the next compliance tip my friends
+until the next compliance tip my friends
+stay<00:05:59.699><c> safe</c><00:05:59.940><c> and</c><00:06:00.120><c> secure</c><00:06:00.360><c> out</c><00:06:00.539><c> there</c><00:06:00.720><c> and</c><00:06:01.199><c> hit</c>
+stay safe and secure out there and hit
+stay safe and secure out there and hit
+us<00:06:01.500><c> in</c><00:06:01.560><c> the</c><00:06:01.680><c> comments</c><00:06:01.860><c> below</c><00:06:02.039><c> to</c><00:06:02.160><c> let</c><00:06:02.280><c> us</c><00:06:02.400><c> know</c>
+us in the comments below to let us know
+us in the comments below to let us know
+what<00:06:02.580><c> you'd</c><00:06:02.759><c> like</c><00:06:02.880><c> to</c><00:06:03.000><c> know</c><00:06:03.120><c> more</c><00:06:03.240><c> about</c><00:06:03.419><c> when</c>
+what you'd like to know more about when
+what you'd like to know more about when
+it<00:06:03.960><c> comes</c><00:06:04.080><c> to</c><00:06:04.199><c> information</c><00:06:04.380><c> security</c><00:06:04.800><c> and</c>
+it comes to information security and
+it comes to information security and
+compliance<00:06:05.580><c> I'll</c><00:06:06.000><c> see</c><00:06:06.180><c> you</c><00:06:06.300><c> on</c><00:06:06.360><c> the</c><00:06:06.479><c> next</c><00:06:06.600><c> one</c>
+compliance I'll see you on the next one
+compliance I'll see you on the next one
+[Music]
+thank<00:06:15.720><c> you</c>
+thank you
+thank you
+[Music]

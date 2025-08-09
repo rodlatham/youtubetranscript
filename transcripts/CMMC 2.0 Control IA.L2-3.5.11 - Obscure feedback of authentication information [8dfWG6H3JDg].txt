@@ -1,0 +1,359 @@
+Kind: captions
+Language: en
+hey<00:00:00.420><c> everybody</c><00:00:00.599><c> it's</c><00:00:00.840><c> Mike</c><00:00:01.020><c> frieder</c><00:00:01.439><c> here</c>
+hey everybody it's Mike frieder here
+hey everybody it's Mike frieder here
+with<00:00:01.620><c> on-call</c><00:00:01.920><c> compliance</c><00:00:02.340><c> Solutions</c><00:00:02.520><c> and</c>
+with on-call compliance Solutions and
+with on-call compliance Solutions and
+I'm<00:00:02.879><c> back</c><00:00:03.060><c> with</c><00:00:03.179><c> another</c><00:00:03.300><c> compliance</c><00:00:03.780><c> tip</c><00:00:03.959><c> of</c>
+I'm back with another compliance tip of
+I'm back with another compliance tip of
+the<00:00:04.140><c> week</c><00:00:04.259><c> you</c><00:00:04.440><c> know</c><00:00:04.560><c> my</c><00:00:04.740><c> favorite</c><00:00:04.860><c> thing</c><00:00:05.040><c> is</c>
+the week you know my favorite thing is
+the week you know my favorite thing is
+so<00:00:05.759><c> we</c><00:00:05.819><c> have</c><00:00:05.940><c> a</c><00:00:06.060><c> remote</c><00:00:06.180><c> control</c><00:00:06.420><c> to</c><00:00:06.720><c> this</c>
+so we have a remote control to this
+so we have a remote control to this
+camera<00:00:07.020><c> right</c><00:00:07.319><c> and</c><00:00:07.740><c> when</c><00:00:07.980><c> we</c><00:00:08.099><c> remote</c><00:00:08.400><c> control</c>
+camera right and when we remote control
+camera right and when we remote control
+the<00:00:08.940><c> camera</c><00:00:09.059><c> so</c><00:00:09.300><c> it</c><00:00:09.420><c> doesn't</c><00:00:09.540><c> shake</c><00:00:09.960><c> right</c><00:00:10.440><c> so</c>
+the camera so it doesn't shake right so
+the camera so it doesn't shake right so
+it<00:00:10.860><c> doesn't</c><00:00:10.980><c> do</c><00:00:11.700><c> the</c><00:00:12.000><c> right</c><00:00:12.300><c> so</c><00:00:12.599><c> it</c><00:00:12.719><c> doesn't</c>
+it doesn't do the right so it doesn't
+it doesn't do the right so it doesn't
+shake<00:00:13.259><c> right</c><00:00:13.860><c> and</c><00:00:14.580><c> what</c><00:00:14.880><c> I've</c><00:00:15.000><c> noticed</c><00:00:15.480><c> is</c>
+shake right and what I've noticed is
+shake right and what I've noticed is
+that<00:00:16.020><c> our</c><00:00:16.320><c> our</c><00:00:16.500><c> camera</c><00:00:16.740><c> guy</c><00:00:17.119><c> he</c><00:00:18.119><c> will</c><00:00:18.359><c> really</c>
+that our our camera guy he will really
+that our our camera guy he will really
+hit<00:00:19.500><c> that</c><00:00:19.680><c> record</c><00:00:19.859><c> button</c><00:00:20.279><c> with</c><00:00:20.400><c> gusto</c><00:00:20.880><c> in</c><00:00:21.060><c> the</c>
+hit that record button with gusto in the
+hit that record button with gusto in the
+background<00:00:21.480><c> so</c><00:00:21.720><c> he</c><00:00:21.960><c> like</c><00:00:22.080><c> throws</c><00:00:22.380><c> it</c><00:00:22.500><c> down</c>
+background so he like throws it down
+background so he like throws it down
+like<00:00:22.740><c> it's</c><00:00:22.920><c> a</c><00:00:23.100><c> baseball</c><00:00:23.220><c> bat</c>
+like it's a baseball bat
+like it's a baseball bat
+and<00:00:24.840><c> I</c><00:00:25.019><c> don't</c><00:00:25.140><c> know</c><00:00:25.320><c> if</c><00:00:25.380><c> it</c><00:00:25.500><c> helps</c><00:00:25.740><c> the</c><00:00:25.800><c> camera</c>
+and I don't know if it helps the camera
+and I don't know if it helps the camera
+come<00:00:26.160><c> on</c><00:00:26.279><c> any</c><00:00:26.460><c> faster</c><00:00:26.760><c> but</c><00:00:27.300><c> it's</c><00:00:27.420><c> pretty</c><00:00:27.599><c> funny</c>
+come on any faster but it's pretty funny
+come on any faster but it's pretty funny
+to<00:00:28.019><c> watch</c><00:00:28.140><c> all</c><00:00:28.680><c> right</c><00:00:28.800><c> this</c><00:00:29.099><c> week</c><00:00:29.279><c> we're</c>
+to watch all right this week we're
+to watch all right this week we're
+talking<00:00:29.580><c> about</c><00:00:29.699><c> cmmc</c><00:00:30.300><c> control</c>
+talking about cmmc control
+talking about cmmc control
+ia.l2-3.5.11<00:00:33.000><c> obscure</c><00:00:33.899><c> feedback</c><00:00:34.260><c> of</c>
+ia.l2-3.5.11 obscure feedback of
+ia.l2-3.5.11 obscure feedback of
+authentication<00:00:34.980><c> information</c><00:00:35.219><c> whatever</c><00:00:36.059><c> the</c>
+authentication information whatever the
+authentication information whatever the
+world<00:00:36.540><c> obscure</c><00:00:36.960><c> means</c><00:00:37.320><c> I'm</c><00:00:37.440><c> gonna</c><00:00:37.500><c> have</c><00:00:37.680><c> to</c>
+world obscure means I'm gonna have to
+world obscure means I'm gonna have to
+dictionary<00:00:38.160><c> it</c><00:00:38.399><c> while</c><00:00:38.760><c> I</c><00:00:38.880><c> play</c><00:00:39.059><c> you</c><00:00:39.180><c> this</c>
+dictionary it while I play you this
+dictionary it while I play you this
+awesome<00:00:39.600><c> intro</c>
+awesome intro
+awesome intro
+[Music]
+[Music]
+[Music]
+say<00:00:50.340><c> hey</c><00:00:50.460><c> if</c><00:00:50.579><c> you're</c><00:00:50.700><c> a</c><00:00:50.820><c> defense</c><00:00:51.059><c> contractor</c>
+say hey if you're a defense contractor
+say hey if you're a defense contractor
+who's<00:00:51.539><c> feeling</c><00:00:51.780><c> overwhelmed</c><00:00:52.379><c> tired</c><00:00:52.860><c> and</c>
+who's feeling overwhelmed tired and
+who's feeling overwhelmed tired and
+alone<00:00:53.100><c> trying</c><00:00:53.520><c> to</c><00:00:53.640><c> understand</c><00:00:53.760><c> all</c><00:00:54.120><c> this</c><00:00:54.239><c> cmmc</c>
+alone trying to understand all this cmmc
+alone trying to understand all this cmmc
+dfars<00:00:55.800><c> and</c><00:00:55.860><c> nist</c><00:00:56.039><c> sp-800</c><00:00:56.579><c> 171</c><00:00:57.059><c> compliance</c>
+dfars and nist sp-800 171 compliance
+dfars and nist sp-800 171 compliance
+stuff<00:00:57.660><c> on</c><00:00:58.199><c> top</c><00:00:58.379><c> of</c><00:00:58.500><c> an</c><00:00:58.680><c> already</c><00:00:58.800><c> colossal</c>
+stuff on top of an already colossal
+stuff on top of an already colossal
+workload<00:00:59.699><c> well</c><00:01:00.000><c> I've</c><00:01:00.180><c> got</c><00:01:00.300><c> great</c><00:01:00.420><c> news</c><00:01:00.660><c> for</c>
+workload well I've got great news for
+workload well I've got great news for
+you<00:01:00.960><c> you</c><00:01:01.199><c> found</c><00:01:01.379><c> your</c><00:01:01.559><c> home</c><00:01:01.680><c> here</c><00:01:01.860><c> in</c><00:01:01.980><c> on-call</c>
+you you found your home here in on-call
+you you found your home here in on-call
+compliance<00:01:02.760><c> Solutions</c><00:01:03.059><c> we</c><00:01:03.480><c> can</c><00:01:03.660><c> help</c><00:01:03.780><c> you</c>
+compliance Solutions we can help you
+compliance Solutions we can help you
+transform<00:01:04.379><c> into</c><00:01:04.619><c> your</c><00:01:04.860><c> company's</c><00:01:05.159><c> on-call</c>
+transform into your company's on-call
+transform into your company's on-call
+compliance<00:01:06.060><c> Hero</c><00:01:06.360><c> Let's</c><00:01:06.840><c> jump</c><00:01:07.020><c> into</c><00:01:07.200><c> it</c><00:01:07.460><c> cmmc</c>
+compliance Hero Let's jump into it cmmc
+compliance Hero Let's jump into it cmmc
+control<00:01:08.640><c> ia.l</c>
+control ia.l
+control ia.l
+2-3.5.11<00:01:11.360><c> obscure</c><00:01:12.360><c> feedback</c><00:01:12.720><c> of</c>
+2-3.5.11 obscure feedback of
+2-3.5.11 obscure feedback of
+authentication<00:01:13.439><c> information</c><00:01:13.760><c> you</c><00:01:14.760><c> know</c>
+authentication information you know
+authentication information you know
+sometimes<00:01:15.540><c> I</c><00:01:15.900><c> think</c><00:01:16.080><c> to</c><00:01:16.260><c> myself</c><00:01:16.380><c> man</c><00:01:17.159><c> they</c>
+sometimes I think to myself man they
+sometimes I think to myself man they
+probably<00:01:18.000><c> could</c><00:01:18.240><c> have</c><00:01:18.360><c> worded</c><00:01:18.720><c> these</c>
+probably could have worded these
+probably could have worded these
+controls<00:01:19.320><c> a</c><00:01:19.619><c> little</c><00:01:19.740><c> bit</c><00:01:19.860><c> better</c><00:01:19.979><c> than</c><00:01:20.159><c> this</c>
+controls a little bit better than this
+controls a little bit better than this
+but<00:01:21.180><c> maybe</c><00:01:21.600><c> they</c><00:01:21.840><c> couldn't</c><00:01:21.960><c> have</c><00:01:22.200><c> maybe</c>
+but maybe they couldn't have maybe
+but maybe they couldn't have maybe
+obscure<00:01:23.400><c> is</c><00:01:24.119><c> an</c><00:01:24.360><c> obscure</c><00:01:24.720><c> word</c><00:01:24.960><c> maybe</c><00:01:25.560><c> I</c><00:01:25.799><c> just</c>
+obscure is an obscure word maybe I just
+obscure is an obscure word maybe I just
+don't<00:01:25.979><c> like</c><00:01:26.100><c> the</c><00:01:26.280><c> word</c><00:01:26.400><c> obscure</c><00:01:27.060><c> like</c><00:01:27.600><c> I</c><00:01:28.020><c> don't</c>
+don't like the word obscure like I don't
+don't like the word obscure like I don't
+like<00:01:28.200><c> the</c><00:01:28.320><c> word</c><00:01:28.439><c> moist</c><00:01:28.920><c> there's</c><00:01:29.700><c> just</c>
+like the word moist there's just
+like the word moist there's just
+something<00:01:30.060><c> weird</c><00:01:30.299><c> about</c><00:01:30.540><c> the</c><00:01:30.780><c> word</c><00:01:30.840><c> moist</c>
+something weird about the word moist
+something weird about the word moist
+like<00:01:31.680><c> if</c><00:01:31.799><c> you</c><00:01:31.920><c> say</c><00:01:32.040><c> it</c><00:01:32.159><c> three</c><00:01:32.340><c> times</c><00:01:32.460><c> fast</c>
+like if you say it three times fast
+like if you say it three times fast
+it<00:01:33.960><c> sounds</c><00:01:34.200><c> weird</c>
+it sounds weird
+it sounds weird
+anyway<00:01:35.579><c> obscure</c><00:01:36.420><c> is</c><00:01:36.600><c> kind</c><00:01:36.720><c> of</c><00:01:36.780><c> a</c><00:01:36.900><c> weird</c><00:01:37.020><c> word</c>
+anyway obscure is kind of a weird word
+anyway obscure is kind of a weird word
+that's<00:01:37.920><c> where</c><00:01:38.159><c> I'm</c><00:01:38.280><c> going</c><00:01:38.460><c> with</c><00:01:38.640><c> this</c>
+that's where I'm going with this
+that's where I'm going with this
+if<00:01:40.200><c> you</c><00:01:40.380><c> went</c><00:01:40.500><c> somewhere</c><00:01:40.860><c> else</c>
+if you went somewhere else
+if you went somewhere else
+it's<00:01:42.360><c> not</c><00:01:42.540><c> my</c><00:01:42.720><c> fault</c>
+it's not my fault
+it's not my fault
+what<00:01:44.280><c> this</c><00:01:44.400><c> control</c><00:01:44.579><c> is</c><00:01:44.880><c> really</c><00:01:45.119><c> referring</c><00:01:45.540><c> to</c>
+what this control is really referring to
+what this control is really referring to
+is<00:01:46.380><c> when</c><00:01:46.860><c> you</c><00:01:47.040><c> are</c><00:01:47.159><c> typing</c><00:01:47.520><c> in</c><00:01:47.640><c> your</c><00:01:47.880><c> password</c>
+is when you are typing in your password
+is when you are typing in your password
+you<00:01:48.780><c> should</c><00:01:48.960><c> not</c><00:01:49.200><c> just</c><00:01:49.380><c> be</c><00:01:49.560><c> able</c><00:01:49.799><c> to</c><00:01:49.920><c> see</c><00:01:50.100><c> the</c>
+you should not just be able to see the
+you should not just be able to see the
+typed<00:01:50.820><c> in</c><00:01:50.880><c> password</c><00:01:51.119><c> okay</c><00:01:51.840><c> you</c><00:01:52.500><c> should</c><00:01:52.619><c> see</c>
+typed in password okay you should see
+typed in password okay you should see
+dots<00:01:53.399><c> or</c><00:01:54.180><c> asterisks</c><00:01:54.960><c> or</c><00:01:55.619><c> emojis</c><00:01:56.159><c> or</c><00:01:56.939><c> anything</c>
+dots or asterisks or emojis or anything
+dots or asterisks or emojis or anything
+but<00:01:57.659><c> the</c><00:01:57.899><c> password</c><00:01:58.079><c> in</c><00:01:58.860><c> case</c><00:01:59.040><c> someone</c>
+is<00:02:03.240><c> looking</c><00:02:03.479><c> over</c><00:02:03.659><c> your</c><00:02:03.840><c> shoulder</c><00:02:04.159><c> or</c><00:02:05.159><c> through</c>
+is looking over your shoulder or through
+is looking over your shoulder or through
+a<00:02:05.640><c> screen</c><00:02:05.759><c> share</c>
+a screen share
+a screen share
+like<00:02:07.320><c> some</c><00:02:08.039><c> creepy</c><00:02:08.459><c> tech</c><00:02:08.640><c> support</c><00:02:08.880><c> guy</c>
+I<00:02:12.720><c> don't</c><00:02:12.780><c> know</c><00:02:12.900><c> any</c><00:02:13.020><c> of</c><00:02:13.140><c> those</c><00:02:13.739><c> the</c><00:02:14.220><c> idea</c><00:02:14.520><c> is</c><00:02:14.760><c> no</c>
+I don't know any of those the idea is no
+I don't know any of those the idea is no
+looky-loos<00:02:16.020><c> should</c><00:02:16.800><c> be</c><00:02:17.040><c> able</c><00:02:17.160><c> I</c><00:02:17.760><c> should</c><00:02:18.000><c> be</c>
+looky-loos should be able I should be
+looky-loos should be able I should be
+able<00:02:18.239><c> to</c><00:02:18.300><c> get</c><00:02:18.420><c> these</c><00:02:18.660><c> damn</c><00:02:19.200><c> it</c><00:02:19.440><c> ah</c><00:02:20.340><c> but</c><00:02:20.940><c> we're</c>
+able to get these damn it ah but we're
+able to get these damn it ah but we're
+not<00:02:21.239><c> editing</c><00:02:21.480><c> this</c><00:02:21.660><c> tape</c><00:02:21.900><c> because</c><00:02:22.020><c> we</c><00:02:22.140><c> don't</c>
+not editing this tape because we don't
+not editing this tape because we don't
+do<00:02:22.319><c> that</c><00:02:22.440><c> here</c><00:02:22.620><c> on</c><00:02:22.800><c> this</c><00:02:22.920><c> channel</c><00:02:23.040><c> way</c><00:02:23.520><c> too</c>
+do that here on this channel way too
+do that here on this channel way too
+lazy<00:02:24.060><c> for</c><00:02:24.239><c> that</c>
+lazy for that
+lazy for that
+but<00:02:25.319><c> lookie</c><00:02:25.620><c> lose</c><00:02:25.800><c> is</c><00:02:25.980><c> a</c><00:02:26.099><c> really</c><00:02:26.220><c> funny</c><00:02:26.400><c> word</c>
+but lookie lose is a really funny word
+but lookie lose is a really funny word
+from<00:02:27.540><c> the</c><00:02:27.660><c> 70s</c><00:02:28.080><c> might</c><00:02:28.440><c> have</c><00:02:28.620><c> been</c><00:02:28.680><c> the</c><00:02:28.860><c> 60s</c><00:02:29.160><c> I</c>
+from the 70s might have been the 60s I
+from the 70s might have been the 60s I
+don't<00:02:30.120><c> know</c><00:02:30.239><c> I</c><00:02:30.420><c> wasn't</c><00:02:30.540><c> born</c><00:02:30.780><c> until</c><00:02:30.959><c> the</c><00:02:31.140><c> 80s</c>
+don't know I wasn't born until the 80s
+don't know I wasn't born until the 80s
+so<00:02:31.680><c> I</c><00:02:31.860><c> couldn't</c><00:02:32.040><c> tell</c><00:02:32.280><c> you</c><00:02:32.400><c> but</c><00:02:32.819><c> the</c><00:02:32.940><c> idea</c><00:02:33.180><c> is</c>
+so I couldn't tell you but the idea is
+so I couldn't tell you but the idea is
+no<00:02:33.480><c> looky</c><00:02:33.840><c> loose</c><00:02:34.080><c> should</c><00:02:34.560><c> be</c><00:02:34.680><c> able</c><00:02:34.800><c> to</c><00:02:34.920><c> get</c>
+no looky loose should be able to get
+no looky loose should be able to get
+your<00:02:35.160><c> passwords</c><00:02:35.700><c> especially</c><00:02:36.420><c> in</c><00:02:36.540><c> systems</c>
+your passwords especially in systems
+your passwords especially in systems
+which<00:02:37.140><c> contain</c><00:02:37.440><c> cui</c><00:02:38.099><c> now</c><00:02:38.819><c> let's</c><00:02:39.000><c> see</c><00:02:39.120><c> what</c><00:02:39.239><c> the</c>
+which contain cui now let's see what the
+which contain cui now let's see what the
+assessors<00:02:39.720><c> are</c><00:02:39.840><c> looking</c><00:02:39.959><c> for</c><00:02:40.080><c> on</c><00:02:40.260><c> that</c><00:02:40.440><c> one</c>
+assessors are looking for on that one
+assessors are looking for on that one
+uh<00:02:42.180><c> uh</c><00:02:42.420><c> well</c><00:02:42.599><c> the</c><00:02:42.780><c> good</c><00:02:42.900><c> news</c><00:02:43.019><c> is</c><00:02:43.140><c> they're</c><00:02:43.260><c> not</c>
+uh uh well the good news is they're not
+uh uh well the good news is they're not
+looking<00:02:43.560><c> for</c><00:02:43.739><c> much</c><00:02:43.920><c> there's</c><00:02:44.099><c> only</c><00:02:44.280><c> one</c>
+looking for much there's only one
+looking for much there's only one
+assessment<00:02:44.819><c> Point</c><00:02:45.000><c> here</c><00:02:45.180><c> determine</c><00:02:46.019><c> if</c>
+assessment Point here determine if
+assessment Point here determine if
+authentication<00:02:46.739><c> information</c><00:02:46.980><c> is</c><00:02:47.459><c> obscured</c>
+authentication information is obscured
+authentication information is obscured
+during<00:02:48.420><c> the</c><00:02:48.660><c> authentication</c><00:02:49.140><c> process</c>
+during the authentication process
+during the authentication process
+duh<00:02:51.000><c> all</c><00:02:51.360><c> right</c><00:02:51.480><c> implement</c><00:02:52.080><c> it</c><00:02:52.260><c> as</c>
+duh all right implement it as
+duh all right implement it as
+authentication<00:02:52.920><c> information</c><00:02:53.160><c> is</c><00:02:53.459><c> entered</c><00:02:53.819><c> it</c>
+authentication information is entered it
+authentication information is entered it
+is<00:02:54.180><c> obscured</c><00:02:54.599><c> by</c><00:02:54.720><c> generic</c><00:02:55.080><c> characters</c><00:02:55.260><c> during</c>
+is obscured by generic characters during
+is obscured by generic characters during
+the<00:02:55.680><c> authentication</c><00:02:56.099><c> process</c><00:02:56.519><c> and</c><00:02:56.819><c> basically</c>
+the authentication process and basically
+the authentication process and basically
+this<00:02:57.300><c> is</c><00:02:57.420><c> another</c><00:02:57.480><c> one</c><00:02:57.720><c> of</c><00:02:57.840><c> those</c><00:02:57.900><c> sort</c><00:02:58.080><c> of</c>
+this is another one of those sort of
+this is another one of those sort of
+demonstration<00:02:58.680><c> controls</c><00:02:59.280><c> you</c><00:02:59.879><c> could</c><00:03:00.060><c> write</c>
+demonstration controls you could write
+demonstration controls you could write
+the<00:03:00.300><c> answer</c><00:03:00.480><c> all</c><00:03:00.660><c> you</c><00:03:00.840><c> want</c><00:03:00.959><c> and</c><00:03:01.140><c> you</c><00:03:01.260><c> will</c>
+the answer all you want and you will
+the answer all you want and you will
+right<00:03:01.739><c> there's</c><00:03:02.280><c> the</c><00:03:02.580><c> answer</c><00:03:02.700><c> but</c><00:03:03.360><c> ultimately</c>
+right there's the answer but ultimately
+right there's the answer but ultimately
+we're<00:03:04.019><c> going</c><00:03:04.200><c> to</c><00:03:04.319><c> wind</c><00:03:04.500><c> up</c>
+we're going to wind up
+we're going to wind up
+um<00:03:05.420><c> uh</c><00:03:06.420><c> showing</c><00:03:06.900><c> an</c><00:03:07.080><c> assessor</c><00:03:07.500><c> how</c><00:03:07.680><c> this</c><00:03:07.800><c> works</c>
+um uh showing an assessor how this works
+um uh showing an assessor how this works
+so<00:03:09.300><c> hey</c><00:03:09.480><c> and</c><00:03:09.660><c> on</c><00:03:09.840><c> call</c><00:03:10.019><c> we</c><00:03:10.319><c> work</c><00:03:10.379><c> with</c><00:03:10.560><c> defense</c>
+so hey and on call we work with defense
+so hey and on call we work with defense
+contractors<00:03:11.400><c> just</c><00:03:11.760><c> like</c><00:03:11.879><c> you</c><00:03:12.060><c> who</c><00:03:12.239><c> have</c><00:03:12.360><c> had</c>
+contractors just like you who have had
+contractors just like you who have had
+this<00:03:12.720><c> dfar's</c><00:03:13.319><c> nist</c><00:03:13.620><c> itar</c><00:03:14.159><c> and</c><00:03:14.280><c> cmmc</c>
+this dfar's nist itar and cmmc
+this dfar's nist itar and cmmc
+compliance<00:03:15.239><c> stuff</c><00:03:15.420><c> dropped</c><00:03:16.080><c> into</c><00:03:16.200><c> the</c><00:03:16.440><c> laps</c>
+compliance stuff dropped into the laps
+compliance stuff dropped into the laps
+like<00:03:16.860><c> I</c><00:03:16.980><c> see</c><00:03:17.099><c> you</c><00:03:17.280><c> on</c><00:03:17.400><c> a</c><00:03:17.519><c> sunny</c><00:03:17.580><c> day</c><00:03:17.819><c> baby</c><00:03:18.060><c> we</c>
+like I see you on a sunny day baby we
+like I see you on a sunny day baby we
+teach<00:03:18.840><c> you</c><00:03:18.959><c> how</c><00:03:19.140><c> to</c><00:03:19.200><c> level</c><00:03:19.319><c> up</c><00:03:19.500><c> and</c><00:03:19.620><c> be</c><00:03:19.739><c> a</c>
+teach you how to level up and be a
+teach you how to level up and be a
+proper<00:03:20.099><c> on-call</c><00:03:20.459><c> compliance</c><00:03:20.819><c> hero</c><00:03:21.120><c> for</c><00:03:21.239><c> your</c>
+proper on-call compliance hero for your
+proper on-call compliance hero for your
+company<00:03:21.540><c> eliminating</c><00:03:22.260><c> gaps</c><00:03:22.680><c> great</c><00:03:22.860><c> areas</c><00:03:23.220><c> and</c>
+company eliminating gaps great areas and
+company eliminating gaps great areas and
+getting<00:03:23.700><c> this</c><00:03:24.000><c> solved</c><00:03:24.420><c> all</c><00:03:24.900><c> while</c><00:03:25.080><c> showing</c>
+getting this solved all while showing
+getting this solved all while showing
+you<00:03:25.560><c> how</c><00:03:25.800><c> to</c><00:03:25.920><c> leverage</c><00:03:26.220><c> compliance</c><00:03:26.819><c> is</c><00:03:27.000><c> your</c>
+you how to leverage compliance is your
+you how to leverage compliance is your
+secret<00:03:27.480><c> weapon</c><00:03:27.900><c> so</c><00:03:28.260><c> I</c><00:03:28.440><c> have</c><00:03:28.500><c> more</c><00:03:28.620><c> Defense</c>
+secret weapon so I have more Defense
+secret weapon so I have more Defense
+work<00:03:29.099><c> with</c><00:03:29.459><c> higher</c><00:03:29.760><c> profit</c><00:03:30.060><c> margins</c><00:03:30.480><c> now</c><00:03:30.780><c> that</c>
+work with higher profit margins now that
+work with higher profit margins now that
+is<00:03:31.260><c> what</c><00:03:31.440><c> becoming</c><00:03:31.739><c> an</c><00:03:31.920><c> on-call</c><00:03:32.220><c> compliance</c>
+is what becoming an on-call compliance
+is what becoming an on-call compliance
+hero<00:03:32.879><c> can</c><00:03:33.000><c> do</c><00:03:33.060><c> for</c><00:03:33.239><c> you</c><00:03:33.360><c> if</c><00:03:33.900><c> you're</c><00:03:34.019><c> looking</c>
+hero can do for you if you're looking
+hero can do for you if you're looking
+for<00:03:34.319><c> more</c><00:03:34.500><c> help</c><00:03:34.680><c> getting</c><00:03:34.860><c> compliant</c><00:03:35.340><c> our</c>
+for more help getting compliant our
+for more help getting compliant our
+compliance<00:03:35.940><c> experts</c><00:03:36.300><c> are</c><00:03:36.420><c> always</c><00:03:36.540><c> on</c><00:03:36.720><c> call</c>
+compliance experts are always on call
+compliance experts are always on call
+for<00:03:37.140><c> you</c><00:03:37.260><c> visit</c><00:03:37.440><c> cmmc</c><00:03:38.099><c> compliance</c>
+for you visit cmmc compliance
+for you visit cmmc compliance
+secrets.com<00:03:38.940><c> or</c><00:03:39.480><c> check</c><00:03:39.659><c> out</c><00:03:39.780><c> the</c><00:03:39.959><c> bio</c><00:03:40.140><c> below</c>
+secrets.com or check out the bio below
+secrets.com or check out the bio below
+for<00:03:40.620><c> links</c><00:03:40.860><c> to</c><00:03:40.980><c> get</c><00:03:41.040><c> help</c><00:03:41.220><c> right</c><00:03:41.459><c> now</c><00:03:41.640><c> if</c><00:03:42.180><c> you</c>
+for links to get help right now if you
+for links to get help right now if you
+love<00:03:42.480><c> the</c><00:03:42.599><c> content</c><00:03:42.840><c> we're</c><00:03:42.959><c> putting</c><00:03:43.140><c> out</c><00:03:43.260><c> here</c>
+love the content we're putting out here
+love the content we're putting out here
+for<00:03:43.560><c> you</c><00:03:43.680><c> help</c><00:03:44.099><c> us</c><00:03:44.220><c> out</c><00:03:44.400><c> with</c><00:03:44.519><c> a</c><00:03:44.700><c> big</c><00:03:44.760><c> thumbs</c><00:03:45.000><c> up</c>
+for you help us out with a big thumbs up
+for you help us out with a big thumbs up
+on<00:03:45.239><c> that</c><00:03:45.360><c> like</c><00:03:45.480><c> button</c><00:03:45.780><c> or</c><00:03:46.200><c> even</c><00:03:46.319><c> better</c><00:03:46.560><c> smash</c>
+on that like button or even better smash
+on that like button or even better smash
+the<00:03:47.459><c> Subscribe</c><00:03:47.760><c> button</c><00:03:48.000><c> to</c><00:03:48.060><c> get</c><00:03:48.180><c> the</c><00:03:48.299><c> latest</c>
+the Subscribe button to get the latest
+the Subscribe button to get the latest
+compliance<00:03:48.900><c> content</c><00:03:49.200><c> as</c><00:03:49.500><c> soon</c><00:03:49.620><c> as</c><00:03:49.739><c> our</c>
+compliance content as soon as our
+compliance content as soon as our
+compliance<00:03:50.220><c> starts</c><00:03:50.519><c> roll</c><00:03:50.640><c> it</c><00:03:50.819><c> out</c><00:03:50.940><c> until</c><00:03:51.420><c> next</c>
+compliance starts roll it out until next
+compliance starts roll it out until next
+compliance<00:03:52.140><c> tip</c><00:03:52.379><c> my</c><00:03:52.560><c> friends</c><00:03:52.620><c> stay</c><00:03:53.040><c> safe</c><00:03:53.280><c> and</c>
+compliance tip my friends stay safe and
+compliance tip my friends stay safe and
+secure<00:03:53.760><c> out</c><00:03:53.940><c> there</c><00:03:54.120><c> and</c><00:03:54.599><c> hit</c><00:03:54.780><c> us</c><00:03:54.900><c> in</c><00:03:55.019><c> the</c>
+secure out there and hit us in the
+secure out there and hit us in the
+comments<00:03:55.319><c> below</c><00:03:55.500><c> to</c><00:03:55.620><c> let</c><00:03:55.799><c> us</c><00:03:55.860><c> know</c><00:03:55.980><c> what</c><00:03:56.099><c> you'd</c>
+comments below to let us know what you'd
+comments below to let us know what you'd
+like<00:03:56.400><c> to</c><00:03:56.519><c> know</c><00:03:56.640><c> more</c><00:03:56.819><c> about</c><00:03:57.000><c> when</c><00:03:57.420><c> it</c><00:03:57.540><c> comes</c><00:03:57.720><c> to</c>
+like to know more about when it comes to
+like to know more about when it comes to
+information<00:03:57.959><c> security</c><00:03:58.379><c> and</c><00:03:58.739><c> compliance</c><00:03:59.220><c> I'll</c>
+information security and compliance I'll
+information security and compliance I'll
+see<00:03:59.940><c> you</c><00:04:00.000><c> on</c><00:04:00.120><c> the</c><00:04:00.239><c> next</c><00:04:00.360><c> one</c>
+see you on the next one
+see you on the next one
+[Music]
+[Music]
+[Music]
+thank<00:04:09.120><c> you</c>
