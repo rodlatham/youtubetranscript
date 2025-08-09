@@ -1,0 +1,711 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmc control cm.l2-3.4.8
+
+apply deny by exception blacklisting
+
+apply deny by exception blacklisting
+
+apply deny by exception blacklisting
+policy to prevent the use of
+
+policy to prevent the use of
+
+policy to prevent the use of
+unauthorized software or deny all permit
+
+unauthorized software or deny all permit
+
+unauthorized software or deny all permit
+by exception white listing policy to
+
+by exception white listing policy to
+
+by exception white listing policy to
+allow the execution of authorized
+
+allow the execution of authorized
+
+allow the execution of authorized
+software
+
+software
+
+software
+
+okay
+
+okay
+
+okay
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 800 171 compliant
+
+dfars and nist SP 800 171 compliant
+
+dfars and nist SP 800 171 compliant
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I've got great news for
+
+workload well I've got great news for
+
+workload well I've got great news for
+you you found your home here at on-call
+
+you you found your home here at on-call
+
+you you found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it cmmc control
+
+it cmmc control
+
+it cmmc control
+cm.l2-3.4.8 apply deny by exception
+
+cm.l2-3.4.8 apply deny by exception
+
+cm.l2-3.4.8 apply deny by exception
+blacklisting policy to prevent the use
+
+blacklisting policy to prevent the use
+
+blacklisting policy to prevent the use
+of unauthorized software or deny all
+
+of unauthorized software or deny all
+
+of unauthorized software or deny all
+permit by exception wait listing policy
+
+permit by exception wait listing policy
+
+permit by exception wait listing policy
+to allow the execution of authorized
+
+to allow the execution of authorized
+
+to allow the execution of authorized
+software okay so here we really uh are
+
+software okay so here we really uh are
+
+software okay so here we really uh are
+getting into some of the hard
+
+getting into some of the hard
+
+getting into some of the hard
+requirements where they don't give you
+
+requirements where they don't give you
+
+requirements where they don't give you
+so much leeway and how the system is
+
+so much leeway and how the system is
+
+so much leeway and how the system is
+configured right so they're sort of
+
+configured right so they're sort of
+
+configured right so they're sort of
+setting some hard requirements on this
+
+setting some hard requirements on this
+
+setting some hard requirements on this
+one you must either Blacklist or
+
+one you must either Blacklist or
+
+one you must either Blacklist or
+whitelist software many ways to do this
+
+whitelist software many ways to do this
+
+whitelist software many ways to do this
+many solutions on there uh you know out
+
+many solutions on there uh you know out
+
+many solutions on there uh you know out
+there from stuff that's built into
+
+there from stuff that's built into
+
+there from stuff that's built into
+windows and Microsoft server to you know
+
+windows and Microsoft server to you know
+
+windows and Microsoft server to you know
+also aftermarket Solutions but the
+
+also aftermarket Solutions but the
+
+also aftermarket Solutions but the
+bottom line is you must demonstrate that
+
+bottom line is you must demonstrate that
+
+bottom line is you must demonstrate that
+you have clear control over the software
+
+you have clear control over the software
+
+you have clear control over the software
+that is installed on your system so the
+
+that is installed on your system so the
+
+that is installed on your system so the
+users can't just do whatever they want
+
+users can't just do whatever they want
+
+users can't just do whatever they want
+right obviously it's a pretty big
+
+right obviously it's a pretty big
+
+right obviously it's a pretty big
+security issue if users are able to just
+
+security issue if users are able to just
+
+security issue if users are able to just
+randomly install whatever software they
+
+randomly install whatever software they
+
+randomly install whatever software they
+want meaning that anybody that might get
+
+want meaning that anybody that might get
+
+want meaning that anybody that might get
+remote control over their computer could
+
+remote control over their computer could
+
+remote control over their computer could
+also do the same thing so not a good
+
+also do the same thing so not a good
+
+also do the same thing so not a good
+thing and we just need tighter control
+
+thing and we just need tighter control
+
+thing and we just need tighter control
+over the software and what those
+
+over the software and what those
+
+over the software and what those
+computers are able to do so let's dive
+
+computers are able to do so let's dive
+
+computers are able to do so let's dive
+into details to see what the assessors
+
+into details to see what the assessors
+
+into details to see what the assessors
+are looking for on this one a couple
+
+are looking for on this one a couple
+
+are looking for on this one a couple
+things you're looking for uh three
+
+things you're looking for uh three
+
+things you're looking for uh three
+things actually determine if a policy
+
+things actually determine if a policy
+
+things actually determine if a policy
+specifying whether whitelisting or
+
+specifying whether whitelisting or
+
+specifying whether whitelisting or
+blacklisting is to be implemented is
+
+blacklisting is to be implemented is
+
+blacklisting is to be implemented is
+specified now it's kind of interesting
+
+specified now it's kind of interesting
+
+specified now it's kind of interesting
+because the first step in this is hey is
+
+because the first step in this is hey is
+
+because the first step in this is hey is
+there a policy at all basically
+
+there a policy at all basically
+
+there a policy at all basically
+whitelisting blacklisting doesn't matter
+
+whitelisting blacklisting doesn't matter
+
+whitelisting blacklisting doesn't matter
+but do you have a policy one of the most
+
+but do you have a policy one of the most
+
+but do you have a policy one of the most
+common answers I think you'll probably
+
+common answers I think you'll probably
+
+common answers I think you'll probably
+see is going to be something to the
+
+see is going to be something to the
+
+see is going to be something to the
+extent of hey Group Policy defines that
+
+extent of hey Group Policy defines that
+
+extent of hey Group Policy defines that
+only white listed software is allowed to
+
+only white listed software is allowed to
+
+only white listed software is allowed to
+be installed and only by authorized it
+
+be installed and only by authorized it
+
+be installed and only by authorized it
+administrators in accordance with an
+
+administrators in accordance with an
+
+administrators in accordance with an
+authorized request through the
+
+authorized request through the
+
+authorized request through the
+organization's I.T ticketing system here
+
+organization's I.T ticketing system here
+
+organization's I.T ticketing system here
+again the example really is is that the
+
+again the example really is is that the
+
+again the example really is is that the
+group policy is going to be the what is
+
+group policy is going to be the what is
+
+group policy is going to be the what is
+controlling the software and of course
+
+controlling the software and of course
+
+controlling the software and of course
+normally you would probably set Group
+
+normally you would probably set Group
+
+normally you would probably set Group
+Policy as a best practice to say hey all
+
+Policy as a best practice to say hey all
+
+Policy as a best practice to say hey all
+the administrators can install software
+
+the administrators can install software
+
+the administrators can install software
+assessment Point number two determine if
+
+assessment Point number two determine if
+
+assessment Point number two determine if
+the software allowed to execute under
+
+the software allowed to execute under
+
+the software allowed to execute under
+whitelisting or denied under
+
+whitelisting or denied under
+
+whitelisting or denied under
+blacklisting is specified the software
+
+blacklisting is specified the software
+
+blacklisting is specified the software
+Allowed by whitelist uh IE permit is
+
+Allowed by whitelist uh IE permit is
+
+Allowed by whitelist uh IE permit is
+specified in the organization's Baseline
+
+specified in the organization's Baseline
+
+specified in the organization's Baseline
+configuration and network inventory
+
+configuration and network inventory
+
+configuration and network inventory
+documentation so again we're going to
+
+documentation so again we're going to
+
+documentation so again we're going to
+specify exactly where it is how it
+
+specify exactly where it is how it
+
+specify exactly where it is how it
+operates and of course where it's
+
+operates and of course where it's
+
+operates and of course where it's
+documented assessment Point number three
+
+documented assessment Point number three
+
+documented assessment Point number three
+determinative white listing to allow the
+
+determinative white listing to allow the
+
+determinative white listing to allow the
+execution of authorized software or
+
+execution of authorized software or
+
+execution of authorized software or
+blacklisting to prevent the use of
+
+blacklisting to prevent the use of
+
+blacklisting to prevent the use of
+unauthorized software is implemented as
+
+unauthorized software is implemented as
+
+unauthorized software is implemented as
+specified again Group Policy restricting
+
+specified again Group Policy restricting
+
+specified again Group Policy restricting
+execution of authorized is implemented
+
+execution of authorized is implemented
+
+execution of authorized is implemented
+users may only execute whitelisting
+
+users may only execute whitelisting
+
+users may only execute whitelisting
+permitted software for which their user
+
+permitted software for which their user
+
+permitted software for which their user
+account has access which is granted
+
+account has access which is granted
+
+account has access which is granted
+permitting by privilege I.T
+
+permitting by privilege I.T
+
+permitting by privilege I.T
+administrators now if you want an
+
+administrators now if you want an
+
+administrators now if you want an
+example of blacklisting another example
+
+example of blacklisting another example
+
+example of blacklisting another example
+of that could potentially be something
+
+of that could potentially be something
+
+of that could potentially be something
+like hey we have antivirus in place
+
+like hey we have antivirus in place
+
+like hey we have antivirus in place
+along with firewall policies that will
+
+along with firewall policies that will
+
+along with firewall policies that will
+Blacklist any program that does this
+
+Blacklist any program that does this
+
+Blacklist any program that does this
+function so maybe communicates on the
+
+function so maybe communicates on the
+
+function so maybe communicates on the
+same supports as maybe
+
+same supports as maybe
+
+same supports as maybe
+torrent programs something like that so
+
+torrent programs something like that so
+
+torrent programs something like that so
+again there's lots and lots of ways to
+
+again there's lots and lots of ways to
+
+again there's lots and lots of ways to
+answer this question hopefully those
+
+answer this question hopefully those
+
+answer this question hopefully those
+examples help out quite a bit and of
+
+examples help out quite a bit and of
+
+examples help out quite a bit and of
+course at on call we help defense
+
+course at on call we help defense
+
+course at on call we help defense
+contractors just like you who've had all
+
+contractors just like you who've had all
+
+contractors just like you who've had all
+of this dfars nist itar and cmmc
+
+of this dfars nist itar and cmmc
+
+of this dfars nist itar and cmmc
+compliance stuff dropped into their laps
+
+compliance stuff dropped into their laps
+
+compliance stuff dropped into their laps
+like a seagull on a sunny day we teach
+
+like a seagull on a sunny day we teach
+
+like a seagull on a sunny day we teach
+you how to level up and be a proper
+
+you how to level up and be a proper
+
+you how to level up and be a proper
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this all solved while showing you how to
+
+this all solved while showing you how to
+
+this all solved while showing you how to
+leverage compliance is your secret
+
+leverage compliance is your secret
+
+leverage compliance is your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you if you're looking for more
+
+do for you if you're looking for more
+
+do for you if you're looking for more
+help getting compliant our compliance
+
+help getting compliant our compliance
+
+help getting compliant our compliance
+experts are always on call for you if
+
+experts are always on call for you if
+
+experts are always on call for you if
+you visit cmmc compliance secrets.com or
+
+you visit cmmc compliance secrets.com or
+
+you visit cmmc compliance secrets.com or
+you can check out the description below
+
+you can check out the description below
+
+you can check out the description below
+for links to get help right now if you
+
+for links to get help right now if you
+
+for links to get help right now if you
+love the content we're putting out there
+
+love the content we're putting out there
+
+love the content we're putting out there
+for you help us out with a big thumbs up
+
+for you help us out with a big thumbs up
+
+for you help us out with a big thumbs up
+on that like button or even better smash
+
+on that like button or even better smash
+
+on that like button or even better smash
+that subscribe button to get the latest
+
+that subscribe button to get the latest
+
+that subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliance nerds roll it out until the
+
+compliance nerds roll it out until the
+
+compliance nerds roll it out until the
+next compliance tip my friends stay safe
+
+next compliance tip my friends stay safe
+
+next compliance tip my friends stay safe
+and secure out there hit us in the
+
+and secure out there hit us in the
+
+and secure out there hit us in the
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+like to know more about well when it
+
+like to know more about well when it
+
+like to know more about well when it
+comes to information security and
+
+comes to information security and
+
+comes to information security and
+compliance I'll see you on the next one
+
+compliance I'll see you on the next one
+
+compliance I'll see you on the next one

@@ -1,0 +1,655 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmc control
+
+cmmc control
+
+cmmc control
+cm.l2-3.4.4 analyzes the security impact
+
+cm.l2-3.4.4 analyzes the security impact
+
+cm.l2-3.4.4 analyzes the security impact
+of changes prior to implementation
+
+of changes prior to implementation
+
+of changes prior to implementation
+always important to read the directions
+
+always important to read the directions
+
+always important to read the directions
+before you implement
+
+before you implement
+
+before you implement
+
+say hey if you're a defense contractor
+
+say hey if you're a defense contractor
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone try to understand all of the cmmc
+
+alone try to understand all of the cmmc
+
+alone try to understand all of the cmmc
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you
+
+well I've got great news for you you
+
+well I've got great news for you you
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so in cmfc control cm.l
+
+it so in cmfc control cm.l
+
+it so in cmfc control cm.l
+2-3.4.4 analyze the security impact of
+
+2-3.4.4 analyze the security impact of
+
+2-3.4.4 analyze the security impact of
+changes priority implementation I have a
+
+changes priority implementation I have a
+
+changes priority implementation I have a
+little joke about this control which is
+
+little joke about this control which is
+
+little joke about this control which is
+it's kind of like a man reading the
+
+it's kind of like a man reading the
+
+it's kind of like a man reading the
+directions okay nobody ever wants to
+
+directions okay nobody ever wants to
+
+directions okay nobody ever wants to
+actually analyze what in the world of
+
+actually analyze what in the world of
+
+actually analyze what in the world of
+security you know switch or control or
+
+security you know switch or control or
+
+security you know switch or control or
+solution is going to do before they
+
+solution is going to do before they
+
+solution is going to do before they
+actually just go throw it into place
+
+actually just go throw it into place
+
+actually just go throw it into place
+right throw it up against the wall let's
+
+right throw it up against the wall let's
+
+right throw it up against the wall let's
+see if it sticks and apparently somebody
+
+see if it sticks and apparently somebody
+
+see if it sticks and apparently somebody
+thought for it and said that's not a
+
+thought for it and said that's not a
+
+thought for it and said that's not a
+good idea so we better put a compliance
+
+good idea so we better put a compliance
+
+good idea so we better put a compliance
+control in here and make sure that
+
+control in here and make sure that
+
+control in here and make sure that
+doesn't happen now if you're in a larger
+
+doesn't happen now if you're in a larger
+
+doesn't happen now if you're in a larger
+Network you're already familiar with
+
+Network you're already familiar with
+
+Network you're already familiar with
+what can happen when you just start
+
+what can happen when you just start
+
+what can happen when you just start
+implementing security without really
+
+implementing security without really
+
+implementing security without really
+testing bad things happen heads roll jaw
+
+testing bad things happen heads roll jaw
+
+testing bad things happen heads roll jaw
+jobs fly but the good news is the
+
+jobs fly but the good news is the
+
+jobs fly but the good news is the
+process may involve reviewing security
+
+process may involve reviewing security
+
+process may involve reviewing security
+plans and system design documentation as
+
+plans and system design documentation as
+
+plans and system design documentation as
+well as conducting risk assessments to
+
+well as conducting risk assessments to
+
+well as conducting risk assessments to
+determine if additional security
+
+determine if additional security
+
+determine if additional security
+controls are required the objective of
+
+controls are required the objective of
+
+controls are required the objective of
+the analysis is to is to assess the
+
+the analysis is to is to assess the
+
+the analysis is to is to assess the
+potential impact of changes on the
+
+potential impact of changes on the
+
+potential impact of changes on the
+security posture of the system and to
+
+security posture of the system and to
+
+security posture of the system and to
+ensure that changes do not introduce new
+
+ensure that changes do not introduce new
+
+ensure that changes do not introduce new
+vulnerabilities or degrade the
+
+vulnerabilities or degrade the
+
+vulnerabilities or degrade the
+effectiveness of existing controls now
+
+effectiveness of existing controls now
+
+effectiveness of existing controls now
+how about you guys but I once saw a
+
+how about you guys but I once saw a
+
+how about you guys but I once saw a
+YouTube video and it had a dude with a
+
+YouTube video and it had a dude with a
+
+YouTube video and it had a dude with a
+chainsaw between his legs trying to pull
+
+chainsaw between his legs trying to pull
+
+chainsaw between his legs trying to pull
+the cord and start the chainsaw
+
+the cord and start the chainsaw
+
+the cord and start the chainsaw
+that's kind of like implementing
+
+that's kind of like implementing
+
+that's kind of like implementing
+security uh control or or implementing
+
+security uh control or or implementing
+
+security uh control or or implementing
+security uh you know you know security
+
+security uh you know you know security
+
+security uh you know you know security
+changes without analyzing whether or not
+
+changes without analyzing whether or not
+
+changes without analyzing whether or not
+they're going to work all right so from
+
+they're going to work all right so from
+
+they're going to work all right so from
+me to you because I care about you don't
+
+me to you because I care about you don't
+
+me to you because I care about you don't
+hold the chainsaw between your legs when
+
+hold the chainsaw between your legs when
+
+hold the chainsaw between your legs when
+you're trying to start it it's a really
+
+you're trying to start it it's a really
+
+you're trying to start it it's a really
+bad idea and the impact I can I can do
+
+bad idea and the impact I can I can do
+
+bad idea and the impact I can I can do
+that analysis for you it's not good we
+
+that analysis for you it's not good we
+
+that analysis for you it's not good we
+don't want to do that all right let's
+
+don't want to do that all right let's
+
+don't want to do that all right let's
+check out what what is what the
+
+check out what what is what the
+
+check out what what is what the
+assessors are looking for on this one
+
+assessors are looking for on this one
+
+assessors are looking for on this one
+and how to make them happy
+
+and how to make them happy
+
+and how to make them happy
+um
+
+um
+
+um
+they're actually only looking for one
+
+they're actually only looking for one
+
+they're actually only looking for one
+thing apparently this is a pretty easy
+
+thing apparently this is a pretty easy
+
+thing apparently this is a pretty easy
+control one they want to determine if
+
+control one they want to determine if
+
+control one they want to determine if
+the security impact of changes to the
+
+the security impact of changes to the
+
+the security impact of changes to the
+system is analyzed prior to
+
+system is analyzed prior to
+
+system is analyzed prior to
+implementation I would never guess
+
+implementation I would never guess
+
+implementation I would never guess
+that's what they were looking for on
+
+that's what they were looking for on
+
+that's what they were looking for on
+this control no way would I guess that
+
+this control no way would I guess that
+
+this control no way would I guess that
+maybe I would all right uh what's the
+
+maybe I would all right uh what's the
+
+maybe I would all right uh what's the
+answer to it so again we're gonna say
+
+answer to it so again we're gonna say
+
+answer to it so again we're gonna say
+hey security impacts for analyzing
+
+hey security impacts for analyzing
+
+hey security impacts for analyzing
+considered both during ticket processing
+
+considered both during ticket processing
+
+considered both during ticket processing
+and during quarterly risk management
+
+and during quarterly risk management
+
+and during quarterly risk management
+meetings so again when we sort of look
+
+meetings so again when we sort of look
+
+meetings so again when we sort of look
+at the whole framework of how we are
+
+at the whole framework of how we are
+
+at the whole framework of how we are
+making ourselves compliant we can point
+
+making ourselves compliant we can point
+
+making ourselves compliant we can point
+to these various meetings and standard
+
+to these various meetings and standard
+
+to these various meetings and standard
+operating procedures and all this
+
+operating procedures and all this
+
+operating procedures and all this
+documentation that we've developed
+
+documentation that we've developed
+
+documentation that we've developed
+demonstrating what are processes and
+
+demonstrating what are processes and
+
+demonstrating what are processes and
+procedures are for making sure that
+
+procedures are for making sure that
+
+procedures are for making sure that
+things are realistically considered
+
+things are realistically considered
+
+things are realistically considered
+before they're put into place and that's
+
+before they're put into place and that's
+
+before they're put into place and that's
+really all you could ask for and so I
+
+really all you could ask for and so I
+
+really all you could ask for and so I
+understand why there's really only one
+
+understand why there's really only one
+
+understand why there's really only one
+thing they're looking for in order to
+
+thing they're looking for in order to
+
+thing they're looking for in order to
+pass you on this control now at on call
+
+pass you on this control now at on call
+
+pass you on this control now at on call
+I'll tell you what we work with defense
+
+I'll tell you what we work with defense
+
+I'll tell you what we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+all this dfars nist I torrents cmmc
+
+all this dfars nist I torrents cmmc
+
+all this dfars nist I torrents cmmc
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+like a seal on a sunny day and we teach
+
+like a seal on a sunny day and we teach
+
+like a seal on a sunny day and we teach
+you how to level up and be a proper
+
+you how to level up and be a proper
+
+you how to level up and be a proper
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+
+this solved all while showing you how to
+
+this solved all while showing you how to
+leverage compliance as your secret
+
+leverage compliance as your secret
+
+leverage compliance as your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you and if you look looking for
+
+do for you and if you look looking for
+
+do for you and if you look looking for
+more help getting compliant our
+
+more help getting compliant our
+
+more help getting compliant our
+compliance experts are always on call
+
+compliance experts are always on call
+
+compliance experts are always on call
+for you okay visit
+
+for you okay visit
+
+for you okay visit
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now if you love the content we're
+
+right now if you love the content we're
+
+right now if you love the content we're
+putting out there for you help us out
+
+putting out there for you help us out
+
+putting out there for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as our compliance owners
+
+content as soon as our compliance owners
+
+content as soon as our compliance owners
+roll it out until the next compliance
+
+roll it out until the next compliance
+
+roll it out until the next compliance
+tip my friends stay safe and secure out
+
+tip my friends stay safe and secure out
+
+tip my friends stay safe and secure out
+there and hit us in the comments below
+
+there and hit us in the comments below
+
+there and hit us in the comments below
+to let us know what you'd like to know
+
+to let us know what you'd like to know
+
+to let us know what you'd like to know
+more about when it comes to information
+
+more about when it comes to information
+
+more about when it comes to information
+security and compliance I'll see you on
+
+security and compliance I'll see you on
+
+security and compliance I'll see you on
+the next one
+
+the next one
+
+the next one
+
+thank you
+
+thank you
+
+thank you

@@ -1,0 +1,898 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with an attack on the
+
+I'm back with an attack on the
+
+I'm back with an attack on the
+compliance tip of the week yeah this
+
+compliance tip of the week yeah this
+
+compliance tip of the week yeah this
+week we're talking about cmmc control
+
+week we're talking about cmmc control
+
+week we're talking about cmmc control
+au.l2-3.3.8 protect audit information
+
+au.l2-3.3.8 protect audit information
+
+au.l2-3.3.8 protect audit information
+and audit logging tools from
+
+and audit logging tools from
+
+and audit logging tools from
+unauthorized access modification and
+
+unauthorized access modification and
+
+unauthorized access modification and
+deletion whatever that means
+
+deletion whatever that means
+
+deletion whatever that means
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone try to understand all this cmmc
+
+alone try to understand all this cmmc
+
+alone try to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got green news for you you
+
+well I've got green news for you you
+
+well I've got green news for you you
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's get into
+
+on-call compliance Hero Let's get into
+
+on-call compliance Hero Let's get into
+it
+
+it
+
+it
+so in cmmc control
+
+au.l2-3.3.8 protect audit information
+
+au.l2-3.3.8 protect audit information
+
+au.l2-3.3.8 protect audit information
+and audit logging tools from
+
+and audit logging tools from
+
+and audit logging tools from
+unauthorized access modification and
+
+unauthorized access modification and
+
+unauthorized access modification and
+deletion so here we have our friends at
+
+deletion so here we have our friends at
+
+deletion so here we have our friends at
+Nara and nist doing a little thinking
+
+Nara and nist doing a little thinking
+
+Nara and nist doing a little thinking
+ahead for us one of the most important
+
+ahead for us one of the most important
+
+ahead for us one of the most important
+things about evidence Gathering is
+
+things about evidence Gathering is
+
+things about evidence Gathering is
+making sure the evidence doesn't
+
+making sure the evidence doesn't
+
+making sure the evidence doesn't
+disappear on you to that tune this
+
+disappear on you to that tune this
+
+disappear on you to that tune this
+control mandates that seem log
+
+control mandates that seem log
+
+control mandates that seem log
+information and the seam system itself
+
+information and the seam system itself
+
+information and the seam system itself
+cannot be tampered with at on-call We
+
+cannot be tampered with at on-call We
+
+cannot be tampered with at on-call We
+Love Solutions where steam log data
+
+Love Solutions where steam log data
+
+Love Solutions where steam log data
+becomes immutable so they cannot be
+
+becomes immutable so they cannot be
+
+becomes immutable so they cannot be
+changed once it's written if you're not
+
+changed once it's written if you're not
+
+changed once it's written if you're not
+sure what kind of seam system to choose
+
+sure what kind of seam system to choose
+
+sure what kind of seam system to choose
+or what a seam system is it might be a
+
+or what a seam system is it might be a
+
+or what a seam system is it might be a
+good time to give us a call and our
+
+good time to give us a call and our
+
+good time to give us a call and our
+certified compliance and cyber Security
+
+certified compliance and cyber Security
+
+certified compliance and cyber Security
+Experts can definitely help you out but
+
+Experts can definitely help you out but
+
+Experts can definitely help you out but
+in the meanwhile again the point here is
+
+in the meanwhile again the point here is
+
+in the meanwhile again the point here is
+make sure that it's tamper-proof that
+
+make sure that it's tamper-proof that
+
+make sure that it's tamper-proof that
+there's maybe a separate login system to
+
+there's maybe a separate login system to
+
+there's maybe a separate login system to
+it or that some way it's guarded so that
+
+it or that some way it's guarded so that
+
+it or that some way it's guarded so that
+only authorizers can get at it let's
+
+only authorizers can get at it let's
+
+only authorizers can get at it let's
+check out what the assessors are really
+
+check out what the assessors are really
+
+check out what the assessors are really
+looking for on this one to make them
+
+looking for on this one to make them
+
+looking for on this one to make them
+happy now on this one you've got one two
+
+happy now on this one you've got one two
+
+happy now on this one you've got one two
+three four five six a whole lot of stuff
+
+three four five six a whole lot of stuff
+
+three four five six a whole lot of stuff
+that's going to get assessed so Point
+
+that's going to get assessed so Point
+
+that's going to get assessed so Point
+number one is determining if audit
+
+number one is determining if audit
+
+number one is determining if audit
+information is protected from
+
+information is protected from
+
+information is protected from
+unauthorized access so number one is it
+
+unauthorized access so number one is it
+
+unauthorized access so number one is it
+protected uh and if I was to give a
+
+protected uh and if I was to give a
+
+protected uh and if I was to give a
+sample answer on this I would really
+
+sample answer on this I would really
+
+sample answer on this I would really
+just describe sort of the login system
+
+just describe sort of the login system
+
+just describe sort of the login system
+to the seam so again we would say maybe
+
+to the seam so again we would say maybe
+
+to the seam so again we would say maybe
+something like it's Implement via the
+
+something like it's Implement via the
+
+something like it's Implement via the
+same solution only seam administrators
+
+same solution only seam administrators
+
+same solution only seam administrators
+have access to the system in other words
+
+have access to the system in other words
+
+have access to the system in other words
+it's a whole separate isolated air gap
+
+it's a whole separate isolated air gap
+
+it's a whole separate isolated air gap
+type of system and only they can get in
+
+type of system and only they can get in
+
+type of system and only they can get in
+the next thing I talk about is
+
+the next thing I talk about is
+
+the next thing I talk about is
+determining if audit information is
+
+determining if audit information is
+
+determining if audit information is
+protected from unauthorized modification
+
+protected from unauthorized modification
+
+protected from unauthorized modification
+so seam log files are held in immutable
+
+so seam log files are held in immutable
+
+so seam log files are held in immutable
+storage right so again just kind of
+
+storage right so again just kind of
+
+storage right so again just kind of
+pulling from our example of earlier we
+
+pulling from our example of earlier we
+
+pulling from our example of earlier we
+really love the idea that steam storage
+
+really love the idea that steam storage
+
+really love the idea that steam storage
+is immutable you really can't alter it
+
+is immutable you really can't alter it
+
+is immutable you really can't alter it
+once it's written until it reaches a
+
+once it's written until it reaches a
+
+once it's written until it reaches a
+certain age or you know whatever the
+
+certain age or you know whatever the
+
+certain age or you know whatever the
+criteria is for overriding it uh so
+
+criteria is for overriding it uh so
+
+criteria is for overriding it uh so
+again that's the example we would give
+
+again that's the example we would give
+
+again that's the example we would give
+there determine if audit information is
+
+there determine if audit information is
+
+there determine if audit information is
+protected from unauthorized deletion
+
+protected from unauthorized deletion
+
+protected from unauthorized deletion
+again it's solved easily because if it's
+
+again it's solved easily because if it's
+
+again it's solved easily because if it's
+immutable storage you can't get to it
+
+immutable storage you can't get to it
+
+immutable storage you can't get to it
+there's other great cloud-based systems
+
+there's other great cloud-based systems
+
+there's other great cloud-based systems
+that we've seen and I won't name any
+
+that we've seen and I won't name any
+
+that we've seen and I won't name any
+names until we've received some
+
+names until we've received some
+
+names until we've received some
+sponsorship dollars of course but there
+
+sponsorship dollars of course but there
+
+sponsorship dollars of course but there
+are some great Cloud Solutions out there
+
+are some great Cloud Solutions out there
+
+are some great Cloud Solutions out there
+that just simply don't give the
+
+that just simply don't give the
+
+that just simply don't give the
+administrator access to where those seam
+
+administrator access to where those seam
+
+administrator access to where those seam
+log files are are charged excuse me uh
+
+log files are are charged excuse me uh
+
+log files are are charged excuse me uh
+stored and so as a result essentially
+
+stored and so as a result essentially
+
+stored and so as a result essentially
+they just kind of don't have access to
+
+they just kind of don't have access to
+
+they just kind of don't have access to
+those files to even create an
+
+those files to even create an
+
+those files to even create an
+unauthorized deletion scenario
+
+unauthorized deletion scenario
+
+unauthorized deletion scenario
+now assessment Point number four
+
+now assessment Point number four
+
+now assessment Point number four
+determine if audit logging tools are
+
+determine if audit logging tools are
+
+determine if audit logging tools are
+protected from unauthorized access this
+
+protected from unauthorized access this
+
+protected from unauthorized access this
+is implemented via the same solution
+
+is implemented via the same solution
+
+is implemented via the same solution
+user access system okay so again if you
+
+user access system okay so again if you
+
+user access system okay so again if you
+have an isolated air gap seam system
+
+have an isolated air gap seam system
+
+have an isolated air gap seam system
+maybe that's not part of active
+
+maybe that's not part of active
+
+maybe that's not part of active
+directory as something completely
+
+directory as something completely
+
+directory as something completely
+separate you could uh in this example
+
+separate you could uh in this example
+
+separate you could uh in this example
+again have separate users that have
+
+again have separate users that have
+
+again have separate users that have
+access just to the system pretty cool
+
+access just to the system pretty cool
+
+access just to the system pretty cool
+way of doing it and again very very
+
+way of doing it and again very very
+
+way of doing it and again very very
+common uh assessment Point number five
+
+common uh assessment Point number five
+
+common uh assessment Point number five
+determine if audit logging tools are
+
+determine if audit logging tools are
+
+determine if audit logging tools are
+protected from unauthorized modification
+
+protected from unauthorized modification
+
+protected from unauthorized modification
+again seam system seam solution tools
+
+again seam system seam solution tools
+
+again seam system seam solution tools
+are not modifiable from the vendor
+
+are not modifiable from the vendor
+
+are not modifiable from the vendor
+typically this is going to be the case
+
+typically this is going to be the case
+
+typically this is going to be the case
+now if you made your own seam system and
+
+now if you made your own seam system and
+
+now if you made your own seam system and
+we've come across clients who've done
+
+we've come across clients who've done
+
+we've come across clients who've done
+that you're then going to have to figure
+
+that you're then going to have to figure
+
+that you're then going to have to figure
+out a way to protect that system from
+
+out a way to protect that system from
+
+out a way to protect that system from
+unauthorized user access and Define that
+
+unauthorized user access and Define that
+
+unauthorized user access and Define that
+so be ready if you built your own or
+
+so be ready if you built your own or
+
+so be ready if you built your own or
+you're sort of piecemeal with a couple
+
+you're sort of piecemeal with a couple
+
+you're sort of piecemeal with a couple
+different solutions you're going to have
+
+different solutions you're going to have
+
+different solutions you're going to have
+to really be ready for the assessor to
+
+to really be ready for the assessor to
+
+to really be ready for the assessor to
+dive in on you there and make sure that
+
+dive in on you there and make sure that
+
+dive in on you there and make sure that
+there's nothing uh you know nothing no
+
+there's nothing uh you know nothing no
+
+there's nothing uh you know nothing no
+holes in terms of how people could get
+
+holes in terms of how people could get
+
+holes in terms of how people could get
+to the data itself now final assessment
+
+to the data itself now final assessment
+
+to the data itself now final assessment
+point is determining if audit logging
+
+point is determining if audit logging
+
+point is determining if audit logging
+tools are protected from unauthorized
+
+tools are protected from unauthorized
+
+tools are protected from unauthorized
+deletion in other words Kate can I just
+
+deletion in other words Kate can I just
+
+deletion in other words Kate can I just
+delete you know the c major or something
+
+delete you know the c major or something
+
+delete you know the c major or something
+like that could I just delete whatever
+
+like that could I just delete whatever
+
+like that could I just delete whatever
+it is that's pulling the log files uh
+
+it is that's pulling the log files uh
+
+it is that's pulling the log files uh
+so you know again we sort of use the
+
+so you know again we sort of use the
+
+so you know again we sort of use the
+example of hey look the same solution
+
+example of hey look the same solution
+
+example of hey look the same solution
+cannot be deleted uh because well it's
+
+cannot be deleted uh because well it's
+
+cannot be deleted uh because well it's
+it belongs to a third-party provider you
+
+it belongs to a third-party provider you
+
+it belongs to a third-party provider you
+simply can't delete it and anytime that
+
+simply can't delete it and anytime that
+
+simply can't delete it and anytime that
+the same agent might not be functioning
+
+the same agent might not be functioning
+
+the same agent might not be functioning
+correctly it would it would send an
+
+correctly it would it would send an
+
+correctly it would it would send an
+alert or there would be an alert from
+
+alert or there would be an alert from
+
+alert or there would be an alert from
+the same system coming to us to let us
+
+the same system coming to us to let us
+
+the same system coming to us to let us
+know Hey listen this agent's not uh you
+
+know Hey listen this agent's not uh you
+
+know Hey listen this agent's not uh you
+know it's not functioning properly go
+
+know it's not functioning properly go
+
+know it's not functioning properly go
+fix it so again lots of ways to sort of
+
+fix it so again lots of ways to sort of
+
+fix it so again lots of ways to sort of
+answer that one but again most steam
+
+answer that one but again most steam
+
+answer that one but again most steam
+systems will have all this built in you
+
+systems will have all this built in you
+
+systems will have all this built in you
+just have to really have a good
+
+just have to really have a good
+
+just have to really have a good
+understanding and ability to explain it
+
+understanding and ability to explain it
+
+understanding and ability to explain it
+here to an auditor so they know that you
+
+here to an auditor so they know that you
+
+here to an auditor so they know that you
+know how it works and if you don't know
+
+know how it works and if you don't know
+
+know how it works and if you don't know
+how it should work well then I got a
+
+how it should work well then I got a
+
+how it should work well then I got a
+solution for you you can call us here at
+
+solution for you you can call us here at
+
+solution for you you can call us here at
+on call because we work with defense
+
+on call because we work with defense
+
+on call because we work with defense
+contractors just like you who've had
+
+contractors just like you who've had
+
+contractors just like you who've had
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+like a seagull on a sunny day we teach
+
+like a seagull on a sunny day we teach
+
+like a seagull on a sunny day we teach
+you how to level up and be a proper
+
+you how to level up and be a proper
+
+you how to level up and be a proper
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this all solved while showing you how to
+
+this all solved while showing you how to
+
+this all solved while showing you how to
+leverage compliance is your secret
+
+leverage compliance is your secret
+
+leverage compliance is your secret
+weapon to land more Defense work higher
+
+weapon to land more Defense work higher
+
+weapon to land more Defense work higher
+profit margins now that is what becoming
+
+profit margins now that is what becoming
+
+profit margins now that is what becoming
+an on-call compliance hero can do for
+
+an on-call compliance hero can do for
+
+an on-call compliance hero can do for
+you and if you're looking for more help
+
+you and if you're looking for more help
+
+you and if you're looking for more help
+getting compliant our compliance experts
+
+getting compliant our compliance experts
+
+getting compliant our compliance experts
+are always on call for you visit CMC
+
+are always on call for you visit CMC
+
+are always on call for you visit CMC
+compliance secrets.com or check out the
+
+compliance secrets.com or check out the
+
+compliance secrets.com or check out the
+bio below for links to get help right
+
+bio below for links to get help right
+
+bio below for links to get help right
+now if you love the content we're
+
+now if you love the content we're
+
+now if you love the content we're
+putting out there for you help us out
+
+putting out there for you help us out
+
+putting out there for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+button right now to get the latest
+
+button right now to get the latest
+
+button right now to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliance service roll it out until the
+
+compliance service roll it out until the
+
+compliance service roll it out until the
+next compliance tip my friends stay safe
+
+next compliance tip my friends stay safe
+
+next compliance tip my friends stay safe
+and secure out there hit us in the
+
+and secure out there hit us in the
+
+and secure out there hit us in the
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+like to know more about when it comes to
+
+like to know more about when it comes to
+
+like to know more about when it comes to
+information security and compliance I'll
+
+information security and compliance I'll
+
+information security and compliance I'll
+see you on the next one
+
+see you on the next one
+
+see you on the next one
+
+all right

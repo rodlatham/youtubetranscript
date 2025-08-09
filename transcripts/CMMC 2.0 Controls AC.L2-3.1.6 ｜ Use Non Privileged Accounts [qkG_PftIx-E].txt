@@ -1,0 +1,783 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back I bet you never thought I'd be
+
+I'm back I bet you never thought I'd be
+
+I'm back I bet you never thought I'd be
+back right and I'm here with a
+
+back right and I'm here with a
+
+back right and I'm here with a
+compliance tip of the week because
+
+compliance tip of the week because
+
+compliance tip of the week because
+that's all I really bring you even when
+
+that's all I really bring you even when
+
+that's all I really bring you even when
+we shoot these daily or hourly or
+
+we shoot these daily or hourly or
+
+we shoot these daily or hourly or
+monthly anyway either way it's
+
+monthly anyway either way it's
+
+monthly anyway either way it's
+compliance tip of the week guess what
+
+compliance tip of the week guess what
+
+compliance tip of the week guess what
+we're talking about this week I bet you
+
+we're talking about this week I bet you
+
+we're talking about this week I bet you
+wouldn't guess from the description this
+
+wouldn't guess from the description this
+
+wouldn't guess from the description this
+video it's cmmc control ac.l2-3.1.6
+
+I know it's pretty easy to guess it was
+
+I know it's pretty easy to guess it was
+
+I know it's pretty easy to guess it was
+it's right there in that description
+
+it's right there in that description
+
+it's right there in that description
+there anyway use non-privileged accounts
+
+there anyway use non-privileged accounts
+
+there anyway use non-privileged accounts
+or roles when accessing non-security
+
+or roles when accessing non-security
+
+or roles when accessing non-security
+functions
+
+functions
+
+functions
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone
+
+alone
+
+alone
+I'm sorry for you trying to understand
+
+I'm sorry for you trying to understand
+
+I'm sorry for you trying to understand
+all this tmmc dfars and this SP 10171
+
+all this tmmc dfars and this SP 10171
+
+all this tmmc dfars and this SP 10171
+compliance stuff on top of an already
+
+compliance stuff on top of an already
+
+compliance stuff on top of an already
+colossal workload well I've got great
+
+colossal workload well I've got great
+
+colossal workload well I've got great
+news for you you've found your home here
+
+news for you you've found your home here
+
+news for you you've found your home here
+at on-call compliance Solutions where we
+
+at on-call compliance Solutions where we
+
+at on-call compliance Solutions where we
+can help you transform into your
+
+can help you transform into your
+
+can help you transform into your
+company's on-call compliance Hero Let's
+
+company's on-call compliance Hero Let's
+
+company's on-call compliance Hero Let's
+jump into it here's a riddle if a bad
+
+jump into it here's a riddle if a bad
+
+jump into it here's a riddle if a bad
+guy has a key to your house and you're
+
+guy has a key to your house and you're
+
+guy has a key to your house and you're
+not around how would you know he was in
+
+not around how would you know he was in
+
+not around how would you know he was in
+there lurking around
+
+well the goal with cmmc control
+
+well the goal with cmmc control
+
+well the goal with cmmc control
+ac.l2-3.1.6 use non-privileged accounts
+
+ac.l2-3.1.6 use non-privileged accounts
+
+ac.l2-3.1.6 use non-privileged accounts
+or roles when accessing non-security
+
+or roles when accessing non-security
+
+or roles when accessing non-security
+functions is to make sure that in the
+
+functions is to make sure that in the
+
+functions is to make sure that in the
+event that a system is compromised all
+
+event that a system is compromised all
+
+event that a system is compromised all
+right it would be easier to identify a
+
+right it would be easier to identify a
+
+right it would be easier to identify a
+bad actor if security privileged
+
+bad actor if security privileged
+
+bad actor if security privileged
+accounts are only used for specific
+
+accounts are only used for specific
+
+accounts are only used for specific
+tasks revealing the potential Intruder
+
+tasks revealing the potential Intruder
+
+tasks revealing the potential Intruder
+when those rarely used accounts are all
+
+when those rarely used accounts are all
+
+when those rarely used accounts are all
+of a sudden used in an unusual or
+
+of a sudden used in an unusual or
+
+of a sudden used in an unusual or
+unauthorized way now this is actually
+
+unauthorized way now this is actually
+
+unauthorized way now this is actually
+really smart I got to tell you I've been
+
+really smart I got to tell you I've been
+
+really smart I got to tell you I've been
+doing cyber security for 20 plus years
+
+doing cyber security for 20 plus years
+
+doing cyber security for 20 plus years
+and this is one of those controls when I
+
+and this is one of those controls when I
+
+and this is one of those controls when I
+really understood what was behind it I
+
+really understood what was behind it I
+
+really understood what was behind it I
+thought to myself that's pretty crazy
+
+thought to myself that's pretty crazy
+
+thought to myself that's pretty crazy
+later this will make more sense right as
+
+later this will make more sense right as
+
+later this will make more sense right as
+we get deeper in the controls we start
+
+we get deeper in the controls we start
+
+we get deeper in the controls we start
+talking about security information event
+
+talking about security information event
+
+talking about security information event
+management systems they'll they will
+
+management systems they'll they will
+
+management systems they'll they will
+actually detect anomalous activities so
+
+actually detect anomalous activities so
+
+actually detect anomalous activities so
+in other words activity that is unusual
+
+in other words activity that is unusual
+
+in other words activity that is unusual
+it's way easier to detect unusual
+
+it's way easier to detect unusual
+
+it's way easier to detect unusual
+activity if there's a specific account
+
+activity if there's a specific account
+
+activity if there's a specific account
+you should be watching for like those
+
+you should be watching for like those
+
+you should be watching for like those
+that are privileged accounts
+
+that are privileged accounts
+
+that are privileged accounts
+so as an example if an I.T person does
+
+so as an example if an I.T person does
+
+so as an example if an I.T person does
+their day-to-day work in a standard user
+
+their day-to-day work in a standard user
+
+their day-to-day work in a standard user
+account and only uses a security
+
+account and only uses a security
+
+account and only uses a security
+privilege to have an account for admin
+
+privilege to have an account for admin
+
+privilege to have an account for admin
+tasks it'll be much easier to spot
+
+tasks it'll be much easier to spot
+
+tasks it'll be much easier to spot
+malicious actions in system logs and
+
+malicious actions in system logs and
+
+malicious actions in system logs and
+alert from administrative users who are
+
+alert from administrative users who are
+
+alert from administrative users who are
+not normally conducting those activities
+
+not normally conducting those activities
+
+not normally conducting those activities
+it's a great way to expose information
+
+it's a great way to expose information
+
+it's a great way to expose information
+to less risk and spot problems much
+
+to less risk and spot problems much
+
+to less risk and spot problems much
+faster in addition the control also
+
+faster in addition the control also
+
+faster in addition the control also
+demands you identify security privileged
+
+demands you identify security privileged
+
+demands you identify security privileged
+accounts and events presumably so they
+
+accounts and events presumably so they
+
+accounts and events presumably so they
+can be more easily identifiable when not
+
+can be more easily identifiable when not
+
+can be more easily identifiable when not
+authorized now there are two points that
+
+authorized now there are two points that
+
+authorized now there are two points that
+I would look for if I was assessing this
+
+I would look for if I was assessing this
+
+I would look for if I was assessing this
+okay Point number one I would say hey
+
+okay Point number one I would say hey
+
+okay Point number one I would say hey
+determine if non-security functions are
+
+determine if non-security functions are
+
+determine if non-security functions are
+identified
+
+identified
+
+identified
+well are they non-security functions are
+
+well are they non-security functions are
+
+well are they non-security functions are
+identified via Group Policy there's your
+
+identified via Group Policy there's your
+
+identified via Group Policy there's your
+hint and individual system access
+
+hint and individual system access
+
+hint and individual system access
+restrictions right because again we can
+
+restrictions right because again we can
+
+restrictions right because again we can
+determine if non-security functions are
+
+determine if non-security functions are
+
+determine if non-security functions are
+identified if you're not allowed to do
+
+identified if you're not allowed to do
+
+identified if you're not allowed to do
+them right like if you are not an
+
+them right like if you are not an
+
+them right like if you are not an
+administrator in QuickBooks and you're
+
+administrator in QuickBooks and you're
+
+administrator in QuickBooks and you're
+only a standard user and you can only
+
+only a standard user and you can only
+
+only a standard user and you can only
+access certain records well then that's
+
+access certain records well then that's
+
+access certain records well then that's
+defined as those records you can't find
+
+defined as those records you can't find
+
+defined as those records you can't find
+right maybe not the best example but you
+
+right maybe not the best example but you
+
+right maybe not the best example but you
+kind of get the point
+
+kind of get the point
+
+kind of get the point
+now the second point of assessment is
+
+now the second point of assessment is
+
+now the second point of assessment is
+determine if users are required to use
+
+determine if users are required to use
+
+determine if users are required to use
+non-privileged accounts or roles when
+
+non-privileged accounts or roles when
+
+non-privileged accounts or roles when
+accessing non-security functions hey
+
+accessing non-security functions hey
+
+accessing non-security functions hey
+it's probably a test they're probably
+
+it's probably a test they're probably
+
+it's probably a test they're probably
+going to want a demonstration hey if
+
+going to want a demonstration hey if
+
+going to want a demonstration hey if
+you're a standard user can you go
+
+you're a standard user can you go
+
+you're a standard user can you go
+install software no you get an access
+
+install software no you get an access
+
+install software no you get an access
+denied hopefully uh if we were to write
+
+denied hopefully uh if we were to write
+
+denied hopefully uh if we were to write
+down an answer maybe we would write down
+
+down an answer maybe we would write down
+
+down an answer maybe we would write down
+something like all privileged account
+
+something like all privileged account
+
+something like all privileged account
+holders also have non-published accounts
+
+holders also have non-published accounts
+
+holders also have non-published accounts
+for non-privileged functions and
+
+for non-privileged functions and
+
+for non-privileged functions and
+activities which they are required to
+
+activities which they are required to
+
+activities which they are required to
+use when not performing privileged
+
+use when not performing privileged
+
+use when not performing privileged
+functions determination and audit of
+
+functions determination and audit of
+
+functions determination and audit of
+this use is performed via the same
+
+this use is performed via the same
+
+this use is performed via the same
+system if you don't know what a seam
+
+system if you don't know what a seam
+
+system if you don't know what a seam
+system is I got about 100 videos that
+
+system is I got about 100 videos that
+
+system is I got about 100 videos that
+you haven't watched yet all right but
+
+you haven't watched yet all right but
+
+you haven't watched yet all right but
+it's called a security information event
+
+it's called a security information event
+
+it's called a security information event
+management system and essentially it's
+
+management system and essentially it's
+
+management system and essentially it's
+the system that watches over your house
+
+the system that watches over your house
+
+the system that watches over your house
+when you're not at home okay now if
+
+when you're not at home okay now if
+
+when you're not at home okay now if
+you're still scratching your head and
+
+you're still scratching your head and
+
+you're still scratching your head and
+you're like I don't get it this is
+
+you're like I don't get it this is
+
+you're like I don't get it this is
+intense no way am I gonna be able to
+
+intense no way am I gonna be able to
+
+intense no way am I gonna be able to
+come up with another 109 controls with
+
+come up with another 109 controls with
+
+come up with another 109 controls with
+the answers or you have no idea how to
+
+the answers or you have no idea how to
+
+the answers or you have no idea how to
+write the policies you need help with
+
+write the policies you need help with
+
+write the policies you need help with
+the policies guess what the good news is
+
+the policies guess what the good news is
+
+the policies guess what the good news is
+at on-call we work with defense
+
+at on-call we work with defense
+
+at on-call we work with defense
+contractors just like you who've had
+
+contractors just like you who've had
+
+contractors just like you who've had
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+like a single on a Sunday we teach you
+
+like a single on a Sunday we teach you
+
+like a single on a Sunday we teach you
+how to level up and be a proper on-call
+
+how to level up and be a proper on-call
+
+how to level up and be a proper on-call
+compliance hero for your company and let
+
+compliance hero for your company and let
+
+compliance hero for your company and let
+me in gaps gray areas and getting this
+
+me in gaps gray areas and getting this
+
+me in gaps gray areas and getting this
+solved all while showing you how to
+
+solved all while showing you how to
+
+solved all while showing you how to
+leverage compliance as your secret
+
+leverage compliance as your secret
+
+leverage compliance as your secret
+weapon to land more Defense work and who
+
+weapon to land more Defense work and who
+
+weapon to land more Defense work and who
+doesn't want more Defense work who
+
+doesn't want more Defense work who
+
+doesn't want more Defense work who
+doesn't want to get paid baby with
+
+doesn't want to get paid baby with
+
+doesn't want to get paid baby with
+higher profit margins now that's
+
+higher profit margins now that's
+
+higher profit margins now that's
+becoming an all-in-call compliance here
+
+becoming an all-in-call compliance here
+
+becoming an all-in-call compliance here
+and that's what I can do for you all
+
+and that's what I can do for you all
+
+and that's what I can do for you all
+right if you're looking for more help
+
+right if you're looking for more help
+
+right if you're looking for more help
+getting compliant our compliance experts
+
+getting compliant our compliance experts
+
+getting compliant our compliance experts
+are always on call for you visit cmfc
+
+are always on call for you visit cmfc
+
+are always on call for you visit cmfc
+compliance secrets.com or check out the
+
+compliance secrets.com or check out the
+
+compliance secrets.com or check out the
+bio below for links to get help right
+
+bio below for links to get help right
+
+bio below for links to get help right
+now
+
+now
+
+now
+if you love the content we're putting
+
+if you love the content we're putting
+
+if you love the content we're putting
+out here for you or just my bad jokes
+
+out here for you or just my bad jokes
+
+out here for you or just my bad jokes
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+like button or even better smash that
+
+like button or even better smash that
+
+like button or even better smash that
+subscribe button to get the latest
+
+subscribe button to get the latest
+
+subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliances roll it out until the next
+
+compliances roll it out until the next
+
+compliances roll it out until the next
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+secure out there and hit us in the
+
+secure out there and hit us in the
+
+secure out there and hit us in the
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+like to know more about when it comes to
+
+like to know more about when it comes to
+
+like to know more about when it comes to
+information security and compliance and
+
+information security and compliance and
+
+information security and compliance and
+I'll see you on the next one
+
+I'll see you on the next one
+
+I'll see you on the next one

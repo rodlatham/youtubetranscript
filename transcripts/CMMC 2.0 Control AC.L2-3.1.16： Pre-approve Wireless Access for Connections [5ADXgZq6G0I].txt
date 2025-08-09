@@ -1,0 +1,440 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmccontrol
+
+ac.l2-3-1.16 you got that right
+
+ac.l2-3-1.16 you got that right
+
+ac.l2-3-1.16 you got that right
+authorized wireless access prior to
+
+authorized wireless access prior to
+
+authorized wireless access prior to
+allowing such connections
+
+allowing such connections
+
+allowing such connections
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist sp80171 compliant stuff
+
+dfars and nist sp80171 compliant stuff
+
+dfars and nist sp80171 compliant stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you've
+
+well I've got great news for you you've
+
+well I've got great news for you you've
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so in cmmc control
+
+ac.l2-3.1.16 authorized wireless access
+
+ac.l2-3.1.16 authorized wireless access
+
+ac.l2-3.1.16 authorized wireless access
+prior to allowing such connections what
+
+prior to allowing such connections what
+
+prior to allowing such connections what
+does this mean what does it mean well it
+
+does this mean what does it mean well it
+
+does this mean what does it mean well it
+means no open wireless networks are
+
+means no open wireless networks are
+
+means no open wireless networks are
+allowed you have to have a password
+
+allowed you have to have a password
+
+allowed you have to have a password
+token Etc but you just can't have open
+
+token Etc but you just can't have open
+
+token Etc but you just can't have open
+wireless networks all right we're
+
+wireless networks all right we're
+
+wireless networks all right we're
+talking about cui here even if you have
+
+talking about cui here even if you have
+
+talking about cui here even if you have
+a big giant secure building that
+
+a big giant secure building that
+
+a big giant secure building that
+controls mandate that authentication is
+
+controls mandate that authentication is
+
+controls mandate that authentication is
+required let's check out what the ask
+
+required let's check out what the ask
+
+required let's check out what the ask
+what the assessors are looking for and
+
+what the assessors are looking for and
+
+what the assessors are looking for and
+how to make them happy on this one
+
+how to make them happy on this one
+
+how to make them happy on this one
+so if I'm an assessor the first thing
+
+so if I'm an assessor the first thing
+
+so if I'm an assessor the first thing
+I'm looking for is one determine if
+
+I'm looking for is one determine if
+
+I'm looking for is one determine if
+wireless access points are identified
+
+wireless access points are identified
+
+wireless access points are identified
+are they of course they are right
+
+are they of course they are right
+
+are they of course they are right
+there's an SSID wireless network
+
+there's an SSID wireless network
+
+there's an SSID wireless network
+controller system identifies all
+
+controller system identifies all
+
+controller system identifies all
+wireless access points including both
+
+wireless access points including both
+
+wireless access points including both
+authorized and unauthorized that's a
+
+authorized and unauthorized that's a
+
+authorized and unauthorized that's a
+good sample answer so who knows maybe
+
+good sample answer so who knows maybe
+
+good sample answer so who knows maybe
+you're using a ubiquity system or a
+
+you're using a ubiquity system or a
+
+you're using a ubiquity system or a
+Cisco system and that system's
+
+Cisco system and that system's
+
+Cisco system and that system's
+identifying the wireless access points
+
+identifying the wireless access points
+
+identifying the wireless access points
+might also be good if you've got
+
+might also be good if you've got
+
+might also be good if you've got
+something to detect Rogue access points
+
+something to detect Rogue access points
+
+something to detect Rogue access points
+as well now the second thing that
+
+as well now the second thing that
+
+as well now the second thing that
+they're looking for is determining if
+
+they're looking for is determining if
+
+they're looking for is determining if
+wireless access is authorized prior to
+
+wireless access is authorized prior to
+
+wireless access is authorized prior to
+allowing such Connections in other words
+
+allowing such Connections in other words
+
+allowing such Connections in other words
+did somebody or something authorize you
+
+did somebody or something authorize you
+
+did somebody or something authorize you
+to actually get that wireless access now
+
+to actually get that wireless access now
+
+to actually get that wireless access now
+if I was going to create a sample answer
+
+if I was going to create a sample answer
+
+if I was going to create a sample answer
+I might say something like no wireless
+
+I might say something like no wireless
+
+I might say something like no wireless
+access is possible without authorization
+
+access is possible without authorization
+
+access is possible without authorization
+via input of a secure password or maybe
+
+via input of a secure password or maybe
+
+via input of a secure password or maybe
+a token or something like that
+
+a token or something like that
+
+a token or something like that
+so uh and on call we work with defense
+
+so uh and on call we work with defense
+
+so uh and on call we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+this D fars nist itar and cmmc
+
+this D fars nist itar and cmmc
+
+this D fars nist itar and cmmc
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+like a seagull on a sunny day and we
+
+like a seagull on a sunny day and we
+
+like a seagull on a sunny day and we
+teach you how to level up and be a
+
+teach you how to level up and be a
+
+teach you how to level up and be a
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+
+company eliminating gaps gray areas and
+
+company eliminating gaps gray areas and
+getting this solved all while showing
+
+getting this solved all while showing
+
+getting this solved all while showing
+you how to leverage compliance is your
+
+you how to leverage compliance is your
+
+you how to leverage compliance is your
+secret weapon to Landing more Defense
+
+secret weapon to Landing more Defense
+
+secret weapon to Landing more Defense
+work with higher profit margins now
+
+work with higher profit margins now
+
+work with higher profit margins now
+that's what becoming an on-call
+
+that's what becoming an on-call
+
+that's what becoming an on-call
+compliance hero can do for you if you're
+
+compliance hero can do for you if you're
+
+compliance hero can do for you if you're
+looking for more help getting compliant
+
+looking for more help getting compliant
+
+looking for more help getting compliant
+our compliance experts are always on
+
+our compliance experts are always on
+
+our compliance experts are always on
+call for you because CMC compliance
+
+call for you because CMC compliance
+
+call for you because CMC compliance
+secrets.com or check out the bio below
+
+secrets.com or check out the bio below
+
+secrets.com or check out the bio below
+for links to get help right now if you
+
+for links to get help right now if you
+
+for links to get help right now if you
+love the content we're putting out here
+
+love the content we're putting out here
+
+love the content we're putting out here
+for you help us out with a big thumbs up
+
+for you help us out with a big thumbs up
+
+for you help us out with a big thumbs up
+on that like button or even better smash
+
+on that like button or even better smash
+
+on that like button or even better smash
+the Subscribe button to get the latest
+
+the Subscribe button to get the latest
+
+the Subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliances roll it out until the next
+
+compliances roll it out until the next
+
+compliances roll it out until the next
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+secure out there and hit us up in the
+
+secure out there and hit us up in the
+
+secure out there and hit us up in the
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+like to know more about when it comes to
+
+like to know more about when it comes to
+
+like to know more about when it comes to
+information security and compliance and
+
+information security and compliance and
+
+information security and compliance and
+I'll see you on the next one
+
+I'll see you on the next one
+
+I'll see you on the next one
+
+all right

@@ -1,0 +1,624 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike Freer here with
+
+hey everybody it's Mike Freer here with
+
+hey everybody it's Mike Freer here with
+on-call compliance Solutions and I'm
+
+on-call compliance Solutions and I'm
+
+on-call compliance Solutions and I'm
+back with another compliance tip of the
+
+back with another compliance tip of the
+
+back with another compliance tip of the
+week this week we're talking about
+
+week this week we're talking about
+
+week this week we're talking about
+cmmccontrol
+
+au.l2-3.3.5 correlate audit record
+
+au.l2-3.3.5 correlate audit record
+
+au.l2-3.3.5 correlate audit record
+review analysis and Reporting processes
+
+review analysis and Reporting processes
+
+review analysis and Reporting processes
+for investigation and response to
+
+for investigation and response to
+
+for investigation and response to
+indications of unlawful unauthorized
+
+indications of unlawful unauthorized
+
+indications of unlawful unauthorized
+suspicious or unusual activity
+
+suspicious or unusual activity
+
+suspicious or unusual activity
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist sp800 171 compliance
+
+dfars and nist sp800 171 compliance
+
+dfars and nist sp800 171 compliance
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I've got great news for
+
+workload well I've got great news for
+
+workload well I've got great news for
+you you found your home here at on-call
+
+you you found your home here at on-call
+
+you you found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so uh I call this one the police
+
+it so uh I call this one the police
+
+it so uh I call this one the police
+control all right so in cmfcc control
+
+control all right so in cmfcc control
+
+control all right so in cmfcc control
+au.l1-3.3.5 correlate audit record
+
+au.l1-3.3.5 correlate audit record
+
+au.l1-3.3.5 correlate audit record
+review analysis and Reporting processes
+
+review analysis and Reporting processes
+
+review analysis and Reporting processes
+for investigation and response into uh
+
+for investigation and response into uh
+
+for investigation and response into uh
+to indications of unlawful unauthorized
+
+to indications of unlawful unauthorized
+
+to indications of unlawful unauthorized
+suspicious or unusual activity in other
+
+suspicious or unusual activity in other
+
+suspicious or unusual activity in other
+words do you know when it's time to call
+
+words do you know when it's time to call
+
+words do you know when it's time to call
+the police so here what we're doing is
+
+the police so here what we're doing is
+
+the police so here what we're doing is
+we're getting into essentially the
+
+we're getting into essentially the
+
+we're getting into essentially the
+intersection of where the seam or
+
+intersection of where the seam or
+
+intersection of where the seam or
+security information in event management
+
+security information in event management
+
+security information in event management
+and other monitoring and alerting
+
+and other monitoring and alerting
+
+and other monitoring and alerting
+systems take shape and interact with
+
+systems take shape and interact with
+
+systems take shape and interact with
+people in your organization as you will
+
+people in your organization as you will
+
+people in your organization as you will
+see by what the assessors are looking
+
+see by what the assessors are looking
+
+see by what the assessors are looking
+for in just a minute this control has a
+
+for in just a minute this control has a
+
+for in just a minute this control has a
+mandated progression from what happens
+
+mandated progression from what happens
+
+mandated progression from what happens
+in the system to how things are
+
+in the system to how things are
+
+in the system to how things are
+responded to so if you're not sure how
+
+responded to so if you're not sure how
+
+responded to so if you're not sure how
+you would really get that from the exact
+
+you would really get that from the exact
+
+you would really get that from the exact
+wording of the control but hey that's
+
+wording of the control but hey that's
+
+wording of the control but hey that's
+why we sort of punch through and are
+
+why we sort of punch through and are
+
+why we sort of punch through and are
+delivering these controls from an
+
+delivering these controls from an
+
+delivering these controls from an
+assessment perspective when it comes to
+
+assessment perspective when it comes to
+
+assessment perspective when it comes to
+cmmc that way we can sort of show you
+
+cmmc that way we can sort of show you
+
+cmmc that way we can sort of show you
+what the answer is and then you'll be
+
+what the answer is and then you'll be
+
+what the answer is and then you'll be
+able to understand why they're asking
+
+able to understand why they're asking
+
+able to understand why they're asking
+the question the way they are so let's
+
+the question the way they are so let's
+
+the question the way they are so let's
+dive in let's check out what are the
+
+dive in let's check out what are the
+
+dive in let's check out what are the
+assessors looking for and how to make
+
+assessors looking for and how to make
+
+assessors looking for and how to make
+them happy on this one so again on au.l
+
+them happy on this one so again on au.l
+
+them happy on this one so again on au.l
+2-3.3.5 there's really only two things
+
+2-3.3.5 there's really only two things
+
+2-3.3.5 there's really only two things
+they're looking for the first thing
+
+they're looking for the first thing
+
+they're looking for the first thing
+you're looking for is they want to
+
+you're looking for is they want to
+
+you're looking for is they want to
+determine if audit record review
+
+determine if audit record review
+
+determine if audit record review
+analysis and Reporting processes for
+
+analysis and Reporting processes for
+
+analysis and Reporting processes for
+investigation in response to indications
+
+investigation in response to indications
+
+investigation in response to indications
+of unlawful unauthorized suspicious or
+
+of unlawful unauthorized suspicious or
+
+of unlawful unauthorized suspicious or
+unusual activity are defined so let's
+
+unusual activity are defined so let's
+
+unusual activity are defined so let's
+take out all the garbage cook in the
+
+take out all the garbage cook in the
+
+take out all the garbage cook in the
+middle determine if audit record review
+
+middle determine if audit record review
+
+middle determine if audit record review
+yada yada are they defined if we were
+
+yada yada are they defined if we were
+
+yada yada are they defined if we were
+going to give a sample answer that we
+
+going to give a sample answer that we
+
+going to give a sample answer that we
+might say something to the extent of hey
+
+might say something to the extent of hey
+
+might say something to the extent of hey
+look yes it's defined it's defined
+
+look yes it's defined it's defined
+
+look yes it's defined it's defined
+within the seam solution right because
+
+within the seam solution right because
+
+within the seam solution right because
+again you're gonna have policies and
+
+again you're gonna have policies and
+
+again you're gonna have policies and
+templates within your seam solution as
+
+templates within your seam solution as
+
+templates within your seam solution as
+far as what it should be actually
+
+far as what it should be actually
+
+far as what it should be actually
+reporting on uh and of course there's
+
+reporting on uh and of course there's
+
+reporting on uh and of course there's
+also an incident response plan where
+
+also an incident response plan where
+
+also an incident response plan where
+you're also defining exactly how you're
+
+you're also defining exactly how you're
+
+you're also defining exactly how you're
+going to record and then of course
+
+going to record and then of course
+
+going to record and then of course
+respond to things so again those are two
+
+respond to things so again those are two
+
+respond to things so again those are two
+places that an assessor would be looking
+
+places that an assessor would be looking
+
+places that an assessor would be looking
+now if I'm looking at the second part of
+
+now if I'm looking at the second part of
+
+now if I'm looking at the second part of
+the assessment criteria determine if
+
+the assessment criteria determine if
+
+the assessment criteria determine if
+defined audit record review analysis and
+
+defined audit record review analysis and
+
+defined audit record review analysis and
+Reporting processes are correlated again
+
+Reporting processes are correlated again
+
+Reporting processes are correlated again
+there we can just look right back maybe
+
+there we can just look right back maybe
+
+there we can just look right back maybe
+over the shoulder Surf and see that our
+
+over the shoulder Surf and see that our
+
+over the shoulder Surf and see that our
+seam system is doing it so again we can
+
+seam system is doing it so again we can
+
+seam system is doing it so again we can
+say we were implemented through our seam
+
+say we were implemented through our seam
+
+say we were implemented through our seam
+or security information event management
+
+or security information event management
+
+or security information event management
+solution and of course our incident
+
+solution and of course our incident
+
+solution and of course our incident
+response plan
+
+response plan
+
+response plan
+defines exactly how we're supposed to
+
+defines exactly how we're supposed to
+
+defines exactly how we're supposed to
+execute on the usage of these tools so
+
+execute on the usage of these tools so
+
+execute on the usage of these tools so
+if you're as confused as most people are
+
+if you're as confused as most people are
+
+if you're as confused as most people are
+whenever they initially read that
+
+whenever they initially read that
+
+whenever they initially read that
+control it might be time to give us a
+
+control it might be time to give us a
+
+control it might be time to give us a
+call because an on-call we work with
+
+call because an on-call we work with
+
+call because an on-call we work with
+defense contractors just like you who
+
+defense contractors just like you who
+
+defense contractors just like you who
+have had this dfars nist itar and cmmc
+
+have had this dfars nist itar and cmmc
+
+have had this dfars nist itar and cmmc
+compliance stuff drops into their laps
+
+compliance stuff drops into their laps
+
+compliance stuff drops into their laps
+like a seagull on a sunny day and we
+
+like a seagull on a sunny day and we
+
+like a seagull on a sunny day and we
+teach you how to level up and be a
+
+teach you how to level up and be a
+
+teach you how to level up and be a
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+company eliminating Gap apps gray areas
+
+company eliminating Gap apps gray areas
+
+company eliminating Gap apps gray areas
+and getting this solved all while
+
+and getting this solved all while
+
+and getting this solved all while
+showing you how to leverage compliance
+
+showing you how to leverage compliance
+
+showing you how to leverage compliance
+as your secret weapon to land more
+
+as your secret weapon to land more
+
+as your secret weapon to land more
+Defense work with higher profit margins
+
+Defense work with higher profit margins
+
+Defense work with higher profit margins
+now that's what becoming an on-call
+
+now that's what becoming an on-call
+
+now that's what becoming an on-call
+compliance hero can do for you if you're
+
+compliance hero can do for you if you're
+
+compliance hero can do for you if you're
+looking for more help getting compliant
+
+looking for more help getting compliant
+
+looking for more help getting compliant
+our compliance experts are always on
+
+our compliance experts are always on
+
+our compliance experts are always on
+call for you visit cmfc
+
+call for you visit cmfc
+
+call for you visit cmfc
+complianceecrets.com or check out the
+
+complianceecrets.com or check out the
+
+complianceecrets.com or check out the
+bio below for links to get help right
+
+bio below for links to get help right
+
+bio below for links to get help right
+now if you love the content we're
+
+now if you love the content we're
+
+now if you love the content we're
+putting out there for you help us out
+
+putting out there for you help us out
+
+putting out there for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash that subscribe
+
+or even better smash that subscribe
+
+or even better smash that subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as our compliances roll
+
+content as soon as our compliances roll
+
+content as soon as our compliances roll
+it out until the next compliance tip my
+
+it out until the next compliance tip my
+
+it out until the next compliance tip my
+friends stay safe and secure out there
+
+friends stay safe and secure out there
+
+friends stay safe and secure out there
+hit us in the comments below let us know
+
+hit us in the comments below let us know
+
+hit us in the comments below let us know
+what you'd like to know more about when
+
+what you'd like to know more about when
+
+what you'd like to know more about when
+it comes to information security and
+
+it comes to information security and
+
+it comes to information security and
+compliance I'll see you on the next one
+
+compliance I'll see you on the next one
+
+compliance I'll see you on the next one
+
+foreign
+
+foreign
+
+foreign
+
+foreign

@@ -1,0 +1,664 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmccontrolac.l
+
+cmmccontrolac.l
+
+cmmccontrolac.l
+2-3.1.7 prevent non-privileged users
+
+2-3.1.7 prevent non-privileged users
+
+2-3.1.7 prevent non-privileged users
+from executing privileged functions and
+
+from executing privileged functions and
+
+from executing privileged functions and
+audit the execution of such functions
+
+audit the execution of such functions
+
+audit the execution of such functions
+
+say hey if you're a defense contractor
+
+say hey if you're a defense contractor
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliant stuff
+
+dfars and nist SP 10171 compliant stuff
+
+dfars and nist SP 10171 compliant stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you've
+
+well I've got great news for you you've
+
+well I've got great news for you you've
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance hero let's kick it so
+
+on-call compliance hero let's kick it so
+
+on-call compliance hero let's kick it so
+here we get deeper into our controls on
+
+here we get deeper into our controls on
+
+here we get deeper into our controls on
+making sure that our system is being
+
+making sure that our system is being
+
+making sure that our system is being
+used in the way that we intend it to be
+
+used in the way that we intend it to be
+
+used in the way that we intend it to be
+used the goal of cmmccontrol
+
+used the goal of cmmccontrol
+
+used the goal of cmmccontrol
+ac.l2-3.1.7 prevents non-privileged
+
+ac.l2-3.1.7 prevents non-privileged
+
+ac.l2-3.1.7 prevents non-privileged
+users from executing privileged
+
+users from executing privileged
+
+users from executing privileged
+functions and audit the execution of
+
+functions and audit the execution of
+
+functions and audit the execution of
+such functions is to Define what
+
+such functions is to Define what
+
+such functions is to Define what
+functions are privileged versus
+
+functions are privileged versus
+
+functions are privileged versus
+non-privileged making sure
+
+non-privileged making sure
+
+non-privileged making sure
+non-privileged users cannot execute
+
+non-privileged users cannot execute
+
+non-privileged users cannot execute
+those functions and then audit or make
+
+those functions and then audit or make
+
+those functions and then audit or make
+sure that when those functions are
+
+sure that when those functions are
+
+sure that when those functions are
+executed record of that is being kept so
+
+executed record of that is being kept so
+
+executed record of that is being kept so
+it can be reviewed and the validity of
+
+it can be reviewed and the validity of
+
+it can be reviewed and the validity of
+and authenticity can be verified to make
+
+and authenticity can be verified to make
+
+and authenticity can be verified to make
+sure it's really one of your authorized
+
+sure it's really one of your authorized
+
+sure it's really one of your authorized
+users and not some bad guy
+
+users and not some bad guy
+
+users and not some bad guy
+uh now if I was an Assessor
+
+uh now if I was an Assessor
+
+uh now if I was an Assessor
+and I was looking at how could I figure
+
+and I was looking at how could I figure
+
+and I was looking at how could I figure
+out if you're actually complying with
+
+out if you're actually complying with
+
+out if you're actually complying with
+this there's basically four major points
+
+this there's basically four major points
+
+this there's basically four major points
+that I would be asking all right Point
+
+that I would be asking all right Point
+
+that I would be asking all right Point
+number one is determinive privilege
+
+number one is determinive privilege
+
+number one is determinive privilege
+functions are defined so somewhere did
+
+functions are defined so somewhere did
+
+functions are defined so somewhere did
+we Define what is privilege privilege
+
+we Define what is privilege privilege
+
+we Define what is privilege privilege
+functions are Def and if I was to give a
+
+functions are Def and if I was to give a
+
+functions are Def and if I was to give a
+sample answer I would say privilege
+
+sample answer I would say privilege
+
+sample answer I would say privilege
+functions are defined within each
+
+functions are defined within each
+
+functions are defined within each
+individual system authorized users have
+
+individual system authorized users have
+
+individual system authorized users have
+access to examples uh which may include
+
+access to examples uh which may include
+
+access to examples uh which may include
+file system permissions right do you
+
+file system permissions right do you
+
+file system permissions right do you
+have permission to access those
+
+have permission to access those
+
+have permission to access those
+privileged folders like what contains
+
+privileged folders like what contains
+
+privileged folders like what contains
+cui uh security groups OU's user
+
+cui uh security groups OU's user
+
+cui uh security groups OU's user
+permission levels within different
+
+permission levels within different
+
+permission levels within different
+systems all that kind of stuff right so
+
+systems all that kind of stuff right so
+
+systems all that kind of stuff right so
+again lots and lots of different things
+
+again lots and lots of different things
+
+again lots and lots of different things
+that we can actually uh use to determine
+
+that we can actually uh use to determine
+
+that we can actually uh use to determine
+if privileged functions are defined
+
+if privileged functions are defined
+
+if privileged functions are defined
+now assessment Point number two
+
+now assessment Point number two
+
+now assessment Point number two
+determine if non-privileged users are
+
+determine if non-privileged users are
+
+determine if non-privileged users are
+defined so are we defining who our
+
+defined so are we defining who our
+
+defined so are we defining who our
+non-privileged users are non-profit
+
+non-privileged users are non-profit
+
+non-privileged users are non-profit
+users could be defined so again sample
+
+users could be defined so again sample
+
+users could be defined so again sample
+answer would be non-privile users are
+
+answer would be non-privile users are
+
+answer would be non-privile users are
+defined via their membership role in
+
+defined via their membership role in
+
+defined via their membership role in
+maybe an OU or a class of user like
+
+maybe an OU or a class of user like
+
+maybe an OU or a class of user like
+administrators versus standard users and
+
+administrators versus standard users and
+
+administrators versus standard users and
+user account type okay uh assessment
+
+user account type okay uh assessment
+
+user account type okay uh assessment
+Point number three determine if
+
+Point number three determine if
+
+Point number three determine if
+non-probled users are prevented from
+
+non-probled users are prevented from
+
+non-probled users are prevented from
+executing privileged functions so how
+
+executing privileged functions so how
+
+executing privileged functions so how
+are we actually preventing them from
+
+are we actually preventing them from
+
+are we actually preventing them from
+being able to execute things they
+
+being able to execute things they
+
+being able to execute things they
+shouldn't like installing new programs
+
+shouldn't like installing new programs
+
+shouldn't like installing new programs
+non-probial users are prevented from
+
+non-probial users are prevented from
+
+non-probial users are prevented from
+executing privileged functions via Group
+
+executing privileged functions via Group
+
+executing privileged functions via Group
+Policy file system permissions and user
+
+Policy file system permissions and user
+
+Policy file system permissions and user
+access capabilities within each system
+
+access capabilities within each system
+
+access capabilities within each system
+right so again remember it's not just
+
+right so again remember it's not just
+
+right so again remember it's not just
+the base operating system you got to
+
+the base operating system you got to
+
+the base operating system you got to
+worry about in your domain you also got
+
+worry about in your domain you also got
+
+worry about in your domain you also got
+to worry about things like your
+
+to worry about things like your
+
+to worry about things like your
+accounting system and maybe your secure
+
+accounting system and maybe your secure
+
+accounting system and maybe your secure
+engineering system whatever it may be
+
+engineering system whatever it may be
+
+engineering system whatever it may be
+those are all places that you have to
+
+those are all places that you have to
+
+those are all places that you have to
+take some consideration to
+
+take some consideration to
+
+take some consideration to
+determine if the execution of privileged
+
+determine if the execution of privileged
+
+determine if the execution of privileged
+functions is captured in Auto logs again
+
+functions is captured in Auto logs again
+
+functions is captured in Auto logs again
+the final assessment Point uh and in
+
+the final assessment Point uh and in
+
+the final assessment Point uh and in
+this one actually the answer is really
+
+this one actually the answer is really
+
+this one actually the answer is really
+easy execution winds up being captured
+
+easy execution winds up being captured
+
+easy execution winds up being captured
+in your seam solution so again the idea
+
+in your seam solution so again the idea
+
+in your seam solution so again the idea
+is is that you have a security
+
+is is that you have a security
+
+is is that you have a security
+information and event management system
+
+information and event management system
+
+information and event management system
+it's capturing basically log files of
+
+it's capturing basically log files of
+
+it's capturing basically log files of
+everything and you can determine if the
+
+everything and you can determine if the
+
+everything and you can determine if the
+execution of privileged functions is
+
+execution of privileged functions is
+
+execution of privileged functions is
+actually captured in there so pretty
+
+actually captured in there so pretty
+
+actually captured in there so pretty
+cool have a seam system if you have no
+
+cool have a seam system if you have no
+
+cool have a seam system if you have no
+idea what a steam system is here's the
+
+idea what a steam system is here's the
+
+idea what a steam system is here's the
+good news and on call we work with
+
+good news and on call we work with
+
+good news and on call we work with
+defense contractors just like you who
+
+defense contractors just like you who
+
+defense contractors just like you who
+have had this dfars nist itar and cmmc
+
+have had this dfars nist itar and cmmc
+
+have had this dfars nist itar and cmmc
+compliance stuff dropped into the lap
+
+compliance stuff dropped into the lap
+
+compliance stuff dropped into the lap
+like a single on a sunny day and we
+
+like a single on a sunny day and we
+
+like a single on a sunny day and we
+teach you how to level up and be a
+
+teach you how to level up and be a
+
+teach you how to level up and be a
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+
+company eliminating gaps gray areas and
+
+company eliminating gaps gray areas and
+getting this solved all while showing
+
+getting this solved all while showing
+
+getting this solved all while showing
+you how to leverage compliance as your
+
+you how to leverage compliance as your
+
+you how to leverage compliance as your
+secret weapon to land more Defense work
+
+secret weapon to land more Defense work
+
+secret weapon to land more Defense work
+with higher profit margins now that's
+
+with higher profit margins now that's
+
+with higher profit margins now that's
+what becoming an on-call compliance hero
+
+what becoming an on-call compliance hero
+
+what becoming an on-call compliance hero
+can do for you if you're looking for
+
+can do for you if you're looking for
+
+can do for you if you're looking for
+more help getting compliant our
+
+more help getting compliant our
+
+more help getting compliant our
+compliance experts are always on call
+
+compliance experts are always on call
+
+compliance experts are always on call
+for you visit
+
+for you visit
+
+for you visit
+cmfccompliancecrets.com or check out the
+
+cmfccompliancecrets.com or check out the
+
+cmfccompliancecrets.com or check out the
+bio below for links to get help right
+
+bio below for links to get help right
+
+bio below for links to get help right
+now and if you love the content we're
+
+now and if you love the content we're
+
+now and if you love the content we're
+putting out there for you help us out
+
+putting out there for you help us out
+
+putting out there for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash that subscribe
+
+or even better smash that subscribe
+
+or even better smash that subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as our compliance starts
+
+content as soon as our compliance starts
+
+content as soon as our compliance starts
+rolling out and until the next time uh
+
+rolling out and until the next time uh
+
+rolling out and until the next time uh
+my friends stay safe and secure out
+
+my friends stay safe and secure out
+
+my friends stay safe and secure out
+there and hit us in the comments below
+
+there and hit us in the comments below
+
+there and hit us in the comments below
+to let us know what you'd like to know
+
+to let us know what you'd like to know
+
+to let us know what you'd like to know
+more about when it comes to information
+
+more about when it comes to information
+
+more about when it comes to information
+security and compliance and I'll see you
+
+security and compliance and I'll see you
+
+security and compliance and I'll see you
+on the next one foreign
+
+on the next one foreign
+
+on the next one foreign

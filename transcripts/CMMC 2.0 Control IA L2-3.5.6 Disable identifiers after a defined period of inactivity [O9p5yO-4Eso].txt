@@ -1,0 +1,686 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week today we're talking about cmmc
+
+the week today we're talking about cmmc
+
+the week today we're talking about cmmc
+control
+
+ia.l2-3.5.6 disable identifiers after a
+
+ia.l2-3.5.6 disable identifiers after a
+
+ia.l2-3.5.6 disable identifiers after a
+defined period of inactivity
+
+defined period of inactivity
+
+defined period of inactivity
+
+all right let's talk about it so control
+
+all right let's talk about it so control
+
+all right let's talk about it so control
+uh cmmc control
+
+ia.l2-3.5.6 disable identifiers after a
+
+ia.l2-3.5.6 disable identifiers after a
+
+ia.l2-3.5.6 disable identifiers after a
+defined period of inactivity uh well of
+
+defined period of inactivity uh well of
+
+defined period of inactivity uh well of
+course the first real question is what
+
+course the first real question is what
+
+course the first real question is what
+on Earth is an identifier uh that is
+
+on Earth is an identifier uh that is
+
+on Earth is an identifier uh that is
+indeed a great question uh identifiers
+
+indeed a great question uh identifiers
+
+indeed a great question uh identifiers
+are typically the key field related to a
+
+are typically the key field related to a
+
+are typically the key field related to a
+user which uniquely identifies them and
+
+user which uniquely identifies them and
+
+user which uniquely identifies them and
+typically doesn't change a great example
+
+typically doesn't change a great example
+
+typically doesn't change a great example
+of an identifier might be a username
+
+of an identifier might be a username
+
+of an identifier might be a username
+although it doesn't have to be it could
+
+although it doesn't have to be it could
+
+although it doesn't have to be it could
+be an account identifier but a lot of
+
+be an account identifier but a lot of
+
+be an account identifier but a lot of
+times people most commonly associate it
+
+times people most commonly associate it
+
+times people most commonly associate it
+with a username uh something that
+
+with a username uh something that
+
+with a username uh something that
+uniquely identifies that user account
+
+uniquely identifies that user account
+
+uniquely identifies that user account
+probably would have been easier if they
+
+probably would have been easier if they
+
+probably would have been easier if they
+had just used the term account instead
+
+had just used the term account instead
+
+had just used the term account instead
+of identifier making everybody run to
+
+of identifier making everybody run to
+
+of identifier making everybody run to
+Google and try to take a wild swinging
+
+Google and try to take a wild swinging
+
+Google and try to take a wild swinging
+guess at what this thing is but again
+
+guess at what this thing is but again
+
+guess at what this thing is but again
+this is a standard it has to be designed
+
+this is a standard it has to be designed
+
+this is a standard it has to be designed
+to the best of its ability to fit the
+
+to the best of its ability to fit the
+
+to the best of its ability to fit the
+widest variety of systems the language
+
+widest variety of systems the language
+
+widest variety of systems the language
+used is you know a challenge for sure
+
+used is you know a challenge for sure
+
+used is you know a challenge for sure
+now why is this so important right let's
+
+now why is this so important right let's
+
+now why is this so important right let's
+really why is it important well the more
+
+really why is it important well the more
+
+really why is it important well the more
+accounts that have access to things the
+
+accounts that have access to things the
+
+accounts that have access to things the
+larger the number of accounts the larger
+
+larger the number of accounts the larger
+
+larger the number of accounts the larger
+the number of Potential Threat factors
+
+the number of Potential Threat factors
+
+the number of Potential Threat factors
+through those accounts exist when
+
+through those accounts exist when
+
+through those accounts exist when
+accounts sit idle and don't have their
+
+accounts sit idle and don't have their
+
+accounts sit idle and don't have their
+passwords changed or users accessing
+
+passwords changed or users accessing
+
+passwords changed or users accessing
+them to report odd activity happening
+
+them to report odd activity happening
+
+them to report odd activity happening
+with those accounts over time the risk
+
+with those accounts over time the risk
+
+with those accounts over time the risk
+continues to grow that someone will be
+
+continues to grow that someone will be
+
+continues to grow that someone will be
+able to hack in and gain inappropriate
+
+able to hack in and gain inappropriate
+
+able to hack in and gain inappropriate
+or unauthorized access so this control
+
+or unauthorized access so this control
+
+or unauthorized access so this control
+stops that by saying hey look uh make a
+
+stops that by saying hey look uh make a
+
+stops that by saying hey look uh make a
+defined period of time and disable those
+
+defined period of time and disable those
+
+defined period of time and disable those
+accounts make sure that they don't just
+
+accounts make sure that they don't just
+
+accounts make sure that they don't just
+sort of openly have access forever
+
+sort of openly have access forever
+
+sort of openly have access forever
+and ever and ever
+
+and ever and ever
+
+and ever and ever
+so let's dive into what the assessors
+
+so let's dive into what the assessors
+
+so let's dive into what the assessors
+are looking for on this one to get a
+
+are looking for on this one to get a
+
+are looking for on this one to get a
+better understanding so they're looking
+
+better understanding so they're looking
+
+better understanding so they're looking
+for two things one is determining if a
+
+for two things one is determining if a
+
+for two things one is determining if a
+period of inactivity after which an
+
+period of inactivity after which an
+
+period of inactivity after which an
+identifier is disabled is actually
+
+identifier is disabled is actually
+
+identifier is disabled is actually
+defined uh yeah some somewhere we have
+
+defined uh yeah some somewhere we have
+
+defined uh yeah some somewhere we have
+to Define how this works so I'll give
+
+to Define how this works so I'll give
+
+to Define how this works so I'll give
+you a great example identifiers are
+
+you a great example identifiers are
+
+you a great example identifiers are
+disabled after a period of 365 days of
+
+disabled after a period of 365 days of
+
+disabled after a period of 365 days of
+inactivity per the it operations policy
+
+inactivity per the it operations policy
+
+inactivity per the it operations policy
+yes some written policy may be a great
+
+yes some written policy may be a great
+
+yes some written policy may be a great
+way to do this user account status is
+
+way to do this user account status is
+
+way to do this user account status is
+reviewed at a minimum annually right so
+
+reviewed at a minimum annually right so
+
+reviewed at a minimum annually right so
+we're going to explain how we're
+
+we're going to explain how we're
+
+we're going to explain how we're
+reviewing this it service tickets are
+
+reviewing this it service tickets are
+
+reviewing this it service tickets are
+created upon review to task disabling
+
+created upon review to task disabling
+
+created upon review to task disabling
+identifiers after this period of
+
+identifiers after this period of
+
+identifiers after this period of
+activity now again this is sort of a
+
+activity now again this is sort of a
+
+activity now again this is sort of a
+more small to medium company kind of way
+
+more small to medium company kind of way
+
+more small to medium company kind of way
+to handle things right so we're
+
+to handle things right so we're
+
+to handle things right so we're
+essentially using some manual
+
+essentially using some manual
+
+essentially using some manual
+interaction with the system to prove
+
+interaction with the system to prove
+
+interaction with the system to prove
+that we're able to disable that
+
+that we're able to disable that
+
+that we're able to disable that
+inactivity or those inactive accounts
+
+inactivity or those inactive accounts
+
+inactivity or those inactive accounts
+after they've passed that 365 days again
+
+after they've passed that 365 days again
+
+after they've passed that 365 days again
+we're gonna have to really get this
+
+we're gonna have to really get this
+
+we're gonna have to really get this
+documented well otherwise it won't it
+
+documented well otherwise it won't it
+
+documented well otherwise it won't it
+won't really pass
+
+won't really pass
+
+won't really pass
+second assessment Point determine if
+
+second assessment Point determine if
+
+second assessment Point determine if
+identifiers are disabled after the
+
+identifiers are disabled after the
+
+identifiers are disabled after the
+defined period of activity so again the
+
+defined period of activity so again the
+
+defined period of activity so again the
+assessor is going to be looking for can
+
+assessor is going to be looking for can
+
+assessor is going to be looking for can
+I prove that they're disabled we're
+
+I prove that they're disabled we're
+
+I prove that they're disabled we're
+going to say this is implemented review
+
+going to say this is implemented review
+
+going to say this is implemented review
+Baseline configuration review and
+
+Baseline configuration review and
+
+Baseline configuration review and
+compare to current system configuration
+
+compare to current system configuration
+
+compare to current system configuration
+so again in our Baseline configuration
+
+so again in our Baseline configuration
+
+so again in our Baseline configuration
+we're probably going to be able to see
+
+we're probably going to be able to see
+
+we're probably going to be able to see
+those accounts and how long they've been
+
+those accounts and how long they've been
+
+those accounts and how long they've been
+active or when the last login occurred
+
+active or when the last login occurred
+
+active or when the last login occurred
+and again compared to current system
+
+and again compared to current system
+
+and again compared to current system
+configuration to make sure that any
+
+configuration to make sure that any
+
+configuration to make sure that any
+group policies or anything like that
+
+group policies or anything like that
+
+group policies or anything like that
+they're in place to help with this are
+
+they're in place to help with this are
+
+they're in place to help with this are
+actually working so again this one's a
+
+actually working so again this one's a
+
+actually working so again this one's a
+little bit more technically complex to
+
+little bit more technically complex to
+
+little bit more technically complex to
+figure out how to do this but again lots
+
+figure out how to do this but again lots
+
+figure out how to do this but again lots
+of ways to do it again manual
+
+of ways to do it again manual
+
+of ways to do it again manual
+intervention sometimes is needed to
+
+intervention sometimes is needed to
+
+intervention sometimes is needed to
+solve for some of these controls there
+
+solve for some of these controls there
+
+solve for some of these controls there
+is a human element so hey if you're
+
+is a human element so hey if you're
+
+is a human element so hey if you're
+trying to get compliant with dfars nist
+
+trying to get compliant with dfars nist
+
+trying to get compliant with dfars nist
+SP 10171 or cmmc on your own and you're
+
+SP 10171 or cmmc on your own and you're
+
+SP 10171 or cmmc on your own and you're
+looking for help our compliance experts
+
+looking for help our compliance experts
+
+looking for help our compliance experts
+are always on call for you visit cmmc
+
+are always on call for you visit cmmc
+
+are always on call for you visit cmmc
+compliance secrets.com or check out the
+
+compliance secrets.com or check out the
+
+compliance secrets.com or check out the
+bio below for links that will make your
+
+bio below for links that will make your
+
+bio below for links that will make your
+life easy okay seriously check out the
+
+life easy okay seriously check out the
+
+life easy okay seriously check out the
+description below amazing stuff it'll be
+
+description below amazing stuff it'll be
+
+description below amazing stuff it'll be
+really helpful to you it doesn't cost a
+
+really helpful to you it doesn't cost a
+
+really helpful to you it doesn't cost a
+thing there there you can find more
+
+thing there there you can find more
+
+thing there there you can find more
+information about how we can help
+
+information about how we can help
+
+information about how we can help
+self-schedule time at your convenience
+
+self-schedule time at your convenience
+
+self-schedule time at your convenience
+with one of our compliance experts
+
+with one of our compliance experts
+
+with one of our compliance experts
+through any form on a website or learn
+
+through any form on a website or learn
+
+through any form on a website or learn
+more about our completely done for you
+
+more about our completely done for you
+
+more about our completely done for you
+services that can have you on your way
+
+services that can have you on your way
+
+services that can have you on your way
+to being compliant in just two to three
+
+to being compliant in just two to three
+
+to being compliant in just two to three
+days and hey if you love the content
+
+days and hey if you love the content
+
+days and hey if you love the content
+we're putting out here for you help us
+
+we're putting out here for you help us
+
+we're putting out here for you help us
+out with a big thumbs up on that like
+
+out with a big thumbs up on that like
+
+out with a big thumbs up on that like
+button or even better smash that
+
+button or even better smash that
+
+button or even better smash that
+subscribe button to get the latest
+
+subscribe button to get the latest
+
+subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliance service roll it out it's a
+
+compliance service roll it out it's a
+
+compliance service roll it out it's a
+great way to stay prepared for that
+
+great way to stay prepared for that
+
+great way to stay prepared for that
+upcoming cmmc certification that
+
+upcoming cmmc certification that
+
+upcoming cmmc certification that
+everybody's going to have to go through
+
+everybody's going to have to go through
+
+everybody's going to have to go through
+all right until the next compliance tip
+
+all right until the next compliance tip
+
+all right until the next compliance tip
+my friends stay safe and secure out
+
+my friends stay safe and secure out
+
+my friends stay safe and secure out
+there and hit us in the comments below
+
+there and hit us in the comments below
+
+there and hit us in the comments below
+to let us know what you'd like to learn
+
+to let us know what you'd like to learn
+
+to let us know what you'd like to learn
+more about when it comes to information
+
+more about when it comes to information
+
+more about when it comes to information
+security and compliance I'll see you on
+
+security and compliance I'll see you on
+
+security and compliance I'll see you on
+the next one
+
+the next one
+
+the next one
+
+thank you
+
+thank you
+
+thank you
+
+anyway

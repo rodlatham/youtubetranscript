@@ -1,0 +1,566 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with Hong Kong compliance Solutions and
+
+with Hong Kong compliance Solutions and
+
+with Hong Kong compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmccontrol
+
+cmmccontrol
+
+cmmccontrol
+ac.l2-3.1.13 employee cryptographic
+
+ac.l2-3.1.13 employee cryptographic
+
+ac.l2-3.1.13 employee cryptographic
+mechanisms to protect the
+
+mechanisms to protect the
+
+mechanisms to protect the
+confidentiality of remote access
+
+confidentiality of remote access
+
+confidentiality of remote access
+sessions I don't know maybe they use
+
+sessions I don't know maybe they use
+
+sessions I don't know maybe they use
+some cryptography to come up with these
+
+some cryptography to come up with these
+
+some cryptography to come up with these
+control numbers because they sure are
+
+control numbers because they sure are
+
+control numbers because they sure are
+complicated let's get into it
+
+complicated let's get into it
+
+complicated let's get into it
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+
+alone trying to understand all of this
+
+alone trying to understand all of this
+cmmc dfars and nist sp-800 171 compliant
+
+cmmc dfars and nist sp-800 171 compliant
+
+cmmc dfars and nist sp-800 171 compliant
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I've got some great news
+
+workload well I've got some great news
+
+workload well I've got some great news
+for you you've found your home here at
+
+for you you've found your home here at
+
+for you you've found your home here at
+on-call compliance Solutions where we
+
+on-call compliance Solutions where we
+
+on-call compliance Solutions where we
+can help you transform into your
+
+can help you transform into your
+
+can help you transform into your
+company's on-call compliance hero so in
+
+company's on-call compliance hero so in
+
+company's on-call compliance hero so in
+cmmc control AC dot
+
+cmmc control AC dot
+
+cmmc control AC dot
+l2-3.1.13 I feel like I could wrap that
+
+l2-3.1.13 I feel like I could wrap that
+
+l2-3.1.13 I feel like I could wrap that
+employ cry cryptographic mechanisms to
+
+employ cry cryptographic mechanisms to
+
+employ cry cryptographic mechanisms to
+protect the confidentiality remotes
+
+protect the confidentiality remotes
+
+protect the confidentiality remotes
+access sessions what we are doing is
+
+access sessions what we are doing is
+
+access sessions what we are doing is
+making sure that any kind of remote
+
+making sure that any kind of remote
+
+making sure that any kind of remote
+access session is protected from attacks
+
+access session is protected from attacks
+
+access session is protected from attacks
+like packet sniffing attacks okay if
+
+like packet sniffing attacks okay if
+
+like packet sniffing attacks okay if
+you're not familiar with what that means
+
+you're not familiar with what that means
+
+you're not familiar with what that means
+there are programs out there that can
+
+there are programs out there that can
+
+there are programs out there that can
+essentially listen to Network traffic
+
+essentially listen to Network traffic
+
+essentially listen to Network traffic
+and put it back together and decode it
+
+and put it back together and decode it
+
+and put it back together and decode it
+just by being on the same network as you
+
+just by being on the same network as you
+
+just by being on the same network as you
+are what can be sniffed in that session
+
+are what can be sniffed in that session
+
+are what can be sniffed in that session
+well when if traffic isn't encrypted
+
+well when if traffic isn't encrypted
+
+well when if traffic isn't encrypted
+basically anything if it's encrypted
+
+basically anything if it's encrypted
+
+basically anything if it's encrypted
+you're good to go usually obviously
+
+you're good to go usually obviously
+
+you're good to go usually obviously
+that's not acceptable when we were
+
+that's not acceptable when we were
+
+that's not acceptable when we were
+talking about defense related
+
+talking about defense related
+
+talking about defense related
+information in cui and of course
+
+information in cui and of course
+
+information in cui and of course
+passwords into your system none of which
+
+passwords into your system none of which
+
+passwords into your system none of which
+should be set via clear text they should
+
+should be set via clear text they should
+
+should be set via clear text they should
+all be encrypted now if I'm an assessor
+
+all be encrypted now if I'm an assessor
+
+all be encrypted now if I'm an assessor
+there are two assessment points on this
+
+there are two assessment points on this
+
+there are two assessment points on this
+control that I'm looking for number one
+
+control that I'm looking for number one
+
+control that I'm looking for number one
+I'm looking to determine if
+
+I'm looking to determine if
+
+I'm looking to determine if
+cryptographic mechanisms to protect the
+
+cryptographic mechanisms to protect the
+
+cryptographic mechanisms to protect the
+confidentiality of remote access
+
+confidentiality of remote access
+
+confidentiality of remote access
+sessions are identified so again have I
+
+sessions are identified so again have I
+
+sessions are identified so again have I
+identified what kind of encryption is in
+
+identified what kind of encryption is in
+
+identified what kind of encryption is in
+play here if I was going to give an
+
+play here if I was going to give an
+
+play here if I was going to give an
+example we'll throw out an example like
+
+example we'll throw out an example like
+
+example we'll throw out an example like
+this cryptographic mechanisms include
+
+this cryptographic mechanisms include
+
+this cryptographic mechanisms include
+256-bit AES fips 140-2 compliant
+
+256-bit AES fips 140-2 compliant
+
+256-bit AES fips 140-2 compliant
+encryption required on the VPN
+
+encryption required on the VPN
+
+encryption required on the VPN
+connection right because that's where
+
+connection right because that's where
+
+connection right because that's where
+we're going to protect it is the VPN
+
+we're going to protect it is the VPN
+
+we're going to protect it is the VPN
+connection defining and documenting
+
+connection defining and documenting
+
+connection defining and documenting
+right
+
+right
+
+right
+now second assessment Point determine if
+
+now second assessment Point determine if
+
+now second assessment Point determine if
+cryptographic mechanisms to protect the
+
+cryptographic mechanisms to protect the
+
+cryptographic mechanisms to protect the
+confidentiality of remote access
+
+confidentiality of remote access
+
+confidentiality of remote access
+sessions are implemented and of course
+
+sessions are implemented and of course
+
+sessions are implemented and of course
+simplest answer is well yes of course
+
+simplest answer is well yes of course
+
+simplest answer is well yes of course
+they are they're implemented via the
+
+they are they're implemented via the
+
+they are they're implemented via the
+firewall settings and you can just log
+
+firewall settings and you can just log
+
+firewall settings and you can just log
+in the firewall settings do a little
+
+in the firewall settings do a little
+
+in the firewall settings do a little
+shoulder surfing a little screen sharing
+
+shoulder surfing a little screen sharing
+
+shoulder surfing a little screen sharing
+a little
+
+a little
+
+a little
+show and tell and see that it's
+
+show and tell and see that it's
+
+show and tell and see that it's
+implemented right there in the settings
+
+implemented right there in the settings
+
+implemented right there in the settings
+now and on call we work with defense
+
+now and on call we work with defense
+
+now and on call we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+
+compliance stuff dropped in their laps
+like a seal on a sunny day baby and we
+
+like a seal on a sunny day baby and we
+
+like a seal on a sunny day baby and we
+teach you how to level up and be a
+
+teach you how to level up and be a
+
+teach you how to level up and be a
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+company eliminating gaps great areas and
+
+company eliminating gaps great areas and
+
+company eliminating gaps great areas and
+getting this solved all while showing
+
+getting this solved all while showing
+
+getting this solved all while showing
+you how to leverage compliance as your
+
+you how to leverage compliance as your
+
+you how to leverage compliance as your
+secret weapon to land more Defense work
+
+secret weapon to land more Defense work
+
+secret weapon to land more Defense work
+with higher profit margins that's what I
+
+with higher profit margins that's what I
+
+with higher profit margins that's what I
+get excited about I hope you do too
+
+get excited about I hope you do too
+
+get excited about I hope you do too
+that's what becoming an on-call
+
+that's what becoming an on-call
+
+that's what becoming an on-call
+compliance here on working with us can
+
+compliance here on working with us can
+
+compliance here on working with us can
+do for you if you're looking for more
+
+do for you if you're looking for more
+
+do for you if you're looking for more
+help getting compliant our compliance
+
+help getting compliant our compliance
+
+help getting compliant our compliance
+experts are always on call for you visit
+
+experts are always on call for you visit
+
+experts are always on call for you visit
+cmmccompliance secrets.com or check out
+
+cmmccompliance secrets.com or check out
+
+cmmccompliance secrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now
+
+right now
+
+right now
+just do it right now just like scroll
+
+just do it right now just like scroll
+
+just do it right now just like scroll
+down right hit the little down arrow
+
+down right hit the little down arrow
+
+down right hit the little down arrow
+thing there and there's our link you can
+
+thing there and there's our link you can
+
+thing there and there's our link you can
+click that and you're like one step
+
+click that and you're like one step
+
+click that and you're like one step
+closer to getting help if you love the
+
+closer to getting help if you love the
+
+closer to getting help if you love the
+content we're putting out here for you
+
+content we're putting out here for you
+
+content we're putting out here for you
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+like button or even better smash the
+
+like button or even better smash the
+
+like button or even better smash the
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliances roll it out until next
+
+compliances roll it out until next
+
+compliances roll it out until next
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+know more about when it comes to
+
+know more about when it comes to
+
+know more about when it comes to
+information security and compliance and
+
+information security and compliance and
+
+information security and compliance and
+I'll see you on the next one
+
+I'll see you on the next one
+
+I'll see you on the next one
+thank you
+
+foreign
+
+foreign
+
+foreign

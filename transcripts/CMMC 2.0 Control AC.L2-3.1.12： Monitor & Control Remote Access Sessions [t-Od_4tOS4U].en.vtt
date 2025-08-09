@@ -1,0 +1,912 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:01.550 align:start position:0%
+ 
+hey<00:00:00.539><c> everybody</c><00:00:00.719><c> it's</c><00:00:00.960><c> Mike</c><00:00:01.079><c> frieder</c><00:00:01.500><c> with</c>
+
+00:00:01.550 --> 00:00:01.560 align:start position:0%
+hey everybody it's Mike frieder with
+ 
+
+00:00:01.560 --> 00:00:02.869 align:start position:0%
+hey everybody it's Mike frieder with
+on-call<00:00:01.860><c> compliance</c><00:00:02.340><c> Solutions</c><00:00:02.520><c> and</c><00:00:02.700><c> I'm</c>
+
+00:00:02.869 --> 00:00:02.879 align:start position:0%
+on-call compliance Solutions and I'm
+ 
+
+00:00:02.879 --> 00:00:04.190 align:start position:0%
+on-call compliance Solutions and I'm
+back<00:00:03.000><c> with</c><00:00:03.179><c> another</c><00:00:03.300><c> compliance</c><00:00:03.840><c> tip</c><00:00:03.959><c> of</c><00:00:04.080><c> the</c>
+
+00:00:04.190 --> 00:00:04.200 align:start position:0%
+back with another compliance tip of the
+ 
+
+00:00:04.200 --> 00:00:06.050 align:start position:0%
+back with another compliance tip of the
+week<00:00:04.319><c> this</c><00:00:04.799><c> week</c><00:00:04.920><c> we're</c><00:00:05.100><c> talking</c><00:00:05.279><c> about</c><00:00:05.400><c> cmmc</c>
+
+00:00:06.050 --> 00:00:06.060 align:start position:0%
+week this week we're talking about cmmc
+ 
+
+00:00:06.060 --> 00:00:08.530 align:start position:0%
+week this week we're talking about cmmc
+control<00:00:06.319><c> ac.l</c>
+
+00:00:08.530 --> 00:00:08.540 align:start position:0%
+control ac.l
+ 
+
+00:00:08.540 --> 00:00:10.850 align:start position:0%
+control ac.l
+2-3.1.12.<00:00:09.540><c> monitoring</c><00:00:10.380><c> control</c><00:00:10.620><c> remote</c>
+
+00:00:10.850 --> 00:00:10.860 align:start position:0%
+2-3.1.12. monitoring control remote
+ 
+
+00:00:10.860 --> 00:00:12.750 align:start position:0%
+2-3.1.12. monitoring control remote
+access<00:00:11.219><c> sessions</c>
+
+00:00:12.750 --> 00:00:12.760 align:start position:0%
+access sessions
+ 
+
+00:00:12.760 --> 00:00:21.650 align:start position:0%
+access sessions
+[Music]
+
+00:00:21.650 --> 00:00:21.660 align:start position:0%
+[Music]
+ 
+
+00:00:21.660 --> 00:00:23.090 align:start position:0%
+[Music]
+say<00:00:22.020><c> hey</c><00:00:22.199><c> if</c><00:00:22.320><c> you're</c><00:00:22.439><c> a</c><00:00:22.560><c> defense</c><00:00:22.800><c> contractor</c>
+
+00:00:23.090 --> 00:00:23.100 align:start position:0%
+say hey if you're a defense contractor
+ 
+
+00:00:23.100 --> 00:00:25.070 align:start position:0%
+say hey if you're a defense contractor
+is<00:00:23.279><c> feeling</c><00:00:23.460><c> overwhelmed</c><00:00:24.119><c> tired</c><00:00:24.720><c> and</c><00:00:24.900><c> alone</c>
+
+00:00:25.070 --> 00:00:25.080 align:start position:0%
+is feeling overwhelmed tired and alone
+ 
+
+00:00:25.080 --> 00:00:27.050 align:start position:0%
+is feeling overwhelmed tired and alone
+trying<00:00:25.619><c> to</c><00:00:25.800><c> understand</c><00:00:25.920><c> all</c><00:00:26.279><c> this</c><00:00:26.460><c> cmmc</c>
+
+00:00:27.050 --> 00:00:27.060 align:start position:0%
+trying to understand all this cmmc
+ 
+
+00:00:27.060 --> 00:00:29.630 align:start position:0%
+trying to understand all this cmmc
+defars<00:00:27.779><c> and</c><00:00:27.900><c> nist</c><00:00:28.080><c> SP</c><00:00:28.199><c> 800</c><00:00:28.619><c> 171</c><00:00:29.160><c> compliance</c>
+
+00:00:29.630 --> 00:00:29.640 align:start position:0%
+defars and nist SP 800 171 compliance
+ 
+
+00:00:29.640 --> 00:00:31.730 align:start position:0%
+defars and nist SP 800 171 compliance
+stuff<00:00:29.880><c> on</c><00:00:30.539><c> top</c><00:00:30.660><c> of</c><00:00:30.840><c> an</c><00:00:30.960><c> already</c><00:00:31.140><c> colossal</c>
+
+00:00:31.730 --> 00:00:31.740 align:start position:0%
+stuff on top of an already colossal
+ 
+
+00:00:31.740 --> 00:00:33.830 align:start position:0%
+stuff on top of an already colossal
+workload<00:00:32.160><c> well</c><00:00:32.579><c> I've</c><00:00:32.759><c> got</c><00:00:32.880><c> great</c><00:00:33.120><c> news</c><00:00:33.300><c> you</c>
+
+00:00:33.830 --> 00:00:33.840 align:start position:0%
+workload well I've got great news you
+ 
+
+00:00:33.840 --> 00:00:34.970 align:start position:0%
+workload well I've got great news you
+found<00:00:34.020><c> your</c><00:00:34.200><c> home</c><00:00:34.320><c> here</c><00:00:34.500><c> at</c><00:00:34.620><c> on-call</c>
+
+00:00:34.970 --> 00:00:34.980 align:start position:0%
+found your home here at on-call
+ 
+
+00:00:34.980 --> 00:00:36.470 align:start position:0%
+found your home here at on-call
+compliance<00:00:35.460><c> Solutions</c><00:00:35.760><c> where</c><00:00:35.940><c> we</c><00:00:36.239><c> can</c><00:00:36.360><c> help</c>
+
+00:00:36.470 --> 00:00:36.480 align:start position:0%
+compliance Solutions where we can help
+ 
+
+00:00:36.480 --> 00:00:38.209 align:start position:0%
+compliance Solutions where we can help
+you<00:00:36.660><c> transform</c><00:00:37.260><c> into</c><00:00:37.620><c> your</c><00:00:37.920><c> company's</c>
+
+00:00:38.209 --> 00:00:38.219 align:start position:0%
+you transform into your company's
+ 
+
+00:00:38.219 --> 00:00:40.430 align:start position:0%
+you transform into your company's
+on-call<00:00:38.700><c> compliance</c><00:00:39.120><c> Hero</c><00:00:39.540><c> Let's</c><00:00:40.140><c> jump</c><00:00:40.320><c> into</c>
+
+00:00:40.430 --> 00:00:40.440 align:start position:0%
+on-call compliance Hero Let's jump into
+ 
+
+00:00:40.440 --> 00:00:43.869 align:start position:0%
+on-call compliance Hero Let's jump into
+it<00:00:40.680><c> so</c><00:00:40.800><c> in</c><00:00:40.980><c> cmmc</c><00:00:41.520><c> control</c>
+
+00:00:43.869 --> 00:00:43.879 align:start position:0%
+ 
+ 
+
+00:00:43.879 --> 00:00:46.310 align:start position:0%
+ 
+ac.l2-3.1.12<00:00:44.879><c> monitoring</c><00:00:45.840><c> control</c><00:00:46.020><c> remote</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+ac.l2-3.1.12 monitoring control remote
+ 
+
+00:00:46.320 --> 00:00:48.709 align:start position:0%
+ac.l2-3.1.12 monitoring control remote
+access<00:00:46.620><c> sessions</c><00:00:47.160><c> we</c><00:00:47.760><c> are</c><00:00:47.940><c> first</c><00:00:48.180><c> declaring</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+access sessions we are first declaring
+ 
+
+00:00:48.719 --> 00:00:50.630 align:start position:0%
+access sessions we are first declaring
+if<00:00:48.899><c> remote</c><00:00:49.140><c> access</c><00:00:49.440><c> sessions</c><00:00:50.039><c> are</c><00:00:50.219><c> allowed</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+if remote access sessions are allowed
+ 
+
+00:00:50.640 --> 00:00:53.630 align:start position:0%
+if remote access sessions are allowed
+then<00:00:51.480><c> figuring</c><00:00:52.020><c> out</c><00:00:52.140><c> what's</c><00:00:52.500><c> allowed</c><00:00:52.920><c> then</c>
+
+00:00:53.630 --> 00:00:53.640 align:start position:0%
+then figuring out what's allowed then
+ 
+
+00:00:53.640 --> 00:00:55.369 align:start position:0%
+then figuring out what's allowed then
+learning<00:00:54.180><c> about</c><00:00:54.360><c> how</c><00:00:54.660><c> they</c><00:00:54.780><c> are</c><00:00:54.960><c> controlled</c>
+
+00:00:55.369 --> 00:00:55.379 align:start position:0%
+learning about how they are controlled
+ 
+
+00:00:55.379 --> 00:00:57.470 align:start position:0%
+learning about how they are controlled
+and<00:00:55.739><c> finally</c><00:00:56.039><c> figuring</c><00:00:56.760><c> out</c><00:00:56.879><c> if</c><00:00:57.180><c> they</c><00:00:57.360><c> are</c>
+
+00:00:57.470 --> 00:00:57.480 align:start position:0%
+and finally figuring out if they are
+ 
+
+00:00:57.480 --> 00:00:59.569 align:start position:0%
+and finally figuring out if they are
+monitored<00:00:57.960><c> this</c><00:00:58.440><c> is</c><00:00:58.620><c> a</c><00:00:58.680><c> control</c><00:00:58.800><c> which</c><00:00:59.160><c> is</c><00:00:59.340><c> a</c>
+
+00:00:59.569 --> 00:00:59.579 align:start position:0%
+monitored this is a control which is a
+ 
+
+00:00:59.579 --> 00:01:01.610 align:start position:0%
+monitored this is a control which is a
+little<00:00:59.699><c> different</c><00:01:00.000><c> than</c><00:01:00.420><c> past</c><00:01:00.719><c> controls</c><00:01:01.320><c> in</c>
+
+00:01:01.610 --> 00:01:01.620 align:start position:0%
+little different than past controls in
+ 
+
+00:01:01.620 --> 00:01:03.889 align:start position:0%
+little different than past controls in
+that<00:01:01.800><c> it</c><00:01:02.039><c> has</c><00:01:02.219><c> a</c><00:01:02.879><c> progressive</c><00:01:03.420><c> assessment</c>
+
+00:01:03.889 --> 00:01:03.899 align:start position:0%
+that it has a progressive assessment
+ 
+
+00:01:03.899 --> 00:01:06.590 align:start position:0%
+that it has a progressive assessment
+Cadence<00:01:04.440><c> where</c><00:01:05.040><c> each</c><00:01:05.220><c> assessment</c><00:01:05.700><c> Point</c><00:01:06.000><c> goes</c>
+
+00:01:06.590 --> 00:01:06.600 align:start position:0%
+Cadence where each assessment Point goes
+ 
+
+00:01:06.600 --> 00:01:08.210 align:start position:0%
+Cadence where each assessment Point goes
+a<00:01:06.720><c> little</c><00:01:06.780><c> bit</c><00:01:06.900><c> more</c><00:01:07.080><c> in</c><00:01:07.260><c> depth</c><00:01:07.560><c> than</c><00:01:07.860><c> the</c><00:01:08.040><c> last</c>
+
+00:01:08.210 --> 00:01:08.220 align:start position:0%
+a little bit more in depth than the last
+ 
+
+00:01:08.220 --> 00:01:09.770 align:start position:0%
+a little bit more in depth than the last
+one<00:01:08.400><c> let's</c><00:01:08.820><c> take</c><00:01:09.000><c> a</c><00:01:09.119><c> look</c><00:01:09.180><c> at</c><00:01:09.299><c> the</c><00:01:09.420><c> assessment</c>
+
+00:01:09.770 --> 00:01:09.780 align:start position:0%
+one let's take a look at the assessment
+ 
+
+00:01:09.780 --> 00:01:12.109 align:start position:0%
+one let's take a look at the assessment
+points<00:01:10.140><c> and</c><00:01:10.439><c> here's</c><00:01:10.680><c> some</c><00:01:10.740><c> sample</c><00:01:11.100><c> answers</c><00:01:11.400><c> so</c>
+
+00:01:12.109 --> 00:01:12.119 align:start position:0%
+points and here's some sample answers so
+ 
+
+00:01:12.119 --> 00:01:14.630 align:start position:0%
+points and here's some sample answers so
+four<00:01:12.659><c> assessment</c><00:01:13.080><c> points</c><00:01:13.439><c> on</c><00:01:13.500><c> this</c><00:01:13.680><c> one</c><00:01:13.860><c> first</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+four assessment points on this one first
+ 
+
+00:01:14.640 --> 00:01:16.010 align:start position:0%
+four assessment points on this one first
+one<00:01:14.820><c> is</c><00:01:15.000><c> determine</c><00:01:15.420><c> if</c><00:01:15.540><c> remote</c><00:01:15.720><c> access</c>
+
+00:01:16.010 --> 00:01:16.020 align:start position:0%
+one is determine if remote access
+ 
+
+00:01:16.020 --> 00:01:18.469 align:start position:0%
+one is determine if remote access
+sessions<00:01:16.619><c> are</c><00:01:16.860><c> permitted</c><00:01:17.280><c> so</c><00:01:17.640><c> obviously</c><00:01:18.360><c> you</c>
+
+00:01:18.469 --> 00:01:18.479 align:start position:0%
+sessions are permitted so obviously you
+ 
+
+00:01:18.479 --> 00:01:19.850 align:start position:0%
+sessions are permitted so obviously you
+know<00:01:18.600><c> it's</c><00:01:18.720><c> more</c><00:01:18.960><c> of</c><00:01:19.020><c> an</c><00:01:19.200><c> answer</c><00:01:19.320><c> simple</c>
+
+00:01:19.850 --> 00:01:19.860 align:start position:0%
+know it's more of an answer simple
+ 
+
+00:01:19.860 --> 00:01:21.050 align:start position:0%
+know it's more of an answer simple
+answer<00:01:20.100><c> it's</c><00:01:20.340><c> gonna</c><00:01:20.460><c> be</c><00:01:20.580><c> yes</c><00:01:20.700><c> but</c><00:01:20.939><c> you're</c>
+
+00:01:21.050 --> 00:01:21.060 align:start position:0%
+answer it's gonna be yes but you're
+ 
+
+00:01:21.060 --> 00:01:22.190 align:start position:0%
+answer it's gonna be yes but you're
+probably<00:01:21.240><c> going</c><00:01:21.360><c> to</c><00:01:21.420><c> have</c><00:01:21.479><c> to</c><00:01:21.600><c> show</c><00:01:22.020><c> an</c>
+
+00:01:22.190 --> 00:01:22.200 align:start position:0%
+probably going to have to show an
+ 
+
+00:01:22.200 --> 00:01:24.350 align:start position:0%
+probably going to have to show an
+assessor<00:01:22.560><c> this</c><00:01:22.799><c> is</c><00:01:22.920><c> actually</c><00:01:23.100><c> happening</c><00:01:23.580><c> now</c>
+
+00:01:24.350 --> 00:01:24.360 align:start position:0%
+assessor this is actually happening now
+ 
+
+00:01:24.360 --> 00:01:26.149 align:start position:0%
+assessor this is actually happening now
+second<00:01:24.600><c> one</c><00:01:24.840><c> is</c><00:01:24.960><c> determine</c><00:01:25.320><c> if</c><00:01:25.560><c> the</c><00:01:25.740><c> types</c><00:01:26.040><c> of</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+second one is determine if the types of
+ 
+
+00:01:26.159 --> 00:01:27.710 align:start position:0%
+second one is determine if the types of
+permitted<00:01:26.520><c> remote</c><00:01:26.640><c> access</c><00:01:26.939><c> are</c><00:01:27.299><c> identified</c>
+
+00:01:27.710 --> 00:01:27.720 align:start position:0%
+permitted remote access are identified
+ 
+
+00:01:27.720 --> 00:01:29.630 align:start position:0%
+permitted remote access are identified
+so<00:01:28.200><c> obviously</c><00:01:29.100><c> there's</c><00:01:29.220><c> a</c><00:01:29.400><c> lot</c><00:01:29.460><c> of</c><00:01:29.520><c> different</c>
+
+00:01:29.630 --> 00:01:29.640 align:start position:0%
+so obviously there's a lot of different
+ 
+
+00:01:29.640 --> 00:01:31.789 align:start position:0%
+so obviously there's a lot of different
+types<00:01:29.880><c> of</c><00:01:29.939><c> remote</c><00:01:30.000><c> access</c><00:01:30.360><c> to</c><00:01:31.259><c> make</c><00:01:31.380><c> a</c><00:01:31.680><c> really</c>
+
+00:01:31.789 --> 00:01:31.799 align:start position:0%
+types of remote access to make a really
+ 
+
+00:01:31.799 --> 00:01:33.770 align:start position:0%
+types of remote access to make a really
+simple<00:01:32.040><c> excuse</c><00:01:32.880><c> me</c><00:01:33.000><c> example</c><00:01:33.299><c> what</c><00:01:33.540><c> we'll</c><00:01:33.659><c> do</c>
+
+00:01:33.770 --> 00:01:33.780 align:start position:0%
+simple excuse me example what we'll do
+ 
+
+00:01:33.780 --> 00:01:35.450 align:start position:0%
+simple excuse me example what we'll do
+is<00:01:33.900><c> we'll</c><00:01:34.020><c> just</c><00:01:34.200><c> say</c><00:01:34.320><c> yes</c><00:01:34.619><c> and</c><00:01:35.100><c> then</c><00:01:35.220><c> we'll</c><00:01:35.340><c> say</c>
+
+00:01:35.450 --> 00:01:35.460 align:start position:0%
+is we'll just say yes and then we'll say
+ 
+
+00:01:35.460 --> 00:01:37.130 align:start position:0%
+is we'll just say yes and then we'll say
+let's<00:01:35.700><c> say</c><00:01:35.820><c> the</c><00:01:35.939><c> organization's</c><00:01:36.420><c> got</c><00:01:36.540><c> a</c><00:01:36.659><c> VPN</c>
+
+00:01:37.130 --> 00:01:37.140 align:start position:0%
+let's say the organization's got a VPN
+ 
+
+00:01:37.140 --> 00:01:38.690 align:start position:0%
+let's say the organization's got a VPN
+right<00:01:37.320><c> so</c><00:01:37.500><c> we'll</c><00:01:37.619><c> Define</c><00:01:37.799><c> hey</c><00:01:38.040><c> it's</c><00:01:38.220><c> a</c><00:01:38.340><c> VPN</c>
+
+00:01:38.690 --> 00:01:38.700 align:start position:0%
+right so we'll Define hey it's a VPN
+ 
+
+00:01:38.700 --> 00:01:40.429 align:start position:0%
+right so we'll Define hey it's a VPN
+maybe<00:01:39.119><c> we'll</c><00:01:39.360><c> show</c><00:01:39.540><c> them</c><00:01:39.659><c> the</c><00:01:39.840><c> firewall</c><00:01:40.140><c> we'll</c>
+
+00:01:40.429 --> 00:01:40.439 align:start position:0%
+maybe we'll show them the firewall we'll
+ 
+
+00:01:40.439 --> 00:01:41.630 align:start position:0%
+maybe we'll show them the firewall we'll
+actually<00:01:40.560><c> let</c><00:01:40.740><c> them</c><00:01:40.860><c> see</c><00:01:40.979><c> hey</c><00:01:41.159><c> yep</c><00:01:41.340><c> there's</c><00:01:41.460><c> a</c>
+
+00:01:41.630 --> 00:01:41.640 align:start position:0%
+actually let them see hey yep there's a
+ 
+
+00:01:41.640 --> 00:01:43.370 align:start position:0%
+actually let them see hey yep there's a
+VPN<00:01:41.939><c> right</c><00:01:42.119><c> here</c><00:01:42.240><c> here's</c><00:01:42.600><c> the</c><00:01:42.659><c> settings</c>
+
+00:01:43.370 --> 00:01:43.380 align:start position:0%
+VPN right here here's the settings
+ 
+
+00:01:43.380 --> 00:01:45.109 align:start position:0%
+VPN right here here's the settings
+third<00:01:43.799><c> piece</c><00:01:44.040><c> determine</c><00:01:44.520><c> if</c><00:01:44.640><c> remote</c><00:01:44.759><c> access</c>
+
+00:01:45.109 --> 00:01:45.119 align:start position:0%
+third piece determine if remote access
+ 
+
+00:01:45.119 --> 00:01:48.109 align:start position:0%
+third piece determine if remote access
+sessions<00:01:45.720><c> are</c><00:01:45.900><c> controlled</c><00:01:46.439><c> yes</c><00:01:47.280><c> we're</c><00:01:47.880><c> doing</c>
+
+00:01:48.109 --> 00:01:48.119 align:start position:0%
+sessions are controlled yes we're doing
+ 
+
+00:01:48.119 --> 00:01:50.149 align:start position:0%
+sessions are controlled yes we're doing
+it<00:01:48.240><c> by</c><00:01:48.360><c> VPN</c><00:01:48.840><c> and</c><00:01:49.439><c> let's</c><00:01:49.560><c> say</c><00:01:49.740><c> that</c><00:01:49.920><c> I</c><00:01:50.100><c> don't</c>
+
+00:01:50.149 --> 00:01:50.159 align:start position:0%
+it by VPN and let's say that I don't
+ 
+
+00:01:50.159 --> 00:01:51.350 align:start position:0%
+it by VPN and let's say that I don't
+know<00:01:50.220><c> we've</c><00:01:50.579><c> got</c><00:01:50.700><c> it</c><00:01:50.880><c> LinkedIn</c><00:01:51.180><c> through</c>
+
+00:01:51.350 --> 00:01:51.360 align:start position:0%
+know we've got it LinkedIn through
+ 
+
+00:01:51.360 --> 00:01:52.490 align:start position:0%
+know we've got it LinkedIn through
+active<00:01:51.720><c> directory</c><00:01:52.020><c> and</c><00:01:52.200><c> the</c><00:01:52.320><c> active</c>
+
+00:01:52.490 --> 00:01:52.500 align:start position:0%
+active directory and the active
+ 
+
+00:01:52.500 --> 00:01:54.710 align:start position:0%
+active directory and the active
+directory<00:01:52.799><c> accounts</c><00:01:53.220><c> and</c><00:01:53.340><c> permissions</c><00:01:53.759><c> uh</c>
+
+00:01:54.710 --> 00:01:54.720 align:start position:0%
+directory accounts and permissions uh
+ 
+
+00:01:54.720 --> 00:01:56.630 align:start position:0%
+directory accounts and permissions uh
+along<00:01:54.899><c> with</c><00:01:55.140><c> maybe</c><00:01:55.320><c> MFA</c><00:01:56.040><c> are</c><00:01:56.280><c> what</c><00:01:56.520><c> is</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+along with maybe MFA are what is
+ 
+
+00:01:56.640 --> 00:01:57.950 align:start position:0%
+along with maybe MFA are what is
+controlling<00:01:57.000><c> whether</c><00:01:57.240><c> or</c><00:01:57.360><c> not</c><00:01:57.360><c> someone</c><00:01:57.540><c> gets</c>
+
+00:01:57.950 --> 00:01:57.960 align:start position:0%
+controlling whether or not someone gets
+ 
+
+00:01:57.960 --> 00:01:59.870 align:start position:0%
+controlling whether or not someone gets
+access<00:01:58.079><c> boom</c><00:01:58.680><c> it's</c><00:01:58.860><c> control</c><00:01:59.100><c> show</c><00:01:59.640><c> a</c>
+
+00:01:59.870 --> 00:01:59.880 align:start position:0%
+access boom it's control show a
+ 
+
+00:01:59.880 --> 00:02:01.130 align:start position:0%
+access boom it's control show a
+demonstration<00:02:00.240><c> of</c><00:02:00.420><c> that</c>
+
+00:02:01.130 --> 00:02:01.140 align:start position:0%
+demonstration of that
+ 
+
+00:02:01.140 --> 00:02:03.590 align:start position:0%
+demonstration of that
+now<00:02:01.680><c> fourth</c><00:02:02.040><c> assessment</c><00:02:02.399><c> Point</c><00:02:02.640><c> determine</c><00:02:03.479><c> if</c>
+
+00:02:03.590 --> 00:02:03.600 align:start position:0%
+now fourth assessment Point determine if
+ 
+
+00:02:03.600 --> 00:02:06.109 align:start position:0%
+now fourth assessment Point determine if
+remote<00:02:03.780><c> access</c><00:02:04.079><c> sessions</c><00:02:04.619><c> are</c><00:02:04.860><c> monitored</c>
+
+00:02:06.109 --> 00:02:06.119 align:start position:0%
+remote access sessions are monitored
+ 
+
+00:02:06.119 --> 00:02:07.850 align:start position:0%
+remote access sessions are monitored
+now<00:02:06.659><c> we</c><00:02:06.840><c> have</c><00:02:06.960><c> a</c><00:02:07.020><c> little</c><00:02:07.140><c> different</c><00:02:07.320><c> answer</c><00:02:07.560><c> so</c>
+
+00:02:07.850 --> 00:02:07.860 align:start position:0%
+now we have a little different answer so
+ 
+
+00:02:07.860 --> 00:02:09.290 align:start position:0%
+now we have a little different answer so
+obviously<00:02:08.099><c> we're</c><00:02:08.220><c> going</c><00:02:08.340><c> to</c><00:02:08.340><c> say</c><00:02:08.459><c> yes</c><00:02:08.640><c> VPN</c>
+
+00:02:09.290 --> 00:02:09.300 align:start position:0%
+obviously we're going to say yes VPN
+ 
+
+00:02:09.300 --> 00:02:10.790 align:start position:0%
+obviously we're going to say yes VPN
+etcetera<00:02:09.539><c> remote</c><00:02:09.660><c> access</c><00:02:09.959><c> sessions</c><00:02:10.500><c> are</c>
+
+00:02:10.790 --> 00:02:10.800 align:start position:0%
+etcetera remote access sessions are
+ 
+
+00:02:10.800 --> 00:02:13.010 align:start position:0%
+etcetera remote access sessions are
+monitored<00:02:11.280><c> by</c><00:02:11.580><c> the</c><00:02:11.819><c> same</c><00:02:12.000><c> solution</c><00:02:12.480><c> right</c><00:02:12.780><c> our</c>
+
+00:02:13.010 --> 00:02:13.020 align:start position:0%
+monitored by the same solution right our
+ 
+
+00:02:13.020 --> 00:02:14.229 align:start position:0%
+monitored by the same solution right our
+security<00:02:13.200><c> information</c><00:02:13.500><c> event</c><00:02:13.800><c> management</c>
+
+00:02:14.229 --> 00:02:14.239 align:start position:0%
+security information event management
+ 
+
+00:02:14.239 --> 00:02:16.610 align:start position:0%
+security information event management
+firewall<00:02:15.239><c> monitoring</c><00:02:15.720><c> as</c><00:02:15.840><c> well</c><00:02:16.020><c> is</c><00:02:16.200><c> important</c>
+
+00:02:16.610 --> 00:02:16.620 align:start position:0%
+firewall monitoring as well is important
+ 
+
+00:02:16.620 --> 00:02:18.650 align:start position:0%
+firewall monitoring as well is important
+and<00:02:17.099><c> hopefully</c><00:02:17.400><c> they're</c><00:02:17.520><c> tied</c><00:02:17.700><c> together</c><00:02:17.879><c> and</c>
+
+00:02:18.650 --> 00:02:18.660 align:start position:0%
+and hopefully they're tied together and
+ 
+
+00:02:18.660 --> 00:02:20.630 align:start position:0%
+and hopefully they're tied together and
+periodically<00:02:19.200><c> during</c><00:02:19.620><c> risk</c><00:02:20.220><c> assessments</c>
+
+00:02:20.630 --> 00:02:20.640 align:start position:0%
+periodically during risk assessments
+ 
+
+00:02:20.640 --> 00:02:22.309 align:start position:0%
+periodically during risk assessments
+right<00:02:20.819><c> so</c><00:02:21.000><c> during</c><00:02:21.180><c> risk</c><00:02:21.599><c> assessments</c><00:02:22.020><c> we</c><00:02:22.140><c> want</c>
+
+00:02:22.309 --> 00:02:22.319 align:start position:0%
+right so during risk assessments we want
+ 
+
+00:02:22.319 --> 00:02:24.650 align:start position:0%
+right so during risk assessments we want
+to<00:02:22.500><c> assess</c><00:02:23.099><c> and</c><00:02:23.760><c> make</c><00:02:23.879><c> sure</c><00:02:24.060><c> these</c><00:02:24.360><c> sessions</c>
+
+00:02:24.650 --> 00:02:24.660 align:start position:0%
+to assess and make sure these sessions
+ 
+
+00:02:24.660 --> 00:02:26.390 align:start position:0%
+to assess and make sure these sessions
+are<00:02:24.840><c> still</c><00:02:24.959><c> being</c><00:02:25.200><c> monitored</c><00:02:25.620><c> that's</c><00:02:26.040><c> how</c><00:02:26.220><c> I'd</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+are still being monitored that's how I'd
+ 
+
+00:02:26.400 --> 00:02:29.390 align:start position:0%
+are still being monitored that's how I'd
+answer<00:02:26.580><c> it</c><00:02:26.760><c> if</c><00:02:26.879><c> it</c><00:02:27.000><c> was</c><00:02:27.060><c> me</c><00:02:27.239><c> and</c><00:02:28.020><c> of</c><00:02:28.260><c> course</c><00:02:28.440><c> uh</c>
+
+00:02:29.390 --> 00:02:29.400 align:start position:0%
+answer it if it was me and of course uh
+ 
+
+00:02:29.400 --> 00:02:31.070 align:start position:0%
+answer it if it was me and of course uh
+if<00:02:29.640><c> you're</c><00:02:29.760><c> looking</c><00:02:29.940><c> for</c><00:02:30.239><c> more</c><00:02:30.420><c> help</c><00:02:30.660><c> on</c><00:02:30.900><c> this</c>
+
+00:02:31.070 --> 00:02:31.080 align:start position:0%
+if you're looking for more help on this
+ 
+
+00:02:31.080 --> 00:02:33.949 align:start position:0%
+if you're looking for more help on this
+stuff<00:02:31.340><c> we</c><00:02:32.340><c> are</c><00:02:32.580><c> your</c><00:02:32.879><c> source</c><00:02:33.239><c> so</c><00:02:33.420><c> an</c><00:02:33.599><c> on-call</c>
+
+00:02:33.949 --> 00:02:33.959 align:start position:0%
+stuff we are your source so an on-call
+ 
+
+00:02:33.959 --> 00:02:35.570 align:start position:0%
+stuff we are your source so an on-call
+we<00:02:34.080><c> work</c><00:02:34.200><c> with</c><00:02:34.319><c> defense</c><00:02:34.620><c> contractors</c><00:02:35.160><c> just</c>
+
+00:02:35.570 --> 00:02:35.580 align:start position:0%
+we work with defense contractors just
+ 
+
+00:02:35.580 --> 00:02:37.729 align:start position:0%
+we work with defense contractors just
+like<00:02:35.760><c> you</c><00:02:36.000><c> who've</c><00:02:36.660><c> had</c><00:02:36.780><c> this</c><00:02:36.959><c> dfar's</c><00:02:37.500><c> nist</c>
+
+00:02:37.729 --> 00:02:37.739 align:start position:0%
+like you who've had this dfar's nist
+ 
+
+00:02:37.739 --> 00:02:40.010 align:start position:0%
+like you who've had this dfar's nist
+itar<00:02:38.280><c> and</c><00:02:38.400><c> cmmc</c><00:02:38.940><c> compliance</c><00:02:39.420><c> stuff</c><00:02:39.540><c> dropped</c>
+
+00:02:40.010 --> 00:02:40.020 align:start position:0%
+itar and cmmc compliance stuff dropped
+ 
+
+00:02:40.020 --> 00:02:41.630 align:start position:0%
+itar and cmmc compliance stuff dropped
+in<00:02:40.080><c> their</c><00:02:40.200><c> lap</c><00:02:40.440><c> like</c><00:02:40.560><c> a</c><00:02:40.739><c> seal</c><00:02:40.980><c> on</c><00:02:41.160><c> a</c><00:02:41.280><c> sunny</c><00:02:41.340><c> day</c>
+
+00:02:41.630 --> 00:02:41.640 align:start position:0%
+in their lap like a seal on a sunny day
+ 
+
+00:02:41.640 --> 00:02:43.910 align:start position:0%
+in their lap like a seal on a sunny day
+we<00:02:42.239><c> teach</c><00:02:42.480><c> you</c><00:02:42.599><c> how</c><00:02:42.900><c> to</c><00:02:43.019><c> level</c><00:02:43.140><c> up</c><00:02:43.379><c> and</c><00:02:43.680><c> be</c><00:02:43.800><c> a</c>
+
+00:02:43.910 --> 00:02:43.920 align:start position:0%
+we teach you how to level up and be a
+ 
+
+00:02:43.920 --> 00:02:45.530 align:start position:0%
+we teach you how to level up and be a
+proper<00:02:44.160><c> on-call</c><00:02:44.580><c> compliance</c><00:02:44.940><c> hero</c><00:02:45.239><c> for</c><00:02:45.420><c> your</c>
+
+00:02:45.530 --> 00:02:45.540 align:start position:0%
+proper on-call compliance hero for your
+ 
+
+00:02:45.540 --> 00:02:47.509 align:start position:0%
+proper on-call compliance hero for your
+company<00:02:45.720><c> eliminating</c><00:02:46.500><c> gaps</c><00:02:46.860><c> gray</c><00:02:47.040><c> areas</c><00:02:47.340><c> and</c>
+
+00:02:47.509 --> 00:02:47.519 align:start position:0%
+company eliminating gaps gray areas and
+ 
+
+00:02:47.519 --> 00:02:49.369 align:start position:0%
+company eliminating gaps gray areas and
+getting<00:02:47.700><c> this</c><00:02:47.879><c> solved</c><00:02:48.300><c> all</c><00:02:48.780><c> while</c><00:02:48.959><c> showing</c>
+
+00:02:49.369 --> 00:02:49.379 align:start position:0%
+getting this solved all while showing
+ 
+
+00:02:49.379 --> 00:02:50.990 align:start position:0%
+getting this solved all while showing
+you<00:02:49.500><c> how</c><00:02:49.920><c> to</c><00:02:49.980><c> leverage</c><00:02:50.220><c> compliance</c><00:02:50.700><c> is</c><00:02:50.819><c> your</c>
+
+00:02:50.990 --> 00:02:51.000 align:start position:0%
+you how to leverage compliance is your
+ 
+
+00:02:51.000 --> 00:02:52.550 align:start position:0%
+you how to leverage compliance is your
+secret<00:02:51.120><c> weapon</c><00:02:51.480><c> to</c><00:02:51.599><c> land</c><00:02:51.780><c> more</c><00:02:52.019><c> Defense</c><00:02:52.319><c> work</c>
+
+00:02:52.550 --> 00:02:52.560 align:start position:0%
+secret weapon to land more Defense work
+ 
+
+00:02:52.560 --> 00:02:54.890 align:start position:0%
+secret weapon to land more Defense work
+with<00:02:52.980><c> higher</c><00:02:53.280><c> profit</c><00:02:53.580><c> margins</c><00:02:54.000><c> now</c><00:02:54.540><c> that's</c>
+
+00:02:54.890 --> 00:02:54.900 align:start position:0%
+with higher profit margins now that's
+ 
+
+00:02:54.900 --> 00:02:56.449 align:start position:0%
+with higher profit margins now that's
+what<00:02:55.080><c> becoming</c><00:02:55.440><c> an</c><00:02:55.560><c> on-call</c><00:02:55.860><c> compliance</c><00:02:56.220><c> hero</c>
+
+00:02:56.449 --> 00:02:56.459 align:start position:0%
+what becoming an on-call compliance hero
+ 
+
+00:02:56.459 --> 00:02:57.890 align:start position:0%
+what becoming an on-call compliance hero
+can<00:02:56.580><c> do</c><00:02:56.700><c> for</c><00:02:56.819><c> you</c><00:02:56.940><c> and</c><00:02:57.360><c> if</c><00:02:57.480><c> you're</c><00:02:57.540><c> looking</c><00:02:57.720><c> for</c>
+
+00:02:57.890 --> 00:02:57.900 align:start position:0%
+can do for you and if you're looking for
+ 
+
+00:02:57.900 --> 00:02:59.390 align:start position:0%
+can do for you and if you're looking for
+more<00:02:58.019><c> help</c><00:02:58.200><c> getting</c><00:02:58.440><c> compliant</c><00:02:58.980><c> our</c>
+
+00:02:59.390 --> 00:02:59.400 align:start position:0%
+more help getting compliant our
+ 
+
+00:02:59.400 --> 00:03:01.130 align:start position:0%
+more help getting compliant our
+compliance<00:02:59.819><c> experts</c><00:03:00.239><c> are</c><00:03:00.420><c> always</c><00:03:00.660><c> on</c><00:03:00.959><c> call</c>
+
+00:03:01.130 --> 00:03:01.140 align:start position:0%
+compliance experts are always on call
+ 
+
+00:03:01.140 --> 00:03:03.350 align:start position:0%
+compliance experts are always on call
+for<00:03:01.379><c> you</c><00:03:01.500><c> visit</c><00:03:01.739><c> cmmc</c><00:03:02.459><c> complianceecrets.com</c>
+
+00:03:03.350 --> 00:03:03.360 align:start position:0%
+for you visit cmmc complianceecrets.com
+ 
+
+00:03:03.360 --> 00:03:06.770 align:start position:0%
+for you visit cmmc complianceecrets.com
+that's<00:03:03.840><c> cmmc</c><00:03:04.800><c> compliance</c><00:03:05.519><c> secrets</c><00:03:06.120><c> dot</c><00:03:06.720><c> com</c>
+
+00:03:06.770 --> 00:03:06.780 align:start position:0%
+that's cmmc compliance secrets dot com
+ 
+
+00:03:06.780 --> 00:03:08.270 align:start position:0%
+that's cmmc compliance secrets dot com
+where<00:03:07.140><c> we</c><00:03:07.319><c> give</c><00:03:07.440><c> away</c><00:03:07.560><c> all</c><00:03:07.800><c> the</c><00:03:07.920><c> secrets</c><00:03:08.220><c> to</c>
+
+00:03:08.270 --> 00:03:08.280 align:start position:0%
+where we give away all the secrets to
+ 
+
+00:03:08.280 --> 00:03:10.369 align:start position:0%
+where we give away all the secrets to
+getting<00:03:08.400><c> compliant</c><00:03:08.879><c> fast</c><00:03:09.120><c> and</c><00:03:09.300><c> easy</c><00:03:09.480><c> or</c><00:03:10.140><c> check</c>
+
+00:03:10.369 --> 00:03:10.379 align:start position:0%
+getting compliant fast and easy or check
+ 
+
+00:03:10.379 --> 00:03:11.809 align:start position:0%
+getting compliant fast and easy or check
+out<00:03:10.500><c> the</c><00:03:10.620><c> bio</c><00:03:10.739><c> below</c><00:03:10.980><c> for</c><00:03:11.159><c> links</c><00:03:11.400><c> to</c><00:03:11.519><c> help</c><00:03:11.640><c> get</c>
+
+00:03:11.809 --> 00:03:11.819 align:start position:0%
+out the bio below for links to help get
+ 
+
+00:03:11.819 --> 00:03:13.430 align:start position:0%
+out the bio below for links to help get
+help<00:03:12.000><c> right</c><00:03:12.239><c> now</c><00:03:12.420><c> if</c><00:03:12.780><c> you</c><00:03:12.959><c> love</c><00:03:13.080><c> the</c><00:03:13.200><c> content</c>
+
+00:03:13.430 --> 00:03:13.440 align:start position:0%
+help right now if you love the content
+ 
+
+00:03:13.440 --> 00:03:14.809 align:start position:0%
+help right now if you love the content
+we're<00:03:13.560><c> putting</c><00:03:13.739><c> out</c><00:03:13.800><c> there</c><00:03:13.980><c> for</c><00:03:14.159><c> you</c><00:03:14.280><c> help</c><00:03:14.640><c> us</c>
+
+00:03:14.809 --> 00:03:14.819 align:start position:0%
+we're putting out there for you help us
+ 
+
+00:03:14.819 --> 00:03:16.309 align:start position:0%
+we're putting out there for you help us
+out<00:03:15.000><c> with</c><00:03:15.180><c> a</c><00:03:15.360><c> big</c><00:03:15.540><c> thumbs</c><00:03:15.840><c> up</c><00:03:15.900><c> on</c><00:03:16.080><c> that</c><00:03:16.200><c> like</c>
+
+00:03:16.309 --> 00:03:16.319 align:start position:0%
+out with a big thumbs up on that like
+ 
+
+00:03:16.319 --> 00:03:17.630 align:start position:0%
+out with a big thumbs up on that like
+button<00:03:16.620><c> you</c><00:03:16.680><c> know</c><00:03:16.800><c> we</c><00:03:16.920><c> love</c><00:03:17.099><c> seeing</c><00:03:17.459><c> that</c>
+
+00:03:17.630 --> 00:03:17.640 align:start position:0%
+button you know we love seeing that
+ 
+
+00:03:17.640 --> 00:03:19.009 align:start position:0%
+button you know we love seeing that
+really<00:03:18.239><c> tells</c><00:03:18.540><c> us</c><00:03:18.540><c> we're</c><00:03:18.720><c> doing</c><00:03:18.840><c> the</c><00:03:18.959><c> right</c>
+
+00:03:19.009 --> 00:03:19.019 align:start position:0%
+really tells us we're doing the right
+ 
+
+00:03:19.019 --> 00:03:20.809 align:start position:0%
+really tells us we're doing the right
+thing<00:03:19.200><c> here</c><00:03:19.379><c> and</c><00:03:19.739><c> even</c><00:03:19.920><c> better</c><00:03:20.099><c> smash</c><00:03:20.640><c> that</c>
+
+00:03:20.809 --> 00:03:20.819 align:start position:0%
+thing here and even better smash that
+ 
+
+00:03:20.819 --> 00:03:22.009 align:start position:0%
+thing here and even better smash that
+subscribe<00:03:21.180><c> button</c><00:03:21.420><c> to</c><00:03:21.540><c> get</c><00:03:21.659><c> the</c><00:03:21.840><c> latest</c>
+
+00:03:22.009 --> 00:03:22.019 align:start position:0%
+subscribe button to get the latest
+ 
+
+00:03:22.019 --> 00:03:23.690 align:start position:0%
+subscribe button to get the latest
+compliance<00:03:22.560><c> content</c><00:03:22.920><c> as</c><00:03:23.159><c> soon</c><00:03:23.400><c> as</c><00:03:23.519><c> our</c>
+
+00:03:23.690 --> 00:03:23.700 align:start position:0%
+compliance content as soon as our
+ 
+
+00:03:23.700 --> 00:03:25.490 align:start position:0%
+compliance content as soon as our
+complianceers<00:03:24.239><c> roll</c><00:03:24.480><c> it</c><00:03:24.659><c> out</c><00:03:24.780><c> until</c><00:03:25.200><c> next</c>
+
+00:03:25.490 --> 00:03:25.500 align:start position:0%
+complianceers roll it out until next
+ 
+
+00:03:25.500 --> 00:03:27.410 align:start position:0%
+complianceers roll it out until next
+compliance<00:03:25.860><c> tip</c><00:03:26.099><c> my</c><00:03:26.220><c> friends</c><00:03:26.400><c> stay</c><00:03:26.760><c> safe</c><00:03:27.060><c> and</c>
+
+00:03:27.410 --> 00:03:27.420 align:start position:0%
+compliance tip my friends stay safe and
+ 
+
+00:03:27.420 --> 00:03:28.790 align:start position:0%
+compliance tip my friends stay safe and
+secure<00:03:27.720><c> out</c><00:03:27.900><c> there</c><00:03:28.019><c> and</c><00:03:28.200><c> hit</c><00:03:28.379><c> us</c><00:03:28.560><c> in</c><00:03:28.680><c> the</c>
+
+00:03:28.790 --> 00:03:28.800 align:start position:0%
+secure out there and hit us in the
+ 
+
+00:03:28.800 --> 00:03:30.470 align:start position:0%
+secure out there and hit us in the
+comments<00:03:28.980><c> below</c><00:03:29.220><c> to</c><00:03:29.580><c> let</c><00:03:29.819><c> us</c><00:03:29.940><c> know</c><00:03:30.060><c> what</c><00:03:30.239><c> you'd</c>
+
+00:03:30.470 --> 00:03:30.480 align:start position:0%
+comments below to let us know what you'd
+ 
+
+00:03:30.480 --> 00:03:32.089 align:start position:0%
+comments below to let us know what you'd
+like<00:03:30.599><c> to</c><00:03:30.720><c> know</c><00:03:30.840><c> more</c><00:03:31.019><c> about</c><00:03:31.200><c> when</c><00:03:31.680><c> it</c><00:03:31.860><c> comes</c><00:03:31.980><c> to</c>
+
+00:03:32.089 --> 00:03:32.099 align:start position:0%
+like to know more about when it comes to
+ 
+
+00:03:32.099 --> 00:03:33.949 align:start position:0%
+like to know more about when it comes to
+information<00:03:32.280><c> security</c><00:03:32.760><c> and</c><00:03:33.120><c> compliance</c><00:03:33.599><c> and</c>
+
+00:03:33.949 --> 00:03:33.959 align:start position:0%
+information security and compliance and
+ 
+
+00:03:33.959 --> 00:03:35.869 align:start position:0%
+information security and compliance and
+I'll<00:03:34.080><c> see</c><00:03:34.260><c> you</c><00:03:34.379><c> on</c><00:03:34.500><c> the</c><00:03:34.620><c> next</c><00:03:34.739><c> one</c>
+
+00:03:35.869 --> 00:03:35.879 align:start position:0%
+I'll see you on the next one
+ 
+
+00:03:35.879 --> 00:03:37.670 align:start position:0%
+I'll see you on the next one
+foreign
+
+00:03:37.670 --> 00:03:37.680 align:start position:0%
+foreign
+ 
+
+00:03:37.680 --> 00:03:43.910 align:start position:0%
+foreign
+[Music]
+
+00:03:43.910 --> 00:03:43.920 align:start position:0%
+[Music]
+ 
+
+00:03:43.920 --> 00:03:46.099 align:start position:0%
+[Music]
+foreign
+

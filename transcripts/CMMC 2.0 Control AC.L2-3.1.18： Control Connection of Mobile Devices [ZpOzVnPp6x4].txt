@@ -1,0 +1,546 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmc control ac.l2 Dot Dash
+
+cmmc control ac.l2 Dot Dash
+
+cmmc control ac.l2 Dot Dash
+dot dash dot dash 3.1.18 control
+
+dot dash dot dash 3.1.18 control
+
+dot dash dot dash 3.1.18 control
+connections and mobile devices
+
+connections and mobile devices
+
+connections and mobile devices
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all of the
+
+alone trying to understand all of the
+
+alone trying to understand all of the
+cmmc dfars and nist SP 800 171
+
+cmmc dfars and nist SP 800 171
+
+cmmc dfars and nist SP 800 171
+compliance stuff on top of an already
+
+compliance stuff on top of an already
+
+compliance stuff on top of an already
+colossal workload well I've got great
+
+colossal workload well I've got great
+
+colossal workload well I've got great
+news for you you've found your home here
+
+news for you you've found your home here
+
+news for you you've found your home here
+at on-call compliance Solutions where we
+
+at on-call compliance Solutions where we
+
+at on-call compliance Solutions where we
+can help you transform into your
+
+can help you transform into your
+
+can help you transform into your
+company's on-call compliance Hero Let's
+
+company's on-call compliance Hero Let's
+
+company's on-call compliance Hero Let's
+jump into it so in cmmc control
+
+jump into it so in cmmc control
+
+jump into it so in cmmc control
+ac.l2-3.1.18 control connection of
+
+ac.l2-3.1.18 control connection of
+
+ac.l2-3.1.18 control connection of
+mobile devices what we are trying to
+
+mobile devices what we are trying to
+
+mobile devices what we are trying to
+figure out here is hey do you have
+
+figure out here is hey do you have
+
+figure out here is hey do you have
+control over mobile devices and their
+
+control over mobile devices and their
+
+control over mobile devices and their
+ability to connect to your system and
+
+ability to connect to your system and
+
+ability to connect to your system and
+access cui obviously mobile devices can
+
+access cui obviously mobile devices can
+
+access cui obviously mobile devices can
+represent a huge threat to information
+
+represent a huge threat to information
+
+represent a huge threat to information
+security especially if they are hooked
+
+security especially if they are hooked
+
+security especially if they are hooked
+up to a wireless network now let's check
+
+up to a wireless network now let's check
+
+up to a wireless network now let's check
+out what the assessors are really
+
+out what the assessors are really
+
+out what the assessors are really
+looking for and how to make them happy
+
+looking for and how to make them happy
+
+looking for and how to make them happy
+now uh if I'm an assessor there are
+
+now uh if I'm an assessor there are
+
+now uh if I'm an assessor there are
+three points that I'm looking to assess
+
+three points that I'm looking to assess
+
+three points that I'm looking to assess
+on number one determine if mobile
+
+on number one determine if mobile
+
+on number one determine if mobile
+devices that process store or transmit
+
+devices that process store or transmit
+
+devices that process store or transmit
+cui are identified now if I gave a
+
+cui are identified now if I gave a
+
+cui are identified now if I gave a
+sample answer maybe a sample answer
+
+sample answer maybe a sample answer
+
+sample answer maybe a sample answer
+looks like something like this all
+
+looks like something like this all
+
+looks like something like this all
+network devices which assess cui are
+
+network devices which assess cui are
+
+network devices which assess cui are
+identified in active directory maybe
+
+identified in active directory maybe
+
+identified in active directory maybe
+they're in active directory maybe
+
+they're in active directory maybe
+
+they're in active directory maybe
+they're in InTune maybe they are in a
+
+they're in InTune maybe they are in a
+
+they're in InTune maybe they are in a
+written inventory in the it office who
+
+written inventory in the it office who
+
+written inventory in the it office who
+knows but somehow they've got to be
+
+knows but somehow they've got to be
+
+knows but somehow they've got to be
+identified
+
+identified
+
+identified
+then we want to determine if mobile
+
+then we want to determine if mobile
+
+then we want to determine if mobile
+device connections are authorized
+
+device connections are authorized
+
+device connections are authorized
+conditional so if I was to give a sample
+
+conditional so if I was to give a sample
+
+conditional so if I was to give a sample
+answer uh conditional access policies
+
+answer uh conditional access policies
+
+answer uh conditional access policies
+are in use in order to allow mobile
+
+are in use in order to allow mobile
+
+are in use in order to allow mobile
+device access in addition only the CIO
+
+device access in addition only the CIO
+
+device access in addition only the CIO
+uh or coo or someone in it is authorized
+
+uh or coo or someone in it is authorized
+
+uh or coo or someone in it is authorized
+to set up MFA or multi-factor
+
+to set up MFA or multi-factor
+
+to set up MFA or multi-factor
+authentication which tokenizes each
+
+authentication which tokenizes each
+
+authentication which tokenizes each
+individual device to allow access now
+
+individual device to allow access now
+
+individual device to allow access now
+there's a lot to unpack there I'm not
+
+there's a lot to unpack there I'm not
+
+there's a lot to unpack there I'm not
+going to do in this video if you've got
+
+going to do in this video if you've got
+
+going to do in this video if you've got
+questions reach out give us a call but
+
+questions reach out give us a call but
+
+questions reach out give us a call but
+again the idea is to determine how uh
+
+again the idea is to determine how uh
+
+again the idea is to determine how uh
+you know if if those mobile device
+
+you know if if those mobile device
+
+you know if if those mobile device
+connections are actually authorized
+
+connections are actually authorized
+
+connections are actually authorized
+right and there's a lot of different
+
+right and there's a lot of different
+
+right and there's a lot of different
+ways a lot of different solutions in
+
+ways a lot of different solutions in
+
+ways a lot of different solutions in
+fact on the market to do that now third
+
+fact on the market to do that now third
+
+fact on the market to do that now third
+point is determine if mobile device
+
+point is determine if mobile device
+
+point is determine if mobile device
+connections are monitored and logged all
+
+connections are monitored and logged all
+
+connections are monitored and logged all
+right now we get the little tie in with
+
+right now we get the little tie in with
+
+right now we get the little tie in with
+our seam system so if we give a sample
+
+our seam system so if we give a sample
+
+our seam system so if we give a sample
+answer we would say hey look mobile
+
+answer we would say hey look mobile
+
+answer we would say hey look mobile
+device connections are in fact monitored
+
+device connections are in fact monitored
+
+device connections are in fact monitored
+and logged via the same solution or
+
+and logged via the same solution or
+
+and logged via the same solution or
+security information event management so
+
+security information event management so
+
+security information event management so
+again if you don't know what that is
+
+again if you don't know what that is
+
+again if you don't know what that is
+reach out to us for help but we talk
+
+reach out to us for help but we talk
+
+reach out to us for help but we talk
+about a lot throughout our videos
+
+about a lot throughout our videos
+
+about a lot throughout our videos
+because it's a big piece of being
+
+because it's a big piece of being
+
+because it's a big piece of being
+compliant and of course and on call we
+
+compliant and of course and on call we
+
+compliant and of course and on call we
+work with defense contractors just like
+
+work with defense contractors just like
+
+work with defense contractors just like
+you who have had this dfar's nist itar
+
+you who have had this dfar's nist itar
+
+you who have had this dfar's nist itar
+and cmmc compliance stuff dropped in
+
+and cmmc compliance stuff dropped in
+
+and cmmc compliance stuff dropped in
+their laps like a seagull on a sunny day
+
+their laps like a seagull on a sunny day
+
+their laps like a seagull on a sunny day
+we teach you how to level up and be a
+
+we teach you how to level up and be a
+
+we teach you how to level up and be a
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+
+company eliminating gaps gray areas and
+
+company eliminating gaps gray areas and
+getting this solved all while showing
+
+getting this solved all while showing
+
+getting this solved all while showing
+you how to leverage compliance is your
+
+you how to leverage compliance is your
+
+you how to leverage compliance is your
+secret weapon to land more Defense work
+
+secret weapon to land more Defense work
+
+secret weapon to land more Defense work
+with higher profit margins that's what
+
+with higher profit margins that's what
+
+with higher profit margins that's what
+I'm talking about now that's what
+
+I'm talking about now that's what
+
+I'm talking about now that's what
+becoming an on-call compliance hero
+
+becoming an on-call compliance hero
+
+becoming an on-call compliance hero
+could do for you and that's what we
+
+could do for you and that's what we
+
+could do for you and that's what we
+specialize in hey if you're looking for
+
+specialize in hey if you're looking for
+
+specialize in hey if you're looking for
+more help getting compliant our
+
+more help getting compliant our
+
+more help getting compliant our
+compliance experts are always on call
+
+compliance experts are always on call
+
+compliance experts are always on call
+for you visit cmmc complianceecrets.com
+
+for you visit cmmc complianceecrets.com
+
+for you visit cmmc complianceecrets.com
+or check out the bio below for links to
+
+or check out the bio below for links to
+
+or check out the bio below for links to
+get help right now love the content
+
+get help right now love the content
+
+get help right now love the content
+we're putting out here for you help us
+
+we're putting out here for you help us
+
+we're putting out here for you help us
+out with a big thumbs up on that like
+
+out with a big thumbs up on that like
+
+out with a big thumbs up on that like
+button or even better smash the
+
+button or even better smash the
+
+button or even better smash the
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliance centers roll it out until the
+
+compliance centers roll it out until the
+
+compliance centers roll it out until the
+next compliance tip my friends stay safe
+
+next compliance tip my friends stay safe
+
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+
+and secure out there and hit us in the
+
+and secure out there and hit us in the
+comments below and let us know what
+
+comments below and let us know what
+
+comments below and let us know what
+you'd like to know more about when it
+
+you'd like to know more about when it
+
+you'd like to know more about when it
+comes to information security and
+
+comes to information security and
+
+comes to information security and
+compliance and I'll see you on the next
+
+compliance and I'll see you on the next
+
+compliance and I'll see you on the next
+one
+
+one
+
+one
+
+foreign

@@ -1,0 +1,723 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike for you here
+
+hey everybody it's Mike for you here
+
+hey everybody it's Mike for you here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+guess what I'm back with another
+
+guess what I'm back with another
+
+guess what I'm back with another
+compliance tip of the week this week
+
+compliance tip of the week this week
+
+compliance tip of the week this week
+we're talking about cmmccontrol m a DOT
+
+we're talking about cmmccontrol m a DOT
+
+we're talking about cmmccontrol m a DOT
+
+l2-3.7.6 supervise the maintenance
+
+l2-3.7.6 supervise the maintenance
+
+l2-3.7.6 supervise the maintenance
+activities of Maintenance Personnel
+
+activities of Maintenance Personnel
+
+activities of Maintenance Personnel
+without required access authorization
+
+without required access authorization
+
+without required access authorization
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+
+alone trying to understand all of this
+
+alone trying to understand all of this
+cmmc dfars and nist SP 10171 compliance
+
+cmmc dfars and nist SP 10171 compliance
+
+cmmc dfars and nist SP 10171 compliance
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I've got great news for
+
+workload well I've got great news for
+
+workload well I've got great news for
+you you found your home here at on-call
+
+you you found your home here at on-call
+
+you you found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance hero uh let's jump
+
+on-call compliance hero uh let's jump
+
+on-call compliance hero uh let's jump
+into it so now this one I love say hey
+
+into it so now this one I love say hey
+
+into it so now this one I love say hey
+look especially in manufacturing we've
+
+look especially in manufacturing we've
+
+look especially in manufacturing we've
+gotten maintenance people okay and they
+
+gotten maintenance people okay and they
+
+gotten maintenance people okay and they
+may not even be a formal employee they
+
+may not even be a formal employee they
+
+may not even be a formal employee they
+could be outsourced at the end of the
+
+could be outsourced at the end of the
+
+could be outsourced at the end of the
+day you're required to escort visitors
+
+day you're required to escort visitors
+
+day you're required to escort visitors
+at all times however a maintenance
+
+at all times however a maintenance
+
+at all times however a maintenance
+person is therefore not a random visitor
+
+person is therefore not a random visitor
+
+person is therefore not a random visitor
+they may have been given facility access
+
+they may have been given facility access
+
+they may have been given facility access
+every situation is different and believe
+
+every situation is different and believe
+
+every situation is different and believe
+me there's some very interesting
+
+me there's some very interesting
+
+me there's some very interesting
+thoughts about contractors maintenance
+
+thoughts about contractors maintenance
+
+thoughts about contractors maintenance
+people and how they are different from a
+
+people and how they are different from a
+
+people and how they are different from a
+visitor I just realized that's a massive
+
+visitor I just realized that's a massive
+
+visitor I just realized that's a massive
+run-on sentence that literally goes for
+
+run-on sentence that literally goes for
+
+run-on sentence that literally goes for
+like seven lines which is probably why I
+
+like seven lines which is probably why I
+
+like seven lines which is probably why I
+couldn't read it straight
+
+couldn't read it straight
+
+couldn't read it straight
+but I don't have time to rewrite it so
+
+but I don't have time to rewrite it so
+
+but I don't have time to rewrite it so
+all right there you go
+
+all right there you go
+
+all right there you go
+it's the best I can do for an example
+
+it's the best I can do for an example
+
+it's the best I can do for an example
+honestly I mean anyway if you've got
+
+honestly I mean anyway if you've got
+
+honestly I mean anyway if you've got
+questions on that I would invite you to
+
+questions on that I would invite you to
+
+questions on that I would invite you to
+give us a call because let me tell you
+
+give us a call because let me tell you
+
+give us a call because let me tell you
+it's not super simple let me tell you
+
+it's not super simple let me tell you
+
+it's not super simple let me tell you
+it's not super simple reading this this
+
+it's not super simple reading this this
+
+it's not super simple reading this this
+is not super simple to read at all as a
+
+is not super simple to read at all as a
+
+is not super simple to read at all as a
+matter of fact actually I'd probably say
+
+matter of fact actually I'd probably say
+
+matter of fact actually I'd probably say
+this is above a third grade read level
+
+this is above a third grade read level
+
+this is above a third grade read level
+which has maximized my personal
+
+which has maximized my personal
+
+which has maximized my personal
+capability to read I was elected to lead
+
+capability to read I was elected to lead
+
+capability to read I was elected to lead
+not to read
+
+not to read
+
+not to read
+totally stole that if you know where
+
+totally stole that if you know where
+
+totally stole that if you know where
+comment below most importantly you've
+
+comment below most importantly you've
+
+comment below most importantly you've
+got to supervise these people they
+
+got to supervise these people they
+
+got to supervise these people they
+should not in most cases be authorized
+
+should not in most cases be authorized
+
+should not in most cases be authorized
+to view or handle cui and when they are
+
+to view or handle cui and when they are
+
+to view or handle cui and when they are
+in the building there needs to be a
+
+in the building there needs to be a
+
+in the building there needs to be a
+heightened sense of alert and monitoring
+
+heightened sense of alert and monitoring
+
+heightened sense of alert and monitoring
+of their activities to dig in more let's
+
+of their activities to dig in more let's
+
+of their activities to dig in more let's
+find out what the assessors want to see
+
+find out what the assessors want to see
+
+find out what the assessors want to see
+on this one
+
+on this one
+
+on this one
+all right determinative maintenance
+
+all right determinative maintenance
+
+all right determinative maintenance
+Personnel without required access
+
+Personnel without required access
+
+Personnel without required access
+authorization and supervised during
+
+authorization and supervised during
+
+authorization and supervised during
+maintenance activities uh
+
+maintenance activities uh
+
+maintenance activities uh
+yeah all cuis physically protected from
+
+yeah all cuis physically protected from
+
+yeah all cuis physically protected from
+access by maintenance Personnel without
+
+access by maintenance Personnel without
+
+access by maintenance Personnel without
+required access authorization hey look
+
+required access authorization hey look
+
+required access authorization hey look
+if the maintenance guy doesn't have
+
+if the maintenance guy doesn't have
+
+if the maintenance guy doesn't have
+access to cui because it's in a lock
+
+access to cui because it's in a lock
+
+access to cui because it's in a lock
+computer or in a key locked filing
+
+computer or in a key locked filing
+
+computer or in a key locked filing
+drawer they won't be able to get to it
+
+drawer they won't be able to get to it
+
+drawer they won't be able to get to it
+you just have to show and assessor that
+
+you just have to show and assessor that
+
+you just have to show and assessor that
+that's really kind of what it boils down
+
+that's really kind of what it boils down
+
+that's really kind of what it boils down
+to right examples are it use in cyber
+
+to right examples are it use in cyber
+
+to right examples are it use in cyber
+security policy visitor escort policy
+
+security policy visitor escort policy
+
+security policy visitor escort policy
+contractor policy all those are
+
+contractor policy all those are
+
+contractor policy all those are
+different kinds of policies you can have
+
+different kinds of policies you can have
+
+different kinds of policies you can have
+in place to prove what they're looking
+
+in place to prove what they're looking
+
+in place to prove what they're looking
+for on the assessment front and
+
+for on the assessment front and
+
+for on the assessment front and
+the good news for you
+
+the good news for you
+
+the good news for you
+is I will be doing your consultation
+
+is I will be doing your consultation
+
+is I will be doing your consultation
+because my jokes are terrible and um and
+
+because my jokes are terrible and um and
+
+because my jokes are terrible and um and
+there are better people for that but uh
+
+there are better people for that but uh
+
+there are better people for that but uh
+what I do do is hear it on call besides
+
+what I do do is hear it on call besides
+
+what I do do is hear it on call besides
+poorly reading teleprompters is we work
+
+poorly reading teleprompters is we work
+
+poorly reading teleprompters is we work
+with defense contractors just like you
+
+with defense contractors just like you
+
+with defense contractors just like you
+who have had this DeForest nist itar and
+
+who have had this DeForest nist itar and
+
+who have had this DeForest nist itar and
+cmmc compliance stuff dropped in their
+
+cmmc compliance stuff dropped in their
+
+cmmc compliance stuff dropped in their
+laps like a seagull on a sunny day hey
+
+laps like a seagull on a sunny day hey
+
+laps like a seagull on a sunny day hey
+look it could be really boring like I
+
+look it could be really boring like I
+
+look it could be really boring like I
+could sit in front of like a big boom
+
+could sit in front of like a big boom
+
+could sit in front of like a big boom
+stand and I could sit there and
+
+stand and I could sit there and
+
+stand and I could sit there and
+just like be really serious about this
+
+just like be really serious about this
+
+just like be really serious about this
+and talk about it
+
+and talk about it
+
+and talk about it
+like it's life or death
+
+yuck
+
+yuck
+
+yuck
+I'd rather just teach you how to level
+
+I'd rather just teach you how to level
+
+I'd rather just teach you how to level
+up and be a proper on call compliance
+
+up and be a proper on call compliance
+
+up and be a proper on call compliance
+hero for your company all right really
+
+hero for your company all right really
+
+hero for your company all right really
+and you know what along the way we'll
+
+and you know what along the way we'll
+
+and you know what along the way we'll
+all have a couple laughs where it's me
+
+all have a couple laughs where it's me
+
+all have a couple laughs where it's me
+one of my Consultants all right we
+
+one of my Consultants all right we
+
+one of my Consultants all right we
+always like to have a good time and make
+
+always like to have a good time and make
+
+always like to have a good time and make
+this stuff not so incredibly terrible
+
+this stuff not so incredibly terrible
+
+this stuff not so incredibly terrible
+all right eliminating gaps gray areas
+
+all right eliminating gaps gray areas
+
+all right eliminating gaps gray areas
+and getting this solved all while
+
+and getting this solved all while
+
+and getting this solved all while
+showing you how to leverage compliance
+
+showing you how to leverage compliance
+
+showing you how to leverage compliance
+is your super secret weapon to land more
+
+is your super secret weapon to land more
+
+is your super secret weapon to land more
+Defense work with higher profit margins
+
+Defense work with higher profit margins
+
+Defense work with higher profit margins
+and maybe even a few jokes now that's
+
+and maybe even a few jokes now that's
+
+and maybe even a few jokes now that's
+what becoming an on-call compliance hero
+
+what becoming an on-call compliance hero
+
+what becoming an on-call compliance hero
+can do for you if you're looking for
+
+can do for you if you're looking for
+
+can do for you if you're looking for
+more help getting compliant our
+
+more help getting compliant our
+
+more help getting compliant our
+compliance experts are always on call
+
+compliance experts are always on call
+
+compliance experts are always on call
+for you visit cmmc compliancecrets.com
+
+for you visit cmmc compliancecrets.com
+
+for you visit cmmc compliancecrets.com
+why is the cmmc compliance Secrets
+
+why is the cmmc compliance Secrets
+
+why is the cmmc compliance Secrets
+because the secret is it's not that hard
+
+because the secret is it's not that hard
+
+because the secret is it's not that hard
+if you got the right team on your side
+
+if you got the right team on your side
+
+if you got the right team on your side
+all right or check out the bio below for
+
+all right or check out the bio below for
+
+all right or check out the bio below for
+links to get help right now love the
+
+links to get help right now love the
+
+links to get help right now love the
+content we're putting out here for you
+
+content we're putting out here for you
+
+content we're putting out here for you
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+like button or even better smash the
+
+like button or even better smash the
+
+like button or even better smash the
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliances rolled out I'm calling you
+
+compliances rolled out I'm calling you
+
+compliances rolled out I'm calling you
+out by the way right now you're not
+
+out by the way right now you're not
+
+out by the way right now you're not
+subscribed I see you you're not
+
+subscribed I see you you're not
+
+subscribed I see you you're not
+subscribed listen your mouse only has to
+
+subscribed listen your mouse only has to
+
+subscribed listen your mouse only has to
+move from here to there and you're
+
+move from here to there and you're
+
+move from here to there and you're
+subscribing look at that dude you're
+
+subscribing look at that dude you're
+
+subscribing look at that dude you're
+gonna get to see me whenever I put out
+
+gonna get to see me whenever I put out
+
+gonna get to see me whenever I put out
+new content and that's so awesome thank
+
+new content and that's so awesome thank
+
+new content and that's so awesome thank
+you makes my day doesn't just make my
+
+you makes my day doesn't just make my
+
+you makes my day doesn't just make my
+day by the way makes our entire team's
+
+day by the way makes our entire team's
+
+day by the way makes our entire team's
+day all right
+
+day all right
+
+day all right
+um I think I talked yesterday about the
+
+um I think I talked yesterday about the
+
+um I think I talked yesterday about the
+gong anyway I digress until the next
+
+gong anyway I digress until the next
+
+gong anyway I digress until the next
+compliance that my friends stay safe and
+
+compliance that my friends stay safe and
+
+compliance that my friends stay safe and
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+know more about when it comes to
+
+know more about when it comes to
+
+know more about when it comes to
+information security and compliance and
+
+information security and compliance and
+
+information security and compliance and
+I'll see you on the next one
+
+I'll see you on the next one
+
+I'll see you on the next one
+
+foreign
+
+foreign
+
+foreign

@@ -1,0 +1,889 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week and a whole lot more fumbles to
+
+the week and a whole lot more fumbles to
+
+the week and a whole lot more fumbles to
+come your way uh this week we're talking
+
+come your way uh this week we're talking
+
+come your way uh this week we're talking
+about cmmc control cm.l
+
+about cmmc control cm.l
+
+about cmmc control cm.l
+2-3.4.6 and play the principle of least
+
+2-3.4.6 and play the principle of least
+
+2-3.4.6 and play the principle of least
+functionality by configuring
+
+functionality by configuring
+
+functionality by configuring
+organizational systems to provide only
+
+organizational systems to provide only
+
+organizational systems to provide only
+essential capabilities
+
+essential capabilities
+
+essential capabilities
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you
+
+well I've got great news for you you
+
+well I've got great news for you you
+found your home here in on-call
+
+found your home here in on-call
+
+found your home here in on-call
+compliance solution where we can help
+
+compliance solution where we can help
+
+compliance solution where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so
+
+it so
+
+it so
+in cmmc control cm.l
+
+in cmmc control cm.l
+
+in cmmc control cm.l
+2-3.4.6 employ the principle of least
+
+2-3.4.6 employ the principle of least
+
+2-3.4.6 employ the principle of least
+functionality by configuring
+
+functionality by configuring
+
+functionality by configuring
+organizational systems to provide only
+
+organizational systems to provide only
+
+organizational systems to provide only
+essential capabilities I have to say
+
+essential capabilities I have to say
+
+essential capabilities I have to say
+this is actually a really important
+
+this is actually a really important
+
+this is actually a really important
+control so I know I make a lot of jokes
+
+control so I know I make a lot of jokes
+
+control so I know I make a lot of jokes
+my videos all right and we'd like to
+
+my videos all right and we'd like to
+
+my videos all right and we'd like to
+have a lot of fun around here but
+
+have a lot of fun around here but
+
+have a lot of fun around here but
+seriously
+
+seriously
+
+seriously
+that's right uh this one is actually
+
+that's right uh this one is actually
+
+that's right uh this one is actually
+serious so again uh only let your users
+
+serious so again uh only let your users
+
+serious so again uh only let your users
+do what they need to be able to do in
+
+do what they need to be able to do in
+
+do what they need to be able to do in
+order to do their job that's a lot of
+
+order to do their job that's a lot of
+
+order to do their job that's a lot of
+doing but in all seriousness people
+
+doing but in all seriousness people
+
+doing but in all seriousness people
+should not be able to do things that
+
+should not be able to do things that
+
+should not be able to do things that
+they're not authorized to do in your
+
+they're not authorized to do in your
+
+they're not authorized to do in your
+system all right it's very very
+
+system all right it's very very
+
+system all right it's very very
+important control don't give people more
+
+important control don't give people more
+
+important control don't give people more
+access than they need to have okay uh it
+
+access than they need to have okay uh it
+
+access than they need to have okay uh it
+gets them into trouble it gets you into
+
+gets them into trouble it gets you into
+
+gets them into trouble it gets you into
+trouble uh just ask the people at the
+
+trouble uh just ask the people at the
+
+trouble uh just ask the people at the
+Pentagon I mean like not to make a joke
+
+Pentagon I mean like not to make a joke
+
+Pentagon I mean like not to make a joke
+about it but like what are people doing
+
+about it but like what are people doing
+
+about it but like what are people doing
+with access to hundreds of thousands of
+
+with access to hundreds of thousands of
+
+with access to hundreds of thousands of
+classified documents all right don't
+
+classified documents all right don't
+
+classified documents all right don't
+give me access there's the control
+
+give me access there's the control
+
+give me access there's the control
+you're required right here in the law to
+
+you're required right here in the law to
+
+you're required right here in the law to
+do that so look people should only have
+
+do that so look people should only have
+
+do that so look people should only have
+access to what they actually need to
+
+access to what they actually need to
+
+access to what they actually need to
+work on currently in their jobs all
+
+work on currently in their jobs all
+
+work on currently in their jobs all
+right the principle of making sure that
+
+right the principle of making sure that
+
+right the principle of making sure that
+team members only have access to what
+
+team members only have access to what
+
+team members only have access to what
+they need to perform their currently
+
+they need to perform their currently
+
+they need to perform their currently
+assigned job duties and keeping that
+
+assigned job duties and keeping that
+
+assigned job duties and keeping that
+access relevant and up to date is so
+
+access relevant and up to date is so
+
+access relevant and up to date is so
+important when it comes to information
+
+important when it comes to information
+
+important when it comes to information
+security and so under and it's so
+
+security and so under and it's so
+
+security and so under and it's so
+understated too you know again like I
+
+understated too you know again like I
+
+understated too you know again like I
+get it I.T guys you know just keeping
+
+get it I.T guys you know just keeping
+
+get it I.T guys you know just keeping
+the system up and running is a lot of
+
+the system up and running is a lot of
+
+the system up and running is a lot of
+work but man if you if you've got more
+
+work but man if you if you've got more
+
+work but man if you if you've got more
+than like 20 30 users on you've got to
+
+than like 20 30 users on you've got to
+
+than like 20 30 users on you've got to
+look at like that like I'll tell you
+
+look at like that like I'll tell you
+
+look at like that like I'll tell you
+like in our company when we got past 12
+
+like in our company when we got past 12
+
+like in our company when we got past 12
+we're like hey the marketing people no
+
+we're like hey the marketing people no
+
+we're like hey the marketing people no
+offense guys shouldn't really have
+
+offense guys shouldn't really have
+
+offense guys shouldn't really have
+access to like all kinds of really
+
+access to like all kinds of really
+
+access to like all kinds of really
+important stuff about how we operate
+
+important stuff about how we operate
+
+important stuff about how we operate
+like they should have access to
+
+like they should have access to
+
+like they should have access to
+marketing stuff all right and that's at
+
+marketing stuff all right and that's at
+
+marketing stuff all right and that's at
+12 people I walk into companies all the
+
+12 people I walk into companies all the
+
+12 people I walk into companies all the
+time with hundreds of employees who
+
+time with hundreds of employees who
+
+time with hundreds of employees who
+literally have access to everything even
+
+literally have access to everything even
+
+literally have access to everything even
+the CEO stuff it's just sitting there
+
+the CEO stuff it's just sitting there
+
+the CEO stuff it's just sitting there
+okay so again yes I know it's time
+
+okay so again yes I know it's time
+
+okay so again yes I know it's time
+consuming to go peel back permissions
+
+consuming to go peel back permissions
+
+consuming to go peel back permissions
+especially in large networks but here's
+
+especially in large networks but here's
+
+especially in large networks but here's
+what's going to happen if you don't
+
+what's going to happen if you don't
+
+what's going to happen if you don't
+someone's going to get permission of
+
+someone's going to get permission of
+
+someone's going to get permission of
+stuff they shouldn't have and then
+
+stuff they shouldn't have and then
+
+stuff they shouldn't have and then
+they're going to your competitor so
+
+they're going to your competitor so
+
+they're going to your competitor so
+which one do you want yuck all right and
+
+which one do you want yuck all right and
+
+which one do you want yuck all right and
+on call it's one of our top priorities
+
+on call it's one of our top priorities
+
+on call it's one of our top priorities
+with our clients to really lock down
+
+with our clients to really lock down
+
+with our clients to really lock down
+systems
+
+systems
+
+systems
+to only what is needed for everyone okay
+
+to only what is needed for everyone okay
+
+to only what is needed for everyone okay
+so again if you've got job a you should
+
+so again if you've got job a you should
+
+so again if you've got job a you should
+only have access to what's needed to do
+
+only have access to what's needed to do
+
+only have access to what's needed to do
+job a much better that way now let's
+
+job a much better that way now let's
+
+job a much better that way now let's
+check out what this what the assessors
+
+check out what this what the assessors
+
+check out what this what the assessors
+are looking for on this one how to make
+
+are looking for on this one how to make
+
+are looking for on this one how to make
+them happy
+
+them happy
+
+them happy
+first they're looking to determine if
+
+first they're looking to determine if
+
+first they're looking to determine if
+essential system capabilities are
+
+essential system capabilities are
+
+essential system capabilities are
+defined based on the principle of least
+
+defined based on the principle of least
+
+defined based on the principle of least
+functionality so number one is have you
+
+functionality so number one is have you
+
+functionality so number one is have you
+defined your system capabilities based
+
+defined your system capabilities based
+
+defined your system capabilities based
+on what it is that person needs to be
+
+on what it is that person needs to be
+
+on what it is that person needs to be
+doing so lots and lots of ways to do
+
+doing so lots and lots of ways to do
+
+doing so lots and lots of ways to do
+this you can do it with organizational
+
+this you can do it with organizational
+
+this you can do it with organizational
+units you can do it with security groups
+
+units you can do it with security groups
+
+units you can do it with security groups
+you can do it with completely separate
+
+you can do it with completely separate
+
+you can do it with completely separate
+systems here's a great example if you
+
+systems here's a great example if you
+
+systems here's a great example if you
+run a security information event
+
+run a security information event
+
+run a security information event
+management system which of course you do
+
+management system which of course you do
+
+management system which of course you do
+because you're compliant right
+
+because you're compliant right
+
+because you're compliant right
+and if not you're going to call us right
+
+and if not you're going to call us right
+
+and if not you're going to call us right
+exactly uh not everybody needs an
+
+exactly uh not everybody needs an
+
+exactly uh not everybody needs an
+account there all right only the people
+
+account there all right only the people
+
+account there all right only the people
+who actually need to access that system
+
+who actually need to access that system
+
+who actually need to access that system
+to do their job should have access that
+
+to do their job should have access that
+
+to do their job should have access that
+system if I was given a sample answer
+
+system if I was given a sample answer
+
+system if I was given a sample answer
+I'd say something to the extent of look
+
+I'd say something to the extent of look
+
+I'd say something to the extent of look
+authorized users are only granted the
+
+authorized users are only granted the
+
+authorized users are only granted the
+access and capabilities required to
+
+access and capabilities required to
+
+access and capabilities required to
+complete currently assign job duties
+
+complete currently assign job duties
+
+complete currently assign job duties
+based on the principle of lease
+
+based on the principle of lease
+
+based on the principle of lease
+functionality authorized users are
+
+functionality authorized users are
+
+functionality authorized users are
+restricted via permissions Group Policy
+
+restricted via permissions Group Policy
+
+restricted via permissions Group Policy
+system access controls from any
+
+system access controls from any
+
+system access controls from any
+capabilities not authorized by the
+
+capabilities not authorized by the
+
+capabilities not authorized by the
+information owner in the it ticketing
+
+information owner in the it ticketing
+
+information owner in the it ticketing
+request system access be granted uh from
+
+request system access be granted uh from
+
+request system access be granted uh from
+whoever the information owner is so
+
+whoever the information owner is so
+
+whoever the information owner is so
+again the idea is the information owner
+
+again the idea is the information owner
+
+again the idea is the information owner
+makes the request the IT team executes
+
+makes the request the IT team executes
+
+makes the request the IT team executes
+everything's documented a ticket and
+
+everything's documented a ticket and
+
+everything's documented a ticket and
+then someone can finally be let in to
+
+then someone can finally be let in to
+
+then someone can finally be let in to
+access what they need to
+
+access what they need to
+
+access what they need to
+all right second assessment Point
+
+all right second assessment Point
+
+all right second assessment Point
+determine if the system is configured to
+
+determine if the system is configured to
+
+determine if the system is configured to
+provide only the defined essential
+
+provide only the defined essential
+
+provide only the defined essential
+capabilities uh the system is tested on
+
+capabilities uh the system is tested on
+
+capabilities uh the system is tested on
+a daily basis by both users and it
+
+a daily basis by both users and it
+
+a daily basis by both users and it
+administrators to ensure that only
+
+administrators to ensure that only
+
+administrators to ensure that only
+essential capabilities exist for all
+
+essential capabilities exist for all
+
+essential capabilities exist for all
+users as a part of daily operations the
+
+users as a part of daily operations the
+
+users as a part of daily operations the
+itus and cyber security policy requires
+
+itus and cyber security policy requires
+
+itus and cyber security policy requires
+all system users to immediately report
+
+all system users to immediately report
+
+all system users to immediately report
+unauthorized access capability
+
+unauthorized access capability
+
+unauthorized access capability
+so if you are struggling trying to
+
+so if you are struggling trying to
+
+so if you are struggling trying to
+figure this stuff out or
+
+figure this stuff out or
+
+figure this stuff out or
+if you just need extra bandwidth okay
+
+if you just need extra bandwidth okay
+
+if you just need extra bandwidth okay
+we can help because we work with defense
+
+we can help because we work with defense
+
+we can help because we work with defense
+contractors just like you who've had
+
+contractors just like you who've had
+
+contractors just like you who've had
+this DeForest nist itar cmmc compliance
+
+this DeForest nist itar cmmc compliance
+
+this DeForest nist itar cmmc compliance
+stuff dropped in their laps like a
+
+stuff dropped in their laps like a
+
+stuff dropped in their laps like a
+seagull on a sunny day we teach you how
+
+seagull on a sunny day we teach you how
+
+seagull on a sunny day we teach you how
+to level up and be a proper on-call
+
+to level up and be a proper on-call
+
+to level up and be a proper on-call
+compliance hero for your company
+
+compliance hero for your company
+
+compliance hero for your company
+eliminating gaps great areas and getting
+
+eliminating gaps great areas and getting
+
+eliminating gaps great areas and getting
+this solved all while showing you how to
+
+this solved all while showing you how to
+
+this solved all while showing you how to
+leverage compliance as your secret
+
+leverage compliance as your secret
+
+leverage compliance as your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you looking for more help getting
+
+do for you looking for more help getting
+
+do for you looking for more help getting
+compliant our compliance experts are
+
+compliant our compliance experts are
+
+compliant our compliance experts are
+always on call for you visit cmmc
+
+always on call for you visit cmmc
+
+always on call for you visit cmmc
+complianceeekers.com or check out the
+
+complianceeekers.com or check out the
+
+complianceeekers.com or check out the
+bio below for links to get help right
+
+bio below for links to get help right
+
+bio below for links to get help right
+now if you love the content we're
+
+now if you love the content we're
+
+now if you love the content we're
+putting out here for you help us out
+
+putting out here for you help us out
+
+putting out here for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as your compliance nerds
+
+content as soon as your compliance nerds
+
+content as soon as your compliance nerds
+roll it out until the next compliance
+
+roll it out until the next compliance
+
+roll it out until the next compliance
+tip my friends stay safe and secure out
+
+tip my friends stay safe and secure out
+
+tip my friends stay safe and secure out
+there and hit us in the comments below
+
+there and hit us in the comments below
+
+there and hit us in the comments below
+let us know what you'd like to know more
+
+let us know what you'd like to know more
+
+let us know what you'd like to know more
+about when it comes to information
+
+about when it comes to information
+
+about when it comes to information
+security and compliance and I'll see you
+
+security and compliance and I'll see you
+
+security and compliance and I'll see you
+on the next one
+
+on the next one
+
+on the next one
+foreign
+
+foreign
+
+foreign

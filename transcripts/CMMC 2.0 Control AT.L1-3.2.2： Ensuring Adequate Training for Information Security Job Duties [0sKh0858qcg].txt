@@ -1,0 +1,773 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+cmmccontrolat.l2-3.2.2 ensure the
+
+cmmccontrolat.l2-3.2.2 ensure the
+
+cmmccontrolat.l2-3.2.2 ensure the
+organizational Personnel are adequately
+
+organizational Personnel are adequately
+
+organizational Personnel are adequately
+trained to carry out their assigned
+
+trained to carry out their assigned
+
+trained to carry out their assigned
+information security related duties and
+
+information security related duties and
+
+information security related duties and
+responsibilities
+
+responsibilities
+
+responsibilities
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you
+
+well I've got great news for you you
+
+well I've got great news for you you
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so in
+
+cmmccontrolat.l1-3.2.2 ensure that
+
+cmmccontrolat.l1-3.2.2 ensure that
+
+cmmccontrolat.l1-3.2.2 ensure that
+organizational Personnel are adequately
+
+organizational Personnel are adequately
+
+organizational Personnel are adequately
+trained to carry out their assigned
+
+trained to carry out their assigned
+
+trained to carry out their assigned
+information security related job duties
+
+information security related job duties
+
+information security related job duties
+and responsibilities
+
+and responsibilities
+
+and responsibilities
+here again in this control it's all
+
+here again in this control it's all
+
+here again in this control it's all
+about making sure that the people are
+
+about making sure that the people are
+
+about making sure that the people are
+adequately trained but especially those
+
+adequately trained but especially those
+
+adequately trained but especially those
+people who have information security
+
+people who have information security
+
+people who have information security
+related job duties this Nuance is
+
+related job duties this Nuance is
+
+related job duties this Nuance is
+critical as assessors will be looking to
+
+critical as assessors will be looking to
+
+critical as assessors will be looking to
+information managers to see if they have
+
+information managers to see if they have
+
+information managers to see if they have
+adequate training versus other employees
+
+adequate training versus other employees
+
+adequate training versus other employees
+great example somebody doesn't have cui
+
+great example somebody doesn't have cui
+
+great example somebody doesn't have cui
+uh you know in their possession they
+
+uh you know in their possession they
+
+uh you know in their possession they
+don't need to be trained on some things
+
+don't need to be trained on some things
+
+don't need to be trained on some things
+someone who's going to handle cui they
+
+someone who's going to handle cui they
+
+someone who's going to handle cui they
+should get that mandatory dodc UI
+
+should get that mandatory dodc UI
+
+should get that mandatory dodc UI
+trained just as a small example uh again
+
+trained just as a small example uh again
+
+trained just as a small example uh again
+people who may not require higher levels
+
+people who may not require higher levels
+
+people who may not require higher levels
+of information security training to
+
+of information security training to
+
+of information security training to
+actually protect cui or not people that
+
+actually protect cui or not people that
+
+actually protect cui or not people that
+you know may need the extra training so
+
+you know may need the extra training so
+
+you know may need the extra training so
+let's check out what the assessors are
+
+let's check out what the assessors are
+
+let's check out what the assessors are
+actually looking for on this one and
+
+actually looking for on this one and
+
+actually looking for on this one and
+find out how to keep them happy so on
+
+find out how to keep them happy so on
+
+find out how to keep them happy so on
+this compliance control there are three
+
+this compliance control there are three
+
+this compliance control there are three
+places that they're going to be
+
+places that they're going to be
+
+places that they're going to be
+assessing on so Point number one is
+
+assessing on so Point number one is
+
+assessing on so Point number one is
+determine if information security
+
+determine if information security
+
+determine if information security
+related duties roles and
+
+related duties roles and
+
+related duties roles and
+responsibilities are defined
+
+responsibilities are defined
+
+responsibilities are defined
+uh again just kind of throwing out a
+
+uh again just kind of throwing out a
+
+uh again just kind of throwing out a
+sample answer here the organization
+
+sample answer here the organization
+
+sample answer here the organization
+defines each authorized user's job
+
+defines each authorized user's job
+
+defines each authorized user's job
+duties role and responsibilities in job
+
+duties role and responsibilities in job
+
+duties role and responsibilities in job
+descriptions yes cmmc may want to look
+
+descriptions yes cmmc may want to look
+
+descriptions yes cmmc may want to look
+you know a cmmc assessor may want to
+
+you know a cmmc assessor may want to
+
+you know a cmmc assessor may want to
+look at a job description right because
+
+look at a job description right because
+
+look at a job description right because
+we have to find out if that information
+
+we have to find out if that information
+
+we have to find out if that information
+security related duty role or
+
+security related duty role or
+
+security related duty role or
+responsibility is actually defined so
+
+responsibility is actually defined so
+
+responsibility is actually defined so
+that that person knows that that's what
+
+that that person knows that that's what
+
+that that person knows that that's what
+they're supposed to be doing sounds like
+
+they're supposed to be doing sounds like
+
+they're supposed to be doing sounds like
+common sense but believe me if you ask
+
+common sense but believe me if you ask
+
+common sense but believe me if you ask
+some people they have no idea that part
+
+some people they have no idea that part
+
+some people they have no idea that part
+of their job duty is well to secure
+
+of their job duty is well to secure
+
+of their job duty is well to secure
+information now Point number two
+
+information now Point number two
+
+information now Point number two
+determine if information security
+
+determine if information security
+
+determine if information security
+related duties roles and
+
+related duties roles and
+
+related duties roles and
+responsibilities are assigned to
+
+responsibilities are assigned to
+
+responsibilities are assigned to
+designated Personnel the organization
+
+designated Personnel the organization
+
+designated Personnel the organization
+assigns so if I just give a sample
+
+assigns so if I just give a sample
+
+assigns so if I just give a sample
+that's why I say the organization
+
+that's why I say the organization
+
+that's why I say the organization
+assigns information security related
+
+assigns information security related
+
+assigns information security related
+duties roles and responsibilities via
+
+duties roles and responsibilities via
+
+duties roles and responsibilities via
+job roles and descriptions so again you
+
+job roles and descriptions so again you
+
+job roles and descriptions so again you
+get the job description maybe there's a
+
+get the job description maybe there's a
+
+get the job description maybe there's a
+signature line at the bottom of it
+
+signature line at the bottom of it
+
+signature line at the bottom of it
+you're signing off that you're the one
+
+you're signing off that you're the one
+
+you're signing off that you're the one
+doing that job and it's your
+
+doing that job and it's your
+
+doing that job and it's your
+responsibility might be something to
+
+responsibility might be something to
+
+responsibility might be something to
+think about okay if that's if that kind
+
+think about okay if that's if that kind
+
+think about okay if that's if that kind
+of paper is not in your company now
+
+of paper is not in your company now
+
+of paper is not in your company now
+might be really good to kind of ask
+
+might be really good to kind of ask
+
+might be really good to kind of ask
+about that because again you're going to
+
+about that because again you're going to
+
+about that because again you're going to
+have to give a clear demonstration of
+
+have to give a clear demonstration of
+
+have to give a clear demonstration of
+this
+
+this
+
+this
+now final point is determine if
+
+now final point is determine if
+
+now final point is determine if
+Personnel are adequately trained to
+
+Personnel are adequately trained to
+
+Personnel are adequately trained to
+carry out their assigned information
+
+carry out their assigned information
+
+carry out their assigned information
+security related job duties and roles
+
+security related job duties and roles
+
+security related job duties and roles
+and responsibilities so again this is a
+
+and responsibilities so again this is a
+
+and responsibilities so again this is a
+little tricky because you got to make
+
+little tricky because you got to make
+
+little tricky because you got to make
+sure if somebody goes through training
+
+sure if somebody goes through training
+
+sure if somebody goes through training
+you have proof they went through that
+
+you have proof they went through that
+
+you have proof they went through that
+training very important it's got to be
+
+training very important it's got to be
+
+training very important it's got to be
+documented because you're gonna have to
+
+documented because you're gonna have to
+
+documented because you're gonna have to
+prove it to an Assessor uh if we were to
+
+prove it to an Assessor uh if we were to
+
+prove it to an Assessor uh if we were to
+give a sample answer we would say
+
+give a sample answer we would say
+
+give a sample answer we would say
+Personnel are required to go through
+
+Personnel are required to go through
+
+Personnel are required to go through
+adequate training or show proof of
+
+adequate training or show proof of
+
+adequate training or show proof of
+certifications that's right we're
+
+certifications that's right we're
+
+certifications that's right we're
+talking about certifications now or
+
+talking about certifications now or
+
+talking about certifications now or
+previous training prior to gaining
+
+previous training prior to gaining
+
+previous training prior to gaining
+access to that cui to carry out assigned
+
+access to that cui to carry out assigned
+
+access to that cui to carry out assigned
+information security related job duties
+
+information security related job duties
+
+information security related job duties
+roles and responsibility okay great
+
+roles and responsibility okay great
+
+roles and responsibility okay great
+example is hey look if you've got an I.T
+
+example is hey look if you've got an I.T
+
+example is hey look if you've got an I.T
+director maybe they got a Security Plus
+
+director maybe they got a Security Plus
+
+director maybe they got a Security Plus
+certification again that just
+
+certification again that just
+
+certification again that just
+demonstrates clearly that they've got
+
+demonstrates clearly that they've got
+
+demonstrates clearly that they've got
+Advanced security training now there's
+
+Advanced security training now there's
+
+Advanced security training now there's
+no minimum security or there's no
+
+no minimum security or there's no
+
+no minimum security or there's no
+minimum certification or anything like
+
+minimum certification or anything like
+
+minimum certification or anything like
+that but again those do count towards
+
+that but again those do count towards
+
+that but again those do count towards
+justifying and evidence
+
+justifying and evidence
+
+justifying and evidence
+now if all of this sounds very confusing
+
+now if all of this sounds very confusing
+
+now if all of this sounds very confusing
+to you or you're struggling on the
+
+to you or you're struggling on the
+
+to you or you're struggling on the
+policies or you're struggling with all
+
+policies or you're struggling with all
+
+policies or you're struggling with all
+these gaps you may have or you just
+
+these gaps you may have or you just
+
+these gaps you may have or you just
+don't even know where to begin here's
+
+don't even know where to begin here's
+
+don't even know where to begin here's
+the good news and on call we work with
+
+the good news and on call we work with
+
+the good news and on call we work with
+defense contractors just like you who
+
+defense contractors just like you who
+
+defense contractors just like you who
+have had the dfars nist itar and cmmc
+
+have had the dfars nist itar and cmmc
+
+have had the dfars nist itar and cmmc
+compliant stuff dropped in their laps
+
+compliant stuff dropped in their laps
+
+compliant stuff dropped in their laps
+like a seagull on a sunny day we teach
+
+like a seagull on a sunny day we teach
+
+like a seagull on a sunny day we teach
+you how to level up and be a proper
+
+you how to level up and be a proper
+
+you how to level up and be a proper
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+
+this solved all while showing you how to
+
+this solved all while showing you how to
+leverage compliance as you see her
+
+leverage compliance as you see her
+
+leverage compliance as you see her
+weapon along with my bad jokes to land
+
+weapon along with my bad jokes to land
+
+weapon along with my bad jokes to land
+more Defense work with higher profit
+
+more Defense work with higher profit
+
+more Defense work with higher profit
+margins that's what's becoming an
+
+margins that's what's becoming an
+
+margins that's what's becoming an
+on-call compliance hero can do for you
+
+on-call compliance hero can do for you
+
+on-call compliance hero can do for you
+if you're looking for more help getting
+
+if you're looking for more help getting
+
+if you're looking for more help getting
+compliant our compliance experts are
+
+compliant our compliance experts are
+
+compliant our compliance experts are
+always on call for you visit
+
+always on call for you visit
+
+always on call for you visit
+cmmccompliance secrets.com or check out
+
+cmmccompliance secrets.com or check out
+
+cmmccompliance secrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now if you love the content I'm
+
+right now if you love the content I'm
+
+right now if you love the content I'm
+putting out here for you help us out
+
+putting out here for you help us out
+
+putting out here for you help us out
+with a big fat thumbs up on that like
+
+with a big fat thumbs up on that like
+
+with a big fat thumbs up on that like
+button it really shows us the love and
+
+button it really shows us the love and
+
+button it really shows us the love and
+even better smash that subscribe button
+
+even better smash that subscribe button
+
+even better smash that subscribe button
+to get the latest compliance content as
+
+to get the latest compliance content as
+
+to get the latest compliance content as
+soon as our compliance nerds roll it out
+
+soon as our compliance nerds roll it out
+
+soon as our compliance nerds roll it out
+until the next compliance tip my friends
+
+until the next compliance tip my friends
+
+until the next compliance tip my friends
+stay safe and secure out there and hit
+
+stay safe and secure out there and hit
+
+stay safe and secure out there and hit
+us in the comments below to let us know
+
+us in the comments below to let us know
+
+us in the comments below to let us know
+what you like like to know more about
+
+what you like like to know more about
+
+what you like like to know more about
+when it comes to information security
+
+when it comes to information security
+
+when it comes to information security
+and compliance I'll see you on the next
+
+and compliance I'll see you on the next
+
+and compliance I'll see you on the next
+one
+
+one
+
+one

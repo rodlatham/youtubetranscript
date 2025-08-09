@@ -1,0 +1,597 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmc control ac.l
+
+cmmc control ac.l
+
+cmmc control ac.l
+2-3.1.11 terminate automatically of
+
+2-3.1.11 terminate automatically of
+
+2-3.1.11 terminate automatically of
+course a user session after a defined
+
+course a user session after a defined
+
+course a user session after a defined
+condition
+
+condition
+
+condition
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 800 171 compliance
+
+dfars and nist SP 800 171 compliance
+
+dfars and nist SP 800 171 compliance
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I've got good news for you
+
+workload well I've got good news for you
+
+workload well I've got good news for you
+you've found your home here at on-call
+
+you've found your home here at on-call
+
+you've found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's go so in
+
+on-call compliance Hero Let's go so in
+
+on-call compliance Hero Let's go so in
+cmmc control
+
+ac.l2-3.1.11 terminate automatically a
+
+ac.l2-3.1.11 terminate automatically a
+
+ac.l2-3.1.11 terminate automatically a
+user session after a defined condition
+
+user session after a defined condition
+
+user session after a defined condition
+we are looking into further safeguarding
+
+we are looking into further safeguarding
+
+we are looking into further safeguarding
+our systems from some kind of hijack
+
+our systems from some kind of hijack
+
+our systems from some kind of hijack
+scenario a few examples here you get up
+
+scenario a few examples here you get up
+
+scenario a few examples here you get up
+to use the bathroom right so everybody's
+
+to use the bathroom right so everybody's
+
+to use the bathroom right so everybody's
+got to go nature calls once in a while
+
+got to go nature calls once in a while
+
+got to go nature calls once in a while
+uh and a malevolent evil user walks by
+
+uh and a malevolent evil user walks by
+
+uh and a malevolent evil user walks by
+your computer and sits down and begins
+
+your computer and sits down and begins
+
+your computer and sits down and begins
+to use it and access cui oh
+
+to use it and access cui oh
+
+to use it and access cui oh
+uh another example is VPN connections
+
+uh another example is VPN connections
+
+uh another example is VPN connections
+VPN connections should terminate after a
+
+VPN connections should terminate after a
+
+VPN connections should terminate after a
+certain number of minutes of inactivity
+
+certain number of minutes of inactivity
+
+certain number of minutes of inactivity
+for essentially the same reason we don't
+
+for essentially the same reason we don't
+
+for essentially the same reason we don't
+want an unauthorized connection to sort
+
+want an unauthorized connection to sort
+
+want an unauthorized connection to sort
+of hang out there forever because
+
+of hang out there forever because
+
+of hang out there forever because
+eventually a bad guy or unknown remote
+
+eventually a bad guy or unknown remote
+
+eventually a bad guy or unknown remote
+attacker could gain access to that
+
+attacker could gain access to that
+
+attacker could gain access to that
+session uh to not just your own local
+
+session uh to not just your own local
+
+session uh to not just your own local
+system but also the remote system if the
+
+system but also the remote system if the
+
+system but also the remote system if the
+VPN were to be left on and believe it or
+
+VPN were to be left on and believe it or
+
+VPN were to be left on and believe it or
+not that is actually pretty common right
+
+not that is actually pretty common right
+
+not that is actually pretty common right
+so an attacker gets control your
+
+so an attacker gets control your
+
+so an attacker gets control your
+computer they hang out in silence you go
+
+computer they hang out in silence you go
+
+computer they hang out in silence you go
+trigger your VPN into your company or
+
+trigger your VPN into your company or
+
+trigger your VPN into your company or
+your data center and then all of a
+
+your data center and then all of a
+
+your data center and then all of a
+sudden you know you walk away shut down
+
+sudden you know you walk away shut down
+
+sudden you know you walk away shut down
+the computer whatever you think it's
+
+the computer whatever you think it's
+
+the computer whatever you think it's
+gone but then the remote attacker kind
+
+gone but then the remote attacker kind
+
+gone but then the remote attacker kind
+of comes into in the morning they wake
+
+of comes into in the morning they wake
+
+of comes into in the morning they wake
+the computer back up or they're on the
+
+the computer back up or they're on the
+
+the computer back up or they're on the
+computer and the VPN connection is still
+
+computer and the VPN connection is still
+
+computer and the VPN connection is still
+there which means they can still get
+
+there which means they can still get
+
+there which means they can still get
+into the main Network pretty pretty
+
+into the main Network pretty pretty
+
+into the main Network pretty pretty
+frightening especially if they use the
+
+frightening especially if they use the
+
+frightening especially if they use the
+key logger or a packet sniffer I won't
+
+key logger or a packet sniffer I won't
+
+key logger or a packet sniffer I won't
+go there but that's kind of how it's
+
+go there but that's kind of how it's
+
+go there but that's kind of how it's
+done all right so what are the assessors
+
+done all right so what are the assessors
+
+done all right so what are the assessors
+looking for and how do we solve for all
+
+looking for and how do we solve for all
+
+looking for and how do we solve for all
+this uh they're looking for two points
+
+this uh they're looking for two points
+
+this uh they're looking for two points
+on this one number one they want to
+
+on this one number one they want to
+
+on this one number one they want to
+determine if conditions requiring a user
+
+determine if conditions requiring a user
+
+determine if conditions requiring a user
+session to terminate are defined now the
+
+session to terminate are defined now the
+
+session to terminate are defined now the
+easy answer here is it's defined via
+
+easy answer here is it's defined via
+
+easy answer here is it's defined via
+group policy and it's enforced that's
+
+group policy and it's enforced that's
+
+group policy and it's enforced that's
+one way to do it but also you might have
+
+one way to do it but also you might have
+
+one way to do it but also you might have
+to look at your firewall as well because
+
+to look at your firewall as well because
+
+to look at your firewall as well because
+you've also got VPN policies you've got
+
+you've also got VPN policies you've got
+
+you've also got VPN policies you've got
+all kinds of different potential areas
+
+all kinds of different potential areas
+
+all kinds of different potential areas
+that this policy could exist and again
+
+that this policy could exist and again
+
+that this policy could exist and again
+you just want to generally make sure
+
+you just want to generally make sure
+
+you just want to generally make sure
+that that it has been defined somewhere
+
+that that it has been defined somewhere
+
+that that it has been defined somewhere
+could also be a written policy by the
+
+could also be a written policy by the
+
+could also be a written policy by the
+way but more than likely it's going to
+
+way but more than likely it's going to
+
+way but more than likely it's going to
+be a policy like Group Policy now second
+
+be a policy like Group Policy now second
+
+be a policy like Group Policy now second
+assessment Point determine if a user
+
+assessment Point determine if a user
+
+assessment Point determine if a user
+session is automatically terminated
+
+session is automatically terminated
+
+session is automatically terminated
+after any of the defined conditions
+
+after any of the defined conditions
+
+after any of the defined conditions
+occur yes after 30 minutes of vital time
+
+occur yes after 30 minutes of vital time
+
+occur yes after 30 minutes of vital time
+or 45 minutes of vital time or five
+
+or 45 minutes of vital time or five
+
+or 45 minutes of vital time or five
+minutes of idle time it doesn't really
+
+minutes of idle time it doesn't really
+
+minutes of idle time it doesn't really
+matter but you do have to Define it and
+
+matter but you do have to Define it and
+
+matter but you do have to Define it and
+you have to dictate what those
+
+you have to dictate what those
+
+you have to dictate what those
+conditions are and what is the condition
+
+conditions are and what is the condition
+
+conditions are and what is the condition
+so it's idle time that's usually the
+
+so it's idle time that's usually the
+
+so it's idle time that's usually the
+most common one now the good news is
+
+most common one now the good news is
+
+most common one now the good news is
+that we are here to help with that kind
+
+that we are here to help with that kind
+
+that we are here to help with that kind
+of thing so if you're a defense
+
+of thing so if you're a defense
+
+of thing so if you're a defense
+contractor and you're trying to figure
+
+contractor and you're trying to figure
+
+contractor and you're trying to figure
+out all of this dfar's nist itar cmmc
+
+out all of this dfar's nist itar cmmc
+
+out all of this dfar's nist itar cmmc
+compliance stuff and it was just dropped
+
+compliance stuff and it was just dropped
+
+compliance stuff and it was just dropped
+in your lap like a seagull on a sunny
+
+in your lap like a seagull on a sunny
+
+in your lap like a seagull on a sunny
+day well the good news is we teach you
+
+day well the good news is we teach you
+
+day well the good news is we teach you
+how to level up and be a proper on-call
+
+how to level up and be a proper on-call
+
+how to level up and be a proper on-call
+compliance hero for your company
+
+compliance hero for your company
+
+compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+
+this solved all while showing you how to
+
+this solved all while showing you how to
+leverage compliance is your secret
+
+leverage compliance is your secret
+
+leverage compliance is your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that is what
+
+higher profit margins now that is what
+
+higher profit margins now that is what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you looking for more help getting
+
+do for you looking for more help getting
+
+do for you looking for more help getting
+compliant our compliance experts are
+
+compliant our compliance experts are
+
+compliant our compliance experts are
+always on call for you visit
+
+always on call for you visit
+
+always on call for you visit
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now if you love the content we're
+
+right now if you love the content we're
+
+right now if you love the content we're
+putting out there for you help us out
+
+putting out there for you help us out
+
+putting out there for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as our compliance
+
+content as soon as our compliance
+
+content as soon as our compliance
+service roll it out until the next
+
+service roll it out until the next
+
+service roll it out until the next
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+know more about when it comes to
+
+know more about when it comes to
+
+know more about when it comes to
+information security and compliance and
+
+information security and compliance and
+
+information security and compliance and
+I'll see you on the next one
+
+I'll see you on the next one
+
+I'll see you on the next one
+
+thank you
+
+thank you
+
+thank you

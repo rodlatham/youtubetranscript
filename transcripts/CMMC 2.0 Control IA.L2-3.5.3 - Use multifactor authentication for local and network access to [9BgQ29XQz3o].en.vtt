@@ -1,0 +1,1504 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:01.370 align:start position:0%
+ 
+hey<00:00:00.420><c> everybody</c><00:00:00.539><c> it's</c><00:00:00.780><c> Mike</c><00:00:00.960><c> frieder</c><00:00:01.319><c> here</c>
+
+00:00:01.370 --> 00:00:01.380 align:start position:0%
+hey everybody it's Mike frieder here
+ 
+
+00:00:01.380 --> 00:00:02.629 align:start position:0%
+hey everybody it's Mike frieder here
+with<00:00:01.500><c> on-call</c><00:00:01.800><c> compliance</c><00:00:02.220><c> Solutions</c><00:00:02.460><c> and</c>
+
+00:00:02.629 --> 00:00:02.639 align:start position:0%
+with on-call compliance Solutions and
+ 
+
+00:00:02.639 --> 00:00:03.949 align:start position:0%
+with on-call compliance Solutions and
+I'm<00:00:02.760><c> back</c><00:00:02.940><c> with</c><00:00:03.060><c> another</c><00:00:03.179><c> compliance</c><00:00:03.659><c> tip</c><00:00:03.899><c> of</c>
+
+00:00:03.949 --> 00:00:03.959 align:start position:0%
+I'm back with another compliance tip of
+ 
+
+00:00:03.959 --> 00:00:05.269 align:start position:0%
+I'm back with another compliance tip of
+the<00:00:04.080><c> week</c><00:00:04.140><c> where</c><00:00:04.380><c> you'll</c><00:00:04.560><c> watch</c><00:00:04.740><c> me</c><00:00:04.920><c> try</c><00:00:05.160><c> to</c>
+
+00:00:05.269 --> 00:00:05.279 align:start position:0%
+the week where you'll watch me try to
+ 
+
+00:00:05.279 --> 00:00:06.349 align:start position:0%
+the week where you'll watch me try to
+not<00:00:05.400><c> burp</c><00:00:05.700><c> during</c><00:00:05.880><c> this</c><00:00:06.060><c> video</c><00:00:06.180><c> after</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+not burp during this video after
+ 
+
+00:00:06.359 --> 00:00:07.909 align:start position:0%
+not burp during this video after
+drinking<00:00:06.720><c> carbonated</c><00:00:07.140><c> water</c><00:00:07.379><c> to</c><00:00:07.620><c> make</c><00:00:07.680><c> it</c><00:00:07.799><c> so</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+drinking carbonated water to make it so
+ 
+
+00:00:07.919 --> 00:00:09.950 align:start position:0%
+drinking carbonated water to make it so
+I<00:00:08.099><c> can</c><00:00:08.160><c> talk</c><00:00:08.280><c> to</c><00:00:08.519><c> you</c><00:00:08.639><c> hey</c><00:00:09.360><c> this</c><00:00:09.660><c> week</c><00:00:09.780><c> we're</c>
+
+00:00:09.950 --> 00:00:09.960 align:start position:0%
+I can talk to you hey this week we're
+ 
+
+00:00:09.960 --> 00:00:12.910 align:start position:0%
+I can talk to you hey this week we're
+talking<00:00:10.139><c> about</c>
+
+00:00:12.910 --> 00:00:12.920 align:start position:0%
+ 
+ 
+
+00:00:12.920 --> 00:00:15.169 align:start position:0%
+ 
+cmmccontrolia.l2-3.5.3<00:00:13.920><c> use</c><00:00:14.580><c> multi-factor</c>
+
+00:00:15.169 --> 00:00:15.179 align:start position:0%
+cmmccontrolia.l2-3.5.3 use multi-factor
+ 
+
+00:00:15.179 --> 00:00:16.790 align:start position:0%
+cmmccontrolia.l2-3.5.3 use multi-factor
+authentication<00:00:15.719><c> for</c><00:00:16.020><c> local</c><00:00:16.260><c> and</c><00:00:16.619><c> network</c>
+
+00:00:16.790 --> 00:00:16.800 align:start position:0%
+authentication for local and network
+ 
+
+00:00:16.800 --> 00:00:18.830 align:start position:0%
+authentication for local and network
+access<00:00:17.100><c> to</c><00:00:17.400><c> privileged</c><00:00:17.820><c> accounts</c><00:00:18.240><c> and</c><00:00:18.660><c> for</c>
+
+00:00:18.830 --> 00:00:18.840 align:start position:0%
+access to privileged accounts and for
+ 
+
+00:00:18.840 --> 00:00:20.150 align:start position:0%
+access to privileged accounts and for
+network<00:00:19.020><c> access</c><00:00:19.320><c> to</c><00:00:19.619><c> non-privileged</c>
+
+00:00:20.150 --> 00:00:20.160 align:start position:0%
+network access to non-privileged
+ 
+
+00:00:20.160 --> 00:00:22.250 align:start position:0%
+network access to non-privileged
+accounts<00:00:20.520><c> let's</c><00:00:21.060><c> find</c><00:00:21.300><c> out</c>
+
+00:00:22.250 --> 00:00:22.260 align:start position:0%
+accounts let's find out
+ 
+
+00:00:22.260 --> 00:00:30.370 align:start position:0%
+accounts let's find out
+[Music]
+
+00:00:30.370 --> 00:00:30.380 align:start position:0%
+[Music]
+ 
+
+00:00:30.380 --> 00:00:32.450 align:start position:0%
+[Music]
+say<00:00:31.380><c> hey</c><00:00:31.500><c> if</c><00:00:31.619><c> you're</c><00:00:31.740><c> a</c><00:00:31.859><c> defense</c><00:00:32.099><c> contractor</c>
+
+00:00:32.450 --> 00:00:32.460 align:start position:0%
+say hey if you're a defense contractor
+ 
+
+00:00:32.460 --> 00:00:34.190 align:start position:0%
+say hey if you're a defense contractor
+who's<00:00:32.640><c> feeling</c><00:00:32.880><c> overwhelmed</c><00:00:33.420><c> tired</c><00:00:34.079><c> and</c>
+
+00:00:34.190 --> 00:00:34.200 align:start position:0%
+who's feeling overwhelmed tired and
+ 
+
+00:00:34.200 --> 00:00:36.709 align:start position:0%
+who's feeling overwhelmed tired and
+alone<00:00:34.380><c> trying</c><00:00:34.920><c> to</c><00:00:35.100><c> figure</c><00:00:35.520><c> out</c><00:00:35.700><c> all</c><00:00:36.000><c> this</c><00:00:36.120><c> cmmc</c>
+
+00:00:36.709 --> 00:00:36.719 align:start position:0%
+alone trying to figure out all this cmmc
+ 
+
+00:00:36.719 --> 00:00:40.310 align:start position:0%
+alone trying to figure out all this cmmc
+dfars<00:00:37.440><c> and</c><00:00:37.559><c> nist</c><00:00:38.000><c> sp171</c><00:00:39.000><c> compliance</c><00:00:39.600><c> stuff</c><00:00:39.780><c> on</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+dfars and nist sp171 compliance stuff on
+ 
+
+00:00:40.320 --> 00:00:42.290 align:start position:0%
+dfars and nist sp171 compliance stuff on
+top<00:00:40.500><c> of</c><00:00:40.620><c> an</c><00:00:40.739><c> already</c><00:00:40.920><c> colossal</c><00:00:41.520><c> workload</c><00:00:41.940><c> well</c>
+
+00:00:42.290 --> 00:00:42.300 align:start position:0%
+top of an already colossal workload well
+ 
+
+00:00:42.300 --> 00:00:43.670 align:start position:0%
+top of an already colossal workload well
+I've<00:00:42.540><c> got</c><00:00:42.600><c> great</c><00:00:42.840><c> news</c><00:00:42.960><c> for</c><00:00:43.200><c> you</c><00:00:43.260><c> you</c><00:00:43.440><c> found</c>
+
+00:00:43.670 --> 00:00:43.680 align:start position:0%
+I've got great news for you you found
+ 
+
+00:00:43.680 --> 00:00:45.590 align:start position:0%
+I've got great news for you you found
+your<00:00:43.860><c> home</c><00:00:43.980><c> here</c><00:00:44.280><c> at</c><00:00:44.700><c> on-call</c><00:00:45.120><c> compliance</c>
+
+00:00:45.590 --> 00:00:45.600 align:start position:0%
+your home here at on-call compliance
+ 
+
+00:00:45.600 --> 00:00:46.790 align:start position:0%
+your home here at on-call compliance
+Solutions<00:00:45.899><c> where</c><00:00:46.079><c> we</c><00:00:46.260><c> can</c><00:00:46.379><c> help</c><00:00:46.559><c> you</c>
+
+00:00:46.790 --> 00:00:46.800 align:start position:0%
+Solutions where we can help you
+ 
+
+00:00:46.800 --> 00:00:49.010 align:start position:0%
+Solutions where we can help you
+transform<00:00:47.640><c> into</c><00:00:47.879><c> your</c><00:00:48.120><c> company's</c><00:00:48.420><c> con-call</c>
+
+00:00:49.010 --> 00:00:49.020 align:start position:0%
+transform into your company's con-call
+ 
+
+00:00:49.020 --> 00:00:54.010 align:start position:0%
+transform into your company's con-call
+compliance<00:00:49.440><c> Hero</c><00:00:49.800><c> Let's</c><00:00:50.399><c> jump</c><00:00:50.579><c> into</c><00:00:50.760><c> it</c>
+
+00:00:54.010 --> 00:00:54.020 align:start position:0%
+ 
+ 
+
+00:00:54.020 --> 00:00:56.389 align:start position:0%
+ 
+cmmccontrolia.l2-3.5.3<00:00:55.020><c> use</c><00:00:55.680><c> multi-factor</c>
+
+00:00:56.389 --> 00:00:56.399 align:start position:0%
+cmmccontrolia.l2-3.5.3 use multi-factor
+ 
+
+00:00:56.399 --> 00:00:58.790 align:start position:0%
+cmmccontrolia.l2-3.5.3 use multi-factor
+authentication<00:00:57.000><c> for</c><00:00:57.360><c> local</c><00:00:57.600><c> and</c><00:00:58.500><c> network</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+authentication for local and network
+ 
+
+00:00:58.800 --> 00:01:01.430 align:start position:0%
+authentication for local and network
+access<00:00:59.160><c> to</c><00:00:59.879><c> privileged</c><00:01:00.360><c> accounts</c><00:01:00.780><c> and</c><00:01:01.199><c> for</c>
+
+00:01:01.430 --> 00:01:01.440 align:start position:0%
+access to privileged accounts and for
+ 
+
+00:01:01.440 --> 00:01:03.709 align:start position:0%
+access to privileged accounts and for
+network<00:01:01.620><c> access</c><00:01:01.980><c> to</c><00:01:02.579><c> non-provised</c><00:01:03.300><c> accounts</c>
+
+00:01:03.709 --> 00:01:03.719 align:start position:0%
+network access to non-provised accounts
+ 
+
+00:01:03.719 --> 00:01:06.649 align:start position:0%
+network access to non-provised accounts
+yes<00:01:04.500><c> this</c><00:01:05.040><c> is</c><00:01:05.159><c> the</c><00:01:05.339><c> one</c><00:01:05.519><c> it</c><00:01:06.000><c> creates</c><00:01:06.299><c> the</c><00:01:06.479><c> big</c>
+
+00:01:06.649 --> 00:01:06.659 align:start position:0%
+yes this is the one it creates the big
+ 
+
+00:01:06.659 --> 00:01:09.350 align:start position:0%
+yes this is the one it creates the big
+giant<00:01:07.080><c> Nightmare</c><00:01:07.439><c> and</c><00:01:07.979><c> everybody</c><00:01:08.159><c> hates</c><00:01:09.119><c> it</c>
+
+00:01:09.350 --> 00:01:09.360 align:start position:0%
+giant Nightmare and everybody hates it
+ 
+
+00:01:09.360 --> 00:01:11.030 align:start position:0%
+giant Nightmare and everybody hates it
+but<00:01:10.020><c> guess</c><00:01:10.200><c> what</c>
+
+00:01:11.030 --> 00:01:11.040 align:start position:0%
+but guess what
+ 
+
+00:01:11.040 --> 00:01:13.130 align:start position:0%
+but guess what
+it<00:01:11.700><c> also</c><00:01:12.000><c> happens</c><00:01:12.180><c> to</c><00:01:12.420><c> be</c><00:01:12.540><c> the</c><00:01:12.720><c> one</c><00:01:12.900><c> control</c>
+
+00:01:13.130 --> 00:01:13.140 align:start position:0%
+it also happens to be the one control
+ 
+
+00:01:13.140 --> 00:01:16.969 align:start position:0%
+it also happens to be the one control
+that<00:01:13.920><c> will</c><00:01:14.100><c> save</c><00:01:14.520><c> your</c><00:01:15.299><c> tokis</c><00:01:15.840><c> right</c><00:01:16.260><c> because</c>
+
+00:01:16.969 --> 00:01:16.979 align:start position:0%
+that will save your tokis right because
+ 
+
+00:01:16.979 --> 00:01:18.469 align:start position:0%
+that will save your tokis right because
+ultimately<00:01:17.880><c> at</c><00:01:18.060><c> the</c><00:01:18.180><c> end</c><00:01:18.240><c> of</c><00:01:18.299><c> the</c><00:01:18.360><c> day</c>
+
+00:01:18.469 --> 00:01:18.479 align:start position:0%
+ultimately at the end of the day
+ 
+
+00:01:18.479 --> 00:01:20.149 align:start position:0%
+ultimately at the end of the day
+multi-factor<00:01:19.260><c> authentication</c><00:01:19.740><c> is</c><00:01:19.979><c> probably</c>
+
+00:01:20.149 --> 00:01:20.159 align:start position:0%
+multi-factor authentication is probably
+ 
+
+00:01:20.159 --> 00:01:23.210 align:start position:0%
+multi-factor authentication is probably
+the<00:01:20.340><c> greatest</c><00:01:20.520><c> invention</c><00:01:21.140><c> for</c><00:01:22.140><c> uh</c><00:01:22.860><c> you</c><00:01:23.100><c> know</c>
+
+00:01:23.210 --> 00:01:23.220 align:start position:0%
+the greatest invention for uh you know
+ 
+
+00:01:23.220 --> 00:01:25.130 align:start position:0%
+the greatest invention for uh you know
+network<00:01:23.939><c> security</c><00:01:24.299><c> and</c><00:01:24.720><c> just</c><00:01:24.900><c> generally</c>
+
+00:01:25.130 --> 00:01:25.140 align:start position:0%
+network security and just generally
+ 
+
+00:01:25.140 --> 00:01:26.510 align:start position:0%
+network security and just generally
+information<00:01:25.439><c> security</c><00:01:25.860><c> that's</c><00:01:26.159><c> come</c><00:01:26.400><c> around</c>
+
+00:01:26.510 --> 00:01:26.520 align:start position:0%
+information security that's come around
+ 
+
+00:01:26.520 --> 00:01:28.910 align:start position:0%
+information security that's come around
+in<00:01:26.759><c> the</c><00:01:26.939><c> last</c><00:01:27.119><c> I</c><00:01:27.659><c> don't</c><00:01:27.840><c> know</c><00:01:27.900><c> how</c><00:01:28.080><c> many</c><00:01:28.200><c> years</c>
+
+00:01:28.910 --> 00:01:28.920 align:start position:0%
+in the last I don't know how many years
+ 
+
+00:01:28.920 --> 00:01:31.490 align:start position:0%
+in the last I don't know how many years
+so<00:01:29.460><c> there's</c><00:01:29.820><c> a</c><00:01:30.119><c> big</c><00:01:30.240><c> challenge</c><00:01:30.420><c> control</c><00:01:30.780><c> a</c><00:01:31.380><c> lot</c>
+
+00:01:31.490 --> 00:01:31.500 align:start position:0%
+so there's a big challenge control a lot
+ 
+
+00:01:31.500 --> 00:01:33.050 align:start position:0%
+so there's a big challenge control a lot
+of<00:01:31.680><c> people</c><00:01:31.740><c> have</c><00:01:32.280><c> trouble</c><00:01:32.520><c> with</c><00:01:32.759><c> this</c><00:01:32.939><c> one</c>
+
+00:01:33.050 --> 00:01:33.060 align:start position:0%
+of people have trouble with this one
+ 
+
+00:01:33.060 --> 00:01:35.149 align:start position:0%
+of people have trouble with this one
+from<00:01:33.720><c> a</c><00:01:33.840><c> cultural</c><00:01:34.200><c> perspective</c><00:01:34.619><c> to</c><00:01:34.979><c> make</c>
+
+00:01:35.149 --> 00:01:35.159 align:start position:0%
+from a cultural perspective to make
+ 
+
+00:01:35.159 --> 00:01:36.890 align:start position:0%
+from a cultural perspective to make
+people<00:01:35.400><c> do</c><00:01:35.759><c> MFA</c><00:01:36.240><c> for</c><00:01:36.420><c> everything</c><00:01:36.659><c> that</c>
+
+00:01:36.890 --> 00:01:36.900 align:start position:0%
+people do MFA for everything that
+ 
+
+00:01:36.900 --> 00:01:38.569 align:start position:0%
+people do MFA for everything that
+touches<00:01:37.140><c> Cy</c><00:01:37.560><c> is</c><00:01:37.740><c> a</c><00:01:37.860><c> big</c><00:01:37.920><c> deal</c><00:01:38.040><c> for</c><00:01:38.280><c> some</c><00:01:38.400><c> people</c>
+
+00:01:38.569 --> 00:01:38.579 align:start position:0%
+touches Cy is a big deal for some people
+ 
+
+00:01:38.579 --> 00:01:40.730 align:start position:0%
+touches Cy is a big deal for some people
+okay<00:01:39.299><c> after</c><00:01:39.600><c> years</c><00:01:39.840><c> of</c><00:01:40.079><c> working</c><00:01:40.200><c> with</c><00:01:40.439><c> clients</c>
+
+00:01:40.730 --> 00:01:40.740 align:start position:0%
+okay after years of working with clients
+ 
+
+00:01:40.740 --> 00:01:42.950 align:start position:0%
+okay after years of working with clients
+on<00:01:40.860><c> this</c><00:01:41.040><c> here's</c><00:01:41.700><c> what</c><00:01:41.820><c> I</c><00:01:41.939><c> can</c><00:01:42.000><c> tell</c><00:01:42.180><c> you</c>
+
+00:01:42.950 --> 00:01:42.960 align:start position:0%
+on this here's what I can tell you
+ 
+
+00:01:42.960 --> 00:01:45.469 align:start position:0%
+on this here's what I can tell you
+if<00:01:43.380><c> you</c><00:01:43.500><c> have</c><00:01:43.619><c> network</c><00:01:43.860><c> access</c><00:01:44.220><c> as</c><00:01:44.939><c> an</c><00:01:45.180><c> example</c>
+
+00:01:45.469 --> 00:01:45.479 align:start position:0%
+if you have network access as an example
+ 
+
+00:01:45.479 --> 00:01:47.749 align:start position:0%
+if you have network access as an example
+a<00:01:45.840><c> map</c><00:01:45.960><c> network</c><00:01:46.200><c> drive</c><00:01:46.560><c> you're</c><00:01:47.280><c> going</c><00:01:47.520><c> to</c><00:01:47.640><c> need</c>
+
+00:01:47.749 --> 00:01:47.759 align:start position:0%
+a map network drive you're going to need
+ 
+
+00:01:47.759 --> 00:01:49.429 align:start position:0%
+a map network drive you're going to need
+MFA<00:01:48.180><c> to</c><00:01:48.299><c> access</c><00:01:48.420><c> that</c><00:01:48.720><c> data</c><00:01:49.020><c> Maybe</c><00:01:49.200><c> on</c>
+
+00:01:49.429 --> 00:01:49.439 align:start position:0%
+MFA to access that data Maybe on
+ 
+
+00:01:49.439 --> 00:01:51.710 align:start position:0%
+MFA to access that data Maybe on
+computer<00:01:49.619><c> sign</c><00:01:49.979><c> on</c><00:01:50.220><c> however</c><00:01:51.180><c> you</c><00:01:51.360><c> need</c><00:01:51.479><c> to</c><00:01:51.600><c> do</c>
+
+00:01:51.710 --> 00:01:51.720 align:start position:0%
+computer sign on however you need to do
+ 
+
+00:01:51.720 --> 00:01:54.469 align:start position:0%
+computer sign on however you need to do
+it<00:01:51.899><c> same</c><00:01:52.560><c> with</c><00:01:52.740><c> anything</c><00:01:53.040><c> others</c><00:01:53.820><c> any</c><00:01:54.299><c> any</c>
+
+00:01:54.469 --> 00:01:54.479 align:start position:0%
+it same with anything others any any
+ 
+
+00:01:54.479 --> 00:01:56.569 align:start position:0%
+it same with anything others any any
+other<00:01:54.720><c> system</c><00:01:55.020><c> which</c><00:01:55.320><c> contains</c><00:01:55.680><c> cui</c><00:01:56.159><c> you</c><00:01:56.399><c> have</c>
+
+00:01:56.569 --> 00:01:56.579 align:start position:0%
+other system which contains cui you have
+ 
+
+00:01:56.579 --> 00:01:58.969 align:start position:0%
+other system which contains cui you have
+to<00:01:56.700><c> have</c><00:01:56.820><c> MFA</c><00:01:57.299><c> your</c><00:01:57.960><c> email</c><00:01:58.079><c> if</c><00:01:58.380><c> your</c><00:01:58.560><c> email</c><00:01:58.740><c> is</c>
+
+00:01:58.969 --> 00:01:58.979 align:start position:0%
+to have MFA your email if your email is
+ 
+
+00:01:58.979 --> 00:02:02.030 align:start position:0%
+to have MFA your email if your email is
+Office<00:01:59.100><c> 365</c><00:01:59.759><c> GCC</c><00:02:00.180><c> hi</c><00:02:00.600><c> MFA</c><00:02:01.380><c> better</c><00:02:01.560><c> be</c><00:02:01.740><c> turned</c>
+
+00:02:02.030 --> 00:02:02.040 align:start position:0%
+Office 365 GCC hi MFA better be turned
+ 
+
+00:02:02.040 --> 00:02:03.830 align:start position:0%
+Office 365 GCC hi MFA better be turned
+on<00:02:02.159><c> okay</c><00:02:02.579><c> if</c><00:02:03.060><c> you've</c><00:02:03.240><c> got</c><00:02:03.299><c> an</c><00:02:03.479><c> accounting</c>
+
+00:02:03.830 --> 00:02:03.840 align:start position:0%
+on okay if you've got an accounting
+ 
+
+00:02:03.840 --> 00:02:05.270 align:start position:0%
+on okay if you've got an accounting
+system<00:02:03.960><c> and</c><00:02:04.200><c> it's</c><00:02:04.320><c> got</c><00:02:04.500><c> It's</c><00:02:04.799><c> got</c><00:02:04.920><c> accounting</c>
+
+00:02:05.270 --> 00:02:05.280 align:start position:0%
+system and it's got It's got accounting
+ 
+
+00:02:05.280 --> 00:02:07.010 align:start position:0%
+system and it's got It's got accounting
+data<00:02:05.460><c> that</c><00:02:05.520><c> includes</c><00:02:05.820><c> cui</c><00:02:06.360><c> you</c><00:02:06.659><c> better</c><00:02:06.840><c> have</c>
+
+00:02:07.010 --> 00:02:07.020 align:start position:0%
+data that includes cui you better have
+ 
+
+00:02:07.020 --> 00:02:09.469 align:start position:0%
+data that includes cui you better have
+MFA<00:02:07.439><c> to</c><00:02:07.619><c> sign</c><00:02:07.740><c> into</c><00:02:07.979><c> it</c><00:02:08.220><c> all</c><00:02:08.700><c> right</c><00:02:08.880><c> however</c>
+
+00:02:09.469 --> 00:02:09.479 align:start position:0%
+MFA to sign into it all right however
+ 
+
+00:02:09.479 --> 00:02:11.449 align:start position:0%
+MFA to sign into it all right however
+you'll<00:02:09.780><c> notice</c><00:02:10.080><c> that</c><00:02:10.259><c> MFA</c><00:02:10.739><c> is</c><00:02:10.920><c> not</c><00:02:11.039><c> required</c>
+
+00:02:11.449 --> 00:02:11.459 align:start position:0%
+you'll notice that MFA is not required
+ 
+
+00:02:11.459 --> 00:02:14.869 align:start position:0%
+you'll notice that MFA is not required
+for<00:02:11.819><c> local</c><00:02:12.300><c> standard</c><00:02:13.020><c> user</c><00:02:13.680><c> access</c><00:02:14.040><c> a</c><00:02:14.580><c> lot</c><00:02:14.760><c> of</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+for local standard user access a lot of
+ 
+
+00:02:14.879 --> 00:02:16.430 align:start position:0%
+for local standard user access a lot of
+people<00:02:15.000><c> miss</c><00:02:15.300><c> this</c><00:02:15.540><c> and</c><00:02:15.720><c> make</c><00:02:15.900><c> their</c><00:02:16.020><c> lives</c><00:02:16.260><c> a</c>
+
+00:02:16.430 --> 00:02:16.440 align:start position:0%
+people miss this and make their lives a
+ 
+
+00:02:16.440 --> 00:02:18.830 align:start position:0%
+people miss this and make their lives a
+whole<00:02:16.620><c> lot</c><00:02:16.739><c> harder</c><00:02:17.099><c> okay</c><00:02:17.340><c> however</c><00:02:18.300><c> you'll</c>
+
+00:02:18.830 --> 00:02:18.840 align:start position:0%
+whole lot harder okay however you'll
+ 
+
+00:02:18.840 --> 00:02:20.570 align:start position:0%
+whole lot harder okay however you'll
+notice<00:02:19.080><c> that</c><00:02:19.200><c> MFA</c><00:02:19.680><c> is</c><00:02:19.800><c> not</c><00:02:19.980><c> required</c><00:02:20.400><c> for</c>
+
+00:02:20.570 --> 00:02:20.580 align:start position:0%
+notice that MFA is not required for
+ 
+
+00:02:20.580 --> 00:02:23.570 align:start position:0%
+notice that MFA is not required for
+local<00:02:20.819><c> standard</c><00:02:21.300><c> user</c><00:02:21.959><c> access</c><00:02:22.140><c> to</c><00:02:22.500><c> cui</c><00:02:23.099><c> when</c>
+
+00:02:23.570 --> 00:02:23.580 align:start position:0%
+local standard user access to cui when
+ 
+
+00:02:23.580 --> 00:02:25.670 align:start position:0%
+local standard user access to cui when
+the<00:02:23.760><c> cuis</c><00:02:24.180><c> on</c><00:02:24.420><c> that</c><00:02:24.540><c> user's</c><00:02:24.959><c> Machine</c><00:02:25.080><c> by</c><00:02:25.560><c> the</c>
+
+00:02:25.670 --> 00:02:25.680 align:start position:0%
+the cuis on that user's Machine by the
+ 
+
+00:02:25.680 --> 00:02:26.930 align:start position:0%
+the cuis on that user's Machine by the
+way we<00:02:25.920><c> also</c><00:02:26.099><c> do</c><00:02:26.160><c> these</c><00:02:26.340><c> videos</c><00:02:26.459><c> in</c><00:02:26.700><c> exactly</c>
+
+00:02:26.930 --> 00:02:26.940 align:start position:0%
+way we also do these videos in exactly
+ 
+
+00:02:26.940 --> 00:02:28.550 align:start position:0%
+way we also do these videos in exactly
+one<00:02:27.120><c> take</c><00:02:27.360><c> because</c><00:02:27.540><c> I'm</c><00:02:27.780><c> way</c><00:02:27.959><c> too</c><00:02:28.080><c> lazy</c><00:02:28.440><c> to</c>
+
+00:02:28.550 --> 00:02:28.560 align:start position:0%
+one take because I'm way too lazy to
+ 
+
+00:02:28.560 --> 00:02:30.110 align:start position:0%
+one take because I'm way too lazy to
+actually<00:02:28.680><c> start</c><00:02:28.920><c> over</c><00:02:29.099><c> again</c><00:02:29.340><c> very</c>
+
+00:02:30.110 --> 00:02:30.120 align:start position:0%
+actually start over again very
+ 
+
+00:02:30.120 --> 00:02:32.270 align:start position:0%
+actually start over again very
+interesting<00:02:30.480><c> that</c><00:02:31.200><c> is</c><00:02:31.379><c> just</c><00:02:31.560><c> a</c><00:02:31.739><c> small</c><00:02:31.920><c> hint</c><00:02:32.160><c> of</c>
+
+00:02:32.270 --> 00:02:32.280 align:start position:0%
+interesting that is just a small hint of
+ 
+
+00:02:32.280 --> 00:02:34.309 align:start position:0%
+interesting that is just a small hint of
+where<00:02:32.459><c> mfa's</c><00:02:33.000><c> requirements</c><00:02:33.480><c> may</c><00:02:33.720><c> be</c><00:02:33.840><c> easier</c>
+
+00:02:34.309 --> 00:02:34.319 align:start position:0%
+where mfa's requirements may be easier
+ 
+
+00:02:34.319 --> 00:02:36.530 align:start position:0%
+where mfa's requirements may be easier
+to<00:02:34.980><c> implement</c><00:02:35.280><c> than</c><00:02:35.580><c> you</c><00:02:35.760><c> think</c><00:02:35.940><c> all</c><00:02:36.420><c> right</c>
+
+00:02:36.530 --> 00:02:36.540 align:start position:0%
+to implement than you think all right
+ 
+
+00:02:36.540 --> 00:02:37.670 align:start position:0%
+to implement than you think all right
+I'm<00:02:36.840><c> gonna</c><00:02:36.959><c> go</c><00:02:37.140><c> back</c><00:02:37.200><c> over</c><00:02:37.379><c> that</c><00:02:37.560><c> again</c>
+
+00:02:37.670 --> 00:02:37.680 align:start position:0%
+I'm gonna go back over that again
+ 
+
+00:02:37.680 --> 00:02:39.290 align:start position:0%
+I'm gonna go back over that again
+because<00:02:37.920><c> in</c><00:02:38.220><c> all</c><00:02:38.400><c> of</c><00:02:38.520><c> my</c><00:02:38.640><c> little</c><00:02:38.760><c> bantering</c>
+
+00:02:39.290 --> 00:02:39.300 align:start position:0%
+because in all of my little bantering
+ 
+
+00:02:39.300 --> 00:02:40.550 align:start position:0%
+because in all of my little bantering
+there<00:02:39.420><c> was</c><00:02:39.540><c> actually</c><00:02:39.660><c> an</c><00:02:39.900><c> important</c><00:02:40.200><c> point</c><00:02:40.379><c> in</c>
+
+00:02:40.550 --> 00:02:40.560 align:start position:0%
+there was actually an important point in
+ 
+
+00:02:40.560 --> 00:02:43.030 align:start position:0%
+there was actually an important point in
+there<00:02:40.739><c> so</c><00:02:40.980><c> again</c><00:02:41.180><c> if</c><00:02:42.180><c> you're</c><00:02:42.300><c> a</c><00:02:42.480><c> standard</c><00:02:42.660><c> user</c>
+
+00:02:43.030 --> 00:02:43.040 align:start position:0%
+there so again if you're a standard user
+ 
+
+00:02:43.040 --> 00:02:45.949 align:start position:0%
+there so again if you're a standard user
+non-admin<00:02:44.040><c> and</c><00:02:44.340><c> if</c><00:02:44.640><c> you</c><00:02:45.060><c> have</c><00:02:45.180><c> cui</c><00:02:45.720><c> only</c>
+
+00:02:45.949 --> 00:02:45.959 align:start position:0%
+non-admin and if you have cui only
+ 
+
+00:02:45.959 --> 00:02:47.570 align:start position:0%
+non-admin and if you have cui only
+locally<00:02:46.440><c> on</c><00:02:46.680><c> your</c><00:02:46.800><c> computer</c><00:02:46.920><c> and</c><00:02:47.280><c> you</c><00:02:47.459><c> can't</c>
+
+00:02:47.570 --> 00:02:47.580 align:start position:0%
+locally on your computer and you can't
+ 
+
+00:02:47.580 --> 00:02:49.910 align:start position:0%
+locally on your computer and you can't
+access<00:02:48.000><c> that</c><00:02:48.360><c> via</c><00:02:48.780><c> you</c><00:02:49.500><c> know</c><00:02:49.560><c> some</c><00:02:49.800><c> other</c>
+
+00:02:49.910 --> 00:02:49.920 align:start position:0%
+access that via you know some other
+ 
+
+00:02:49.920 --> 00:02:51.290 align:start position:0%
+access that via you know some other
+method<00:02:50.280><c> over</c><00:02:50.400><c> a</c><00:02:50.580><c> network</c><00:02:50.640><c> like</c><00:02:50.819><c> a</c><00:02:51.000><c> map</c><00:02:51.120><c> network</c>
+
+00:02:51.290 --> 00:02:51.300 align:start position:0%
+method over a network like a map network
+ 
+
+00:02:51.300 --> 00:02:53.210 align:start position:0%
+method over a network like a map network
+drive<00:02:51.540><c> from</c><00:02:51.840><c> your</c><00:02:51.959><c> computer</c><00:02:52.200><c> which</c><00:02:52.620><c> would</c><00:02:53.099><c> be</c>
+
+00:02:53.210 --> 00:02:53.220 align:start position:0%
+drive from your computer which would be
+ 
+
+00:02:53.220 --> 00:02:55.970 align:start position:0%
+drive from your computer which would be
+unusual<00:02:53.580><c> sort</c><00:02:53.819><c> of</c><00:02:54.000><c> uh</c><00:02:54.840><c> then</c><00:02:55.200><c> you</c><00:02:55.860><c> don't</c>
+
+00:02:55.970 --> 00:02:55.980 align:start position:0%
+unusual sort of uh then you don't
+ 
+
+00:02:55.980 --> 00:02:57.229 align:start position:0%
+unusual sort of uh then you don't
+actually<00:02:56.160><c> have</c><00:02:56.340><c> to</c><00:02:56.459><c> have</c><00:02:56.519><c> MFA</c><00:02:56.940><c> to</c><00:02:57.060><c> get</c><00:02:57.120><c> into</c>
+
+00:02:57.229 --> 00:02:57.239 align:start position:0%
+actually have to have MFA to get into
+ 
+
+00:02:57.239 --> 00:02:58.910 align:start position:0%
+actually have to have MFA to get into
+the<00:02:57.360><c> local</c><00:02:57.480><c> computer</c><00:02:57.780><c> if</c><00:02:58.440><c> you're</c><00:02:58.560><c> a</c><00:02:58.739><c> standard</c>
+
+00:02:58.910 --> 00:02:58.920 align:start position:0%
+the local computer if you're a standard
+ 
+
+00:02:58.920 --> 00:03:01.490 align:start position:0%
+the local computer if you're a standard
+user<00:02:59.220><c> not</c><00:02:59.340><c> an</c><00:02:59.519><c> admin</c><00:02:59.819><c> user</c><00:03:00.120><c> okay</c><00:03:00.480><c> so</c><00:03:01.080><c> there</c><00:03:01.319><c> is</c>
+
+00:03:01.490 --> 00:03:01.500 align:start position:0%
+user not an admin user okay so there is
+ 
+
+00:03:01.500 --> 00:03:03.110 align:start position:0%
+user not an admin user okay so there is
+this<00:03:01.680><c> loophole</c><00:03:02.099><c> from</c><00:03:02.400><c> for</c><00:03:02.640><c> basically</c>
+
+00:03:03.110 --> 00:03:03.120 align:start position:0%
+this loophole from for basically
+ 
+
+00:03:03.120 --> 00:03:05.030 align:start position:0%
+this loophole from for basically
+standard<00:03:03.660><c> users</c><00:03:03.959><c> on</c><00:03:04.080><c> the</c><00:03:04.200><c> network</c><00:03:04.319><c> where</c><00:03:04.800><c> they</c>
+
+00:03:05.030 --> 00:03:05.040 align:start position:0%
+standard users on the network where they
+ 
+
+00:03:05.040 --> 00:03:06.229 align:start position:0%
+standard users on the network where they
+don't<00:03:05.160><c> actually</c><00:03:05.280><c> have</c><00:03:05.459><c> to</c><00:03:05.580><c> have</c><00:03:05.640><c> MFA</c><00:03:06.000><c> to</c><00:03:06.120><c> sign</c>
+
+00:03:06.229 --> 00:03:06.239 align:start position:0%
+don't actually have to have MFA to sign
+ 
+
+00:03:06.239 --> 00:03:08.089 align:start position:0%
+don't actually have to have MFA to sign
+in<00:03:06.420><c> their</c><00:03:06.540><c> computer</c><00:03:06.720><c> a</c><00:03:07.440><c> lot</c><00:03:07.560><c> of</c><00:03:07.680><c> people</c><00:03:07.800><c> miss</c>
+
+00:03:08.089 --> 00:03:08.099 align:start position:0%
+in their computer a lot of people miss
+ 
+
+00:03:08.099 --> 00:03:10.790 align:start position:0%
+in their computer a lot of people miss
+that<00:03:08.340><c> all</c><00:03:08.700><c> right</c><00:03:08.879><c> your</c><00:03:09.420><c> buddy</c><00:03:09.780><c> Mike</c><00:03:09.900><c> this</c><00:03:10.620><c> guy</c>
+
+00:03:10.790 --> 00:03:10.800 align:start position:0%
+that all right your buddy Mike this guy
+ 
+
+00:03:10.800 --> 00:03:12.649 align:start position:0%
+that all right your buddy Mike this guy
+okay<00:03:11.220><c> hooking</c><00:03:11.819><c> you</c><00:03:11.940><c> up</c><00:03:12.060><c> trying</c><00:03:12.239><c> to</c><00:03:12.360><c> make</c><00:03:12.480><c> life</c>
+
+00:03:12.649 --> 00:03:12.659 align:start position:0%
+okay hooking you up trying to make life
+ 
+
+00:03:12.659 --> 00:03:13.970 align:start position:0%
+okay hooking you up trying to make life
+a<00:03:12.840><c> little</c><00:03:12.900><c> bit</c><00:03:13.019><c> easier</c><00:03:13.260><c> at</c><00:03:13.379><c> least</c><00:03:13.500><c> all</c><00:03:13.860><c> right</c>
+
+00:03:13.970 --> 00:03:13.980 align:start position:0%
+a little bit easier at least all right
+ 
+
+00:03:13.980 --> 00:03:15.470 align:start position:0%
+a little bit easier at least all right
+let's<00:03:14.280><c> jump</c><00:03:14.519><c> into</c><00:03:14.640><c> what</c><00:03:14.819><c> the</c><00:03:14.940><c> assessors</c><00:03:15.300><c> are</c>
+
+00:03:15.470 --> 00:03:15.480 align:start position:0%
+let's jump into what the assessors are
+ 
+
+00:03:15.480 --> 00:03:16.910 align:start position:0%
+let's jump into what the assessors are
+looking<00:03:15.599><c> for</c><00:03:15.720><c> on</c><00:03:15.900><c> this</c><00:03:16.080><c> one</c><00:03:16.200><c> and</c><00:03:16.500><c> try</c><00:03:16.739><c> to</c><00:03:16.860><c> not</c>
+
+00:03:16.910 --> 00:03:16.920 align:start position:0%
+looking for on this one and try to not
+ 
+
+00:03:16.920 --> 00:03:18.290 align:start position:0%
+looking for on this one and try to not
+hit<00:03:17.040><c> any</c><00:03:17.220><c> potholes</c>
+
+00:03:18.290 --> 00:03:18.300 align:start position:0%
+hit any potholes
+ 
+
+00:03:18.300 --> 00:03:20.690 align:start position:0%
+hit any potholes
+now<00:03:19.019><c> four</c><00:03:19.680><c> things</c><00:03:19.920><c> they're</c><00:03:20.099><c> assessing</c><00:03:20.519><c> for</c>
+
+00:03:20.690 --> 00:03:20.700 align:start position:0%
+now four things they're assessing for
+ 
+
+00:03:20.700 --> 00:03:22.850 align:start position:0%
+now four things they're assessing for
+one<00:03:21.480><c> determine</c><00:03:21.959><c> if</c><00:03:22.019><c> privileged</c><00:03:22.440><c> accounts</c><00:03:22.739><c> are</c>
+
+00:03:22.850 --> 00:03:22.860 align:start position:0%
+one determine if privileged accounts are
+ 
+
+00:03:22.860 --> 00:03:24.589 align:start position:0%
+one determine if privileged accounts are
+identified<00:03:23.220><c> that's</c><00:03:23.819><c> pretty</c><00:03:24.060><c> easy</c><00:03:24.239><c> right</c><00:03:24.420><c> of</c>
+
+00:03:24.589 --> 00:03:24.599 align:start position:0%
+identified that's pretty easy right of
+ 
+
+00:03:24.599 --> 00:03:25.610 align:start position:0%
+identified that's pretty easy right of
+course<00:03:24.720><c> they're</c><00:03:24.840><c> identified</c><00:03:25.200><c> you</c><00:03:25.379><c> look</c><00:03:25.500><c> at</c>
+
+00:03:25.610 --> 00:03:25.620 align:start position:0%
+course they're identified you look at
+ 
+
+00:03:25.620 --> 00:03:27.229 align:start position:0%
+course they're identified you look at
+active<00:03:25.860><c> directory</c><00:03:26.220><c> and</c><00:03:26.400><c> boom</c><00:03:26.700><c> there's</c><00:03:26.879><c> a</c><00:03:27.060><c> you</c>
+
+00:03:27.229 --> 00:03:27.239 align:start position:0%
+active directory and boom there's a you
+ 
+
+00:03:27.239 --> 00:03:29.330 align:start position:0%
+active directory and boom there's a you
+know<00:03:27.360><c> uh</c><00:03:27.780><c> people</c><00:03:28.019><c> in</c><00:03:28.260><c> the</c><00:03:28.379><c> admin</c><00:03:28.680><c> Security</c>
+
+00:03:29.330 --> 00:03:29.340 align:start position:0%
+know uh people in the admin Security
+ 
+
+00:03:29.340 --> 00:03:30.710 align:start position:0%
+know uh people in the admin Security
+Group<00:03:29.700><c> and</c><00:03:29.879><c> people</c><00:03:30.060><c> not</c><00:03:30.239><c> in</c><00:03:30.360><c> the</c><00:03:30.480><c> admin</c>
+
+00:03:30.710 --> 00:03:30.720 align:start position:0%
+Group and people not in the admin
+ 
+
+00:03:30.720 --> 00:03:32.449 align:start position:0%
+Group and people not in the admin
+Security<00:03:30.840><c> Group</c><00:03:31.140><c> as</c><00:03:31.379><c> an</c><00:03:31.500><c> example</c><00:03:31.800><c> all</c><00:03:32.340><c> right</c>
+
+00:03:32.449 --> 00:03:32.459 align:start position:0%
+Security Group as an example all right
+ 
+
+00:03:32.459 --> 00:03:33.710 align:start position:0%
+Security Group as an example all right
+session<00:03:32.700><c> Point</c><00:03:32.940><c> number</c><00:03:33.120><c> two</c><00:03:33.239><c> determine</c><00:03:33.659><c> if</c>
+
+00:03:33.710 --> 00:03:33.720 align:start position:0%
+session Point number two determine if
+ 
+
+00:03:33.720 --> 00:03:34.790 align:start position:0%
+session Point number two determine if
+multi-factor<00:03:34.260><c> authentication</c><00:03:34.739><c> is</c>
+
+00:03:34.790 --> 00:03:34.800 align:start position:0%
+multi-factor authentication is
+ 
+
+00:03:34.800 --> 00:03:36.290 align:start position:0%
+multi-factor authentication is
+implemented<00:03:35.340><c> for</c><00:03:35.459><c> local</c><00:03:35.700><c> access</c><00:03:36.000><c> to</c>
+
+00:03:36.290 --> 00:03:36.300 align:start position:0%
+implemented for local access to
+ 
+
+00:03:36.300 --> 00:03:38.089 align:start position:0%
+implemented for local access to
+privileged<00:03:36.840><c> accounts</c><00:03:37.140><c> so</c><00:03:37.200><c> again</c><00:03:37.379><c> if</c><00:03:37.980><c> you're</c>
+
+00:03:38.089 --> 00:03:38.099 align:start position:0%
+privileged accounts so again if you're
+ 
+
+00:03:38.099 --> 00:03:40.490 align:start position:0%
+privileged accounts so again if you're
+an<00:03:38.280><c> administrator</c><00:03:38.819><c> okay</c><00:03:39.599><c> and</c><00:03:40.080><c> if</c><00:03:40.200><c> the</c><00:03:40.379><c> system</c>
+
+00:03:40.490 --> 00:03:40.500 align:start position:0%
+an administrator okay and if the system
+ 
+
+00:03:40.500 --> 00:03:42.470 align:start position:0%
+an administrator okay and if the system
+you're<00:03:40.680><c> logging</c><00:03:40.980><c> into</c><00:03:41.040><c> has</c><00:03:41.340><c> cui</c><00:03:41.879><c> you</c><00:03:42.360><c> must</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+you're logging into has cui you must
+ 
+
+00:03:42.480 --> 00:03:44.449 align:start position:0%
+you're logging into has cui you must
+have<00:03:42.599><c> MFA</c><00:03:43.080><c> implemented</c><00:03:43.560><c> for</c><00:03:43.920><c> all</c><00:03:44.099><c> accounts</c>
+
+00:03:44.449 --> 00:03:44.459 align:start position:0%
+have MFA implemented for all accounts
+ 
+
+00:03:44.459 --> 00:03:46.309 align:start position:0%
+have MFA implemented for all accounts
+able<00:03:44.819><c> to</c><00:03:44.879><c> access</c><00:03:45.000><c> cui</c><00:03:45.659><c> all</c><00:03:45.959><c> right</c><00:03:46.140><c> pretty</c>
+
+00:03:46.309 --> 00:03:46.319 align:start position:0%
+able to access cui all right pretty
+ 
+
+00:03:46.319 --> 00:03:48.110 align:start position:0%
+able to access cui all right pretty
+straightforward<00:03:47.000><c> determine</c><00:03:48.000><c> if</c>
+
+00:03:48.110 --> 00:03:48.120 align:start position:0%
+straightforward determine if
+ 
+
+00:03:48.120 --> 00:03:49.250 align:start position:0%
+straightforward determine if
+multi-factor<00:03:48.599><c> authentication</c><00:03:49.080><c> is</c>
+
+00:03:49.250 --> 00:03:49.260 align:start position:0%
+multi-factor authentication is
+ 
+
+00:03:49.260 --> 00:03:50.930 align:start position:0%
+multi-factor authentication is
+implemented<00:03:49.739><c> for</c><00:03:49.920><c> network</c><00:03:50.220><c> access</c><00:03:50.519><c> to</c>
+
+00:03:50.930 --> 00:03:50.940 align:start position:0%
+implemented for network access to
+ 
+
+00:03:50.940 --> 00:03:52.550 align:start position:0%
+implemented for network access to
+privileged<00:03:51.480><c> accounts</c><00:03:51.840><c> okay</c><00:03:52.019><c> now</c><00:03:52.260><c> we're</c><00:03:52.379><c> going</c>
+
+00:03:52.550 --> 00:03:52.560 align:start position:0%
+privileged accounts okay now we're going
+ 
+
+00:03:52.560 --> 00:03:54.110 align:start position:0%
+privileged accounts okay now we're going
+over<00:03:52.739><c> a</c><00:03:52.980><c> network</c><00:03:53.099><c> to</c><00:03:53.400><c> a</c><00:03:53.580><c> privileged</c><00:03:53.940><c> account</c>
+
+00:03:54.110 --> 00:03:54.120 align:start position:0%
+over a network to a privileged account
+ 
+
+00:03:54.120 --> 00:03:56.630 align:start position:0%
+over a network to a privileged account
+okay<00:03:54.780><c> MFA</c><00:03:55.440><c> is</c><00:03:55.560><c> implemented</c><00:03:55.980><c> for</c><00:03:56.099><c> all</c><00:03:56.280><c> accounts</c>
+
+00:03:56.630 --> 00:03:56.640 align:start position:0%
+okay MFA is implemented for all accounts
+ 
+
+00:03:56.640 --> 00:03:58.550 align:start position:0%
+okay MFA is implemented for all accounts
+able<00:03:56.879><c> to</c><00:03:56.940><c> access</c><00:03:57.060><c> cui</c><00:03:57.780><c> would</c><00:03:58.140><c> be</c><00:03:58.319><c> a</c><00:03:58.440><c> really</c>
+
+00:03:58.550 --> 00:03:58.560 align:start position:0%
+able to access cui would be a really
+ 
+
+00:03:58.560 --> 00:04:00.949 align:start position:0%
+able to access cui would be a really
+great<00:03:58.799><c> answer</c><00:03:59.040><c> if</c><00:03:59.280><c> you</c><00:03:59.459><c> have</c><00:03:59.580><c> it</c><00:03:59.760><c> or</c><00:04:00.120><c> MFA</c><00:04:00.840><c> is</c>
+
+00:04:00.949 --> 00:04:00.959 align:start position:0%
+great answer if you have it or MFA is
+ 
+
+00:04:00.959 --> 00:04:03.110 align:start position:0%
+great answer if you have it or MFA is
+enabled<00:04:01.379><c> on</c><00:04:01.860><c> all</c><00:04:02.040><c> accounts</c><00:04:02.519><c> which</c><00:04:02.940><c> have</c>
+
+00:04:03.110 --> 00:04:03.120 align:start position:0%
+enabled on all accounts which have
+ 
+
+00:04:03.120 --> 00:04:05.330 align:start position:0%
+enabled on all accounts which have
+network<00:04:03.360><c> access</c><00:04:03.659><c> to</c><00:04:04.080><c> cui</c><00:04:04.860><c> that'd</c><00:04:05.159><c> be</c><00:04:05.220><c> another</c>
+
+00:04:05.330 --> 00:04:05.340 align:start position:0%
+network access to cui that'd be another
+ 
+
+00:04:05.340 --> 00:04:07.130 align:start position:0%
+network access to cui that'd be another
+good<00:04:05.640><c> answer</c><00:04:05.819><c> both</c><00:04:06.420><c> those</c><00:04:06.599><c> are</c><00:04:06.780><c> acceptable</c>
+
+00:04:07.130 --> 00:04:07.140 align:start position:0%
+good answer both those are acceptable
+ 
+
+00:04:07.140 --> 00:04:09.289 align:start position:0%
+good answer both those are acceptable
+now<00:04:07.860><c> final</c><00:04:08.159><c> final</c><00:04:08.519><c> assessment</c><00:04:09.000><c> point</c><00:04:09.120><c> in</c>
+
+00:04:09.289 --> 00:04:09.299 align:start position:0%
+now final final assessment point in
+ 
+
+00:04:09.299 --> 00:04:10.309 align:start position:0%
+now final final assessment point in
+terms<00:04:09.480><c> multi-factor</c><00:04:09.959><c> authentication</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+terms multi-factor authentication
+ 
+
+00:04:10.319 --> 00:04:12.170 align:start position:0%
+terms multi-factor authentication
+implant<00:04:10.739><c> for</c><00:04:10.920><c> network</c><00:04:11.159><c> access</c><00:04:11.519><c> to</c>
+
+00:04:12.170 --> 00:04:12.180 align:start position:0%
+implant for network access to
+ 
+
+00:04:12.180 --> 00:04:14.210 align:start position:0%
+implant for network access to
+non-probo's<00:04:12.900><c> accounts</c><00:04:13.200><c> so</c><00:04:13.319><c> if</c><00:04:13.799><c> you're</c><00:04:13.920><c> on</c><00:04:14.040><c> a</c>
+
+00:04:14.210 --> 00:04:14.220 align:start position:0%
+non-probo's accounts so if you're on a
+ 
+
+00:04:14.220 --> 00:04:15.470 align:start position:0%
+non-probo's accounts so if you're on a
+network<00:04:14.280><c> let's</c><00:04:14.640><c> say</c><00:04:14.819><c> you're</c><00:04:15.000><c> in</c><00:04:15.060><c> a</c><00:04:15.239><c> domain</c>
+
+00:04:15.470 --> 00:04:15.480 align:start position:0%
+network let's say you're in a domain
+ 
+
+00:04:15.480 --> 00:04:16.969 align:start position:0%
+network let's say you're in a domain
+you've<00:04:15.900><c> got</c><00:04:16.019><c> your</c><00:04:16.199><c> computer</c><00:04:16.380><c> you</c><00:04:16.739><c> got</c><00:04:16.919><c> a</c>
+
+00:04:16.969 --> 00:04:16.979 align:start position:0%
+you've got your computer you got a
+ 
+
+00:04:16.979 --> 00:04:19.009 align:start position:0%
+you've got your computer you got a
+server<00:04:17.220><c> the</c><00:04:17.400><c> server's</c><00:04:17.639><c> got</c><00:04:17.760><c> cui</c><00:04:18.060><c> on</c><00:04:18.180><c> it</c><00:04:18.479><c> you're</c>
+
+00:04:19.009 --> 00:04:19.019 align:start position:0%
+server the server's got cui on it you're
+ 
+
+00:04:19.019 --> 00:04:21.349 align:start position:0%
+server the server's got cui on it you're
+going<00:04:19.199><c> to</c><00:04:19.320><c> need</c><00:04:19.500><c> MFA</c><00:04:20.100><c> in</c><00:04:20.579><c> order</c><00:04:20.760><c> to</c><00:04:21.000><c> open</c><00:04:21.120><c> up</c>
+
+00:04:21.349 --> 00:04:21.359 align:start position:0%
+going to need MFA in order to open up
+ 
+
+00:04:21.359 --> 00:04:22.730 align:start position:0%
+going to need MFA in order to open up
+that<00:04:21.479><c> map</c><00:04:21.660><c> network</c><00:04:21.900><c> drive</c><00:04:22.199><c> so</c><00:04:22.440><c> you</c><00:04:22.560><c> can</c><00:04:22.620><c> either</c>
+
+00:04:22.730 --> 00:04:22.740 align:start position:0%
+that map network drive so you can either
+ 
+
+00:04:22.740 --> 00:04:24.530 align:start position:0%
+that map network drive so you can either
+do<00:04:22.979><c> it</c><00:04:23.040><c> that</c><00:04:23.220><c> way</c><00:04:23.340><c> you</c><00:04:23.639><c> can</c><00:04:23.759><c> do</c><00:04:23.880><c> MFA</c><00:04:24.240><c> on</c><00:04:24.419><c> sign</c>
+
+00:04:24.530 --> 00:04:24.540 align:start position:0%
+do it that way you can do MFA on sign
+ 
+
+00:04:24.540 --> 00:04:26.090 align:start position:0%
+do it that way you can do MFA on sign
+into<00:04:24.720><c> the</c><00:04:24.900><c> computer</c><00:04:25.020><c> whatever</c><00:04:25.620><c> you</c><00:04:25.919><c> want</c><00:04:26.040><c> to</c>
+
+00:04:26.090 --> 00:04:26.100 align:start position:0%
+into the computer whatever you want to
+ 
+
+00:04:26.100 --> 00:04:27.830 align:start position:0%
+into the computer whatever you want to
+do<00:04:26.220><c> but</c><00:04:26.400><c> MFA</c><00:04:26.880><c> has</c><00:04:27.120><c> to</c><00:04:27.240><c> be</c><00:04:27.360><c> somewhere</c><00:04:27.600><c> in</c><00:04:27.720><c> the</c>
+
+00:04:27.830 --> 00:04:27.840 align:start position:0%
+do but MFA has to be somewhere in the
+ 
+
+00:04:27.840 --> 00:04:30.590 align:start position:0%
+do but MFA has to be somewhere in the
+equation<00:04:28.139><c> before</c><00:04:28.800><c> you</c><00:04:29.100><c> touch</c><00:04:29.280><c> cui</c><00:04:29.940><c> if</c><00:04:30.479><c> it's</c>
+
+00:04:30.590 --> 00:04:30.600 align:start position:0%
+equation before you touch cui if it's
+ 
+
+00:04:30.600 --> 00:04:32.629 align:start position:0%
+equation before you touch cui if it's
+over<00:04:30.840><c> the</c><00:04:31.020><c> network</c><00:04:31.199><c> note</c><00:04:31.919><c> that</c><00:04:32.160><c> they</c><00:04:32.340><c> are</c><00:04:32.460><c> not</c>
+
+00:04:32.629 --> 00:04:32.639 align:start position:0%
+over the network note that they are not
+ 
+
+00:04:32.639 --> 00:04:34.129 align:start position:0%
+over the network note that they are not
+assessing<00:04:33.000><c> whether</c><00:04:33.120><c> you</c><00:04:33.300><c> have</c><00:04:33.419><c> MFA</c><00:04:33.840><c> on</c><00:04:34.020><c> your</c>
+
+00:04:34.129 --> 00:04:34.139 align:start position:0%
+assessing whether you have MFA on your
+ 
+
+00:04:34.139 --> 00:04:35.870 align:start position:0%
+assessing whether you have MFA on your
+local<00:04:34.259><c> machine</c><00:04:34.560><c> or</c><00:04:34.800><c> not</c><00:04:34.979><c> that's</c><00:04:35.460><c> not</c><00:04:35.699><c> an</c>
+
+00:04:35.870 --> 00:04:35.880 align:start position:0%
+local machine or not that's not an
+ 
+
+00:04:35.880 --> 00:04:37.490 align:start position:0%
+local machine or not that's not an
+assessment<00:04:36.180><c> point</c><00:04:36.419><c> because</c><00:04:36.900><c> that's</c><00:04:37.259><c> not</c>
+
+00:04:37.490 --> 00:04:37.500 align:start position:0%
+assessment point because that's not
+ 
+
+00:04:37.500 --> 00:04:40.010 align:start position:0%
+assessment point because that's not
+right<00:04:37.800><c> again</c><00:04:38.639><c> you</c><00:04:39.120><c> can</c><00:04:39.180><c> have</c><00:04:39.300><c> cui</c><00:04:39.780><c> on</c><00:04:39.900><c> your</c>
+
+00:04:40.010 --> 00:04:40.020 align:start position:0%
+right again you can have cui on your
+ 
+
+00:04:40.020 --> 00:04:41.870 align:start position:0%
+right again you can have cui on your
+local<00:04:40.139><c> device</c><00:04:40.440><c> you</c><00:04:41.040><c> can</c><00:04:41.100><c> do</c><00:04:41.280><c> that</c><00:04:41.460><c> you</c><00:04:41.759><c> can</c>
+
+00:04:41.870 --> 00:04:41.880 align:start position:0%
+local device you can do that you can
+ 
+
+00:04:41.880 --> 00:04:43.730 align:start position:0%
+local device you can do that you can
+physically<00:04:42.180><c> secure</c><00:04:42.540><c> that</c><00:04:42.780><c> device</c><00:04:43.020><c> which</c><00:04:43.620><c> is</c>
+
+00:04:43.730 --> 00:04:43.740 align:start position:0%
+physically secure that device which is
+ 
+
+00:04:43.740 --> 00:04:46.370 align:start position:0%
+physically secure that device which is
+the<00:04:43.919><c> alternative</c><00:04:44.160><c> to</c><00:04:44.340><c> MFA</c><00:04:44.820><c> but</c><00:04:45.600><c> if</c><00:04:46.080><c> it's</c><00:04:46.199><c> okay</c>
+
+00:04:46.370 --> 00:04:46.380 align:start position:0%
+the alternative to MFA but if it's okay
+ 
+
+00:04:46.380 --> 00:04:47.629 align:start position:0%
+the alternative to MFA but if it's okay
+what<00:04:46.560><c> over</c><00:04:46.740><c> the</c><00:04:46.860><c> network</c><00:04:46.979><c> or</c><00:04:47.340><c> it's</c><00:04:47.520><c> a</c>
+
+00:04:47.629 --> 00:04:47.639 align:start position:0%
+what over the network or it's a
+ 
+
+00:04:47.639 --> 00:04:50.030 align:start position:0%
+what over the network or it's a
+privileged<00:04:47.940><c> account</c><00:04:48.060><c> you</c><00:04:48.479><c> got</c><00:04:48.600><c> to</c><00:04:48.720><c> have</c><00:04:48.780><c> MFA</c>
+
+00:04:50.030 --> 00:04:50.040 align:start position:0%
+privileged account you got to have MFA
+ 
+
+00:04:50.040 --> 00:04:52.070 align:start position:0%
+privileged account you got to have MFA
+if<00:04:50.639><c> you're</c><00:04:50.820><c> scratching</c><00:04:51.300><c> your</c><00:04:51.419><c> head</c>
+
+00:04:52.070 --> 00:04:52.080 align:start position:0%
+if you're scratching your head
+ 
+
+00:04:52.080 --> 00:04:53.950 align:start position:0%
+if you're scratching your head
+if<00:04:52.560><c> you're</c><00:04:52.620><c> scratching</c><00:04:53.040><c> something</c><00:04:53.160><c> else</c>
+
+00:04:53.950 --> 00:04:53.960 align:start position:0%
+if you're scratching something else
+ 
+
+00:04:53.960 --> 00:04:55.730 align:start position:0%
+if you're scratching something else
+and
+
+00:04:55.730 --> 00:04:55.740 align:start position:0%
+and
+ 
+
+00:04:55.740 --> 00:04:57.110 align:start position:0%
+and
+you're<00:04:56.220><c> trying</c><00:04:56.400><c> to</c><00:04:56.520><c> figure</c><00:04:56.580><c> out</c><00:04:56.699><c> what</c><00:04:56.880><c> am</c><00:04:57.000><c> I</c>
+
+00:04:57.110 --> 00:04:57.120 align:start position:0%
+you're trying to figure out what am I
+ 
+
+00:04:57.120 --> 00:04:58.010 align:start position:0%
+you're trying to figure out what am I
+going<00:04:57.240><c> to</c><00:04:57.300><c> do</c>
+
+00:04:58.010 --> 00:04:58.020 align:start position:0%
+going to do
+ 
+
+00:04:58.020 --> 00:04:59.749 align:start position:0%
+going to do
+it's<00:04:58.440><c> not</c><00:04:58.620><c> a</c><00:04:58.860><c> multi-factor</c><00:04:59.280><c> authentication</c>
+
+00:04:59.749 --> 00:04:59.759 align:start position:0%
+it's not a multi-factor authentication
+ 
+
+00:04:59.759 --> 00:05:01.490 align:start position:0%
+it's not a multi-factor authentication
+on<00:04:59.880><c> my</c><00:05:00.000><c> network</c><00:05:00.180><c> seems</c><00:05:00.600><c> like</c><00:05:00.720><c> a</c>
+
+00:05:01.490 --> 00:05:01.500 align:start position:0%
+on my network seems like a
+ 
+
+00:05:01.500 --> 00:05:03.770 align:start position:0%
+on my network seems like a
+head<00:05:01.919><c> scratcher</c><00:05:02.400><c> a</c><00:05:02.820><c> giant</c><00:05:03.120><c> burden</c><00:05:03.419><c> maybe</c>
+
+00:05:03.770 --> 00:05:03.780 align:start position:0%
+head scratcher a giant burden maybe
+ 
+
+00:05:03.780 --> 00:05:05.749 align:start position:0%
+head scratcher a giant burden maybe
+something<00:05:04.080><c> really</c><00:05:04.259><c> tough</c><00:05:04.500><c> to</c><00:05:04.620><c> do</c><00:05:04.800><c> here's</c><00:05:05.639><c> the</c>
+
+00:05:05.749 --> 00:05:05.759 align:start position:0%
+something really tough to do here's the
+ 
+
+00:05:05.759 --> 00:05:08.150 align:start position:0%
+something really tough to do here's the
+good<00:05:05.880><c> news</c><00:05:06.139><c> uh</c><00:05:07.139><c> an</c><00:05:07.259><c> on-call</c><00:05:07.680><c> we</c><00:05:07.800><c> work</c><00:05:07.979><c> with</c>
+
+00:05:08.150 --> 00:05:08.160 align:start position:0%
+good news uh an on-call we work with
+ 
+
+00:05:08.160 --> 00:05:09.830 align:start position:0%
+good news uh an on-call we work with
+defense<00:05:08.460><c> contractors</c><00:05:09.000><c> just</c><00:05:09.300><c> like</c><00:05:09.419><c> you</c><00:05:09.600><c> who</c>
+
+00:05:09.830 --> 00:05:09.840 align:start position:0%
+defense contractors just like you who
+ 
+
+00:05:09.840 --> 00:05:13.310 align:start position:0%
+defense contractors just like you who
+have<00:05:09.960><c> had</c><00:05:10.139><c> this</c><00:05:10.320><c> D</c><00:05:10.500><c> fars</c><00:05:11.040><c> nist</c><00:05:11.880><c> itar</c><00:05:12.540><c> and</c><00:05:12.780><c> cmmc</c>
+
+00:05:13.310 --> 00:05:13.320 align:start position:0%
+have had this D fars nist itar and cmmc
+ 
+
+00:05:13.320 --> 00:05:15.350 align:start position:0%
+have had this D fars nist itar and cmmc
+compliance<00:05:13.800><c> stuff</c><00:05:13.979><c> dropped</c><00:05:14.940><c> into</c><00:05:15.060><c> their</c>
+
+00:05:15.350 --> 00:05:15.360 align:start position:0%
+compliance stuff dropped into their
+ 
+
+00:05:15.360 --> 00:05:17.570 align:start position:0%
+compliance stuff dropped into their
+lapsed<00:05:15.600><c> like</c><00:05:15.720><c> a</c><00:05:15.900><c> seal</c><00:05:16.139><c> on</c><00:05:16.320><c> a</c><00:05:16.440><c> sunny</c><00:05:16.500><c> day</c><00:05:16.740><c> and</c><00:05:17.460><c> we</c>
+
+00:05:17.570 --> 00:05:17.580 align:start position:0%
+lapsed like a seal on a sunny day and we
+ 
+
+00:05:17.580 --> 00:05:19.370 align:start position:0%
+lapsed like a seal on a sunny day and we
+teach<00:05:17.759><c> you</c><00:05:17.880><c> how</c><00:05:18.060><c> to</c><00:05:18.180><c> level</c><00:05:18.300><c> up</c><00:05:18.600><c> and</c><00:05:19.080><c> be</c><00:05:19.259><c> a</c>
+
+00:05:19.370 --> 00:05:19.380 align:start position:0%
+teach you how to level up and be a
+ 
+
+00:05:19.380 --> 00:05:20.870 align:start position:0%
+teach you how to level up and be a
+proper<00:05:19.620><c> on-call</c><00:05:19.979><c> compliance</c><00:05:20.340><c> hero</c><00:05:20.580><c> for</c><00:05:20.699><c> your</c>
+
+00:05:20.870 --> 00:05:20.880 align:start position:0%
+proper on-call compliance hero for your
+ 
+
+00:05:20.880 --> 00:05:23.390 align:start position:0%
+proper on-call compliance hero for your
+company<00:05:21.060><c> eliminate</c><00:05:21.900><c> any</c><00:05:22.020><c> gaps</c><00:05:22.380><c> gray</c><00:05:22.979><c> areas</c>
+
+00:05:23.390 --> 00:05:23.400 align:start position:0%
+company eliminate any gaps gray areas
+ 
+
+00:05:23.400 --> 00:05:25.790 align:start position:0%
+company eliminate any gaps gray areas
+and<00:05:24.120><c> getting</c><00:05:24.360><c> this</c><00:05:24.600><c> solved</c><00:05:25.020><c> all</c><00:05:25.560><c> while</c>
+
+00:05:25.790 --> 00:05:25.800 align:start position:0%
+and getting this solved all while
+ 
+
+00:05:25.800 --> 00:05:27.950 align:start position:0%
+and getting this solved all while
+showing<00:05:26.220><c> you</c><00:05:26.400><c> how</c><00:05:27.060><c> to</c><00:05:27.180><c> leverage</c><00:05:27.419><c> compliance</c>
+
+00:05:27.950 --> 00:05:27.960 align:start position:0%
+showing you how to leverage compliance
+ 
+
+00:05:27.960 --> 00:05:29.150 align:start position:0%
+showing you how to leverage compliance
+is<00:05:28.080><c> your</c><00:05:28.199><c> secret</c><00:05:28.380><c> weapon</c><00:05:28.740><c> to</c><00:05:28.860><c> land</c><00:05:28.979><c> more</c>
+
+00:05:29.150 --> 00:05:29.160 align:start position:0%
+is your secret weapon to land more
+ 
+
+00:05:29.160 --> 00:05:31.310 align:start position:0%
+is your secret weapon to land more
+Defense<00:05:29.520><c> work</c><00:05:29.699><c> with</c><00:05:30.240><c> higher</c><00:05:30.600><c> profit</c><00:05:30.900><c> margins</c>
+
+00:05:31.310 --> 00:05:31.320 align:start position:0%
+Defense work with higher profit margins
+ 
+
+00:05:31.320 --> 00:05:33.409 align:start position:0%
+Defense work with higher profit margins
+now<00:05:31.919><c> that</c><00:05:32.280><c> is</c><00:05:32.520><c> what</c><00:05:32.699><c> becoming</c><00:05:33.060><c> an</c><00:05:33.120><c> on-call</c>
+
+00:05:33.409 --> 00:05:33.419 align:start position:0%
+now that is what becoming an on-call
+ 
+
+00:05:33.419 --> 00:05:35.090 align:start position:0%
+now that is what becoming an on-call
+compliance<00:05:33.780><c> hero</c><00:05:34.080><c> can</c><00:05:34.199><c> do</c><00:05:34.320><c> for</c><00:05:34.440><c> you</c>
+
+00:05:35.090 --> 00:05:35.100 align:start position:0%
+compliance hero can do for you
+ 
+
+00:05:35.100 --> 00:05:37.189 align:start position:0%
+compliance hero can do for you
+and<00:05:35.520><c> if</c><00:05:35.699><c> you</c><00:05:35.820><c> want</c><00:05:35.940><c> more</c><00:05:36.120><c> help</c><00:05:36.419><c> getting</c>
+
+00:05:37.189 --> 00:05:37.199 align:start position:0%
+and if you want more help getting
+ 
+
+00:05:37.199 --> 00:05:39.409 align:start position:0%
+and if you want more help getting
+compliant<00:05:37.740><c> our</c><00:05:38.280><c> compliance</c><00:05:38.759><c> experts</c><00:05:39.240><c> are</c>
+
+00:05:39.409 --> 00:05:39.419 align:start position:0%
+compliant our compliance experts are
+ 
+
+00:05:39.419 --> 00:05:41.950 align:start position:0%
+compliant our compliance experts are
+always<00:05:39.720><c> on</c><00:05:40.080><c> call</c><00:05:40.320><c> for</c><00:05:40.560><c> you</c><00:05:40.740><c> all</c><00:05:40.919><c> right</c><00:05:41.100><c> visit</c>
+
+00:05:41.950 --> 00:05:41.960 align:start position:0%
+always on call for you all right visit
+ 
+
+00:05:41.960 --> 00:05:44.150 align:start position:0%
+always on call for you all right visit
+cmmccompliancecrets.com<00:05:42.960><c> or</c><00:05:43.740><c> check</c><00:05:43.919><c> out</c><00:05:44.039><c> the</c>
+
+00:05:44.150 --> 00:05:44.160 align:start position:0%
+cmmccompliancecrets.com or check out the
+ 
+
+00:05:44.160 --> 00:05:45.770 align:start position:0%
+cmmccompliancecrets.com or check out the
+bio<00:05:44.400><c> below</c><00:05:44.699><c> for</c><00:05:44.940><c> links</c><00:05:45.180><c> to</c><00:05:45.300><c> get</c><00:05:45.419><c> help</c><00:05:45.539><c> right</c>
+
+00:05:45.770 --> 00:05:45.780 align:start position:0%
+bio below for links to get help right
+ 
+
+00:05:45.780 --> 00:05:47.390 align:start position:0%
+bio below for links to get help right
+now<00:05:45.960><c> if</c><00:05:46.560><c> you</c><00:05:46.680><c> love</c><00:05:46.800><c> the</c><00:05:46.979><c> content</c><00:05:47.220><c> we're</c>
+
+00:05:47.390 --> 00:05:47.400 align:start position:0%
+now if you love the content we're
+ 
+
+00:05:47.400 --> 00:05:48.770 align:start position:0%
+now if you love the content we're
+putting<00:05:47.639><c> out</c><00:05:47.699><c> here</c><00:05:47.880><c> for</c><00:05:48.060><c> you</c><00:05:48.180><c> or</c><00:05:48.600><c> my</c>
+
+00:05:48.770 --> 00:05:48.780 align:start position:0%
+putting out here for you or my
+ 
+
+00:05:48.780 --> 00:05:50.749 align:start position:0%
+putting out here for you or my
+incredibly<00:05:49.139><c> disgusting</c><00:05:49.560><c> burps</c><00:05:49.919><c> help</c><00:05:50.460><c> us</c><00:05:50.639><c> out</c>
+
+00:05:50.749 --> 00:05:50.759 align:start position:0%
+incredibly disgusting burps help us out
+ 
+
+00:05:50.759 --> 00:05:52.070 align:start position:0%
+incredibly disgusting burps help us out
+with<00:05:50.880><c> a</c><00:05:51.000><c> big</c><00:05:51.060><c> thumbs</c><00:05:51.300><c> up</c><00:05:51.360><c> on</c><00:05:51.479><c> that</c><00:05:51.600><c> like</c><00:05:51.780><c> button</c>
+
+00:05:52.070 --> 00:05:52.080 align:start position:0%
+with a big thumbs up on that like button
+ 
+
+00:05:52.080 --> 00:05:53.930 align:start position:0%
+with a big thumbs up on that like button
+or<00:05:52.380><c> even</c><00:05:52.560><c> better</c><00:05:52.740><c> smash</c><00:05:53.460><c> the</c><00:05:53.580><c> Subscribe</c>
+
+00:05:53.930 --> 00:05:53.940 align:start position:0%
+or even better smash the Subscribe
+ 
+
+00:05:53.940 --> 00:05:55.310 align:start position:0%
+or even better smash the Subscribe
+button<00:05:54.120><c> to</c><00:05:54.240><c> get</c><00:05:54.360><c> the</c><00:05:54.479><c> latest</c><00:05:54.600><c> compliance</c><00:05:55.139><c> help</c>
+
+00:05:55.310 --> 00:05:55.320 align:start position:0%
+button to get the latest compliance help
+ 
+
+00:05:55.320 --> 00:05:57.469 align:start position:0%
+button to get the latest compliance help
+as<00:05:56.039><c> soon</c><00:05:56.220><c> as</c><00:05:56.280><c> our</c><00:05:56.460><c> compliances</c><00:05:56.940><c> roll</c><00:05:57.180><c> it</c><00:05:57.360><c> out</c>
+
+00:05:57.469 --> 00:05:57.479 align:start position:0%
+as soon as our compliances roll it out
+ 
+
+00:05:57.479 --> 00:05:59.090 align:start position:0%
+as soon as our compliances roll it out
+until<00:05:57.840><c> the</c><00:05:58.139><c> next</c><00:05:58.199><c> compliance</c><00:05:58.620><c> tip</c><00:05:58.860><c> my</c><00:05:58.979><c> friends</c>
+
+00:05:59.090 --> 00:05:59.100 align:start position:0%
+until the next compliance tip my friends
+ 
+
+00:05:59.100 --> 00:06:01.370 align:start position:0%
+until the next compliance tip my friends
+stay<00:05:59.699><c> safe</c><00:05:59.940><c> and</c><00:06:00.120><c> secure</c><00:06:00.360><c> out</c><00:06:00.539><c> there</c><00:06:00.720><c> and</c><00:06:01.199><c> hit</c>
+
+00:06:01.370 --> 00:06:01.380 align:start position:0%
+stay safe and secure out there and hit
+ 
+
+00:06:01.380 --> 00:06:02.450 align:start position:0%
+stay safe and secure out there and hit
+us<00:06:01.500><c> in</c><00:06:01.560><c> the</c><00:06:01.680><c> comments</c><00:06:01.860><c> below</c><00:06:02.039><c> to</c><00:06:02.160><c> let</c><00:06:02.280><c> us</c><00:06:02.400><c> know</c>
+
+00:06:02.450 --> 00:06:02.460 align:start position:0%
+us in the comments below to let us know
+ 
+
+00:06:02.460 --> 00:06:03.830 align:start position:0%
+us in the comments below to let us know
+what<00:06:02.580><c> you'd</c><00:06:02.759><c> like</c><00:06:02.880><c> to</c><00:06:03.000><c> know</c><00:06:03.120><c> more</c><00:06:03.240><c> about</c><00:06:03.419><c> when</c>
+
+00:06:03.830 --> 00:06:03.840 align:start position:0%
+what you'd like to know more about when
+ 
+
+00:06:03.840 --> 00:06:05.090 align:start position:0%
+what you'd like to know more about when
+it<00:06:03.960><c> comes</c><00:06:04.080><c> to</c><00:06:04.199><c> information</c><00:06:04.380><c> security</c><00:06:04.800><c> and</c>
+
+00:06:05.090 --> 00:06:05.100 align:start position:0%
+it comes to information security and
+ 
+
+00:06:05.100 --> 00:06:07.800 align:start position:0%
+it comes to information security and
+compliance<00:06:05.580><c> I'll</c><00:06:06.000><c> see</c><00:06:06.180><c> you</c><00:06:06.300><c> on</c><00:06:06.360><c> the</c><00:06:06.479><c> next</c><00:06:06.600><c> one</c>
+
+00:06:07.800 --> 00:06:07.810 align:start position:0%
+compliance I'll see you on the next one
+ 
+
+00:06:07.810 --> 00:06:14.710 align:start position:0%
+compliance I'll see you on the next one
+[Music]
+
+00:06:14.710 --> 00:06:14.720 align:start position:0%
+ 
+ 
+
+00:06:14.720 --> 00:06:15.810 align:start position:0%
+ 
+thank<00:06:15.720><c> you</c>
+
+00:06:15.810 --> 00:06:15.820 align:start position:0%
+thank you
+ 
+
+00:06:15.820 --> 00:06:18.430 align:start position:0%
+thank you
+[Music]
+

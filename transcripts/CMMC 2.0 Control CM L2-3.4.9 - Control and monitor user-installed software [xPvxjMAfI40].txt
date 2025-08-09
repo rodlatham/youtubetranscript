@@ -1,0 +1,634 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike freder here with
+
+hey everybody it's Mike freder here with
+
+hey everybody it's Mike freder here with
+on call compliance Solutions and I'm
+
+on call compliance Solutions and I'm
+
+on call compliance Solutions and I'm
+back with another compliance tip of the
+
+back with another compliance tip of the
+
+back with another compliance tip of the
+week this week we're talking about cmmc
+
+week this week we're talking about cmmc
+
+week this week we're talking about cmmc
+control cm. L2
+
+control cm. L2
+
+control cm. L2
+d349 control and monitor user installed
+
+d349 control and monitor user installed
+
+d349 control and monitor user installed
+
+software say hey if you're a defense
+
+software say hey if you're a defense
+
+software say hey if you're a defense
+contractor is feeling overwhelmed tired
+
+contractor is feeling overwhelmed tired
+
+contractor is feeling overwhelmed tired
+and alone trying to understand all of
+
+and alone trying to understand all of
+
+and alone trying to understand all of
+this cmmc DS and nist sp17 compliance
+
+this cmmc DS and nist sp17 compliance
+
+this cmmc DS and nist sp17 compliance
+stuff on top of an already uh colossal
+
+stuff on top of an already uh colossal
+
+stuff on top of an already uh colossal
+workload well I've got great news for
+
+workload well I've got great news for
+
+workload well I've got great news for
+you you found your home here at on call
+
+you you found your home here at on call
+
+you you found your home here at on call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's on
+
+you transform into your company's on
+
+you transform into your company's on
+call compliance Hero Let's jump into it
+
+call compliance Hero Let's jump into it
+
+call compliance Hero Let's jump into it
+so on cmmc control cm.
+
+so on cmmc control cm.
+
+so on cmmc control cm.
+l234 do9 control and monitor user
+
+l234 do9 control and monitor user
+
+l234 do9 control and monitor user
+installed software we come face to face
+
+installed software we come face to face
+
+installed software we come face to face
+with the reality of best it management
+
+with the reality of best it management
+
+with the reality of best it management
+practices you should not be allowing
+
+practices you should not be allowing
+
+practices you should not be allowing
+your users to install anything they want
+
+your users to install anything they want
+
+your users to install anything they want
+on their systems not your CEO not your
+
+on their systems not your CEO not your
+
+on their systems not your CEO not your
+CFO not your coo not your floor line
+
+CFO not your coo not your floor line
+
+CFO not your coo not your floor line
+users nobody okay in fact you really
+
+users nobody okay in fact you really
+
+users nobody okay in fact you really
+shouldn't let them install anything that
+
+shouldn't let them install anything that
+
+shouldn't let them install anything that
+you don't approve in an ideal situation
+
+you don't approve in an ideal situation
+
+you don't approve in an ideal situation
+and apparently these nist requirements
+
+and apparently these nist requirements
+
+and apparently these nist requirements
+mandate this practice be put into place
+
+mandate this practice be put into place
+
+mandate this practice be put into place
+so now you have a real excuse to go back
+
+so now you have a real excuse to go back
+
+so now you have a real excuse to go back
+and explain why this has to be put in
+
+and explain why this has to be put in
+
+and explain why this has to be put in
+place because you have to by law at the
+
+place because you have to by law at the
+
+place because you have to by law at the
+end of the day viruses spyware are
+
+end of the day viruses spyware are
+
+end of the day viruses spyware are
+typically a result of systems where the
+
+typically a result of systems where the
+
+typically a result of systems where the
+installation of virtually anything is
+
+installation of virtually anything is
+
+installation of virtually anything is
+possible and software is not monitored
+
+possible and software is not monitored
+
+possible and software is not monitored
+again it's really tough to install a
+
+again it's really tough to install a
+
+again it's really tough to install a
+virus if it requires an ad an IT admin's
+
+virus if it requires an ad an IT admin's
+
+virus if it requires an ad an IT admin's
+approval to keep system secure you must
+
+approval to keep system secure you must
+
+approval to keep system secure you must
+be doing both let's take a look at what
+
+be doing both let's take a look at what
+
+be doing both let's take a look at what
+the assessors are looking for on this
+
+the assessors are looking for on this
+
+the assessors are looking for on this
+one so three things they're looking for
+
+one so three things they're looking for
+
+one so three things they're looking for
+uh one determine if a policy specifying
+
+uh one determine if a policy specifying
+
+uh one determine if a policy specifying
+whether white listing or black listing
+
+whether white listing or black listing
+
+whether white listing or black listing
+is to be implemented uh and is specified
+
+is to be implemented uh and is specified
+
+is to be implemented uh and is specified
+implemented so again if we were to sort
+
+implemented so again if we were to sort
+
+implemented so again if we were to sort
+of give a sample answer here we would
+
+of give a sample answer here we would
+
+of give a sample answer here we would
+say Hey look it's implemented via uh
+
+say Hey look it's implemented via uh
+
+say Hey look it's implemented via uh
+permit by exception Group Policy so
+
+permit by exception Group Policy so
+
+permit by exception Group Policy so
+again you can set up group policy
+
+again you can set up group policy
+
+again you can set up group policy
+to make it so that you can't install
+
+to make it so that you can't install
+
+to make it so that you can't install
+software without an escalation to an
+
+software without an escalation to an
+
+software without an escalation to an
+administrative account uh endpoint
+
+administrative account uh endpoint
+
+administrative account uh endpoint
+management solution so again you can use
+
+management solution so again you can use
+
+management solution so again you can use
+an endpoint management solution that
+
+an endpoint management solution that
+
+an endpoint management solution that
+restricts the installation of software
+
+restricts the installation of software
+
+restricts the installation of software
+uh and so we might say endpoint
+
+uh and so we might say endpoint
+
+uh and so we might say endpoint
+management solution also denies
+
+management solution also denies
+
+management solution also denies
+malicious or unauthorized software
+
+malicious or unauthorized software
+
+malicious or unauthorized software
+execution uh and then we can say our
+
+execution uh and then we can say our
+
+execution uh and then we can say our
+firewall also does this too right our
+
+firewall also does this too right our
+
+firewall also does this too right our
+firewall rules and virus policies do not
+
+firewall rules and virus policies do not
+
+firewall rules and virus policies do not
+allow uh any malicious programs to be
+
+allow uh any malicious programs to be
+
+allow uh any malicious programs to be
+installed or to pass through the
+
+installed or to pass through the
+
+installed or to pass through the
+firewall in terms of of traffic that's
+
+firewall in terms of of traffic that's
+
+firewall in terms of of traffic that's
+unauthorized now the second Point uh
+
+unauthorized now the second Point uh
+
+unauthorized now the second Point uh
+that they're looking for is determine if
+
+that they're looking for is determine if
+
+that they're looking for is determine if
+the software allowed to execute under
+
+the software allowed to execute under
+
+the software allowed to execute under
+Whit listing or denied use under
+
+Whit listing or denied use under
+
+Whit listing or denied use under
+blacklisting is specified uh so here
+
+blacklisting is specified uh so here
+
+blacklisting is specified uh so here
+we'll answer software which is allowed
+
+we'll answer software which is allowed
+
+we'll answer software which is allowed
+to execute is specified in the
+
+to execute is specified in the
+
+to execute is specified in the
+organization's Baseline configuration
+
+organization's Baseline configuration
+
+organization's Baseline configuration
+and network inventory documentation so
+
+and network inventory documentation so
+
+and network inventory documentation so
+again in our documentation we're going
+
+again in our documentation we're going
+
+again in our documentation we're going
+to talk about the software itself uh
+
+to talk about the software itself uh
+
+to talk about the software itself uh
+that is allowed under white listing or
+
+that is allowed under white listing or
+
+that is allowed under white listing or
+again deny all by blacklisting so this
+
+again deny all by blacklisting so this
+
+again deny all by blacklisting so this
+is where your software inventory comes
+
+is where your software inventory comes
+
+is where your software inventory comes
+into place you know you're supposed to
+
+into place you know you're supposed to
+
+into place you know you're supposed to
+have that in your system security plan
+
+have that in your system security plan
+
+have that in your system security plan
+and accompanying documentation and again
+
+and accompanying documentation and again
+
+and accompanying documentation and again
+it's mandated here and determine if
+
+it's mandated here and determine if
+
+it's mandated here and determine if
+weight listing to allow the execution of
+
+weight listing to allow the execution of
+
+weight listing to allow the execution of
+authorized software or blacklisting to
+
+authorized software or blacklisting to
+
+authorized software or blacklisting to
+prevent the use of unauthorized software
+
+prevent the use of unauthorized software
+
+prevent the use of unauthorized software
+is implemented as
+
+is implemented as
+
+is implemented as
+specified uh that's the third point so
+
+specified uh that's the third point so
+
+specified uh that's the third point so
+if we were to answer that we'd say hey
+
+if we were to answer that we'd say hey
+
+if we were to answer that we'd say hey
+implemented via permit by exception
+
+implemented via permit by exception
+
+implemented via permit by exception
+Group Policy endpoint management
+
+Group Policy endpoint management
+
+Group Policy endpoint management
+solution also denies malicious or
+
+solution also denies malicious or
+
+solution also denies malicious or
+unauthorized software execution so again
+
+unauthorized software execution so again
+
+unauthorized software execution so again
+description of how it gets done now hey
+
+description of how it gets done now hey
+
+description of how it gets done now hey
+at on call we work with defense
+
+at on call we work with defense
+
+at on call we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+this stars nist itar and cmmc compliant
+
+this stars nist itar and cmmc compliant
+
+this stars nist itar and cmmc compliant
+stuff dropped into their laps like a
+
+stuff dropped into their laps like a
+
+stuff dropped into their laps like a
+seagull on a sunny day we teach you how
+
+seagull on a sunny day we teach you how
+
+seagull on a sunny day we teach you how
+to level up and be a proper on call
+
+to level up and be a proper on call
+
+to level up and be a proper on call
+compliance hero for your company
+
+compliance hero for your company
+
+compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this all solved while showing you how to
+
+this all solved while showing you how to
+
+this all solved while showing you how to
+leverage compliance as your secret
+
+leverage compliance as your secret
+
+leverage compliance as your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on call compliance hero can
+
+becoming an on call compliance hero can
+
+becoming an on call compliance hero can
+do for you if you're looking for more
+
+do for you if you're looking for more
+
+do for you if you're looking for more
+help getting compliant our compliance
+
+help getting compliant our compliance
+
+help getting compliant our compliance
+experts are always on call for you visit
+
+experts are always on call for you visit
+
+experts are always on call for you visit
+cmmc compliance secrets.com again cmmc
+
+cmmc compliance secrets.com again cmmc
+
+cmmc compliance secrets.com again cmmc
+compliance secrets.com
+
+compliance secrets.com
+
+compliance secrets.com
+or check out the bio below for links to
+
+or check out the bio below for links to
+
+or check out the bio below for links to
+get help right now and if you love the
+
+get help right now and if you love the
+
+get help right now and if you love the
+content we're putting out here for you
+
+content we're putting out here for you
+
+content we're putting out here for you
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+
+help us out with a big thumbs up on that
+like button or even better smash the
+
+like button or even better smash the
+
+like button or even better smash the
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+
+Subscribe button to get the latest
+compliance content as soon as our
+
+compliance content as soon as our
+
+compliance content as soon as our
+compliance nerds roll it out until next
+
+compliance nerds roll it out until next
+
+compliance nerds roll it out until next
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+secure out there and hit us in the
+
+secure out there and hit us in the
+
+secure out there and hit us in the
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+like to know more about when it comes to
+
+like to know more about when it comes to
+
+like to know more about when it comes to
+information security and compliance I'll
+
+information security and compliance I'll
+
+information security and compliance I'll
+see you on the next one
+
+see you on the next one
+
+see you on the next one

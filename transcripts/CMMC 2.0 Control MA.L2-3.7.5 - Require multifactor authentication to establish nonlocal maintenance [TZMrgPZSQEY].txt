@@ -1,0 +1,826 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike Frieda here with
+
+hey everybody it's Mike Frieda here with
+
+hey everybody it's Mike Frieda here with
+on-call compliance Solutions and I'm
+
+on-call compliance Solutions and I'm
+
+on-call compliance Solutions and I'm
+back with another compliance tip of the
+
+back with another compliance tip of the
+
+back with another compliance tip of the
+week this week we're talking about cmmc
+
+week this week we're talking about cmmc
+
+week this week we're talking about cmmc
+control m a DOT
+
+control m a DOT
+
+control m a DOT
+l2-3.7.5 require multi-factor
+
+l2-3.7.5 require multi-factor
+
+l2-3.7.5 require multi-factor
+authentication to establish non-local
+
+authentication to establish non-local
+
+authentication to establish non-local
+maintenance sessions via external
+
+maintenance sessions via external
+
+maintenance sessions via external
+network connections and terminate such
+
+network connections and terminate such
+
+network connections and terminate such
+connections when non-local maintenance
+
+connections when non-local maintenance
+
+connections when non-local maintenance
+is complete wow
+
+is complete wow
+
+is complete wow
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you
+
+well I've got great news for you you
+
+well I've got great news for you you
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so uh this control has a few
+
+it so uh this control has a few
+
+it so uh this control has a few
+interesting parts and I'm going to
+
+interesting parts and I'm going to
+
+interesting parts and I'm going to
+quickly break them down first is the
+
+quickly break them down first is the
+
+quickly break them down first is the
+requirement for MFA on non-local
+
+requirement for MFA on non-local
+
+requirement for MFA on non-local
+maintenance sessions so even if the
+
+maintenance sessions so even if the
+
+maintenance sessions so even if the
+non-local maintenance person isn't
+
+non-local maintenance person isn't
+
+non-local maintenance person isn't
+touching cui but they're able to do
+
+touching cui but they're able to do
+
+touching cui but they're able to do
+maintenance on a network that contains
+
+maintenance on a network that contains
+
+maintenance on a network that contains
+cui MFA is still required generally
+
+cui MFA is still required generally
+
+cui MFA is still required generally
+speaking you can assume that any
+
+speaking you can assume that any
+
+speaking you can assume that any
+external access to an enclave or network
+
+external access to an enclave or network
+
+external access to an enclave or network
+contains cui probably requires
+
+contains cui probably requires
+
+contains cui probably requires
+multi-factor authentication let's just
+
+multi-factor authentication let's just
+
+multi-factor authentication let's just
+change that one to definitely period end
+
+change that one to definitely period end
+
+change that one to definitely period end
+of story now the second part is to make
+
+of story now the second part is to make
+
+of story now the second part is to make
+sure the connection terminates when
+
+sure the connection terminates when
+
+sure the connection terminates when
+maintenance is complete so why so that
+
+maintenance is complete so why so that
+
+maintenance is complete so why so that
+you know so the answer so the question
+
+you know so the answer so the question
+
+you know so the answer so the question
+is why and that's so that we don't
+
+is why and that's so that we don't
+
+is why and that's so that we don't
+accidentally leave the window open at
+
+accidentally leave the window open at
+
+accidentally leave the window open at
+night for our teenage daughter's
+
+night for our teenage daughter's
+
+night for our teenage daughter's
+boyfriend sneak the window at night
+
+boyfriend sneak the window at night
+
+boyfriend sneak the window at night
+because you know how that goes so yes
+
+because you know how that goes so yes
+
+because you know how that goes so yes
+many attacks actually occur due to I.T
+
+many attacks actually occur due to I.T
+
+many attacks actually occur due to I.T
+administrators and other maintenance
+
+administrators and other maintenance
+
+administrators and other maintenance
+Personnel leaving the door wide open and
+
+Personnel leaving the door wide open and
+
+Personnel leaving the door wide open and
+walking away here's an example I.T
+
+walking away here's an example I.T
+
+walking away here's an example I.T
+Personnel are doing maintenance on the
+
+Personnel are doing maintenance on the
+
+Personnel are doing maintenance on the
+network from home they never do that
+
+network from home they never do that
+
+network from home they never do that
+right of course not of course they would
+
+right of course not of course they would
+
+right of course not of course they would
+uh they get up and leave the house to go
+
+uh they get up and leave the house to go
+
+uh they get up and leave the house to go
+get some pizza
+
+get some pizza
+
+get some pizza
+super stereotypical why has got to be
+
+super stereotypical why has got to be
+
+super stereotypical why has got to be
+Pizza I love pizza as it turns out their
+
+Pizza I love pizza as it turns out their
+
+Pizza I love pizza as it turns out their
+local home PC is compromised and the
+
+local home PC is compromised and the
+
+local home PC is compromised and the
+evil hackers are just waiting for the
+
+evil hackers are just waiting for the
+
+evil hackers are just waiting for the
+alarm that the system has been idle for
+
+alarm that the system has been idle for
+
+alarm that the system has been idle for
+exactly 14 minutes which is usually one
+
+exactly 14 minutes which is usually one
+
+exactly 14 minutes which is usually one
+minute right before the screensaver
+
+minute right before the screensaver
+
+minute right before the screensaver
+kicks on locks them out they jump in and
+
+kicks on locks them out they jump in and
+
+kicks on locks them out they jump in and
+if that main session doesn't have an
+
+if that main session doesn't have an
+
+if that main session doesn't have an
+automated lockout mechanism guess what
+
+automated lockout mechanism guess what
+
+automated lockout mechanism guess what
+the evil hackers just got access to your
+
+the evil hackers just got access to your
+
+the evil hackers just got access to your
+entire network through somebody's home
+
+entire network through somebody's home
+
+entire network through somebody's home
+computer so again there's a lot of
+
+computer so again there's a lot of
+
+computer so again there's a lot of
+really great reasons to have this
+
+really great reasons to have this
+
+really great reasons to have this
+control in place it's very logical and
+
+control in place it's very logical and
+
+control in place it's very logical and
+uh you know ultimately this is one of
+
+uh you know ultimately this is one of
+
+uh you know ultimately this is one of
+the most common kinds of attack
+
+the most common kinds of attack
+
+the most common kinds of attack
+okay we're an out-of-band computer is
+
+okay we're an out-of-band computer is
+
+okay we're an out-of-band computer is
+compromised and gets access to the
+
+compromised and gets access to the
+
+compromised and gets access to the
+secured Network so we become much safer
+
+secured Network so we become much safer
+
+secured Network so we become much safer
+when that maintenance session terminates
+
+when that maintenance session terminates
+
+when that maintenance session terminates
+automatically upon completion of the
+
+automatically upon completion of the
+
+automatically upon completion of the
+work or a very short idle time
+
+work or a very short idle time
+
+work or a very short idle time
+thereafter and it needs to be automatic
+
+thereafter and it needs to be automatic
+
+thereafter and it needs to be automatic
+okay time to see what the assessors want
+
+okay time to see what the assessors want
+
+okay time to see what the assessors want
+on this one so two things you're looking
+
+on this one so two things you're looking
+
+on this one so two things you're looking
+for one determine if multi-factor
+
+for one determine if multi-factor
+
+for one determine if multi-factor
+authentication is used to establish
+
+authentication is used to establish
+
+authentication is used to establish
+non-local maintenance sessions via
+
+non-local maintenance sessions via
+
+non-local maintenance sessions via
+external network connections uh again
+
+external network connections uh again
+
+external network connections uh again
+how do we answer that one well we could
+
+how do we answer that one well we could
+
+how do we answer that one well we could
+say it's implemented non-local access is
+
+say it's implemented non-local access is
+
+say it's implemented non-local access is
+not possible without MFA why because we
+
+not possible without MFA why because we
+
+not possible without MFA why because we
+probably have MFA on our VPN or uh you
+
+probably have MFA on our VPN or uh you
+
+probably have MFA on our VPN or uh you
+know whatever connection we're using to
+
+know whatever connection we're using to
+
+know whatever connection we're using to
+get in second one is determine if
+
+get in second one is determine if
+
+get in second one is determine if
+non-local maintenance sessions establish
+
+non-local maintenance sessions establish
+
+non-local maintenance sessions establish
+via external network connections are
+
+via external network connections are
+
+via external network connections are
+terminated when non-local minutes is
+
+terminated when non-local minutes is
+
+terminated when non-local minutes is
+complete this one's a little bit more
+
+complete this one's a little bit more
+
+complete this one's a little bit more
+challenging but again per the it
+
+challenging but again per the it
+
+challenging but again per the it
+operations policy non-local Mania
+
+operations policy non-local Mania
+
+operations policy non-local Mania
+sessions should be terminated upon
+
+sessions should be terminated upon
+
+sessions should be terminated upon
+completion of the maintenance session a
+
+completion of the maintenance session a
+
+completion of the maintenance session a
+Fail-Safe is in place to automatically
+
+Fail-Safe is in place to automatically
+
+Fail-Safe is in place to automatically
+terminate the session after 15 minutes
+
+terminate the session after 15 minutes
+
+terminate the session after 15 minutes
+as a Fail-Safe so again great way to
+
+as a Fail-Safe so again great way to
+
+as a Fail-Safe so again great way to
+kind of solve all that in two different
+
+kind of solve all that in two different
+
+kind of solve all that in two different
+ways but there's definitely a concrete
+
+ways but there's definitely a concrete
+
+ways but there's definitely a concrete
+fail safe there now if you're a defense
+
+fail safe there now if you're a defense
+
+fail safe there now if you're a defense
+contractor and I know you are because
+
+contractor and I know you are because
+
+contractor and I know you are because
+you wouldn't be watching this video
+
+you wouldn't be watching this video
+
+you wouldn't be watching this video
+unless you are or maybe you're not a
+
+unless you are or maybe you're not a
+
+unless you are or maybe you're not a
+defense contractor and you wish you were
+
+defense contractor and you wish you were
+
+defense contractor and you wish you were
+well here's the good news right because
+
+well here's the good news right because
+
+well here's the good news right because
+uh at on-call we work with defense
+
+uh at on-call we work with defense
+
+uh at on-call we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+
+this defars nist itar and cmmc
+compliance stuff dropped into their laps
+
+compliance stuff dropped into their laps
+
+compliance stuff dropped into their laps
+like a seal on a sunny day can we teach
+
+like a seal on a sunny day can we teach
+
+like a seal on a sunny day can we teach
+you how to level up and be a proper
+
+you how to level up and be a proper
+
+you how to level up and be a proper
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+
+on-call compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+
+this solved all while showing you how to
+
+this solved all while showing you how to
+leverage compliance is your secret
+
+leverage compliance is your secret
+
+leverage compliance is your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you if you haven't put on your
+
+do for you if you haven't put on your
+
+do for you if you haven't put on your
+cape lately you know what it's looking
+
+cape lately you know what it's looking
+
+cape lately you know what it's looking
+over the corner and you're like man my
+
+over the corner and you're like man my
+
+over the corner and you're like man my
+Cape is like a little bit Rusty it's
+
+Cape is like a little bit Rusty it's
+
+Cape is like a little bit Rusty it's
+okay man you can put it back on and you
+
+okay man you can put it back on and you
+
+okay man you can put it back on and you
+know what we'll even help you button up
+
+know what we'll even help you button up
+
+know what we'll even help you button up
+so you can go fly be a superhero for
+
+so you can go fly be a superhero for
+
+so you can go fly be a superhero for
+your company
+
+your company
+
+your company
+shh hey if you're looking for more get
+
+shh hey if you're looking for more get
+
+shh hey if you're looking for more get
+more help getting compliant our
+
+more help getting compliant our
+
+more help getting compliant our
+compliance experts are always on call
+
+compliance experts are always on call
+
+compliance experts are always on call
+for you to feed Superman really awesome
+
+for you to feed Superman really awesome
+
+for you to feed Superman really awesome
+jokes visit
+
+jokes visit
+
+jokes visit
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now if you love the content we're
+
+right now if you love the content we're
+
+right now if you love the content we're
+putting out there for you help us out
+
+putting out there for you help us out
+
+putting out there for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+
+or even better smash the Subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as our compliance nerves
+
+content as soon as our compliance nerves
+
+content as soon as our compliance nerves
+roll it out until next compliance tip my
+
+roll it out until next compliance tip my
+
+roll it out until next compliance tip my
+friends stay safe and secure out there
+
+friends stay safe and secure out there
+
+friends stay safe and secure out there
+hit us in the comments below I love your
+
+hit us in the comments below I love your
+
+hit us in the comments below I love your
+comments they make us laugh they make us
+
+comments they make us laugh they make us
+
+comments they make us laugh they make us
+cry sometimes they make us want to like
+
+cry sometimes they make us want to like
+
+cry sometimes they make us want to like
+go have a beer but I love them all and
+
+go have a beer but I love them all and
+
+go have a beer but I love them all and
+you should know that and if you're
+
+you should know that and if you're
+
+you should know that and if you're
+watching this video and you're still
+
+watching this video and you're still
+
+watching this video and you're still
+watching this video I would love to hear
+
+watching this video I would love to hear
+
+watching this video I would love to hear
+your comments because we care
+
+I lost my line that's what happened
+
+I lost my line that's what happened
+
+I lost my line that's what happened
+there that awkward pause wasn't really
+
+there that awkward pause wasn't really
+
+there that awkward pause wasn't really
+because I care that much there's like a
+
+because I care that much there's like a
+
+because I care that much there's like a
+certain amount of awkward pause that you
+
+certain amount of awkward pause that you
+
+certain amount of awkward pause that you
+can allow for sincerity I blew it that
+
+can allow for sincerity I blew it that
+
+can allow for sincerity I blew it that
+was really really long I do care that
+
+was really really long I do care that
+
+was really really long I do care that
+much but I don't want to show you that I
+
+much but I don't want to show you that I
+
+much but I don't want to show you that I
+care that much it's like you know it is
+
+care that much it's like you know it is
+
+care that much it's like you know it is
+like a first date kind of thing this
+
+like a first date kind of thing this
+
+like a first date kind of thing this
+might be your 70th video but this is
+
+might be your 70th video but this is
+
+might be your 70th video but this is
+like our first date anyway here's the
+
+like our first date anyway here's the
+
+like our first date anyway here's the
+bottom line I'll see you on the next one
+
+bottom line I'll see you on the next one
+
+bottom line I'll see you on the next one
+foreign
+
+foreign
+
+foreign

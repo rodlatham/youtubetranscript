@@ -1,0 +1,1099 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmccontrol au.l 2-3.3.1
+
+cmmccontrol au.l 2-3.3.1
+
+cmmccontrol au.l 2-3.3.1
+Mr Arigato I am Bato I I'm like too
+
+Mr Arigato I am Bato I I'm like too
+
+Mr Arigato I am Bato I I'm like too
+young for the 80s man
+
+young for the 80s man
+
+young for the 80s man
+um well I grew up you know I was born in
+
+um well I grew up you know I was born in
+
+um well I grew up you know I was born in
+the 80s so I'm not too young for these I
+
+the 80s so I'm not too young for these I
+
+the 80s so I'm not too young for these I
+like the 80s
+
+like the 80s
+
+like the 80s
+anyway beside the point uh create and
+
+anyway beside the point uh create and
+
+anyway beside the point uh create and
+retain system audit logs and Records to
+
+retain system audit logs and Records to
+
+retain system audit logs and Records to
+the extent needed to enable the
+
+the extent needed to enable the
+
+the extent needed to enable the
+monitoring analysis investigation and
+
+monitoring analysis investigation and
+
+monitoring analysis investigation and
+reporting of unlawful or unauthorized
+
+reporting of unlawful or unauthorized
+
+reporting of unlawful or unauthorized
+system activity
+
+system activity
+
+system activity
+
+all right
+
+all right
+
+all right
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+
+alone trying to understand all of this
+
+alone trying to understand all of this
+cmmc dfars and nist sp800 171 compliance
+
+cmmc dfars and nist sp800 171 compliance
+
+cmmc dfars and nist sp800 171 compliance
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I've got great news for
+
+workload well I've got great news for
+
+workload well I've got great news for
+you you found your home here at on-call
+
+you you found your home here at on-call
+
+you you found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+
+on-call compliance Hero Let's jump into
+it so in cmmccontrol
+
+it so in cmmccontrol
+
+it so in cmmccontrol
+au.l1-3.3.1 create and retain system
+
+au.l1-3.3.1 create and retain system
+
+au.l1-3.3.1 create and retain system
+audit logs and Records the extent needed
+
+audit logs and Records the extent needed
+
+audit logs and Records the extent needed
+to enable the monitoring analysis
+
+to enable the monitoring analysis
+
+to enable the monitoring analysis
+investigation and reporting of unlawful
+
+investigation and reporting of unlawful
+
+investigation and reporting of unlawful
+or unauthorized system activity
+
+or unauthorized system activity
+
+or unauthorized system activity
+oh boy here we go we're back with one of
+
+oh boy here we go we're back with one of
+
+oh boy here we go we're back with one of
+the most misunderstood controls and
+
+the most misunderstood controls and
+
+the most misunderstood controls and
+Concepts in cmmc and I'm gonna make it
+
+Concepts in cmmc and I'm gonna make it
+
+Concepts in cmmc and I'm gonna make it
+all clear with one easy phrase are you
+
+all clear with one easy phrase are you
+
+all clear with one easy phrase are you
+ready you need a seam Solution that's it
+
+ready you need a seam Solution that's it
+
+ready you need a seam Solution that's it
+that's what you need to know on this one
+
+that's what you need to know on this one
+
+that's what you need to know on this one
+and if you have no idea what it is you
+
+and if you have no idea what it is you
+
+and if you have no idea what it is you
+help your YouTube
+
+help your YouTube
+
+help your YouTube
+and pick up the other phone with your
+
+and pick up the other phone with your
+
+and pick up the other phone with your
+left hand you should call us uh look you
+
+left hand you should call us uh look you
+
+left hand you should call us uh look you
+need a seam solution all right even if
+
+need a seam solution all right even if
+
+need a seam solution all right even if
+you have no idea what that is you should
+
+you have no idea what that is you should
+
+you have no idea what that is you should
+just uh well you need one all right so
+
+just uh well you need one all right so
+
+just uh well you need one all right so
+uh again either way it's going to cost
+
+uh again either way it's going to cost
+
+uh again either way it's going to cost
+you way less time and money uh to put
+
+you way less time and money uh to put
+
+you way less time and money uh to put
+one of these in place well it's the only
+
+one of these in place well it's the only
+
+one of these in place well it's the only
+thing you really can do to be compliant
+
+thing you really can do to be compliant
+
+thing you really can do to be compliant
+so just call someone will help but of
+
+so just call someone will help but of
+
+so just call someone will help but of
+course we're not going to totally leave
+
+course we're not going to totally leave
+
+course we're not going to totally leave
+you hanging there uh with my
+
+you hanging there uh with my
+
+you hanging there uh with my
+unbelievably awesome unscripted script
+
+unbelievably awesome unscripted script
+
+unbelievably awesome unscripted script
+here uh that's not how we roll it on
+
+here uh that's not how we roll it on
+
+here uh that's not how we roll it on
+call I will give you a little help
+
+call I will give you a little help
+
+call I will give you a little help
+because giving people help is what we do
+
+because giving people help is what we do
+
+because giving people help is what we do
+and we love doing it and we love doing
+
+and we love doing it and we love doing
+
+and we love doing it and we love doing
+it for free we love doing it even more
+
+it for free we love doing it even more
+
+it for free we love doing it even more
+when you pay and you know real talk it
+
+when you pay and you know real talk it
+
+when you pay and you know real talk it
+pays the bills because I don't get paid
+
+pays the bills because I don't get paid
+
+pays the bills because I don't get paid
+to do these these awesome YouTube videos
+
+to do these these awesome YouTube videos
+
+to do these these awesome YouTube videos
+which is why the quality is so
+
+which is why the quality is so
+
+which is why the quality is so
+incredibly amazing you should see how
+
+incredibly amazing you should see how
+
+incredibly amazing you should see how
+much revenue we drive off YouTube videos
+
+much revenue we drive off YouTube videos
+
+much revenue we drive off YouTube videos
+exactly all right I will at least tell
+
+exactly all right I will at least tell
+
+exactly all right I will at least tell
+you that a seam or security information
+
+you that a seam or security information
+
+you that a seam or security information
+event management solution is something
+
+event management solution is something
+
+event management solution is something
+that ingests the log files from the
+
+that ingests the log files from the
+
+that ingests the log files from the
+computers and other devices like
+
+computers and other devices like
+
+computers and other devices like
+firewalls and turns it into useful
+
+firewalls and turns it into useful
+
+firewalls and turns it into useful
+security alerts and relevant information
+
+security alerts and relevant information
+
+security alerts and relevant information
+so your network is always being properly
+
+so your network is always being properly
+
+so your network is always being properly
+washed over and you're always getting
+
+washed over and you're always getting
+
+washed over and you're always getting
+timely enough alerts that you can
+
+timely enough alerts that you can
+
+timely enough alerts that you can
+actually use to take action with all
+
+actually use to take action with all
+
+actually use to take action with all
+right so I always ask people I say hey
+
+right so I always ask people I say hey
+
+right so I always ask people I say hey
+how is your network monitored and when
+
+how is your network monitored and when
+
+how is your network monitored and when
+they don't really have an answer I know
+
+they don't really have an answer I know
+
+they don't really have an answer I know
+they don't really have a seam solution
+
+they don't really have a seam solution
+
+they don't really have a seam solution
+and I typically know yuck it's a bad
+
+and I typically know yuck it's a bad
+
+and I typically know yuck it's a bad
+situation anyway let's check out what
+
+situation anyway let's check out what
+
+situation anyway let's check out what
+the assessors are looking for and how to
+
+the assessors are looking for and how to
+
+the assessors are looking for and how to
+make them happy uh assessment Point
+
+make them happy uh assessment Point
+
+make them happy uh assessment Point
+number one determine if audit logs
+
+number one determine if audit logs
+
+number one determine if audit logs
+needed I.E event types to be logged to
+
+needed I.E event types to be logged to
+
+needed I.E event types to be logged to
+enable the monitoring analysis
+
+enable the monitoring analysis
+
+enable the monitoring analysis
+investigation and reporting of unlawful
+
+investigation and reporting of unlawful
+
+investigation and reporting of unlawful
+unauthorized system activity are
+
+unauthorized system activity are
+
+unauthorized system activity are
+specified so are the logs
+
+specified so are the logs
+
+specified so are the logs
+that will enable information to flow
+
+that will enable information to flow
+
+that will enable information to flow
+your way is it specified the answer is
+
+your way is it specified the answer is
+
+your way is it specified the answer is
+going to be yes right we're going to
+
+going to be yes right we're going to
+
+going to be yes right we're going to
+pull system logs and firewall logs and
+
+pull system logs and firewall logs and
+
+pull system logs and firewall logs and
+manage switch logs and I know whatever
+
+manage switch logs and I know whatever
+
+manage switch logs and I know whatever
+else is relevant to your environment
+
+else is relevant to your environment
+
+else is relevant to your environment
+maybe it's Azure government uh you know
+
+maybe it's Azure government uh you know
+
+maybe it's Azure government uh you know
+uh logs and we're going to feed it all
+
+uh logs and we're going to feed it all
+
+uh logs and we're going to feed it all
+into our seam system
+
+into our seam system
+
+into our seam system
+right so the seam system kind of does
+
+right so the seam system kind of does
+
+right so the seam system kind of does
+that but first we determine that we've
+
+that but first we determine that we've
+
+that but first we determine that we've
+installed seam log senders or agents or
+
+installed seam log senders or agents or
+
+installed seam log senders or agents or
+whatever it may be for your solution
+
+whatever it may be for your solution
+
+whatever it may be for your solution
+onto those devices we have to Define
+
+onto those devices we have to Define
+
+onto those devices we have to Define
+define those devices all right Point
+
+define those devices all right Point
+
+define those devices all right Point
+number two determine if the content of
+
+number two determine if the content of
+
+number two determine if the content of
+the audit law of to determine if the
+
+the audit law of to determine if the
+
+the audit law of to determine if the
+content of audit records needed to
+
+content of audit records needed to
+
+content of audit records needed to
+support monitoring analysis
+
+support monitoring analysis
+
+support monitoring analysis
+investigation and reporting of unlawful
+
+investigation and reporting of unlawful
+
+investigation and reporting of unlawful
+unauthorized system activity is defined
+
+unauthorized system activity is defined
+
+unauthorized system activity is defined
+so
+
+so
+
+so
+are we defining what the content of
+
+are we defining what the content of
+
+are we defining what the content of
+those audit records is again your seam
+
+those audit records is again your seam
+
+those audit records is again your seam
+system kind of does this for you because
+
+system kind of does this for you because
+
+system kind of does this for you because
+it's just puking out all of the logs uh
+
+it's just puking out all of the logs uh
+
+it's just puking out all of the logs uh
+or you're defining what the logs are
+
+or you're defining what the logs are
+
+or you're defining what the logs are
+that are being sent to that system so
+
+that are being sent to that system so
+
+that are being sent to that system so
+either way you can have it defined your
+
+either way you can have it defined your
+
+either way you can have it defined your
+seam system is what ingests it
+
+seam system is what ingests it
+
+seam system is what ingests it
+next we have to determine if audit
+
+next we have to determine if audit
+
+next we have to determine if audit
+records are created okay do we create
+
+records are created okay do we create
+
+records are created okay do we create
+audit records when the information is
+
+audit records when the information is
+
+audit records when the information is
+ingested into the seam system okay this
+
+ingested into the seam system okay this
+
+ingested into the seam system okay this
+is built into the seam system but
+
+is built into the seam system but
+
+is built into the seam system but
+nonetheless I have run into clients
+
+nonetheless I have run into clients
+
+nonetheless I have run into clients
+especially big ones who have like
+
+especially big ones who have like
+
+especially big ones who have like
+cobbled together their own seam system
+
+cobbled together their own seam system
+
+cobbled together their own seam system
+uh out of you know a great example is
+
+uh out of you know a great example is
+
+uh out of you know a great example is
+like elastic right so elastic is a
+
+like elastic right so elastic is a
+
+like elastic right so elastic is a
+solution out there where you can really
+
+solution out there where you can really
+
+solution out there where you can really
+customize what goes in there so we want
+
+customize what goes in there so we want
+
+customize what goes in there so we want
+to make sure that again there's an audit
+
+to make sure that again there's an audit
+
+to make sure that again there's an audit
+record Being created as part of the pro
+
+record Being created as part of the pro
+
+record Being created as part of the pro
+process next point is determine if audit
+
+process next point is determine if audit
+
+process next point is determine if audit
+records uh once created contain the
+
+records uh once created contain the
+
+records uh once created contain the
+defined content okay so do uh do the
+
+defined content okay so do uh do the
+
+defined content okay so do uh do the
+audit records actually contain the
+
+audit records actually contain the
+
+audit records actually contain the
+content defined as well what you're
+
+content defined as well what you're
+
+content defined as well what you're
+trying to audit so again we say hey look
+
+trying to audit so again we say hey look
+
+trying to audit so again we say hey look
+we can look at our our seam system it's
+
+we can look at our our seam system it's
+
+we can look at our our seam system it's
+all kind of there uh you know it's
+
+all kind of there uh you know it's
+
+all kind of there uh you know it's
+unknown right now how deeply the
+
+unknown right now how deeply the
+
+unknown right now how deeply the
+assessors will really want to dive into
+
+assessors will really want to dive into
+
+assessors will really want to dive into
+the the nitty-gritty here like do they
+
+the the nitty-gritty here like do they
+
+the the nitty-gritty here like do they
+want a written policy where you've read
+
+want a written policy where you've read
+
+want a written policy where you've read
+written out every kind of audit record
+
+written out every kind of audit record
+
+written out every kind of audit record
+type that you're going like that's
+
+type that you're going like that's
+
+type that you're going like that's
+extreme I think if you've got a seam
+
+extreme I think if you've got a seam
+
+extreme I think if you've got a seam
+system this whole control really is
+
+system this whole control really is
+
+system this whole control really is
+pretty easy to answer final excuse me
+
+pretty easy to answer final excuse me
+
+pretty easy to answer final excuse me
+final two points all right determine if
+
+final two points all right determine if
+
+final two points all right determine if
+retention requirements for audit records
+
+retention requirements for audit records
+
+retention requirements for audit records
+are defined most team systems are gonna
+
+are defined most team systems are gonna
+
+are defined most team systems are gonna
+uh have at least 30 days worth of
+
+uh have at least 30 days worth of
+
+uh have at least 30 days worth of
+Records we tell our clients look I think
+
+Records we tell our clients look I think
+
+Records we tell our clients look I think
+you should have at least 90 days to 93
+
+you should have at least 90 days to 93
+
+you should have at least 90 days to 93
+days why because again in dfar 7012 the
+
+days why because again in dfar 7012 the
+
+days why because again in dfar 7012 the
+dod has 90 days to request you pull
+
+dod has 90 days to request you pull
+
+dod has 90 days to request you pull
+records back so they can do a forensic
+
+records back so they can do a forensic
+
+records back so they can do a forensic
+investigation that's the actual
+
+investigation that's the actual
+
+investigation that's the actual
+rationale there if you will
+
+rationale there if you will
+
+rationale there if you will
+and then the final assessment point is
+
+and then the final assessment point is
+
+and then the final assessment point is
+determine if audit records are retained
+
+determine if audit records are retained
+
+determine if audit records are retained
+as defined so uh again is there a
+
+as defined so uh again is there a
+
+as defined so uh again is there a
+retention policy and then go actually uh
+
+retention policy and then go actually uh
+
+retention policy and then go actually uh
+sort of verify that they are in fact
+
+sort of verify that they are in fact
+
+sort of verify that they are in fact
+being retained in accordance with the
+
+being retained in accordance with the
+
+being retained in accordance with the
+policy the policy is active linked Etc
+
+policy the policy is active linked Etc
+
+policy the policy is active linked Etc
+so this is probably going to be a
+
+so this is probably going to be a
+
+so this is probably going to be a
+demonstration
+
+demonstration
+
+demonstration
+you're likely going to have an assessor
+
+you're likely going to have an assessor
+
+you're likely going to have an assessor
+asked to see your same system or at
+
+asked to see your same system or at
+
+asked to see your same system or at
+least the audit record example uh you
+
+least the audit record example uh you
+
+least the audit record example uh you
+know that could just be a simple
+
+know that could just be a simple
+
+know that could just be a simple
+over-the-shoulder shoulder surf or again
+
+over-the-shoulder shoulder surf or again
+
+over-the-shoulder shoulder surf or again
+some kind of demonstration that's
+
+some kind of demonstration that's
+
+some kind of demonstration that's
+actually working
+
+actually working
+
+actually working
+so um yeah that's uh you know no problem
+
+so um yeah that's uh you know no problem
+
+so um yeah that's uh you know no problem
+at all right only seven assessment
+
+at all right only seven assessment
+
+at all right only seven assessment
+points any of which can fail you I hope
+
+points any of which can fail you I hope
+
+points any of which can fail you I hope
+you get it right just kidding the good
+
+you get it right just kidding the good
+
+you get it right just kidding the good
+news is we can help you get it right and
+
+news is we can help you get it right and
+
+news is we can help you get it right and
+that's what this video is all about
+
+that's what this video is all about
+
+that's what this video is all about
+helping you guys so look at on-call we
+
+helping you guys so look at on-call we
+
+helping you guys so look at on-call we
+work with defense contractors just like
+
+work with defense contractors just like
+
+work with defense contractors just like
+you who have had this D fars nist itar
+
+you who have had this D fars nist itar
+
+you who have had this D fars nist itar
+and cmmc compliance stuff dropped in
+
+and cmmc compliance stuff dropped in
+
+and cmmc compliance stuff dropped in
+their laps like a seagull on a sunny day
+
+their laps like a seagull on a sunny day
+
+their laps like a seagull on a sunny day
+and we teach you how to level up and be
+
+and we teach you how to level up and be
+
+and we teach you how to level up and be
+a proper on-call compliance hero for
+
+a proper on-call compliance hero for
+
+a proper on-call compliance hero for
+your company eliminating gaps gray areas
+
+your company eliminating gaps gray areas
+
+your company eliminating gaps gray areas
+and getting this solved all while
+
+and getting this solved all while
+
+and getting this solved all while
+showing you how to leverage compliance
+
+showing you how to leverage compliance
+
+showing you how to leverage compliance
+as your secret weapon to land more
+
+as your secret weapon to land more
+
+as your secret weapon to land more
+Defense work with higher profit margins
+
+Defense work with higher profit margins
+
+Defense work with higher profit margins
+now that's when becoming an on-call
+
+now that's when becoming an on-call
+
+now that's when becoming an on-call
+compliance hero can do for you if you're
+
+compliance hero can do for you if you're
+
+compliance hero can do for you if you're
+looking for more help getting compliant
+
+looking for more help getting compliant
+
+looking for more help getting compliant
+our compliance experts are always on
+
+our compliance experts are always on
+
+our compliance experts are always on
+call for you visit
+
+call for you visit
+
+call for you visit
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now if you love the content we're
+
+right now if you love the content we're
+
+right now if you love the content we're
+putting out here for you help us out
+
+putting out here for you help us out
+
+putting out here for you help us out
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+
+with a big thumbs up on that like button
+we're even better here it comes here it
+
+we're even better here it comes here it
+
+we're even better here it comes here it
+comes get your get your finger ready
+
+comes get your get your finger ready
+
+comes get your get your finger ready
+here it is
+
+here it is
+
+here it is
+smash that subscribe button baby to get
+
+smash that subscribe button baby to get
+
+smash that subscribe button baby to get
+the latest compliance content as soon as
+
+the latest compliance content as soon as
+
+the latest compliance content as soon as
+our compliances roll it out until next
+
+our compliances roll it out until next
+
+our compliances roll it out until next
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+
+secure out there hit us in the comments
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+
+below to let us know what you'd like to
+know more about when it comes to
+
+know more about when it comes to
+
+know more about when it comes to
+information security and compliance and
+
+information security and compliance and
+
+information security and compliance and
+I'll see you on the next one
+
+I'll see you on the next one
+
+I'll see you on the next one
+foreign
+
+foreign
+
+foreign

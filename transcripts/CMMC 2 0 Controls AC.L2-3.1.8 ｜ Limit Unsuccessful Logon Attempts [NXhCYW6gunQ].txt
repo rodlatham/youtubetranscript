@@ -1,0 +1,529 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back I bet you didn't think I'd be
+
+I'm back I bet you didn't think I'd be
+
+I'm back I bet you didn't think I'd be
+back but I'm here with another
+
+back but I'm here with another
+
+back but I'm here with another
+compliance tip of the week this week
+
+compliance tip of the week this week
+
+compliance tip of the week this week
+we're talking about cmmc control
+
+we're talking about cmmc control
+
+we're talking about cmmc control
+ac.l2-3.1.8 those nist it'll be just
+
+ac.l2-3.1.8 those nist it'll be just
+
+ac.l2-3.1.8 those nist it'll be just
+1.1.8 but it's cmmc so it's ac.l
+
+1.1.8 but it's cmmc so it's ac.l
+
+1.1.8 but it's cmmc so it's ac.l
+2-3.1.8 there limit unsuccessful logon
+
+2-3.1.8 there limit unsuccessful logon
+
+2-3.1.8 there limit unsuccessful logon
+attempts let's get into it
+
+attempts let's get into it
+
+attempts let's get into it
+
+okay
+
+okay
+
+okay
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliant stuff
+
+dfars and nist SP 10171 compliant stuff
+
+dfars and nist SP 10171 compliant stuff
+on top of an already colossal workload
+
+on top of an already colossal workload
+
+on top of an already colossal workload
+well I've got great news for you you
+
+well I've got great news for you you
+
+well I've got great news for you you
+found your home here at on-call
+
+found your home here at on-call
+
+found your home here at on-call
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+
+compliance Solutions where we can help
+you transform into your company's
+
+you transform into your company's
+
+you transform into your company's
+on-call compliance hero
+
+on-call compliance hero
+
+on-call compliance hero
+and even though I just said let's get
+
+and even though I just said let's get
+
+and even though I just said let's get
+into it let's get into it again because
+
+into it let's get into it again because
+
+into it let's get into it again because
+jumping in with both feet is exactly
+
+jumping in with both feet is exactly
+
+jumping in with both feet is exactly
+what we got to do all right so now we
+
+what we got to do all right so now we
+
+what we got to do all right so now we
+get into some of the first controls with
+
+get into some of the first controls with
+
+get into some of the first controls with
+cmfc that are directly addressing
+
+cmfc that are directly addressing
+
+cmfc that are directly addressing
+policies and procedures which must be
+
+policies and procedures which must be
+
+policies and procedures which must be
+implemented in order to achieve the
+
+implemented in order to achieve the
+
+implemented in order to achieve the
+minimum security Baseline they're
+
+minimum security Baseline they're
+
+minimum security Baseline they're
+looking for the goal of cmfc control
+
+looking for the goal of cmfc control
+
+looking for the goal of cmfc control
+ac.l2-3.1.8 is limit unsuccessful logout
+
+ac.l2-3.1.8 is limit unsuccessful logout
+
+ac.l2-3.1.8 is limit unsuccessful logout
+attempts is to force you into making
+
+attempts is to force you into making
+
+attempts is to force you into making
+sure that there's a group policy in
+
+sure that there's a group policy in
+
+sure that there's a group policy in
+place or some policy in place to force a
+
+place or some policy in place to force a
+
+place or some policy in place to force a
+limit on unsuccessful logons
+
+limit on unsuccessful logons
+
+limit on unsuccessful logons
+and ultimately stop Brute Force attacks
+
+and ultimately stop Brute Force attacks
+
+and ultimately stop Brute Force attacks
+that is when an attacker begins trying
+
+that is when an attacker begins trying
+
+that is when an attacker begins trying
+millions of passwords to try to randomly
+
+millions of passwords to try to randomly
+
+millions of passwords to try to randomly
+figure out what will work and as you may
+
+figure out what will work and as you may
+
+figure out what will work and as you may
+or may not know automated Brute Force
+
+or may not know automated Brute Force
+
+or may not know automated Brute Force
+attacks are one of the most common and
+
+attacks are one of the most common and
+
+attacks are one of the most common and
+successful hacks out there and when you
+
+successful hacks out there and when you
+
+successful hacks out there and when you
+give an enemy millions of chances to
+
+give an enemy millions of chances to
+
+give an enemy millions of chances to
+attack you without locking them out
+
+attack you without locking them out
+
+attack you without locking them out
+they're gonna get in eventually
+
+they're gonna get in eventually
+
+they're gonna get in eventually
+guaranteed
+
+guaranteed
+
+guaranteed
+now if I if I was assessing this control
+
+now if I if I was assessing this control
+
+now if I if I was assessing this control
+all right if I was your assessor if I
+
+all right if I was your assessor if I
+
+all right if I was your assessor if I
+was your father Luke I am your father
+
+was your father Luke I am your father
+
+was your father Luke I am your father
+I would say hey two things I gotta find
+
+I would say hey two things I gotta find
+
+I would say hey two things I gotta find
+out one determine if the means of
+
+out one determine if the means of
+
+out one determine if the means of
+limiting unsuccessful logon attempts is
+
+limiting unsuccessful logon attempts is
+
+limiting unsuccessful logon attempts is
+defined so if I was going to answer that
+
+defined so if I was going to answer that
+
+defined so if I was going to answer that
+all right I'd say this is defined within
+
+all right I'd say this is defined within
+
+all right I'd say this is defined within
+Group Policy right there's a limit of
+
+Group Policy right there's a limit of
+
+Group Policy right there's a limit of
+five unsuccessful logons before the
+
+five unsuccessful logons before the
+
+five unsuccessful logons before the
+account is locked out boom there's your
+
+account is locked out boom there's your
+
+account is locked out boom there's your
+documentation that's how we determine it
+
+documentation that's how we determine it
+
+documentation that's how we determine it
+there's a group policy there now
+
+there's a group policy there now
+
+there's a group policy there now
+assessment Point number two determine if
+
+assessment Point number two determine if
+
+assessment Point number two determine if
+the defined means of limiting
+
+the defined means of limiting
+
+the defined means of limiting
+unsuccessful logon attempts is
+
+unsuccessful logon attempts is
+
+unsuccessful logon attempts is
+implemented well is the policy enabled
+
+implemented well is the policy enabled
+
+implemented well is the policy enabled
+and maybe would answer it by saying
+
+and maybe would answer it by saying
+
+and maybe would answer it by saying
+implemented via the group policy right
+
+implemented via the group policy right
+
+implemented via the group policy right
+see the network documentation to see
+
+see the network documentation to see
+
+see the network documentation to see
+that that policy is enabled and linked
+
+that that policy is enabled and linked
+
+that that policy is enabled and linked
+and with that if you don't know anything
+
+and with that if you don't know anything
+
+and with that if you don't know anything
+about group policy or you're trying to
+
+about group policy or you're trying to
+
+about group policy or you're trying to
+figure this out or honestly you're just
+
+figure this out or honestly you're just
+
+figure this out or honestly you're just
+tired of doing this stuff and you wish
+
+tired of doing this stuff and you wish
+
+tired of doing this stuff and you wish
+someone would just do it for you the
+
+someone would just do it for you the
+
+someone would just do it for you the
+good news is that on call that's exactly
+
+good news is that on call that's exactly
+
+good news is that on call that's exactly
+what we do we work with defense
+
+what we do we work with defense
+
+what we do we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+this dfar's nist itar and cmmc compliant
+
+this dfar's nist itar and cmmc compliant
+
+this dfar's nist itar and cmmc compliant
+stuff dropped into their laps like a
+
+stuff dropped into their laps like a
+
+stuff dropped into their laps like a
+seagull on a sunny day we teach you how
+
+seagull on a sunny day we teach you how
+
+seagull on a sunny day we teach you how
+to level up and be a proper on-call
+
+to level up and be a proper on-call
+
+to level up and be a proper on-call
+compliance hero for your company
+
+compliance hero for your company
+
+compliance hero for your company
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+
+this solved all while showing you how to
+
+this solved all while showing you how to
+leverage compliance is your secret
+
+leverage compliance is your secret
+
+leverage compliance is your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you if you're looking for more
+
+do for you if you're looking for more
+
+do for you if you're looking for more
+help getting compliant our compliance
+
+help getting compliant our compliance
+
+help getting compliant our compliance
+experts are always on call for you visit
+
+experts are always on call for you visit
+
+experts are always on call for you visit
+CMC complianceecrets.com or check out
+
+CMC complianceecrets.com or check out
+
+CMC complianceecrets.com or check out
+the bio below for links to get help
+
+the bio below for links to get help
+
+the bio below for links to get help
+right now if you love the content we're
+
+right now if you love the content we're
+
+right now if you love the content we're
+putting out here for you help us with a
+
+putting out here for you help us with a
+
+putting out here for you help us with a
+big thumbs up on that like button or
+
+big thumbs up on that like button or
+
+big thumbs up on that like button or
+even better smash the Subscribe button
+
+even better smash the Subscribe button
+
+even better smash the Subscribe button
+to get the latest compliance content as
+
+to get the latest compliance content as
+
+to get the latest compliance content as
+soon as we roll it out until the next
+
+soon as we roll it out until the next
+
+soon as we roll it out until the next
+compliance tip my friend stay safe and
+
+compliance tip my friend stay safe and
+
+compliance tip my friend stay safe and
+secure out there and hit us in the
+
+secure out there and hit us in the
+
+secure out there and hit us in the
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+
+comments below to let us know what you'd
+like to know more about when it comes to
+
+like to know more about when it comes to
+
+like to know more about when it comes to
+information security and compliance I'll
+
+information security and compliance I'll
+
+information security and compliance I'll
+see you on the next one
+
+see you on the next one
+
+see you on the next one
+foreign
+
+foreign
+
+foreign

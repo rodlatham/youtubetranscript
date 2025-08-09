@@ -1,0 +1,622 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike for your here
+
+hey everybody it's Mike for your here
+
+hey everybody it's Mike for your here
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+
+I'm back with another compliance tip of
+the week this week we're talking about
+
+the week this week we're talking about
+
+the week this week we're talking about
+cmmccontrol
+
+au.l2-3.3.9 limit management of audit
+
+au.l2-3.3.9 limit management of audit
+
+au.l2-3.3.9 limit management of audit
+logging functionality to a subset of
+
+logging functionality to a subset of
+
+logging functionality to a subset of
+privileged users
+
+privileged users
+
+privileged users
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+
+who's feeling overwhelmed tired and
+alone trying to understand all this cmfc
+
+alone trying to understand all this cmfc
+
+alone trying to understand all this cmfc
+dfars and nist SP 800171 compliance
+
+dfars and nist SP 800171 compliance
+
+dfars and nist SP 800171 compliance
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+
+stuff on top of an already colossal
+workload well I got great news for you
+
+workload well I got great news for you
+
+workload well I got great news for you
+you found your home here at on-call
+
+you found your home here at on-call
+
+you found your home here at on-call
+compliance Solutions we can help you
+
+compliance Solutions we can help you
+
+compliance Solutions we can help you
+transform into your company's on-call
+
+transform into your company's on-call
+
+transform into your company's on-call
+compliance hero and learn some new dad
+
+compliance hero and learn some new dad
+
+compliance hero and learn some new dad
+jokes let's jump into it so in cmmc
+
+jokes let's jump into it so in cmmc
+
+jokes let's jump into it so in cmmc
+control
+
+control
+
+control
+au.l2-3.3.9 limit management of audit
+
+au.l2-3.3.9 limit management of audit
+
+au.l2-3.3.9 limit management of audit
+logging functionality to a subset of
+
+logging functionality to a subset of
+
+logging functionality to a subset of
+privileged users this control is all
+
+privileged users this control is all
+
+privileged users this control is all
+about limiting access to only those
+
+about limiting access to only those
+
+about limiting access to only those
+people who really need it again there's
+
+people who really need it again there's
+
+people who really need it again there's
+a recurring theme throughout nist sp800
+
+a recurring theme throughout nist sp800
+
+a recurring theme throughout nist sp800
+171 it's basically all about making sure
+
+171 it's basically all about making sure
+
+171 it's basically all about making sure
+that people only have access to what
+
+that people only have access to what
+
+that people only have access to what
+they actually need access to and if they
+
+they actually need access to and if they
+
+they actually need access to and if they
+don't have access to anything else so as
+
+don't have access to anything else so as
+
+don't have access to anything else so as
+they say too many chefs in the kitchen
+
+they say too many chefs in the kitchen
+
+they say too many chefs in the kitchen
+doesn't make for a better tasting cake
+
+doesn't make for a better tasting cake
+
+doesn't make for a better tasting cake
+or something so only those people who
+
+or something so only those people who
+
+or something so only those people who
+really need to see seam information
+
+really need to see seam information
+
+really need to see seam information
+should have access to it so let's check
+
+should have access to it so let's check
+
+should have access to it so let's check
+out what the assessor is looking for on
+
+out what the assessor is looking for on
+
+out what the assessor is looking for on
+this one in order to bake them a cake
+
+this one in order to bake them a cake
+
+this one in order to bake them a cake
+they'll love to eat all right so two
+
+they'll love to eat all right so two
+
+they'll love to eat all right so two
+things you're looking for on this one
+
+things you're looking for on this one
+
+things you're looking for on this one
+number one determine if a subset of
+
+number one determine if a subset of
+
+number one determine if a subset of
+privileged users are granted access to
+
+privileged users are granted access to
+
+privileged users are granted access to
+manage audit logging functionality and
+
+manage audit logging functionality and
+
+manage audit logging functionality and
+make sure it's defined okay so uh if we
+
+make sure it's defined okay so uh if we
+
+make sure it's defined okay so uh if we
+were to give a sample answer we would
+
+were to give a sample answer we would
+
+were to give a sample answer we would
+say something like uh Hey look it's
+
+say something like uh Hey look it's
+
+say something like uh Hey look it's
+implemented because the seam solution is
+
+implemented because the seam solution is
+
+implemented because the seam solution is
+only accessible by specific authorized
+
+only accessible by specific authorized
+
+only accessible by specific authorized
+seam administrative users so if you had
+
+seam administrative users so if you had
+
+seam administrative users so if you had
+a standalone steam system that might be
+
+a standalone steam system that might be
+
+a standalone steam system that might be
+an answer if you had active directory
+
+an answer if you had active directory
+
+an answer if you had active directory
+maybe you had some kind of a you know
+
+maybe you had some kind of a you know
+
+maybe you had some kind of a you know
+accessible through domain credentials
+
+accessible through domain credentials
+
+accessible through domain credentials
+you might say only this the people in
+
+you might say only this the people in
+
+you might say only this the people in
+this certain OU have access to get to
+
+this certain OU have access to get to
+
+this certain OU have access to get to
+the seam unit but one way or another you
+
+the seam unit but one way or another you
+
+the seam unit but one way or another you
+have to actually determine if the subset
+
+have to actually determine if the subset
+
+have to actually determine if the subset
+is defined so who are those people
+
+is defined so who are those people
+
+is defined so who are those people
+that's what they're looking for now
+
+that's what they're looking for now
+
+that's what they're looking for now
+assessment Point number two determine if
+
+assessment Point number two determine if
+
+assessment Point number two determine if
+management of audit logging
+
+management of audit logging
+
+management of audit logging
+functionality is limited to the defined
+
+functionality is limited to the defined
+
+functionality is limited to the defined
+a subset of privileged users so in other
+
+a subset of privileged users so in other
+
+a subset of privileged users so in other
+words
+
+words
+
+words
+you have to determine if the actual
+
+you have to determine if the actual
+
+you have to determine if the actual
+management of the functionality right so
+
+management of the functionality right so
+
+management of the functionality right so
+the settings configurations things like
+
+the settings configurations things like
+
+the settings configurations things like
+that can only a certain subset of those
+
+that can only a certain subset of those
+
+that can only a certain subset of those
+people see the settings configuration
+
+people see the settings configuration
+
+people see the settings configuration
+Etc so again there's the management of
+
+Etc so again there's the management of
+
+Etc so again there's the management of
+audit logging functionality then there's
+
+audit logging functionality then there's
+
+audit logging functionality then there's
+actually the management of uh there's
+
+actually the management of uh there's
+
+actually the management of uh there's
+there's the management audit logging
+
+there's the management audit logging
+
+there's the management audit logging
+function I was limited to Define subset
+
+function I was limited to Define subset
+
+function I was limited to Define subset
+of proposal users so who can actually
+
+of proposal users so who can actually
+
+of proposal users so who can actually
+change settings and things like that all
+
+change settings and things like that all
+
+change settings and things like that all
+right now if I was to give a sample
+
+right now if I was to give a sample
+
+right now if I was to give a sample
+that's that second piece it's really the
+
+that's that second piece it's really the
+
+that's that second piece it's really the
+same answer as the first piece right
+
+same answer as the first piece right
+
+same answer as the first piece right
+it's just it's more of the same you're
+
+it's just it's more of the same you're
+
+it's just it's more of the same you're
+limiting the people who actually have
+
+limiting the people who actually have
+
+limiting the people who actually have
+access to it so again we'd say
+
+access to it so again we'd say
+
+access to it so again we'd say
+implemented the same solution is only
+
+implemented the same solution is only
+
+implemented the same solution is only
+accessible by specific authorized team
+
+accessible by specific authorized team
+
+accessible by specific authorized team
+administrative users and again if you
+
+administrative users and again if you
+
+administrative users and again if you
+had an assessor on your hands you'd
+
+had an assessor on your hands you'd
+
+had an assessor on your hands you'd
+probably just have them look over your
+
+probably just have them look over your
+
+probably just have them look over your
+shoulder log into your seam system and
+
+shoulder log into your seam system and
+
+shoulder log into your seam system and
+show them all the cool settings how the
+
+show them all the cool settings how the
+
+show them all the cool settings how the
+magic happens all right now if you're
+
+magic happens all right now if you're
+
+magic happens all right now if you're
+looking for more magic to happen guess
+
+looking for more magic to happen guess
+
+looking for more magic to happen guess
+what you're in the right place because
+
+what you're in the right place because
+
+what you're in the right place because
+in on call we work with defense
+
+in on call we work with defense
+
+in on call we work with defense
+contractors just like you who have had
+
+contractors just like you who have had
+
+contractors just like you who have had
+this defars nist itar and cmmc compliant
+
+this defars nist itar and cmmc compliant
+
+this defars nist itar and cmmc compliant
+stuff dropped in their laps like a
+
+stuff dropped in their laps like a
+
+stuff dropped in their laps like a
+seagull on a sunny day and we teach you
+
+seagull on a sunny day and we teach you
+
+seagull on a sunny day and we teach you
+how to level up and be a proper on-call
+
+how to level up and be a proper on-call
+
+how to level up and be a proper on-call
+compliance hero for your company
+
+compliance hero for your company
+
+compliance hero for your company
+eliminating gaps gray areas getting this
+
+eliminating gaps gray areas getting this
+
+eliminating gaps gray areas getting this
+solved all while showing you how to
+
+solved all while showing you how to
+
+solved all while showing you how to
+leverage compliance is your secret
+
+leverage compliance is your secret
+
+leverage compliance is your secret
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+
+weapon to land more Defense work with
+higher profit margins now that's what
+
+higher profit margins now that's what
+
+higher profit margins now that's what
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+
+becoming an on-call compliance hero can
+do for you and if you're looking for
+
+do for you and if you're looking for
+
+do for you and if you're looking for
+more help getting compliant our
+
+more help getting compliant our
+
+more help getting compliant our
+compliance experts are always on call
+
+compliance experts are always on call
+
+compliance experts are always on call
+for you visit cmmc compliance
+
+for you visit cmmc compliance
+
+for you visit cmmc compliance
+secrets.com or check out the bio below
+
+secrets.com or check out the bio below
+
+secrets.com or check out the bio below
+for links to get help right now if you
+
+for links to get help right now if you
+
+for links to get help right now if you
+love the content we're putting out here
+
+love the content we're putting out here
+
+love the content we're putting out here
+for you help us out with a big thumbs up
+
+for you help us out with a big thumbs up
+
+for you help us out with a big thumbs up
+on that like button or even better you
+
+on that like button or even better you
+
+on that like button or even better you
+guessed it baby smash that subscribe
+
+guessed it baby smash that subscribe
+
+guessed it baby smash that subscribe
+button to get the latest compliance
+
+button to get the latest compliance
+
+button to get the latest compliance
+content as soon as our compliance errors
+
+content as soon as our compliance errors
+
+content as soon as our compliance errors
+roll it out until the next compliance
+
+roll it out until the next compliance
+
+roll it out until the next compliance
+tip my friends stay safe and secure out
+
+tip my friends stay safe and secure out
+
+tip my friends stay safe and secure out
+there and hit us in the comments below
+
+there and hit us in the comments below
+
+there and hit us in the comments below
+to let us know what you'd like to know
+
+to let us know what you'd like to know
+
+to let us know what you'd like to know
+more about when it comes to information
+
+more about when it comes to information
+
+more about when it comes to information
+security and compliance and I'll see you
+
+security and compliance and I'll see you
+
+security and compliance and I'll see you
+on the next one
+
+on the next one
+
+on the next one
+
+foreign
+
+foreign
+
+foreign
