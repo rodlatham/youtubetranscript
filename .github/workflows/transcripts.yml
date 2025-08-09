@@ -1,4 +1,4 @@
-name: Pull YouTube transcripts (10s pause, yt-dlp only)
+name: Pull YouTube transcripts (3s pause, tvhtml5 only, cleaned text in CSV)
 
 on:
   workflow_dispatch:
@@ -40,75 +40,119 @@ jobs:
             echo "No YT_COOKIES_B64 secret set; yt-dlp may be blocked."
           fi
 
-      - name: Download English subtitles with cookies (tvhtml5 → web, 10s pause)
+      - name: Download English subtitles with cookies (tvhtml5 only, 3s pause)
         run: |
           mkdir -p transcripts
           COOKIES_ARG=""
           [ -f cookies.txt ] && COOKIES_ARG="--cookies cookies.txt"
 
-          run_dl () {
-            local CLIENT="$1"
-            echo "==> Trying player_client=${CLIENT}"
-            yt-dlp \
-              $COOKIES_ARG \
-              --ignore-errors \
-              --yes-playlist \
-              --skip-download \
-              --write-sub --write-auto-sub \
-              --sub-langs "en,en-US,en-GB" \
-              --sub-format vtt \
-              --extractor-args "youtube:player_client=${CLIENT}" \
-              --sleep-requests 3 \
-              --sleep-interval 10 \
-              --max-sleep-interval 10 \
-              --retries 20 \
-              --limit-rate 80K \
-              --throttled-rate 80K \
-              --output "transcripts/%(title)s [%(id)s].%(ext)s" \
-              "${PLAYLIST_URL}" || true
-          }
+          echo "==> Trying player_client=tvhtml5"
+          yt-dlp \
+            $COOKIES_ARG \
+            --ignore-errors \
+            --yes-playlist \
+            --skip-download \
+            --write-sub --write-auto-sub \
+            --sub-langs "en,en-US,en-GB" \
+            --sub-format vtt \
+            --extractor-args "youtube:player_client=tvhtml5" \
+            --sleep-requests 3 \
+            --sleep-interval 3 \
+            --max-sleep-interval 3 \
+            --retries 20 \
+            --limit-rate 80K \
+            --throttled-rate 80K \
+            --output "transcripts/%(title)s [%(id)s].%(ext)s" \
+            "${PLAYLIST_URL}" || true
 
-          run_dl tvhtml5
-          run_dl web
-
-      - name: Convert VTT → TXT and build CSV
+      - name: Convert VTT → TXT and build CSV (clean inline tags, dedupe, include transcript)
         run: |
           python - <<'PY'
           import csv, glob, os, re
           from pathlib import Path
 
-          def vtt_to_txt(p):
-              out=[]
-              with open(p,'r',encoding='utf-8',errors='ignore') as f:
-                  for line in f:
-                      s=line.rstrip('\n')
-                      if s.startswith('WEBVTT') or s.strip().startswith(('NOTE','STYLE')): continue
-                      if re.match(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}', s): continue
-                      if not s.strip() or re.match(r'^\s*\d+\s*$', s): continue
+          # Precompiled regexes
+          RE_HEADER = re.compile(r'^(WEBVTT|Kind:|Language:)\b', re.I)
+          RE_CUE    = re.compile(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}')
+          # Remove <00:00:00.000> and <c>, </c>, <c.colorXXXX>, etc.
+          RE_INLINE = re.compile(r'<(?:\d{2}:\d{2}:\d{2}\.\d{3}|/?c(?:\.[^>]*)?)>')
+
+          def clean_line(s: str) -> str:
+              # Strip inline timing/style tags
+              s = RE_INLINE.sub('', s)
+              # Optional: strip bracket cues like [Music], [Applause]
+              s = re.sub(r'^\[[^\]]+\]$', '', s).strip()
+              # Collapse extra spaces after tag removal
+              s = re.sub(r'[ \t]+', ' ', s).strip()
+              return s
+
+          def vtt_to_txt(path: str) -> str:
+              out = []
+              prev = None
+              with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+                  for raw in f:
+                      s = raw.rstrip('\n')
+
+                      # Skip headers and cue timing rows
+                      if RE_HEADER.match(s) or RE_CUE.match(s):
+                          continue
+
+                      # Skip blank/sequence-index-only lines (preserve single blank for paragraph)
+                      if not s.strip() or re.fullmatch(r'\d+', s.strip()):
+                          if out and out[-1] != '':
+                              out.append('')
+                          prev = None
+                          continue
+
+                      s = clean_line(s)
+                      if not s:
+                          continue
+
+                      # De-duplicate consecutive identical lines (karaoke-style dupes)
+                      if s == prev:
+                          continue
+
                       out.append(s)
-              txt='\n'.join(out).strip()
-              return re.sub(r'\n{3,}','\n\n',txt)
+                      prev = s
+
+              # Join and normalize paragraph spacing
+              txt = '\n'.join(out).strip()
+              txt = re.sub(r'\n{3,}', '\n\n', txt)
+              return txt
 
           Path('transcripts').mkdir(exist_ok=True)
-          entries=[]
+
+          rows = []
           for vtt in glob.glob('transcripts/*.vtt'):
-              base=os.path.basename(vtt)
-              m=re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
-              if not m: continue
-              title, vid, lang = m.group('title'), m.group('id'), m.group('lang') or 'unknown'
-              url=f'https://www.youtube.com/watch?v={vid}'
+              base = os.path.basename(vtt)
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
+              if not m:
+                  continue
+              title = m.group('title')
+              vid   = m.group('id')
+              lang  = m.group('lang') or 'unknown'
+              url   = f'https://www.youtube.com/watch?v={vid}'
 
-              txt_path=f'transcripts/{title} [{vid}].txt'
-              if not os.path.exists(txt_path):
-                  with open(txt_path,'w',encoding='utf-8') as f:
-                      f.write(vtt_to_txt(vtt))
-              char_len=os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
-              entries.append({'video_id':vid,'url':url,'title':title,'source':f'yt-dlp.vtt({lang})','char_len':char_len})
+              # Convert to TXT (overwrite to apply latest cleaning)
+              txt_path = f'transcripts/{title} [{vid}].txt'
+              text = vtt_to_txt(vtt)
+              with open(txt_path, 'w', encoding='utf-8') as f:
+                  f.write(text)
 
-          with open('transcripts.csv','w',newline='',encoding='utf-8') as f:
-              w=csv.DictWriter(f,fieldnames=['video_id','url','title','source','char_len'])
+              rows.append({
+                  'video_id': vid,
+                  'url': url,
+                  'title': title,
+                  'source': f'yt-dlp.vtt({lang})',
+                  'char_len': len(text),
+                  'transcript': text
+              })
+
+          # Write CSV with transcript included
+          with open('transcripts.csv', 'w', newline='', encoding='utf-8') as f:
+              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len','transcript'])
               w.writeheader()
-              w.writerows(sorted(entries, key=lambda r:(r['title'].lower(), r['video_id'])))
+              w.writerows(sorted(rows, key=lambda r: (r['title'].lower(), r['video_id'])))
           PY
 
       - name: Upload artifacts
