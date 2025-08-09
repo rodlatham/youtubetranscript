@@ -61,9 +61,8 @@ jobs:
               --sleep-requests 3 \
               --sleep-interval 10 \
               --max-sleep-interval 10 \
-              --retries 15 \
-              --retries-subtitles 20 \
-              --retry-sleep-subtitles 2:exp=1.8:max=90 \
+              --retries 20 \
+              --retry-sleep 2:exp=1.8:max=90 \
               --limit-rate 80K \
               --throttled-rate 80K \
               --output "transcripts/%(title)s [%(id)s].%(ext)s" \
