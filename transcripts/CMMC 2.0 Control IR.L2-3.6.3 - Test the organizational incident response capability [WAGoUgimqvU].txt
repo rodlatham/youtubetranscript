@@ -1,0 +1,157 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week and I bet you missed me unless
+you just hit the next button because
+you're probably just watching one of my
+videos and
+well anyway I'm glad that you are and if
+you're one of those people out there
+that binge on my videos a kudos to you I
+love it and if you're not smash the
+Subscribe button uh because apparently
+my face is very bingeable now personally
+if I looked at my face for this many
+videos in a row there's another kind of
+binging that I might do but this is
+apparently PG YouTube stuff so I'll
+actually stick with the script and tell
+you all about today's control which is
+
+cmmccontrolir.l2-3.6.3 test the
+organizational incident response
+capability yes you must test it you must
+do things with that piece of paper that
+you put in the shared Drive let's find
+out
+
+thank you
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone try and understand all of this
+cmmc dfars and nist SP 10171 compliance
+stuff on top of it already colossal
+workload well I've got great news for
+you you found your home here an on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance hero now let's jump
+into it so I'm sure you probably just
+watched the video that came right before
+this about building your NC response
+plan and if you didn't you go back and
+check it out
+yeah right here on this channel it's
+there uh and you guessed it hot on the
+heel is the requirement to have an
+insane response plan or similar
+instrument that defines how information
+security and incidents will be handled
+uh and responded to this control which
+mandates that you actually
+asked it you gotta actually use the
+thing
+I know it's like you went out and bought
+all those cool cyber Security Solutions
+and you hit the install button and then
+you went and had lunch
+she didn't test it you gotta test these
+things you do because the bad guys will
+and I don't want you to be hit by a bad
+guy because you're important and I
+believe in you
+you've got this I digress all right uh
+look I really can't emphasize this one
+enough at the end of the day you must
+test the policies all right standard
+operating procedures mechanisms within
+the within your computer to be sure they
+will actually work much like uh you know
+a fire alarm needs periodic testing to
+make sure it will work when the real
+emergency arises this control manage you
+actually execute proper testing and be
+able to prove your systems and processes
+work now here's a hint love the hint uh
+if you're don't have your incident
+response built into your ticketing
+system then maybe that might be
+something you want to think about so
+that you can automate this and if you're
+too small to have a ticketing system
+they're free and it's a really good idea
+and if you are really really small like
+under five people well you know that's
+okay too just know that you've got to
+have something in writing and you've got
+to show that you test it from time to
+time so let's take a look at what the
+assessors are looking for on this one
+fortunately they're only looking for one
+thing they want to determine if the
+incident response capability is actually
+tested so what are they going to do
+they're going to actually ask you to
+demonstrate what happens when there is
+an incident that might be putting in a
+service ticket that might be looking
+over your shoulder and saying hey
+execute this policy uh if we were to
+give a sample answer for our SSP we
+would say something to the extent of hey
+this is implemented see past it ticket
+history quarterly risk management
+meeting sop previously completed
+incident response forms and again we
+just sort of lay the evidence out for an
+assessor to verify really no other way
+to do it and hey and on call we work
+with defense contractors just like you
+who've had this defars nist itar and
+cmmc compliance stuff dropped in their
+laps like a seagull on a sunny day and
+we teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming a proper on-call
+compliance hero can do for you and if
+you're looking for more help getting
+compliant our compliance experts are
+always on call for you you can visit
+cmfc compliance secrets.com or check out
+the bio below for links to get help
+right now like really right now you can
+do it use your mouse move it groove it
+get to it
+I I'll you know what we'll edit that one
+out
+probably not uh look if you love the
+content we're putting out here for you
+or my unbelievable frequent quantity of
+screw-ups reading scripts help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliances roll
+it out this is what we do all day we got
+a whole crew putting these videos
+together for you we love doing it we
+love the fact that you guys are watching
+the videos and it's helping you get
+compliant and more importantly be safer
+out there so hey until the next
+compliance tip my friend stay safe and
+secure out there hit us in the comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance I'll
+see you on the next one
+
+all right

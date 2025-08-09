@@ -1,0 +1,215 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control m a.l2-3.7.3
+
+.3.3.3
+.3 ensure equipment removed for off-site
+maintenance is sanitized of any cui
+
+say hey if you're a defense contractor
+is feeling overwhelmed tired and alone
+trying to understand all of this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it okay so here's the deal I've got no
+beef or issue with the Geek Squad okay
+I'm just gonna say that I think those
+guys are cool I even wear a blue shirt
+it's not because of them I had it first
+they didn't even exist
+it's the same shade it's been for 20
+plus years all right and all those other
+outsourced computer repair places but
+listen if you have the technical
+diagrams to a brand new piece of
+military equipment you know who you are
+don't go take the computer with that cui
+on it into a store for repair when it
+breaks bad bad don't do it that's not
+okay if for some reason you need to take
+a piece of equipment which contains cui
+out of the building or send it off for
+repair you must must sanitize and clear
+off any cui from that device before
+Leisure control we should like write the
+words must must must as I'm saying must
+must must
+and then you run him again because I
+just said it like three times
+that's a that's a that's what do they
+call that an on prompt an on prompt I
+just made that word up I don't really
+know what it is but it's where you
+prompt and then
+anyway we're too low budget to have real
+editors so instead I just live edit what
+I want to happen in the video and and
+then they know to do it because they can
+you imagine how to edit these videos I
+just like let me like just let me take a
+pause like if you're really trying to
+get compliant right now spare me two
+minutes per second because can you
+imagine being an editor has to listen to
+me for like 110 controls plus the usual
+like bunch of videos that we crank out
+here every week at on call like I can't
+imagine being the poor guy or for that
+matter can you imagine actually we have
+a group of a group of people like we
+have a team of people whose job is to
+listen to me
+talk about compliance like these poor
+people
+these poor poor people I watch you know
+what I'm setting my editing team some
+serious love and you know what if you
+love our videos go to the comments
+section below and you should be like hey
+we love you editors you guys are awesome
+we love what you do show my editor some
+love because they have to listen to this
+garbage like every day all day
+and then they have to listen to it live
+when I come in to record it and it's
+whatever man you know what we do it for
+you guys we do it for you guys our
+audience you guys rock so hard all right
+we love our defense contractors and
+honestly all we want to do is keep you
+guys safe and secure that's really what
+we do what we do and that's also why
+we're too poor to four real editors and
+I just tell them what to do while I'm
+shooting the video no Cuts there's no
+Cuts allowed zero second takes all right
+I'm gonna go back on script now because
+I'm done
+hey who does who does this that's the
+other thing too is if you're watching my
+videos you have to deal with my
+diatribes too kind of like my editors do
+so I think that's fair right you get
+free content I tell you how to comply
+for free you just gotta listen to me
+blabber for a little while and make
+really dumb jokes
+I think it's a fair deal anyway
+um who does this well
+believe it or not lots of people all
+right here's another great example okay
+copiers right now you probably have a
+copier out there somewhere in your
+office or maybe many of them and yes we
+all thought they were dead with Adobe
+document Cloud but it turns out that
+people are really really really really
+really
+hard to change and they love killing
+trees
+
+like
+anyway look not gonna kid you we got
+copiers here there's a copier 15 feet
+from me and I love it that green button
+is so satisfying when you push it and
+and like the really big copiers the
+expensive ones and they spell the paper
+just boom copy copy copy copy copy copy
+anyway uh so hey every time you
+photocopy that cui filled purchase order
+guess where it stays
+oh yeah baby right on that cop here all
+right on the hard drive in your copier
+so uh there's a lot of different
+examples of this but the bottom line is
+you have to sanitize or wipe the data
+before it ever ever leaves secure hands
+in your facility so very important and
+as much as I say and emphasize how
+important it is the reality is it
+happens by accident all the time so
+let's see what the assessors are looking
+for on this one uh what the assessors
+are looking for is they want to
+determine if equipment to be removed
+from the organizational spaces uh for
+off-site means is actually sanitized
+many cui great place they might go look
+is your it offices right do they have a
+bunch of computers in there where the
+hard drives are pulled out again you're
+going to want to demonstrate this in
+person if I was giving the answer I
+would just say hey implemented see the
+Data Destruction policy up in our case
+we have an ability to have an actual
+written policy for it so no big deal we
+have a written policy and uh and we show
+it to the assessor we welcome back to
+the it office we go here you go here's
+our pile full of junk and here's a stack
+of hard drives that we have not had a
+chance to sanitize yet they have not
+left our secure facility and they're in
+a locked it room boom
+I wound up actually finishing that okay
+that was all right that was a savable
+one and just like you right you're
+receivable too all right and on call we
+work with defense contractors just like
+you who've had this D fars nist itar and
+cmmc compliant stuff dropped in their
+laps like a seagull on a sunny day all
+right and we teach you how to level up
+and be a proper on-call compliance hero
+for your company eliminated gaps gray
+areas and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit CMC
+complianceecrets.com or check out the
+bio below for links to get help right
+now not tomorrow because you're supposed
+to be compliant back in 2017. you know
+soon you ever seen like old people I
+don't really mean old people I mean like
+people in their like 50s and they're
+going like 19 Diggity too like soon
+we're gonna be like this compliance
+thing was you should have been compliant
+in 19 Diggity seven I think that's how
+that works works I don't know if there's
+like a technical way I'm supposed to say
+2017 but be cool like I was from the 90s
+comment below uh Hey if you love our
+content we're putting out here for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+complianceers roll it out until the next
+compliance tip my friends stay safe and
+secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+foreign
+
+anyway

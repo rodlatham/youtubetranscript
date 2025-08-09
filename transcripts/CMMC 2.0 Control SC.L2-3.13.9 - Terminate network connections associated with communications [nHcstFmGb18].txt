@@ -1,0 +1,122 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrol
+
+sc.l2-3.13.9 terminate network
+connections associated with
+communication sessions at the end of the
+sessions are after a defined period of
+inactivity
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist SP 800 171
+compliance stuff on top of an already
+colossal workload well I've got great
+news you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so what's the story here well
+basically the idea is that we don't want
+to leave the window open for the
+boyfriend to come in late at night
+simply put idle connections are a
+massive problem because if the system is
+compromised and you don't know it and if
+that connection to the secure system
+containing cui is on all they have to do
+is wait a few hours to make sure you
+went to bed and there's no activity and
+boom they're in the window baby they're
+already climbing in and because you left
+the window open there's nothing to tell
+you that they're there doing bad things
+anyway the solvency for this making sure
+and the solvency for this is making sure
+that when you are done with a connection
+you close it or there's an automated
+method of closing it such as terminate
+on idle time setup or your vpns and
+remote applications idle time so let's
+dive into specifics of how this one is
+assessed three major assessment points
+on this one determine if a period of
+inactivity to terminate network
+connections associated with
+communication sessions is defined so did
+we Define a period of inactivity so
+again the control specifically calls out
+an activity as a method for terminating
+network connections so there's not
+really a lot of guesswork on that that's
+kind of nice so what are we going to say
+we're going to say hey yes it's
+implemented via the VPN policy to
+determinate connections after X number
+of minutes maybe it's five maybe it's 30
+whatever it may be of idle activity
+defined in the firewall or whatever it
+is that's mandating your uh or managing
+your VPN
+assessment Point number two determine if
+network connections associated with
+communication sessions are terminated at
+the end of the sessions uh again we
+might give an example of uh you know VPN
+policy to terminate connections after 30
+minutes of idle activity defined in the
+firewall it operations policy states
+connection should be terminated when
+work is complete so a couple different
+areas we may look there
+final assessment Point determine if
+network connections Associated
+communication sessions are terminated
+after the defined period of an activity
+this is implemented via VPN policy to
+terminate connections after 30 minutes
+of idle activity and that may be defined
+a firewall maybe it's defined somewhere
+in group policy whatever it may be
+depends on how your VPN is set up
+now at on-call we work with defense
+contractors just like you who've had
+this D fars nist itar and cmmc
+compliance stuff dropped into their laps
+like a seagull on a sunny day
+
+Chris Blatt we teach you how to level up
+and be a proper on-call compliance hero
+for your company eliminating gaps gray
+areas and getting this solved all while
+showing you how to leverage compliance
+as your secret weapon slam more Defense
+work with higher profit margins that's
+what becoming an on-call compliance hero
+can do for you and that's what being
+amazing kind of looks like
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc compliance
+secrets.com or check out the Bible below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+the Subscribe button to get the latest
+compliance content as soon as our
+compliances roll it out until the next
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+foreign

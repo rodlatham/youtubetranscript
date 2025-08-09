@@ -1,0 +1,163 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+
+cmmccontrolra.l2-3.11.1 periodically
+assess the risk to organizational
+operations including the mission
+functions image or reputation
+organizational assets and individuals
+resulting from the operation of
+organizational systems and the
+associated processing storage or
+transmission of cui what a mouthful
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 1001 compliance stuff
+on top of an already colossal workload
+well I've got great news you found your
+home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it so
+there's no getting around it this
+control has a lot of big words okay and
+if you're like me sitting at a third
+grade reading level all I can say is
+hang on I think my team gave us a
+breakdown of what this actually means in
+like somewhat plain English so basically
+where we are going with this is into the
+area of risk management we all know that
+at the heart of nist SP 100 once in one
+there's a lot of risk management Focus
+now if you're an I.T guy at risk
+Management's on the periphery but it may
+not be your main thing and if you're an
+attorney well then you know risk
+management may be a little move a more
+familiar subject and if you're a CEO hey
+man risk that's like why I started my
+business right taking big giant risks uh
+managing those risks not such uh not
+such a talent anyway this is a great
+example where uh we are mandated to
+evaluate the risk of operating the
+business itself all right that's what
+this control is actually about it's
+about evaluating the risk of operating
+as it relates to cui in the building
+this is a great example where we are
+mandated evaluate the risk of operating
+the business itself and how operating
+the business may put cui at risk it's
+actually a really great high level
+summary control and if they would have
+used some more basic words to be honest
+I think more of us would have an easier
+time understanding the intent here
+rather than dive into the exact wording
+though let's go stream what the
+assessors are looking for on this one to
+learn more so two things you're looking
+for one is determine if the frequency to
+assess risk uh to organizational
+operations uh organizational assets and
+individuals is defined so did we Define
+the risk okay do we Define the frequency
+of how we're going to assess the risk
+um how do we solve this this is a great
+question right so we actually created a
+quarterly risk management standard
+operating procedure okay so if you're a
+client of ours we actually customize a
+risk management procedure for your
+organization to help you meet this
+control right the answer on paper is
+frequencies is quarterly with larger
+annual reviews per the company risk
+management policy sop okay it could be
+less often it could be more often it
+depends on the size of your company the
+risk you're dealing with Etc that's
+something we can definitely help you
+figure out uh you know and again if
+you're struggling on the risk management
+side of this it's totally understandable
+it's not until you get to really really
+big organizations that risk management
+really sort of becomes more normalized
+risk to organizational operations
+organizational assets and individuals
+resulting from the operation of an
+organizational system that processes
+stores or transmits cui is assessed with
+the defined frequency so in other words
+do you have a policy about it okay cool
+the policy says it should be assessed
+quarterly uh then are you actually doing
+that assessment quarterly and can we see
+evidence that you are so it's
+implemented see risk management meeting
+notes and time stamps now again so
+critical that you have some kind of
+evidence that you actually had meetings
+where you manage risk if you're not
+doing that it's something you have to
+start doing if you don't know how to do
+it one of the coolest things we've
+created over the last five six years in
+dealing with nist is we've created a
+virtual compliance officer service it's
+so cool it allows us to come in and be
+your compliance officer you only pay a
+fraction of the of the cost so again if
+you're looking at this and you're going
+through I don't have bandwidth to do
+this in my day there's no way I can
+manage all of this risk the good news is
+we're highly experienced Risk Managers
+we do this every day and it's a part of
+our workflow and we can literally sort
+of mesh gears if you will and make this
+something that's really easy to do in
+your organization led by professionals
+so hey at on-call we work with defense
+contractors just like you who have had
+this defars nist itar and cmmc
+compliance stuff dropped in their laps
+like a seal on a sunny day we teach you
+how to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you looking for more help getting
+compliant our compliance experts are
+always on call for you visit cmmc
+compliance secrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance
+centers roll it out until the next
+Appliance tip my friends stay safe and
+secure out there and hit us up in the
+comments below if you would like to know
+anything else about information security
+and compliance and I'll see you on the
+next one
+
+all right

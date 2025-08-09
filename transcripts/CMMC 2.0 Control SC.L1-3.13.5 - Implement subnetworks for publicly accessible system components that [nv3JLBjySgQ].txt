@@ -1,0 +1,132 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week and I'm excited to see you baby
+all right this week we're talking about
+cmmc control SC dot
+l1-3.13.5 Implement sub networks for
+publicly accessible system components
+that are physically or logically
+separated from internal networks let's
+find out what in the world they mean on
+this one
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired alone
+sad and you need a friend
+well here's the good news
+we understand you
+we understand all the cmmc dfars and
+nist SP 10171 compliance stuff and we
+know that you've got a big workload and
+you're tired and we know a lot of things
+about you because we're inside of
+YouTube and
+it gets creepy in here but I have great
+news because you found your home right
+here with us at on-call compliance
+Solutions where we can help you
+transform from lonely and sad into happy
+and glad baby by becoming your own
+company's on-call compliance hero all
+right let's jump into it uh so very
+interesting control here and I think
+this is really rooted in basic security
+best practices some companies need to
+have open guest networks or may have a
+lab environment where they're unable to
+apply the niche controls to uh and
+properly secure in these cases it is
+Paramount highly important the segment
+the networks show that devices which are
+not secured can't touch devices which
+are secured now if you're a small to
+mid-size office and your shoulders keep
+going up and down and up and down and up
+and down and you're like what are they
+talking about no worries all right you
+likely have everything completely locked
+down or have no publicly accessible
+system components cool no problem
+oftentimes the way we answer this is to
+acknowledge that we have no publicly
+available system component however we
+state that this is by Design because
+that would simply be less secure than
+having them let's dive into the
+assessment points on this one and I
+think it will soon be clear as a lead
+kite for you alright so assessment Point
+number one of two is determine a
+publicly accessible system components
+are identified uh implemented right
+Network diagram identified as secure
+web-based login screen to select sde
+components or secure data Enclave
+components that's one way to answer the
+question but ultimately I think maybe a
+better answer is whip out the network
+diagram and let's demonstrate that to
+the Assessor second assessment point is
+determine if sub networks for publicly
+accessible system components are
+physically or logically separated from
+internal Networks yes implemented the
+sde web-based login screen for select
+components is logically separated and
+protected utilizing multi-factor
+authentication and privileged identity
+management in order to allow access to
+non-public information so again that's a
+fairly specific answer if I was to break
+that down a little bit more generically
+the answer for that second assessment
+Point determine if sub networks for
+publicly accessible system components
+are physically or logically separated
+from the internal networks again really
+it's you know it's two parts because it
+depends on how the network is put
+together one you could be doing a
+network diagram right and just here you
+go here's our Network diagram and it
+defines all that two is you may have to
+actually show them if you have no sort
+of diagram that defines that stuff you
+may have to show them settings but
+either way they've got to determine that
+if they're an Assessor so hey at on call
+we work with defense contractors just
+like you who have had this dfar's nist
+itar and cmmc compliance stuff dropped
+into their laps like a seagull on a
+sunny day and we teach you how to level
+up and be a proper on-call compliance
+hero for your company eliminating gaps
+gray areas and helping get this solved
+all while showing you how to leverage
+compliance has your secret weapon to
+land more Defense work with higher
+profit margins now that's what becoming
+an on-call compliance hero can do for
+you if you're looking for more help
+getting compliant our compliance experts
+are always on call for you visit cmmc
+complianceecrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance turns roll it out until the
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance see
+you on the next one

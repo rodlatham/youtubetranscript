@@ -1,0 +1,87 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike for you here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+sc.l2-3.13.4 prevent unauthorized and
+unintended information transfer via
+system uh resources excuse me via shared
+system resources
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist SP harder 101
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it so uh all right on this one
+there are a few uh really a lot of ways
+information transfer can occur which is
+not intended a great example is access
+to cui on shared drives which are mapped
+to computers or accounts they should not
+be there are lots of other ways to go uh
+but but to go directly to what the
+assessors are after here let's head
+straight to what the assessors really
+want to see all right they're really
+looking for one thing determine if
+unauthorized and unintended information
+transfer via shared system resources is
+prevented uh we would probably give a
+couple of examples we would say hey it's
+prevented via file system permissions
+and Patch management to prevent exploits
+allowing unintended information
+transferred by attackers and again we
+would honestly just probably show them
+different elements of our system that
+are you know things like permissions and
+access lists to demonstrate compliance
+with this control
+if you're scratching your head you're
+going Mike that made no sense to me or
+I've been banging my head against the
+wall for this on this control for a
+while and you're just trying to figure
+all this stuff out I totally get it
+that's exactly why we make this video
+series because it on call we work with
+defense contractors just like you who've
+had this dfar's nist itar and cmmc
+compliance stuff dropped in their laps
+like a single on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance has your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc complianceecrets.com
+or check out the bio below for links to
+get help right now if you love the
+content we're putting out there for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance starts roll it out until the
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+foreign

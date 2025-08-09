@@ -1,0 +1,128 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+ps.l2-3.9.2 ensure that organizational
+systems containing cui are protected
+during and after Personnel actions such
+as terminations and transfers
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist spout and 171
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on-call compliance solution where we can
+help you transform into your company's
+on-call compliance Hero Let's jump into
+it so on this control we really dive a
+little deeper into your operational
+standard operating procedures okay that
+is written policies that are in place
+which guide and dictate Behavior around
+certain events in this case the event is
+termination of an employee a sensitive
+event for any company but even more so
+when you have controlled unclassified
+information involved what the assessors
+are really after here is do you have a
+formal written process is your team
+trained in it and can you prove that the
+process is in place and working all very
+important let's take a look at exactly
+what the assessors want to see on this
+one a couple assessment points here one
+determine if a policy and or process for
+terminating system access and any
+credentials coincide with Personnel
+actions is established and again a
+little bit of complex one here if we're
+going to give uh sort of an example we
+would write what our process is right so
+prior determination or at the time of
+termination whichever comes first and it
+ticket is put into the system to
+immediately revoke all system access and
+take immediate control and restrict
+access to any connected devices which
+may contain cui so again
+we're just describing our procedures
+there next assessment point determinive
+system access and credentials are
+terminated consistent with personal
+Personnel actions such as termination or
+transfer this is implemented per hr
+termination policy so again
+straightforward gotta have an HR
+termination policy next one is determine
+if system is protected during and after
+Personnel transfer actions so remember
+this may not be a termination it may be
+a transfer they may be taking on
+different job roles so they may not need
+access to the rest of what they have
+before again if we were to answer this
+we'd say hey terminations are critical
+severity events and the highest level
+I.T Personnel taking media action to
+secure organizational assets at the
+first notification of termination for HR
+policy the same goes for transfers so
+again we sort of copy paste that one a
+little bit but we also again highlight
+the fact that transfers are treated the
+same way
+so hey at on-call we work with defense
+contractors just like you who have had
+this dfars nist itar and cmmc compliance
+stuff dropped into their laps like a
+seagull on a sunny day we teach you how
+to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that is what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc complianceecrets.com or check out
+the bio below to get links that can help
+you right now if you love the content
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance runs rolled out I'm gonna
+pause right there because let me tell
+you what if you haven't subscribed to
+our Channel
+Now's the Time the heavens are raining
+down and it's time to do your duty click
+that like button click that subscribe
+button we put this content out here for
+free for you guys and you know what
+there's always so much evolving and
+changing when it comes to compliance and
+keeping defense contractors where they
+need to be in the know I want you to be
+the first one to get that information so
+if you haven't subscribed to our Channel
+yet hit that subscribe button I think
+you'll really love it until the next
+compliance tip my friend stay safe and
+secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+foreign

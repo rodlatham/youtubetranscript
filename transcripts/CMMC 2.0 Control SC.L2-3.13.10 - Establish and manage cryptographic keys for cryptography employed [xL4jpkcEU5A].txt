@@ -1,0 +1,100 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control sc.l
+2-3.13.10 establish and manage
+cryptographic keys for cryptography
+employed in organizational systems
+
+say hey if you're a defense contractor
+is feeling overwhelmed tired and alone
+trying to understand all of this cmmc
+dfars and nist SP 800 171 compliance
+stuff on top of an already colossal
+workload I've got great news for you uh
+you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance hero like a
+caterpillar into a butterfly baby that's
+what we're doing let's jump into it this
+is an interesting control as it
+essentially is mandating good and proper
+housekeeping this requirement emphasizes
+the importance of implementing
+appropriate key management practices to
+ensure the security of cryptographic
+operations the control requires
+organizations to define specific
+requirements for key generation
+distribution storage access and
+destruction by following these
+requirements organizations can
+effectively manage cryptographic keys
+and maintain the security of their
+systems let's take a look in plain
+English version of what the assessors
+are looking for on this one all right
+two things one determine if
+cryptographic keys are established
+whenever cryptography is employed again
+we would say this is implant the IT team
+manages all cryptographic keys a lot of
+times this is done in active directory
+or Azure active directory uh sometimes
+it's done through other methods but
+again you just have to show them that
+you have a method second assessment
+point is determine if cryptographic keys
+are managed uh whenever cryptography is
+employed implemented it team manages all
+cryptographic keys
+pretty simple and straightforward stuff
+again every company is going to have a
+little bit of an individual scenario on
+this uh the most common one I think is
+going to be active directory uh you know
+type passwords and things like that so
+again active directory for the most part
+really does this in an automated way now
+uh if you were banging your head against
+the wall and are kind of listening to
+our videos and thinking to yourself man
+uh this is a lot easier than trying to
+figure this out on my own great because
+hey that's what we do here at on call we
+work with defense contractors just like
+you who have had this defars nist itar
+and cmmc compliance stuff dropped in
+their laps like a Serial on a sunny day
+we teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminated gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc complianceecrets.com
+or check out the bio below for links to
+get help right now if you love the
+content we're putting out here for you
+you help us out with a big thumbs up on
+that like button or even better smash
+the Subscribe button to get the latest
+compliance content as soon as our
+compliance words roll it out until our
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+foreign

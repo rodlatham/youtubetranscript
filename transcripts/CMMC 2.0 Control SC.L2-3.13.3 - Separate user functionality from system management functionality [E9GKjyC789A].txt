@@ -1,0 +1,103 @@
+Kind: captions
+Language: en
+
+hey it's Mike breeder here with on-call
+compliance Solutions and I'm back with
+another compliance tip of the week this
+week we're talking about cmmc control
+
+sc.l2-3.13.3 separate user functionality
+from system management functionality
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist SP 10171 compliance
+stuff or just the meaning of life on top
+of an already colossal workload well
+I've got great news for you you found
+your home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it so
+this control is sort of a basic best
+practice let's use the it admin example
+in case you're not familiar with this it
+admin should not be using a full admin
+account at all times bad they should
+only be using that admin account when
+they are performing administrative
+functions the reason is because it makes
+it so much easier to detect attacks
+where someone may have compromised
+credentials and gotten in under an admin
+account this is really where your
+steamer security information and event
+management system is a bigger helper in
+identifying those odd logins at 3am by
+well you while you were sleeping what's
+up with that a huge indicator of attack
+if you are mostly using a regular
+account then generally speaking it is
+much harder to have the admin account
+hacked and attacked because that's not
+what you're in 90 of the time let's
+learn more about about this by reviewing
+the assessment points so three points
+one determine if user functionality is
+identified uh again if we're gonna say
+this is implemented we would say user
+functionality is identified via active
+directory organizational units and user
+account levels maybe even access control
+is lots and lots of different things
+that we could use here next assessment
+plan is determine if system management
+functionality is identified it's
+implemented system management
+functionality is identified via access
+to system management tools by authorized
+privileged users okay one more thing uh
+third assessment Point determine if user
+functionality is separated from your
+system management functionality again we
+would say this is implemented and the
+evidence is in active directory there's
+ous there's security groups again it's
+all very well easy to determine there
+now if you are struggling or banging
+your head against the wall trying to
+figure all of this dfar's nist itar and
+cmmc compliance stuff uh well the good
+news is is that we can help we teach you
+how to level up and be a proper on-call
+compliance hero for your company so if
+you've had this stuff laid in your lap
+like a seagull on a sunny day that's
+what we're here for baby we can help you
+eliminate gaps great areas and get this
+solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you uh if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmccomplianceecrets.com or check out
+the bio below to get help with
+compliance right now love the content
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better Hulk smash that
+subscribe button to show us some love
+and get the latest compliance content as
+soon as our compliance starts roll it
+out until the next compliance tip my
+friends stay safe and secure out there
+and hit us in the comments below to let
+us know what you'd like to know more
+about when it comes to information
+security and compliance I'll see you on
+the next one
+foreign

@@ -1,0 +1,126 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week you know my favorite thing is
+so we have a remote control to this
+camera right and when we remote control
+the camera so it doesn't shake right so
+it doesn't do the right so it doesn't
+shake right and what I've noticed is
+that our our camera guy he will really
+hit that record button with gusto in the
+background so he like throws it down
+like it's a baseball bat
+and I don't know if it helps the camera
+come on any faster but it's pretty funny
+to watch all right this week we're
+talking about cmmc control
+ia.l2-3.5.11 obscure feedback of
+authentication information whatever the
+world obscure means I'm gonna have to
+dictionary it while I play you this
+awesome intro
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist sp-800 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here in on-call
+compliance Solutions we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it cmmc
+control ia.l
+2-3.5.11 obscure feedback of
+authentication information you know
+sometimes I think to myself man they
+probably could have worded these
+controls a little bit better than this
+but maybe they couldn't have maybe
+obscure is an obscure word maybe I just
+don't like the word obscure like I don't
+like the word moist there's just
+something weird about the word moist
+like if you say it three times fast
+it sounds weird
+anyway obscure is kind of a weird word
+that's where I'm going with this
+if you went somewhere else
+it's not my fault
+what this control is really referring to
+is when you are typing in your password
+you should not just be able to see the
+typed in password okay you should see
+dots or asterisks or emojis or anything
+but the password in case someone
+
+is looking over your shoulder or through
+a screen share
+like some creepy tech support guy
+
+I don't know any of those the idea is no
+looky-loos should be able I should be
+able to get these damn it ah but we're
+not editing this tape because we don't
+do that here on this channel way too
+lazy for that
+but lookie lose is a really funny word
+from the 70s might have been the 60s I
+don't know I wasn't born until the 80s
+so I couldn't tell you but the idea is
+no looky loose should be able to get
+your passwords especially in systems
+which contain cui now let's see what the
+assessors are looking for on that one
+uh uh well the good news is they're not
+looking for much there's only one
+assessment Point here determine if
+authentication information is obscured
+during the authentication process
+duh all right implement it as
+authentication information is entered it
+is obscured by generic characters during
+the authentication process and basically
+this is another one of those sort of
+demonstration controls you could write
+the answer all you want and you will
+right there's the answer but ultimately
+we're going to wind up
+um uh showing an assessor how this works
+so hey and on call we work with defense
+contractors just like you who have had
+this dfar's nist itar and cmmc
+compliance stuff dropped into the laps
+like I see you on a sunny day baby we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon so I have more Defense
+work with higher profit margins now that
+is what becoming an on-call compliance
+hero can do for you if you're looking
+for more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+the Subscribe button to get the latest
+compliance content as soon as our
+compliance starts roll it out until next
+compliance tip my friends stay safe and
+secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+
+thank you

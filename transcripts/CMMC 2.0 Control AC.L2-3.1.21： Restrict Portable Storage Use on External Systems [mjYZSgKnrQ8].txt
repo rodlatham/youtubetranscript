@@ -1,0 +1,180 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrol
+
+ac.l2-3.1.21 that should never asked for
+the description of this video what
+control I was going to talk about
+well okay all right limit the use of
+organizational portable storage devices
+on external systems yes sir that's what
+we're going to talk about
+
+all right so hey if you're a defense
+contractor who's feeling overwhelmed
+tired and alone trying to understand all
+of this cmmc dfars and this sp171
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it so cmfc control
+ac.l1-3.1.21 limit the use of
+organizational portable storage devices
+on external systems what are they
+talking about well here's what they're
+talking about what they're doing
+is there mandating that you have control
+over portable storage devices your thumb
+drives portable hard drives Etc so that
+ultimately at the end of the day it's
+understood that the less these devices
+are used outside of the secure network
+and then brought back in the less risk
+you have to your network and data they
+really want you to be in control of
+these so that you limit the risk uh
+which is so core to nist SP 10171
+remember at the core of it NIS purpose
+is to protect data and and have
+information security but the methodology
+is all about risk management kind of a
+really cool fact a really cool lens of
+how to look at it and of course when it
+comes to cmmc it's really just
+third-party assessment of nist SP 800
+171 let's check out what the assessors
+are looking for how to make them happy
+on this one so uh if we look there's
+three assessment points here number one
+we want to determine if the use of
+portable storage devices containing cui
+on external systems is identified and
+documented okay where do you get a look
+well if we're giving a sample answer I'd
+probably say something like the
+organization inhibits the use of
+portable storage media on external
+systems per the it use and cyber
+security policy hey knock knock you got
+an itu's policy right
+sure you do
+time to call on call yeah it's the time
+to give us a call all right now
+assessment Point number two determine if
+limits on the use of portable storage
+devices containing cui on external
+systems are defined the organization
+prohibits the use of portable storage
+media on external systems per the it use
+and cyber security policy yes
+yes there's that policy thing again you
+know there's some controls you talk
+about in these videos we're like hey
+look you got to be prepared to
+demonstrate that to an assessor this one
+there's probably a little bit of
+demonstration you can do but the reality
+is you really need to be prepared to
+ante up and show them your documentation
+if you don't have documentation one of
+the coolest things we do for our clients
+is we always deliver a complete set of
+totally done-for-you documentation all
+right this is like literally six figures
+worth of attorney time that went into
+all of these policies there's a ton of
+them and then you know you factor in our
+time as far as you know some pretty
+Advanced I.T people and cyber security
+and compliance people all right there's
+hundreds of thousands of dollars worth
+of legalese that went into the policies
+that we customize for our clients so I
+know a lot of our clients come to us
+because they're just like trying
+desperately to figure out what in the
+world to do about their complete and
+total lack of policy creation we can
+literally kick start you into compliance
+in terms of I can't guarantee that I can
+make you compliant I have to be very
+careful I got a CMC code ethics but uh I
+will say again we can kick start you to
+have a full set of documentation and by
+the time we're done working with you and
+understanding you then at that point we
+you know we have that documentation
+fully customized and again it's it's
+what's required to meet compliance now
+third assessment point now that I'm done
+being all careful and disclaiming is
+determine if the use of portable storage
+devices containing cui on external
+systems is limited as defined
+limited as defined huh I guess that
+would mean we'd have to Define it
+somewhere where do we do that well again
+let's go back to our sample answer right
+the organization prohibits the use of
+portable storage media on external
+systems per the itu since cyber security
+policy now here's the thing with that
+right we're going to do it through
+policy because again in our sample
+answer that's how it's done however
+you've been in a lot of other places
+right we got Group Policy we could
+actually use Group Policy to force limit
+the use of portable storage device we
+could block USB ports we can do a lot of
+stuff on this control a lot of different
+ways that we can actually Define how
+we're limiting portable storage devices
+in our systems now if you're banging
+your head against the wall going like
+all right the good news is hey an
+on-call we work with defense contractors
+just like you who have had this D fars
+nist itar and cmmc compliance stuff
+dropped in their lap like a seagull on a
+sunny day you know what it's like it
+kind of sucks we teach you how to level
+up and be a proper on-call compliance
+hero for your company eliminating gaps
+gray areas and getting this solved all
+while showing you how to leverage
+compliance as your secret weapon to land
+more Defense work with higher profit
+margins now that's what becoming an
+on-call compliance hero can do for you
+if you're looking for help getting
+compliant our compliance experts are
+always on call for you visit
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+right now
+and if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better Hulk smash that subscribe
+button to get the latest compliance
+content as soon as our compliance nerds
+roll it out until the next compliance
+tip my friends stay safe and secure out
+there and hit us in the comments below
+to let us know what you'd like to know
+more about when it comes to information
+security and compliance and be careful
+where you insert that portable storage
+media of yours okay stay safe I'll see
+you on the next one
+
+all right

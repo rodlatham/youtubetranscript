@@ -1,0 +1,133 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrolra.l
+2-3.11.2 scan for vulnerabilities and
+organizational systems and applications
+periodically and when new
+vulnerabilities affecting those systems
+and applications are identified
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+defarge and nist SP 10171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it okay so this control is pretty easy
+to comply with if you have the right
+antivirus or endpoint management system
+in place basically to break this down
+you need antivirus or vulnerability scan
+which is both scheduled and then
+typically one that will also activate on
+demand typically an event driven
+activation such as a new file is
+downloaded or a new device is attached
+to the system such as a USB device thumb
+drive portable hard drive that kind of
+thing or upon file execution which
+exhibits unexpected or specifically
+malicious behavior
+now let's dive into the assessment
+points learn specifically what the
+assessors want to see on this one uh
+several assessment points so and again
+the neat thing is they're sort of
+describing how the antivirus needs to
+function uh so first determine if the
+frequency to scan for vulnerabilities
+and organizational systems and
+applications is defined uh if we were to
+give an answer we might say hey
+frequency is definitely defined within
+the antivirus program or the endpoint
+management system or even maybe the
+firewall uh by the IT team the IT team
+sets that frequency determine if
+vulnerability scans are performed on
+organizational systems with the defined
+frequency so determine if they're
+actually done again Implement and verify
+by the IT team evidence exists within
+the log files or the anti-virus files or
+anything like that determinant
+vulnerability scans are performed on
+applications with the defined frequency
+so now we're specific on applications
+again we would just say hey this is
+verified by the IT team they get reports
+on the antivirus system or the endpoint
+management system to prove that it is
+actually happening next one is determine
+if vulnerability scans are performed on
+or organizational systems when new
+vulnerabilities are identified
+uh this is implemented verified by the
+IT team evidence exists within the SCCM
+uh so again uh just another example you
+could use SCCM it's just sort of an
+example we give uh final one is
+determine if vulnerability scans are
+performed on applications when new
+vulnerabilities are identified so
+basically is it automatic Implement and
+verified by the IT team again the
+evidence exists within the log files and
+history of the anti-virus or endpoint
+management solution
+uh and hey if you have questions about
+what's the best antivirus to make to use
+what the best endpoint is you know what
+we can probably give you a little bit of
+guidance because we do that every day we
+manage technology for literally uh tens
+of thousands of endpoints and hundreds
+and hundreds and hundreds of companies
+uh we love taking care of the technology
+management aspect of uh of things for
+defense contractors along with
+compliance we can definitely help you to
+find a good suitable endpoint management
+solution uh and if you are like so many
+of our clients who have had this defars
+nist itar and cmmc compliance stuff
+dropped into their laps like a seal on a
+sunny day we teach you how to level up
+and be a proper on call compliance hero
+for your company eliminating gaps great
+areas and getting this solved all while
+showing you how to leverage compliance
+as your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you you can visit CMC
+compliance secrets.com or check out the
+bio below for links that can allow you
+to help get help right now if you love
+the content we're putting out here for
+you help us out with a big thumbs up on
+that like button or even better smash
+the Subscribe button to get the latest
+compliance content as soon as our
+compliance learns roll it out it's a
+great way to stay in touch and to stay
+up to date with what's going on in
+compliance let's say next compliance tip
+my friends stay safe and secure out
+there and hit us in the comments below
+to let us know what you'd like to know
+more about when it comes to information
+security and compliance I'll see you on
+the next one

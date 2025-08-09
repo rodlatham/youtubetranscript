@@ -1,0 +1,178 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmfc control
+
+ir.l2-3.6.1 establish an operational
+incident handling capability for
+organizational systems that includes
+preparation detection analysis
+containment recovery and user response
+activities
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 800 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so what is this control really all
+about
+well my good friends in the Marines they
+say the worst time to start planning a
+good defense is when the bullets are
+flying in your head yes this control is
+all about being prepared having a
+written and practice plan in place so
+your entire team knows exactly what to
+do when an attack happens now this
+control also requires you to essentially
+have a written incident response plan
+okay so there's a big hint right there
+about how to solve for it that will have
+several key steps included in it the
+idea is that if you know how to respond
+the response will be faster more
+effective and there is a chance at
+actually limiting damage and having as
+much having a much faster recovery from
+the incident so let's dive into what the
+assessors are looking for on this one
+how we can make them happy so I will
+warn you this one has got several
+different assessment points there's
+probably about seven or eight of them
+we'll dive in the first one here
+determine if an operational incident
+handling capability is established so do
+you have the capability to respond uh if
+I was going to answer this we might have
+a simple answer in the plan say
+something like implemented see the
+incident response policy and incident
+response form note that there's two
+parts of the capability there's how are
+you going to sort of identify that there
+was an issue and then how are you going
+to resolve it and then what's the
+procedure for all of that so this is
+another one of those controls where
+they're assessing on a bunch of
+different points and surprise surprise
+it's not so much your the answer in the
+system security plan that they're
+looking for it's giving me the backup
+documentation which is why there's so
+many assessment points so assessment
+Point number two determine if the
+operational incident handling capability
+includes preparation so implemented CNC
+response policy and instant response
+form again they're going to look and see
+how are you preparing uh for an incident
+to happen now as we go through these
+assessment points which will sort of
+begin to realize is they're basically
+outlining the the parts and portions of
+an incident response plan so the cool
+thing is if you don't have one these
+assessment points will help you to write
+one so third assessment Point determine
+if the operational incident handling
+capability includes detection so in your
+plan are you do you have a mechanism for
+detection Implement is the incident
+response policy and incident response
+form next determine if the operational
+incident handling capability includes
+analysis so again in your incident
+response you need to have mechanisms in
+place or steps in place to be able to
+actually uh analyze what's going on with
+that incident to determine what the
+right next move is
+so again steps in the plan if you will
+so next we have determine if the
+operational incident handling capability
+includes containment so do we have some
+methodology for containing the incident
+and obviously limiting the damage again
+all these answers will kind of be the
+same that we're going to say hey go look
+at our documentation in other words the
+incident response policy uh incident
+response plan however you want to phrase
+it and then of course the incident
+response form now to determine if the
+operational incident handling capability
+includes recovery this is implemented
+CNC response policy and instant response
+form again the idea here is do you have
+steps in your plan for how to recover
+from an incident final assessment Point
+determine if the operational incident
+handling capability includes user
+response activities so what are your
+users supposed to do and specifically
+how are your users supposed to respond
+in every step again go back to
+documentation we'll hear instant
+response plans and also the incident
+response forms that people are filling
+out when they're filing for an incident
+and determine exactly how effective
+those are and specifically what the user
+responses should be and if those are
+there you should be good to go but if
+they're not because you don't have any
+of these policies or if you're like so
+many defense contractors out in there
+who are just looking at this whole thing
+going oh my goodness I'm throwing my
+hands up in the air I don't know what to
+do
+um I'm gonna go have a beer then hey the
+good news is here at on-call we work
+with defense contractors just like you
+who have had this D fars nist itar and
+cmmc compliant stuff dropped in their
+laps like a seagull on a sunny day and
+we teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more content uh or more help our
+compliance experts are always on call
+for you you can visit cmmc
+compliancecrets.com or check out the bio
+below for links to get help right now if
+you love the content we're putting out
+here for you help us out with big thumbs
+up on that like button and of course you
+know what to do smash that subscribe
+button because you know what they're
+constantly changing things I just saw
+the other day they brought out nist SP
+800 171 revision three and again this
+stuff changes all the time so Mash that
+subscribe button uh and until the next
+compliance tip my friend stay safe and
+secure out there hit us in the comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance I'll
+see you on the next one
+foreign

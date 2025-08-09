@@ -1,0 +1,132 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike for your here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week now this week we're talking
+about cmmc control
+
+au.l2-3.3.6 provide audit record
+reduction and Report generation to
+support on-demand analysis and Reporting
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so in cmmccontrol
+au.l1-3.3.6 provide audit record
+reduction and Report generation to
+support on-demand analysis and Reporting
+I'm going to call this the noise control
+control all right if you've ever worked
+with a seam solution before then you
+know the first challenge of a system
+like this is that out of the box they
+just create massive levels of noise or
+if they come with no rules at all then
+they create no noise and you slowly sort
+of turn up the volume ultimately that's
+when a lot of confusion and alerts start
+flooding your systems and all I can say
+is yuck right the the boy that cried
+wolf is not what you want as your
+security system and that's exactly what
+they turn into a lot of times so again
+what an assessor is looking for here is
+that there's some method of sort of
+reducing all the audit record noise uh
+that's going on with your system and
+that you're actually getting reports on
+things that are relevant you just have
+to show them that so they have this
+control to force you to actually make
+sure that your seam system operates in a
+way that reduces the noise and gives
+relevant reporting and you'll need to be
+prepared to demonstrate this so let's
+check out what the assessors are looking
+for how to make them happy on this one
+now on this one we have two major things
+that they're going to assess you on all
+right so item number one is determine if
+an audit record reduction capability
+that supports on-demand analysis is
+provided so one is there a capability
+and is it provided in your system now
+the easy answer to this one is you can
+probably guess by this family of answers
+is of course it is it's all built into
+your seam system if you have one if
+you're not familiar with the steam
+system is it's probably time to give us
+a call but it's basically a security
+information and event management system
+it ingests all your log file files it
+parses them into actually useful alerts
+and basically makes it so that you
+actually do have monitoring on your
+network as opposed to something like
+antivirus which is very reactive this is
+more proactive and real-time monitoring
+now the second thing they're looking for
+is they're going to say hey determine if
+a report generation capability that
+supports on-demand reporting is provided
+so now we're talking about does your
+seam system actually have an ability to
+do on-demand report generation and of
+course most good steam systems are going
+to be able to do that but again not all
+steam systems are created equal some
+people are even sort of patching it
+together creating one internally uh and
+so again they want to really Define
+exactly how this seam system is going to
+work in order to provide you with useful
+reports that you can actually do good
+things with and keep your system safe
+and be aware if there's something bad
+about to happen now if you are
+struggling to figure out this or any
+other control uh there's good news for
+you because at on call we work with
+defense contractors just like you who
+have had this defars nist itar and cmfc
+compliant stuff dropped in their laps
+like a seagull on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance as your
+secret weapon to land more Defense work
+with higher profit margins that's what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you you
+can visit cmmc compliance secrets.com or
+check out the bio below for links to get
+help right now if you love the content
+that we're putting out here for you help
+us out with a big thumbs up on that like
+button or even better smash that
+subscribe button to get the latest
+compliance content as soon as our
+compliance centers roll it out until the
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+
+thank you

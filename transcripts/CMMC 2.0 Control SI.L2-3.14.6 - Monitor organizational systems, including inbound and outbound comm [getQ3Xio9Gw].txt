@@ -1,0 +1,130 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with the on-call compliance Solutions
+and I'm back with another compliance tip
+of the week this week we're talking
+about steam MC control
+
+si.l2-3.14.6 monitor organizational
+systems including inbound and outbound
+Communications traffic to detect attacks
+and indicators of potential attacks
+
+say hey if you're a defense contractor
+is feeling overwhelmed tired and alone
+trying to understand all this cmmc dfars
+and nist SP 10171 compliance stuff on
+top of an already colossal workload I've
+got great news for you if you found your
+home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it so in
+this control they are really dictating
+exactly what needs to be in place with
+our firewall and our seam solution the
+firewall needs to be there monitoring
+traffic both incoming and outgoing but
+then we need something that will report
+on that which could be either the
+firewall or the seam solution the best
+solution to solve uh for all of this is
+uh and this control is really what you
+have your seam solution or your security
+information and event management
+solution hooked up to your firewall so
+those alerts are coming into your system
+the same way all the other alerts do for
+a single pane of glass approach that is
+the ideal way this should really be
+solved for ready to see what the
+assessors want on this one let's go
+all right three things you're looking
+for determine if the system is monitored
+to detect attacks and indicators of
+potential attacks again this is a
+demonstrate kind of control so we're
+going to basically answer the question
+in a written form and say hey look uh
+it's implemented via the same solution
+and our firewall but we're going to have
+to go demonstrate that with an assessor
+they're going to have to show them the
+settings and show them how those alerts
+are coming through next one determine if
+uh inbound Communications traffic is
+monitored to detect attacks and
+indicators of potential attacks uh yes
+this is again going to be implemented
+via our same solution in firewall again
+we're going to demonstrate how uh you
+know that traffic is monitored and
+detected we're going to show them the
+active packet filtering we're going to
+show them the antivirus in the firewall
+and we're going to show them those seam
+alerts coming out of the firewall when
+things happen
+assessment Point determine if outbound
+Communications traffic is monitored to
+detect attacks and indicators of
+potential attacks again this is
+implemented via the same solution and
+the firewall same thing we're going to
+basically make sure that it's not just
+inbound that's protected guys it's got
+to be outbound as well very very
+important
+now if you have no idea what a seam
+solution is or you're trying to figure
+out how to get this all hooked up and
+working with your firewall and you're
+just on The Struggle Bus my feelings are
+with you okay and the good news is I
+went out and did something about it okay
+because at on-call we work with defense
+contractors just like you who have had
+this defars nist itar and cmmc
+compliance stuff dropped into their laps
+like a seagull on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon so I have more Defense
+work with higher profit margins now
+that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc
+complianceecrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you first off thank
+you thank you for hanging with us for
+over I don't know 300 plus videos help
+us out with the big thumbs up on that
+like button you you know we want you to
+hit that subscribe button okay it makes
+our day we're super stoked about all the
+subscriber growth we're going to keep
+kicking button delivering this awesome
+content you do your job and hit that
+subscribe button and it's the best way
+you can get all of the latest compliance
+information and content as soon as our
+compliance learns roll it out until next
+compliance tip my friends stay safe and
+secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+
+foreign
+
+anyway

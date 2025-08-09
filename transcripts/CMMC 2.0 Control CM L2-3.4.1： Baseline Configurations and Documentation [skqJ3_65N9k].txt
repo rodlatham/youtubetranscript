@@ -1,0 +1,262 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+cm.l2-3.4.1 establish and maintain
+Baseline configurations and inventories
+of organizational systems including
+Hardware software firmware and
+documentation throughout the respective
+system development life cycles
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SB 10171 compliance stuff
+on top of an already work colossal
+workload well I've got great news for
+you you found your home here baby at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it so in cmmccontrol
+cm.l2-3.4.1 establish and maintain
+Baseline configurations and inventories
+of organizational systems including
+Hardware software firmware and
+documentation throughout the respective
+system development life cycles here we
+find ourselves running into yet more
+documentation requirements I know you're
+swimming in paper and guess what it's
+time to do the backstroke baby because
+there's more of it coming your way this
+time it's the requirement to have
+Baseline documentation okay uh and I
+have to tell you it never surprises me
+to walk into organizations uh and and we
+ask for documentation kind of before we
+get there use those kind of crickets we
+show up there say hey cool let's see
+your network diagram they hand us like
+one Visio diagram of a fairly basic sort
+of high level topology if we're lucky
+most places we don't even get that but
+they basically don't have documentation
+on their Network and only we've what we
+find is that there's really little to no
+documentation all on the network so to
+me this is really scary stuff because
+you know if you have a problem and you
+need to bring in a third party to
+troubleshoot it or if you have a problem
+like you you know something on your
+network gets wiped out how are you going
+to know how it all went back together
+and that's kind of one of the core
+fundamental basics of nist is know what
+you've got you know to begin with and if
+you're you know again a small to
+mid-sized it shop or I.T department and
+you really haven't you know done your
+your sort of your paperwork and your
+documentation and you're like what's the
+point I'm trying to put out fires and
+put out tickets you know here's what
+I'll tell you it's so worth it all right
+it's one of those things you don't have
+to do it terribly often but for one
+thing if you're a defense contractor
+you're required by law to have that
+stuff on paper that way you can
+demonstrate to an assessor or someone in
+the dod what exactly you have going on
+if there's a question about it where if
+you're attacked it's really really
+important and you're going to look
+really silly if something bad happens
+and you can't even whip out some basic
+Network documentation now there are lots
+and lots of cool ways to do it if you're
+just needing a really fast way to do it
+we have some automated methods along
+with some people that will help you with
+the risk management piece uh and even
+the review of the documentation piece we
+also do that that is definitely a
+service that we offer uh and again we
+can help you every step of the way when
+it comes to compliance Network audits uh
+documentation things like that I'll get
+in a little bit later but for now let's
+check out what the assessors are looking
+for on this one how to make them happy
+so on this one fair warning they're
+looking for a bunch of stuff okay
+there's like a through F and I think if
+my counting is correct I think that's
+like six different things they want to
+assess you on again this is one of the
+bigger controls so
+what are they looking for first number
+one determine if a baseline
+configuration is established in other
+words do you even have any documentation
+hey free points if you've got it failing
+if you don't all right so again we would
+probably put down as an answer pretty
+simple straightforward hey it's
+implemented C organizations Network
+documentation on file uh again one of
+the first things we do whenever we step
+in any client that we're helping you a
+compliant is we run some pretty awesome
+software that essentially takes care of
+every bit of this and creates some
+amazing amazing Network documentation
+performs internal and external network
+audits uh and penetration tests and
+things like that so again it's it's it's
+really for us it's like square one we
+can't even understand your network until
+we do that all right assessment Point
+number two determine if the Baseline
+configuration includes Hardware software
+firmware and documentation again this is
+on you right so it's assuming that
+you've got that but you have to go to
+that level right Hardware software yes
+they want a list of every piece of
+software you're running why because if
+you've got a baseline you've got some
+other weird software you can refer back
+to the Baseline and well you'll know
+that it was always there or that it
+wasn't so either way it's still pretty
+important and again the answer itself is
+the same it's implemented see the
+organization's Network documentation
+that's on file have it available for
+your assessor have it available for your
+boss only if you want to keep your job
+right all right Point number three
+determine if the Baseline configuration
+is maintained ah now we get a little bit
+more complicated right has it been
+reviewed has it been updated throughout
+the system development life cycle okay
+so now what does that mean that means
+you got to have a a baseline right you
+gotta have some point where you begin
+but then you got to have more iterations
+of it okay you've got to show over time
+that you're doing the work all right and
+you're updating it you've got new
+versions of it okay this is all very
+important we love using ticketing
+systems to keep track of everything that
+we do and you know we'll put this year's
+as an attachment to a service ticket
+it's a great way to keep track of it if
+I was to answer this one I would say
+implemented you know see organizations
+Network documentation on file updated in
+real time daily through and again just
+sort of an example we have a remote
+monitoring and management system that
+can actually take attachments uh it
+includes a ticketing system and so again
+we actually say CR ticketing system uh
+for annual service tickets on network
+documentation updating again lots of
+lots of flexibility in what the answer
+could be but the idea really is is that
+you've got history on it
+next determine if a system inventory is
+established right do we have an
+inventory so again does your
+documentation actually include a total
+inventory so somebody can go down the
+inventory list and see exactly what you
+have in there from a hardware software
+firmware perspective Etc again we'll
+just have an easy answer to it on paper
+which is Implement see the organizations
+that were documentation on file
+obviously be prepared to show that
+determine if the system inventory
+includes Hardware software firmware and
+documentation Again by now you're just
+kind of repeating yourself I don't know
+why they have this extra assessment
+point in here but I did write this thing
+and I'm sure there's a really good
+reason to really get super granular on
+what that documentation's got to have in
+it again uh same answer really is see
+the organizations Network documentation
+on file and then you're gonna you're
+gonna basically break out all your
+reports for that Assessor final one
+number six determine if the inventory is
+maintained that is reviewed and updated
+throughout the system development life
+cycle okay again is someone looking at
+this stuff okay can you point to a
+service ticket where you went back and
+said hey Freddy and tech support on tier
+one go look at the network diagram if
+you want to figure out how that works
+okay hopefully that's a yes uh so again
+Implement see organizations Network
+documentation on file again guys they're
+not looking for brain surgery here
+um you just got to have some ability to
+basically say hey look here it is it's
+in our ticketing system we can refer
+back to it when needed all right awesome
+and again that should cover everything
+for this control but if you got 109 more
+to go no worries because in on-call we
+work with defense contractors just like
+you who have had this dfars nist itar
+and cmfc compliant stuff dropped into
+their laps
+like a seagull on a sunny day we teach
+you how to level up and be a proper
+on-call compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you
+and if you're looking for more help
+getting compliant our compliance experts
+are always on call for you you can visit
+cmmccompliance secrets.com or check out
+the bio below for links to get help
+right now like literally right now if
+you go there you can self-schedule time
+one of our certified compliance experts
+and I bet they're available right now
+yeah pretty much all the time
+if you love the content we're putting
+out here for you help us out with a big
+thumbs up on that like button or even
+better smash that subscribe button to
+get the latest compliance content as
+soon as our compliance there is roll it
+out until the next compliance tip my
+friends stay safe and secure out there
+hit us in the comments below to let us
+know what you'd like to know more about
+when it comes to information security
+and compliance and I'll see you on the
+next one
+foreign

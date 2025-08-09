@@ -1,0 +1,192 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week where you'll watch me try to
+not burp during this video after
+drinking carbonated water to make it so
+I can talk to you hey this week we're
+talking about
+
+cmmccontrolia.l2-3.5.3 use multi-factor
+authentication for local and network
+access to privileged accounts and for
+network access to non-privileged
+accounts let's find out
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to figure out all this cmmc
+dfars and nist sp171 compliance stuff on
+top of an already colossal workload well
+I've got great news for you you found
+your home here at on-call compliance
+Solutions where we can help you
+transform into your company's con-call
+compliance Hero Let's jump into it
+
+cmmccontrolia.l2-3.5.3 use multi-factor
+authentication for local and network
+access to privileged accounts and for
+network access to non-provised accounts
+yes this is the one it creates the big
+giant Nightmare and everybody hates it
+but guess what
+it also happens to be the one control
+that will save your tokis right because
+ultimately at the end of the day
+multi-factor authentication is probably
+the greatest invention for uh you know
+network security and just generally
+information security that's come around
+in the last I don't know how many years
+so there's a big challenge control a lot
+of people have trouble with this one
+from a cultural perspective to make
+people do MFA for everything that
+touches Cy is a big deal for some people
+okay after years of working with clients
+on this here's what I can tell you
+if you have network access as an example
+a map network drive you're going to need
+MFA to access that data Maybe on
+computer sign on however you need to do
+it same with anything others any any
+other system which contains cui you have
+to have MFA your email if your email is
+Office 365 GCC hi MFA better be turned
+on okay if you've got an accounting
+system and it's got It's got accounting
+data that includes cui you better have
+MFA to sign into it all right however
+you'll notice that MFA is not required
+for local standard user access a lot of
+people miss this and make their lives a
+whole lot harder okay however you'll
+notice that MFA is not required for
+local standard user access to cui when
+the cuis on that user's Machine by the
+way we also do these videos in exactly
+one take because I'm way too lazy to
+actually start over again very
+interesting that is just a small hint of
+where mfa's requirements may be easier
+to implement than you think all right
+I'm gonna go back over that again
+because in all of my little bantering
+there was actually an important point in
+there so again if you're a standard user
+non-admin and if you have cui only
+locally on your computer and you can't
+access that via you know some other
+method over a network like a map network
+drive from your computer which would be
+unusual sort of uh then you don't
+actually have to have MFA to get into
+the local computer if you're a standard
+user not an admin user okay so there is
+this loophole from for basically
+standard users on the network where they
+don't actually have to have MFA to sign
+in their computer a lot of people miss
+that all right your buddy Mike this guy
+okay hooking you up trying to make life
+a little bit easier at least all right
+let's jump into what the assessors are
+looking for on this one and try to not
+hit any potholes
+now four things they're assessing for
+one determine if privileged accounts are
+identified that's pretty easy right of
+course they're identified you look at
+active directory and boom there's a you
+know uh people in the admin Security
+Group and people not in the admin
+Security Group as an example all right
+session Point number two determine if
+multi-factor authentication is
+implemented for local access to
+privileged accounts so again if you're
+an administrator okay and if the system
+you're logging into has cui you must
+have MFA implemented for all accounts
+able to access cui all right pretty
+straightforward determine if
+multi-factor authentication is
+implemented for network access to
+privileged accounts okay now we're going
+over a network to a privileged account
+okay MFA is implemented for all accounts
+able to access cui would be a really
+great answer if you have it or MFA is
+enabled on all accounts which have
+network access to cui that'd be another
+good answer both those are acceptable
+now final final assessment point in
+terms multi-factor authentication
+implant for network access to
+non-probo's accounts so if you're on a
+network let's say you're in a domain
+you've got your computer you got a
+server the server's got cui on it you're
+going to need MFA in order to open up
+that map network drive so you can either
+do it that way you can do MFA on sign
+into the computer whatever you want to
+do but MFA has to be somewhere in the
+equation before you touch cui if it's
+over the network note that they are not
+assessing whether you have MFA on your
+local machine or not that's not an
+assessment point because that's not
+right again you can have cui on your
+local device you can do that you can
+physically secure that device which is
+the alternative to MFA but if it's okay
+what over the network or it's a
+privileged account you got to have MFA
+if you're scratching your head
+if you're scratching something else
+and
+you're trying to figure out what am I
+going to do
+it's not a multi-factor authentication
+on my network seems like a
+head scratcher a giant burden maybe
+something really tough to do here's the
+good news uh an on-call we work with
+defense contractors just like you who
+have had this D fars nist itar and cmmc
+compliance stuff dropped into their
+lapsed like a seal on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminate any gaps gray areas
+and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to land more
+Defense work with higher profit margins
+now that is what becoming an on-call
+compliance hero can do for you
+and if you want more help getting
+compliant our compliance experts are
+always on call for you all right visit
+cmmccompliancecrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you or my
+incredibly disgusting burps help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance help
+as soon as our compliances roll it out
+until the next compliance tip my friends
+stay safe and secure out there and hit
+us in the comments below to let us know
+what you'd like to know more about when
+it comes to information security and
+compliance I'll see you on the next one
+
+thank you

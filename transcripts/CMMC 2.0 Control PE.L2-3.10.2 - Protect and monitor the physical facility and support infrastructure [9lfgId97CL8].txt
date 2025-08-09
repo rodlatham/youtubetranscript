@@ -1,0 +1,181 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+pe.l2-3.10.2 protect and monitor the
+physical facility and support
+infrastructure for organizational
+systems
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone try to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it okay two things to break down here
+physical facility uh and then there's
+the support infrastructure all right two
+different things two more things to
+break down you have to do with them
+protect them and monitor them to very
+different things okay so a couple of
+real life examples here I personally
+think is very very very hard to
+adequately monitor a physical facility
+without having a camera system to do it
+we were asked all the time uh why we
+recommend camera systems uh when we're
+putting together plans of actual
+milestones for people and this is the
+control where we look at it we go hey
+look I don't know how else you could
+really adequately monitor the physical
+premise and look there's all kinds of
+other great benefits to account camera
+system like you know stopping theft
+being able to ID people finding out if
+you have tailgaters and things like that
+I really can't emphasize you know look
+it's really worth the investment you
+don't have to go get a crazy expensive
+one I mean heck they sell them for 200
+on Amazon these days
+so uh it doesn't have to cover
+everything so there's another misnomer
+okay camera system doesn't have to cover
+everything but we we've used the litmus
+test that the camera system really needs
+to cover the entrances the exits and the
+security sensitive areas which by the
+way uh you determine as a company what
+is a security sensitive area generally
+speaking things like uh Network closets
+or you know it rooms should definitely
+have a camera on them and any kind of
+really sensitive work areas where you're
+dealing with cui uh you know again it's
+up to the organization to be providing
+adequate security and determine what
+that means okay so there's some
+flexibility here
+short of that and I think it's pretty
+tough to monitor the physical premise
+okay protecting the physical facility is
+a little easier you can do that with
+locked doors and access control so the
+protect part's not so bad but the
+monitor part you gotta have camera
+system uh and uh again lots of different
+mechanisms for protecting right key fobs
+door locks biometric locks you name it
+all right do I think you can monitor and
+protect the facility or the
+infrastructure without a camera system
+well tell me how in the comments below
+if you think it's possible because uh
+just because you have evidence of a key
+fob access does not give you the ability
+to monitor the building access control
+is not monitoring okay let's see what
+the assessors are looking for on this
+one four things you're looking for one
+determine if the physical facility where
+organizational systems reside is
+protected a couple ways we can do it we
+can implement it via the physical
+premise security system which may
+include the dwarfobs an alarm system uh
+you know a camera system although this
+is all about determining if the physical
+facility uh is actually protected so
+cameras aren't going to protect they're
+going to monitor but again it is it is a
+deterrent so it does help assessment
+Point number two determine if this if
+the support infrastructure for
+organizational systems is protected this
+is implemented via the physical premise
+security system physical access systems
+uh again uh how is it protected again if
+you've got a MAG lock on the door to the
+server room really really tough to
+really get through that thing same thing
+uh in terms of uh you know the server
+room and even a lock and key right if
+there's a door there's a wall that's
+pretty good uh pretty good
+determine if the physical facility where
+organizational systems resides is
+monitored now this is again this is the
+assessment point where I think it's so
+hard to do this without a camera system
+uh again our answer to it in fact is
+implemented to be the physical premise
+security system camera system all right
+final assessment point is determine if
+the support infrastructure for
+organizational systems is monitored
+again not just the physical facility but
+now we're getting into the support
+infrastructure like the server room
+implemented via the physical private
+security system and the camera system
+specifically within it so again I think
+we find that it's really hard to give
+these answers without having a camera
+system in place if you don't have a
+camera system in your office keeping an
+eye on things I highly recommend it
+again it's just not that expensive
+anymore you know even just a few years
+ago it used to be really really
+expensive to get one of those major
+alarm companies actually give you a
+working camera setup but these days it's
+not so bad now uh if you're struggling
+with this stuff if you can't figure it
+out or if you have a day job which I
+know you do and it's probably not
+getting compliant the good news is that
+in on-call we work with defense
+contractors just like you who have had
+this dfars nist itar and cmmc compliance
+stuff dropped in their laps like a seal
+on a sunny day and we teach you how to
+level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon so they have more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmccompliant secrets.com
+or check out the bio below for links to
+get help right now if you love the
+content we're putting out here for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance nerds roll it out until the
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+thank you

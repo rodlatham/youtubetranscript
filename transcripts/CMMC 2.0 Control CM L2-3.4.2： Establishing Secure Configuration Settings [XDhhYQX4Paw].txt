@@ -1,0 +1,154 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrol
+
+cm.l2-3.4.2 establish and enforce
+security configuration settings for
+information technology products employed
+in organizational systems oh boy I know
+I'm excited too
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 1071 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so here we are cmmc control
+
+cm.l2-3.4.2 establish and enforce
+security configuration settings for
+information technology products employed
+in organizational systems yeah so how do
+we do that right well let's break it
+down in a few words first we have to
+establish which can be done via
+documentation of configuration settings
+then we have to show that what that they
+are enforced which can be done in
+various ways but likely the easiest way
+is to give the demonstrations of policy
+enforcement in other words have the
+assessor look over your shoulder and
+then show them the policy baby so think
+group policies showing that they're
+LinkedIn enforced as one as one small
+sample guys I'm have you ever been
+through this right but if you're an I.T
+guy right if you're a CEO stay tuned I'm
+gonna give you some good stuff but hang
+on because I'm gonna tell a story for
+the I.T people all right have you ever
+sat there and you're like looking over
+somebody's shoulder and you're looking
+at group policy and you're like hey man
+cool policy but um it doesn't do
+anything and the IT guy is like what do
+you mean I'm like well you didn't right
+click and actually enforce the thing or
+you didn't link it those things actually
+are necessary and believe it or not your
+assessors are going to look for that
+stuff so Mike's public service
+announcement for this week is go look at
+your group policy and go find out what's
+enforced and what's linked and make sure
+your group policies that you worked
+really hard to write are actually
+enforced all right now
+Public Service Announcement over just
+having a little bit of fun today let's
+check out what the assessors are looking
+for and how to make them happy first
+thing an assessor is looking for
+determine if security configuration
+settings for information technology
+products employed in the system are
+established and include the Baseline
+configuration so number one uh you could
+I mean so the written answer is easy on
+this all right see organizations Network
+documentation on file right so that's
+the easy answer to that one but again
+what are they looking for all right they
+want to know the security configuration
+settings uh are actually like
+established like they're in a policy or
+they're in documentation and that
+they're included in the Baseline
+configuration so again you got to make
+sure that stuff's in the actual
+documentation you're ready to show it to
+them be like hey this is our policy this
+is what we do uh these are the rules of
+our Network
+assessment Point number two determine if
+security configuration settings for
+information technology products employed
+in the system are enforced there it is I
+told you it was coming if you watched
+earlier this is why I implemented see
+organizations Network documentation on
+uh on file and shoulder surfing may be
+required to view evidence of current
+security configuration okay like at the
+end of the day a lot of these controls
+are not just gonna be like your cool off
+a cool awesome written answer it's also
+going to be that someone's going to come
+look over your shoulder during the
+actual certification assessment so uh
+there's a heads up on that now if you
+are a defense contractor I got a feeling
+you are and you are struggling to figure
+all this stuff out and you're watching
+like 20 of my videos I promise watching
+The Marvelous Mrs maisel and binging on
+that is way better than binging on this
+face I like it but not that much so if
+you're binging on my face it's a great
+time to remember that an on-call we work
+with defense contractors just like you
+who've had this D fars nist itar and
+cmmc compliant stuff drop their laughs
+like a seagull on a sunny day baby we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that is
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc complianceecrets.com
+or check out the Bible below for links
+to get help right now if you love the
+content we're putting up out here for
+you help help us out with a big thumbs
+up on that like button or even better
+smash the Subscribe button to get the
+latest compliance content as soon as our
+compliances rolled out until next
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+below and let us know what you'd like to
+know more about when it comes to
+information security and compliance I
+love it when you binge on my face but I
+like it even better when you call us and
+we can actually just get Hands-On and
+give you the help you really need and
+I'll see you on the next one
+foreign

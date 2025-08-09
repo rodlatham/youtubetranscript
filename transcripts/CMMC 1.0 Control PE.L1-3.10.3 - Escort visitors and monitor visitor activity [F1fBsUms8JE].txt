@@ -1,0 +1,135 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control pe.l
+2-3.10.3 escort visitors and monitor
+visitor activity a challenging thing in
+most offices
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all the cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it okay while this one seems pretty
+intuitive I think the reality is that
+most organizations today still do not do
+a good job of monitoring the activity of
+those people who are visitors that come
+on site let's be honest you're just too
+comfortable right so we want to make you
+a little bit less comfortable you're
+going to be doing business that is
+defense related work okay National
+Security level stuff you may not think
+that you are you may not think that what
+you do is so important but I promise
+it's a big deal so yes your private
+company and make may think to yourself
+yeah we just make widgets here or
+nothing to see here nobody would be
+interested in me but hey I can tell you
+have any level of success all right
+enough to be even doing the Defense work
+there are people including foreign
+agents and competitors that would love
+to know exactly how you operate and what
+you're up to if you have a visitor in
+the parking lot uh in the building
+rather escort them at all times anything
+short of doing that is a pretty big risk
+for a lot of things from slip and fall
+injuries to data exfiltration such as
+what we were trying to prevent with
+these standards okay just if you don't
+have an eyeball on them crazy stuff
+happens okay let's see what the assessor
+is looking for on this one so we can get
+a little more specific on what you got
+to do uh first assessment Point
+determine if visitors are escorted uh
+again obviously we want to make sure
+that our whole team is educated that if
+they're bringing a visit in the building
+that visitor's got to be basically duct
+tape to their side when they're in the
+building okay if we were to give an
+answer this we would say hey it's
+implemented per the it use and cyber
+security policy all visitors are
+escorted at all times while within the
+secure facility now second assessment
+Point determine if visitor activity is
+monitored all visitor activity is
+monitored by the visitors escort per the
+itu since cyber security policy so
+here's a big hint ding we use policies
+to dictate this Behavior you're going to
+need those policies because that's how
+you're going to prove to an assessor
+what it is your people are doing so if
+you don't have a policy that talks about
+how to handle visitors it's time to
+write one if you want to write one
+because it takes a whole bunch of time
+and you don't know how to write policies
+here's the good news give us a call and
+when we help our clients with compliance
+and are done for you format we actually
+just simply deliver all the policies and
+standard operating procedures complete
+really done for you so if policy is a
+thorn in your side we've got the answer
+now at on-call we work with defense
+contractors just like you who have had
+this dfars nist itar and cmmc compliance
+stuff dropped in their laps like a
+seagull on a sunny day and we teach you
+how to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon so they have more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you and that's what we want
+to help you with looking for more help
+getting compliant our compliance experts
+are always on call for you visit
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance nerds
+roll it out again we're putting these
+videos out here every day all day long
+every week there's always something new
+when it comes to compliance especially
+in in this year uh you know with so many
+sort of changes in Evolutions with cmmc
+you really want to get some new
+up-to-date source of information and we
+are that for you okay until the next
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+below to let us know what you want to
+know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+foreign
+
+all right

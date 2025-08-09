@@ -1,0 +1,128 @@
+Kind: captions
+Language: en
+
+USA
+let's do another one baby
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+mp.l2-3.8.6 Implement cryptographic
+mechanisms to protect the
+confidentiality of cui stored on digital
+media during transport unless otherwise
+protected by alternative physical
+safeguards
+WTF
+
+say if you're a defense contractor who's
+feeling overwhelmed tired and alone
+trying to understand all of this cmmc
+dfars and nist sp-800 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you
+you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's Don the
+cape and jump into it
+it's done to keep and jump into action I
+don't know sure good enough for me all
+right so I'm going to give you a brief
+lesson here on how to protect cui then
+go dive back into how to answer this
+control because it's all very relevant
+so like really what I'm saying is I'm
+going to do a Quentin Tarantino on how I
+answer this because it's way more fun
+than just giving you the answer here we
+go uh there are two count them one two
+ways to protect cui you guys know I love
+the count how can I let the count I love
+the count anyway if you don't know what
+the count is
+I'm counting you out uh look two ways to
+protect cui number one physical
+protection you've physically protected
+number two in situations where you
+cannot physically protect it which by
+the way is preferred you must encrypt it
+to protect it okay those are the only
+two ways to protect cui now that we
+understand that what this control is all
+about is making sure you understand that
+if cui is going to be digitally
+transported and email is an example then
+that email must be encrypted because you
+cannot physically protect an email
+during transmission
+vpns and wireless networks are other
+examples of this situation where
+encryption is required because you can't
+physically protect the cui as it's in
+transit through a VPN or a wireless
+network or any other situation like that
+all right let's dive in and see what the
+assessors are looking for on this one
+what are they looking for they're
+looking to determine if the
+confidentiality of cui stored on digital
+media is protected during transport
+using cryptographic mechanisms or
+alternative physical safeguards note
+that it does not say determine the
+confidence value of cui stored on
+digital media is protected during uh
+uh storage doesn't say that so it
+doesn't have to be encrypted in storage
+unless it's on a mobile device because
+there's a separate control for that but
+the point is is that it's only really
+concerned on this control uh with it
+during transport
+Implement cui stored on digital media is
+always physically protected via the it
+use and cyber security policy in
+addition the organization utilizes
+encrypted media during transport now
+that's optional but that's what we're
+doing to satisfy that control uh as we
+give the imaginary sample answer there
+all right so hey at on call we work with
+defense contractors just like you who
+have had this defar's nist itar and cmmc
+compliance stuff drop their laps like a
+seagull on a sunny day baby splat now we
+teach you how to level up and be a
+proper on call compliance hero to your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that is
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+the Subscribe button to make sure that
+you find out when the compliance stores
+at our company are rolling out that
+content and I said that backwards but
+I'm Gonna Roll With It forwards until
+the next compliance tip my friends stay
+safe and secure out there and hit us in
+the comments below to let us know what
+you'd like to know more about when it
+comes to information security and
+compliance boom I'll see you on the next
+one
+
+thank you anyway

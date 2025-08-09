@@ -1,0 +1,164 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control SI dot
+l2-3.14.3 monitor system security alerts
+and advisories and take action in
+response
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist sp80171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions we can help you
+transform into your company's on-call
+compliance hero
+let's jump into it in this control we
+get the express directive the Mandate
+that we must do what we already know
+we're supposed to be doing which in my
+opinion yes this control is absolutely
+needed I mean I think again everybody
+needs a reminder especially when it's
+something really important so what this
+is all about
+having reviewed hundreds of
+organizations and worked with thousands
+of I.T people over the years there's a
+fairly Universal pattern that exists I
+almost don't want to say it on camera
+but it really is that common the IT
+people are given a security directive
+they research and buy the solution and
+just as they get it set up and installed
+are pulled on to the next pants on fire
+emergency and never really customize or
+fully set up that security solution with
+the vendor support the way it's supposed
+to be and then a lot of times it's not
+even really reporting into their their
+ticketing systems or their email at all
+as a result the solution is never really
+being monitored it's actually being set
+up to go to the right excuse me it's not
+actually being set up uh to its optimal
+protection State and worse many times
+alerts are never actually being set up
+to go to the right place yuck but it
+happens all the time and if you are one
+of those overwhelmed I.T directors out
+there in this situation we feel your
+pain like I'm sending you my love but
+the pain is going to be a lot bigger if
+you don't go back and take whatever time
+is needed to get all this properly set
+up so look
+I know there's no one looking over your
+shoulder that's like you and me's little
+secret so take a minute
+all right I don't know tell them you
+need an in-service day or something take
+a day off but go get your Security
+Solutions set up correctly so that
+you're really monitoring what's going on
+and you're actually getting relevant
+alerts because if you don't do that I
+promise something silly is going to you
+know basically go right between the
+cracks and it's going to be a bad bad
+day in the office okay you won't be
+worrying about time off at that point
+you'll just be worrying about where your
+next job is going to be I don't want
+that to happen to you I just want you
+and your company to stay safe so look
+let's dive into specifics of how this
+should be done all right and take my
+warning because believe me it's it's
+with such frequency it's terrible
+all right three assessment points on
+this one determine if response actions
+to system uh security alerts and
+advisories are identified uh so again if
+we were to give a sample answer we would
+say it's identified via the IT service
+ticket system and incident response plan
+so we got a written policy it tells us
+how it should be handled and a technical
+system that does the work uh and of
+course it's reviewed based on risk
+management sop another policy that's
+going to basically say hey to manage
+risk properly we got to do this
+now next assessment Point determine if
+system security alerts and advisories
+are monitored uh implemented via daily
+iot operations management by the CIO
+again just an example here can be the
+CEO it could be all kinds of different
+people in this case we'll see the CIO
+which includes daily ongoing monitoring
+of information security operations
+including security alert and advisory
+monitoring and response
+third assessment Point determine if
+actions in response to system security
+alerts and advisories are taken so in
+other words do you actually take an
+action when you get the alert
+it sounds like really big Common Sense
+until you find out that there's broken
+pieces of the chain
+so if we were to give a sample answer on
+this one it would be implemented the IIT
+service ticket system and incident
+response plan reviewed based on risk
+management standard operating procedures
+okay all of those are essential elements
+to get you passed so hey an on-call we
+work with defense contractors just like
+you who have had this D fars nist itar
+and cmmc compliance stuff dropped into
+their laps like Oswego on a sunny day
+baby and we teach you how to level up
+and be a proper on-call compliance hero
+for your company eliminating gaps gray
+areas and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking to get help getting getting more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc complianceecrets.com where we give
+away all the secrets to getting
+compliant and getting ready for cmmc
+certification or check out the bio below
+for links to get help right now if you
+love the content I'm putting out here
+for you help us out with a big thumbs up
+on that like button or even better
+oh smash that subscribe button baby do
+it right now right now you've been
+delaying it for like the last four
+videos hit the Subscribe button because
+we make lots of awesome jokes and we
+have a lot of fun here and I guarantee
+you're never gonna have as much fun
+dealing with compliance as you are with
+us until the next Appliance tip my
+friends stay safe and secure out there
+hit us in the comments below to let us
+know what you'd like to know more about
+when it comes to information security
+and compliance and I'll see you on the
+next one

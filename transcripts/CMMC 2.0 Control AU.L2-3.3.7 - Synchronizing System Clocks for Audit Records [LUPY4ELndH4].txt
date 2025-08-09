@@ -1,0 +1,145 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions I'm
+back with another compliance tip of the
+week I know you're excited this week
+we're talking about cmfc control au.l
+2-3.3.7 provide a system capability that
+compares and synchronizes internal
+system clocks with an authoritative
+source to generate timestamps for audit
+records
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and missed SP 800171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it with both feet but with our socks on
+so hey in cmmccontrol au.l
+2-3.3.7 provide a system capability that
+compares and synchronizes internal
+system clocks with an authoritative
+source to generate timestamps for audit
+records now look this control is
+somewhat random it's kind of like thrown
+into this thing where they're really
+talking about the seam system there's
+several controls in the role that talk
+about you know logs and seam and
+auditing and things like that and so the
+big question is why is this here why do
+we care about a system clock in the
+middle talking about system auditing
+well it turns out that knowing that your
+seam alerts and time stamps are accurate
+is a really big deal when it comes to
+security if the timer clock is off on
+your security information it may cause
+you to miss important security
+information alerts such as a bad login
+at two o'clock in the morning right a
+great example is being able to track
+down
+um you know failed logins or system
+alerts or maybe even permission changes
+that are happening in all kinds of
+random times when they might not
+ordinarily happen so this can definitely
+be sort of hidden if your system clock
+time can be altered uh or is not
+synchronized with something by policy so
+again let's check out what the assessors
+are looking for on this one to make them
+happy
+so three things they're looking for
+number one is determine if an internal
+system clock are used to generate time
+stamps for audit records uh and again if
+we were to give like a sample answer
+there we would say hey look system
+clocks are set via Group Policy to
+utilize the domain controller as the
+authoritative time Source now it may not
+be in domain control in your network it
+could be a firewall it could be uh you
+know the computers are set to directly
+go to a Time server like nist dot or
+time.nist.gov or something like that so
+again there's a couple different answers
+you could have here in this example
+we're just going to use a domain
+controller because it's pretty handy in
+our little sample Network now the second
+thing you're going to look for is
+they're going to say hey determine if an
+authoritative source with which to
+compare and synchronize internal system
+clocks is specified in other words
+you're not just looking for something
+internally that could be manipulated but
+you're looking externally to something
+that can actually be specified so in our
+example we'll just okay hey it's in this
+standard so we'll grab a nist Time
+server because that's pretty handy right
+we'll look at time.nist.gov and uh we'll
+just have some group all policy in place
+to say that it's specified inside the
+group policy so third and final point of
+assessment is determine if internal
+system clocks used to generate time
+stamps for audit records are compared to
+and synchronized with the specified
+authoritative time Source we're going to
+say yes via Group Policy because group
+policy in a typical sort of small to
+mid-size network is going to be the easy
+way to have a place to specify that
+Network times Network time service so
+again that's where our internal clocks
+are all going to synchronize too
+now uh if you're looking for help with
+all this stuff and trying to figure out
+what these controls mean or you just
+really honestly want all this stuff done
+for you the good news is here at on call
+we work with defense contractors just
+like you who've had this defars nist
+itar and cmmc compliance stuff dropped
+in their laps like a seagull on a sunny
+day let me teach you how to level up and
+be a proper on-call compliance hero for
+your company eliminating gaps gray areas
+and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon slam more Defense
+work higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+that subscribe button to get the latest
+compliance content as soon as our
+compliance centers roll it out until the
+next compliance that my friends stay
+safe and secure out there and hit us in
+the comments below to let us know what
+you'd like to know more about when it
+comes to information security and
+compliance and I'll see you on the next
+one
+foreign

@@ -1,0 +1,101 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike Fred here with
+on call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about cmmc
+control
+scl23
+13.8 say that five times fast I dare you
+implement cryptographic uh mechanisms to
+prevent unauthorized disclosure of cui
+during transmission unless otherwise
+protected by alternative physical
+
+safeguards say hey if you're a defense
+contractor who's feeling overwhelmed
+tired and alone trying to understand all
+this cmmc DS and nist sp800 171
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on call compliance Solutions where we
+can help you transform into your
+company's on call compliance Hero Let's
+jump into it all right so uh I I had
+mentioned this in a previous video but
+here's how it all works there are two
+ways to protect cui one you can
+physically protect cui many examples of
+that such as securing it within Access
+Control areas uh Etc uh two you can
+encrypt it in situations where you
+cannot physically protect it such as
+vpns wireless networks Etc this is a
+specific control which mandates
+encryption be used when physical
+safeguards can't be used to learn more
+let's dive into the assessment points
+and how to make those assessors do the
+happy dance chaa all right uh assessment
+Point number one determine if
+cryptographic mechanisms intended to
+prevent unauthorized disclosure of cui
+are identified uh I don't know how do we
+answer that right so we might say hey
+examples are wireless encryption and VPN
+encryption and you may just have to show
+some configurations to an assessor uh
+next one determine if alternative
+physical safeguards intend to prevent
+unauthorized disclosure of cui are
+identified uh again uh examples are the
+physical premise security system and it
+and cyber security policy addressing
+physical safeguards for
+cui uh final one determine if either
+cryptographic mechanisms are or
+alternative physical safeguards are
+implemented to prevent unauthorized
+disclosure of cui during transmission
+again uh if this was implemented we
+would say hey test the VPN wireless
+access and physical premise security
+system or you know make like poker and
+show your cards right we're going to
+basically walk the accessor through our
+configurations and that's how we're
+going to approach this one and hey uh at
+on call we work with defense contractors
+just like you who have had this defs
+nist itar and cmmc compliance stuff
+dropped into their laps like a seagull
+on a sunny day we teach you how to level
+up and be a proper on call compliance
+hero for your company eliminating gaps
+Gray areas and getting this solved all
+while showing you how to leverage
+compliance as your secret weapon to land
+more Defense work with higher profit
+margins now that's what becoming an on
+call compliance hero can do for you and
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you visit cmmc
+compliance secrets.com or check out the
+bio below for links to get help right
+now and if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance owners
+roll it out until next compliance tip my
+friends stay safe and secure out there
+and let us know in the comments below
+what you'd like to know more about when
+it comes to information security and
+compliance I'll see you on the next
+
+one

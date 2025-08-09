@@ -1,0 +1,339 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder with
+on-call compliance Solutions and I'm
+back with another compliance tip of the
+week and you know what I'm gonna take
+you behind the scenes on how I make
+these videos well I just make them I
+just Freestyle right off the top of my
+head all right and you know what this
+week we're gonna freestyle but not in
+that way and we're gonna talk about cmmc
+control
+ca.l2-3.12.4 develop document and
+periodically update system security
+plans that describe system boundaries
+system environments of operation how
+security requirements are implemented
+and the relationships with or connection
+to other systems I couldn't find
+something more exciting to talk about if
+I tried
+
+thank you
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmoc
+Deep Bars and nist SP 10171 compliance
+stuff on top of an already colossal
+workload well I've got great news you
+found your home here in on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's dig into
+it okay so cmmc control
+
+ca.l2-3.12.4 I know you're excited to be
+here we're kind of a little bit like
+we're close to the end there's only two
+more control families to go
+you've watched a lot of my videos
+haven't you yeah
+develop document and periodically update
+system security plans that describe
+system boundaries system environments of
+operation how security requirements are
+implemented and the relationships with
+or connections to other systems it's a
+really really really long way of
+basically saying hey you need to write a
+system security plan and it would
+probably be a lot easier if they just
+gave you the format right but
+you have to go find that yourself
+well they sort of they sort of give it
+to you but anyway this control really
+defines everything you are supposed to
+be delivering in your system security
+plan if you're one of those people who
+just went through the controls in the
+SSP and didn't look at the top few
+sections oh boy an assessor is going to
+have a rude awakening for you my friend
+there is a lot of documentation required
+Beyond just these controls in order to
+prove that your system is properly
+documented so again if you're one of the
+people and again I'm guilty of it too
+when I first look at this thing all I
+went and did is I went I look on my holy
+crap 110 controls I'm gonna be here for
+a little while and then you figure out
+that like okay we can get through these
+but then
+you go I'm finished and then you realize
+oh man there's like four pages of
+requirements before you even get to the
+first control so fair warning read the
+whole thing okay or you just call us and
+we take care of it for you all right
+let's get into the details of what the
+assessors are looking for here to make
+sure you got a system security plan oh
+my God that's really small font and I
+think this is the one you're talking
+about but anyway the point is I'm gonna
+try to read you like these 15 different
+assessment points and they're really
+small so if I look like I'm squinting
+it's because I am because that's how we
+roll there's no time for editing here
+just roll with it all right what are
+they looking for all right first thing
+is determine if a system security plan
+is developed uh well
+give me your system security plan just
+show it to them show me the money right
+that's all we got to do there all right
+second thing they're looking for
+determine if the system boundary is
+described and documented in the system
+security plan well look the way we do is
+we have a little line that says see
+attached documentation and we just like
+dump a folder right onto the assessor
+okay so again you're gonna have your
+full you know all of your Baseline
+configurations all your network diagrams
+all of your system inventories like all
+the stuff that they're asking for in the
+first two sections of the system
+security plan you just say here here you
+go go through it there's your proof it's
+there you do have that right like
+everything in your network is totally
+documented the way it's supposed to be
+right
+hope so it's not you know who to call
+they'll call song call for nothing all
+right Point number three they're looking
+for to determine if the system
+environment of operation is described
+and documented in the system security
+plan so again you're really just showing
+up documentation here's the good news
+I'm going to tell you the assessment
+points here but the answer is going to
+be the same you better show them the
+evidence you better show them the money
+you better show them those system
+security plans and all the supporting
+documentation there all right session
+Point number four determine if the
+security requirements identified and
+approved by the designated Authority as
+non-applicable are identified so again
+if there is an authority okay and if
+there are security requirements uh that
+have been identified and that they are
+improved as non-applicable so in other
+words this is all the N A stuff in your
+plan you see there's like three boxes
+there's like implemented not implemented
+then n a we really try hard to not have
+anything n a because that gets super
+questioned uh by any assessor because
+they're like well surely this applies to
+you uh ultimately again they're going to
+want to know who's the authoritative
+person that allowed you to put n a there
+as an answer and let's go talk to that
+person I know this is like really fun
+isn't it uh so again we're going to show
+the documentation and it's probably for
+that one it's probably gonna be an
+interview with the person who may be an
+authority maybe it's an I.T director
+maybe they got to go above the it
+director's head if that's the guy that
+filled out the plan but again they're
+just going to want to check in and say
+hey is it cool this is not applicable
+does this make sense in your environment
+and again it's more of a conversation
+more of an interview style thing
+next one determine if the method of
+security requirement implementation
+is described and documented in the
+system security plan I'm going to make a
+little joke here because whoever wrote
+this stuff okay whoever wrote These
+requirements definitely did not adhere
+to the politicians third grade reading
+level requirement all right method of
+security requirement implementation I
+don't know what that means I'm just not
+that smart but somebody on my staff
+figured out that's the good news all
+right because I got a really amazing
+team and they figure everything out for
+you guys now what's the answer to this
+one again we're just going to say hey go
+see the documentation okay the
+documentation is where the answers to
+all of this are going to lie it's going
+to be how we do what we do on this
+particular assessment point so again I
+can't tell you what it means I can just
+tell you what the answer is I'm just
+kidding guys you know what the rule is
+go see the documentation now the next
+assessment Point determine if the
+relationship with or connection to other
+systems is described and documented in
+the system security plan so again yes
+that's why I don't know if you guys have
+seen the video but we have a video that
+talks about you know us contra virtually
+inserting definitions into the first
+part of our system security plan we
+always do it and our goal actually is
+not because it's required but because it
+just makes the Assessor's life easier
+well interestingly we got this idea from
+this assessment point right because if
+we can show the relationship which you
+can't necessarily show by answering the
+control questions then we give them some
+rationale about where it should be so
+again you're going to say that's
+implemented see the documentation it's
+going to be basically an assessor
+reviewing what you've got there and yes
+in your system security plan you should
+have boundaries described you should
+have all these things done already in
+your network documentation if you don't
+have it if you're struggling to put
+together Network documentation feel free
+to call us okay we can definitely help
+out with that now next assessment Point
+determine if the frequency to update the
+system security plan is defined ah now
+this is an interesting one it turns out
+not only do we have to have a system
+security plan but we also have to have a
+designated interval where we're actually
+updating this and this is where um again
+I'll kind of speak just how we solve it
+we have this thing called a virtual
+compliance officer service it's amazing
+basically we come in and run compliance
+for our clients because there are just
+so many assessment points that you're
+going to be evaluated on that are
+dependent upon you integrating this as a
+part of your day-to-day operation here's
+an example you literally have to be
+updating your system security plan you
+have to have that sort of defined
+frequency
+which also translates into someone's got
+to do it so if it's not gonna be someone
+on your team it can be someone on our
+team or our team will actually do the
+review with you which is what we do a
+lot of times during our quarterly risk
+management meetings and other uh other
+forms where it makes sense to actually
+go and look at and review system
+security plans and make sure they're
+updated how often do you do that you
+know what I'm gonna be honest with you
+they don't really Define that precisely
+but I will say for sure once a year
+probably a little bit more often than
+that if you're a larger company uh
+typical thing we do with large clients
+is usually a quarterly so a lot of
+information there okay determinive
+system security plan is updated with the
+defined frequency so again making sure
+the system security plan actually does
+get implemented excuse me updated from
+time to time and of course again we can
+reflect back to various forms of
+documentation such as you know again if
+you do it in a risk management if you do
+it in a DeForest nist meeting whatever
+you choose your Forum to be to review
+all of this that would be where you
+would do this updating and also where
+you would Define the frequency of how
+often it's done now if your head is
+spinning from all the stuff you didn't
+even know that you had to actually do
+the system security plan or you just
+wish you didn't have to be watching my
+videos while you're running on the
+treadmill or riding your bike or
+riding into work or whatever you do when
+you listen to me talk about this
+incredibly exciting subject matter the
+good news is we help people just like
+you you we can end the struggle you and
+me all you got to do
+is go to cmmccomplianceeekers.com that's
+it that's all you gotta do you go to the
+website schedule some time with one of
+my experts these guys are awesome
+They're Gonna Roll with you and they're
+going to take care of everything start
+to finish okay because we work with
+defense contractors just like you who've
+had all this defars nist itar and CMC
+compliance stuff dropped onto their
+heads like I see go on a sunny day and
+it's not fun you wish you could seagull
+on somebody else seagull on us we love
+it we're like a mushroom we put us in
+the dark and feed us you know what and
+we're going to grow and Blossom into
+something beautiful that's going to
+fertilize your lawn
+while we teach you how to level up and
+be a proper on-call compliance hero for
+your company eliminated gaps gray areas
+and getting this solved all while
+showing you how to leverage compliance
+as your secret weapon to land more
+Defense work with higher profit margins
+and that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit
+cmmccomplianceecrets.com or check out
+the bio below for links that'll help you
+get help right now you don't have to
+wait you don't have to wait for the
+mushroom to bloom we can go for it right
+now it's like your one-up token
+I might have seen the Mario movie with
+my kids this weekend all right if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+the Subscribe button hit the latest
+compliance content as soon as our
+complianceers roll it out
+until the next compliance tip my friends
+stay safe and secure out there and hit
+us in the comments below to let us know
+what you'd like to know more about when
+it comes to information security and
+compliance I'll see you on the next one
+
+thank you

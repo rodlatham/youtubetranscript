@@ -1,0 +1,162 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control PE dot
+l2-3.10.1 limit physical access to
+organizational systems equipment and the
+respective operating environments to
+authorized individuals
+
+say hey if you're a defense contractor
+is feeling overwhelmed tired and alone
+trying to understand all this cmmc dfars
+and nist SP 10171 compliance stuff on
+top of an already colossal workload well
+I've got green news for you you found
+your home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it all
+right so here's the classic example here
+you're doing you're doing a walk through
+there's a network closet with a couple
+of core switches in it the assessor
+innocently brushes by the network cage
+and the door swings open oh big problem
+yes you must secure network equipment
+away from non-authorized users so a few
+examples locked Network closets racks
+server rooms Etc you can't just let
+anybody have access to the network
+infrastructure okay that's a control
+it's a requirement what about the
+network ports themselves well you don't
+have to physically lock them down but I
+do think you'll find that it is much
+more secure when you have real Port
+control and can stop someone from
+entering the area and just plug in a
+device for sure they should not be able
+to get on the network Itself by just
+having physical access to the port and
+again all these things are under
+consideration here again there is
+another control uh in nist sp800 171
+that talks about having Port control so
+I won't dive into that here but I will
+make mention of it uh let's dive into
+detail with what the assessors are
+looking for on this one so four things
+you're looking for number one determine
+if authorized individuals allowed
+physical access are identified so do we
+know who actually is supposed to have
+access to where the infrastructure is uh
+this is you know if I was going to give
+a sample answer I'd say Hey look it's
+implemented via access control system
+okay the fob or even physical keys right
+that's probably maybe more of a reality
+is it's a physical key on the server
+room and keypad Access Control within
+the physical premise security system so
+lots of different options there we kind
+of just throw you a big Smorgasbord of
+different ways we can do access control
+second assessment Point determine if
+physical access to organizational
+systems is limited to authorized
+individuals in other words can just
+anybody walk in there or is it just
+limited to those people who should be
+this is implemented physical access is
+restricted via the physical premise
+security system okay pretty
+straightforward and simple and physical
+access uh the physical security system
+is going to lock anybody out of those
+areas that they don't have access
+control into again you can give a
+demonstration to an assessor there
+determine if physical access to
+equipment is limited to authorized
+individuals again sounds the same but
+now we're talking about access to
+equipment versus organizational systems
+okay so physical access the equipment
+again same answer though implemented
+physical access is restricted via the
+physical premise security system again
+all of those things are typically going
+to be in some kind of a locked room or
+at least an access control room or
+something like that even in small
+businesses uh final assessment Point
+determine a physical access to operating
+environments is limited to authorized
+individuals now if this these assessment
+points really start to sound redundant
+to you it's because they're really close
+to each other point one is determined if
+authorized individuals are allowed
+physical access are identified do we
+know who they are then the fourth one is
+determinative physical access to
+operating environments is limited to
+authorized individuals that's the
+environment you're actually operating in
+okay they could be the same that could
+be different keep in mind Network
+infrastructure may be in one place where
+your operating could be another so
+implemented physical access to uh is
+restricted via the physical private
+security system here's a great example
+if you're working with a cui related
+project you may not want everybody in
+your entire company in there okay you
+may have to restrict access if only
+those users who have been trained on cui
+handling uh and again this is the
+control that sort of checks for that now
+uh if you're struggling with this stuff
+or you're just really not sure how to
+implement it in your own company the
+good news is at on-call we work with
+defense contractors just like like you
+who have had this defars nist itar and
+cmmc compliance stuff dropped into their
+laps like a seagull on a sunny day and
+we teach you how to level up and be a
+proper on-call compliance hero for your
+company limiting gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance
+secrets.com or check out the bio below
+for links where you can get help right
+now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash that subscribe
+button because that's the way to get the
+latest compliance content as soon as we
+put it out until the next compliance tip
+my friends stay safe and secure out
+there and hit us in the comments below
+to let us know what you'd like to know
+more about when it comes to information
+security and compliance and I'll see you
+on the next one
+
+thank you

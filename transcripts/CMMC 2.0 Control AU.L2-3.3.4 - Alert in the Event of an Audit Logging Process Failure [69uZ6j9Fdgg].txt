@@ -1,0 +1,138 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week besides sweating
+we're talking about cmmccontrol au.l
+2-3.3.4 Alert in the event of an audit
+logging process failure and speaking of
+a failure I have a failure to put on
+deodorant before I came and started
+shooting videos under incredibly warm
+spotlights and I'm about to gas my
+camera guy out but you guys get to watch
+this video without smell-o-vision
+
+thank you
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist sp-80171 compliant
+stuff on top of an already colossal
+workload well I've got great news for
+you I actually did not forget to put on
+deodorant today but it does still stink
+in here and we just need to open a door
+just kidding you found your home here at
+on-call compliance Solutions we can help
+you transform into your on your
+company's on-call compliance hero and
+not stink so bad let's jump into it so
+in cmmc control
+
+au.l1-3.3.4 Alert in the event of an
+audit logging process failure so this
+control Dives even deeper into the
+required functionality of the seam
+system
+okay seam systems need to be able to
+alert you to when there is an issue
+causing the system to not work correctly
+otherwise how would you know when there
+has been tampering with or a malfunction
+in your security system right so again
+we have to have a tamper-proof system so
+how do we do that well let's check out
+what the assessors are really looking
+for here and how to make them happy
+all right three assessment points number
+one determinive Personnel or roles to be
+alerted in the event of an audit logging
+process failure are identified now this
+one's actually pretty easy it sounds a
+little intimidating when you first read
+it but as it turns out hey look you've
+probably got a seam system right right
+if not call us we can help all right
+Implement BSC solution only authorize
+team administrators receive these alerts
+so again we are defining who's getting
+those alerts and all we have to do
+really is just sort of give a
+demonstration show them what the role is
+of the administrator standard user in
+our seam system you know whatever it may
+be now number two determine if types of
+audit logging process failures for which
+alert will be generated are defined
+again implemented via seam solution the
+seam solution alert alerts seam admins
+to audit logging process failures so
+again we can clearly demonstrate this by
+allowing in the same system showing them
+these are admin users that have access
+to it and that they are getting the
+alerts uh Point number three determine
+if identified Personnel or roles are
+alerted in the event of an audit logging
+process failure
+now this is an interesting one right a
+little bit different uh now it is hey
+does your seam system alert you if
+there's an actual failure to get the
+logs from the endpoints or if there's a
+failure in its own system right that is
+a necessary part of a seam system when
+complying with nist SP 800171 and of
+course cmmc so again we'll say hey
+Implement via the same solution the same
+solution alerts seem admins to audio
+logging process failures I'm gonna be
+honest this is a very interesting one to
+prove uh you know normally these things
+are pretty straightforward kind of
+self-service if you will I have found
+that with a lot of seam systems the only
+way to really prove this is honestly
+with a support ticket into the vendor to
+ask what their policies are so it is a
+little bit challenging uh and it's not
+always something that's really super uh
+sort of at your hands but again we found
+that again a simple support ticket may
+be your answer there now here's the good
+news uh if you're a defense contractor
+we can help out with all of this
+compliance stuff okay because we work
+with defense contractors just like you
+who've had this dfars nist itar and cmmc
+compliance stuff dropped in their laps
+like a seagull on a sunny day we teach
+you how to level up and be a proper
+on-call compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance as your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc compliance secrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better Hulk smash that subscribe
+button to get the latest compliance
+content as soon as our compliances roll
+it out until next compliance tip my
+friends stay safe and secure out there
+hit us in the comments below to let us
+know what you'd like to know more about
+when it comes to information security
+and compliance I'll see you on the next
+one

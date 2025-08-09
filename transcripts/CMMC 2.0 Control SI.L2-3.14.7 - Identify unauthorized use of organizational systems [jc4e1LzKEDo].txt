@@ -1,0 +1,141 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week you guessed it baby we're on
+the last control
+unless you start backwards cmmc control
+SI dot
+l2-3.14.7 that's how I went to Harry
+Potter I don't know about you guys when
+we read Harry Potter we decided to read
+it backwards from the last book to the
+first book and it made no sense at all
+so you probably actually this is
+probably your last control I hope but
+stay tuned because we've got a lot more
+information there's a lot more than just
+the controls you have to comply with so
+uh again most importantly let's go
+figure out how to solve three fourteen
+seven identify unauthorized use of
+organizational systems
+
+thank you
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 800171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here in on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it baby both feet all the way let's get
+it done all right the final control the
+last two raw the end of the road the
+race to the Finish it's all within sight
+I personally love that the last control
+is a call out to summarize all the
+previous controls the best they could do
+it all right in this control we must
+demonstrate that we have the ability to
+recognize threats to cui and to our
+systems they want to know that after
+everything else the end result is that
+you can recognize uh before something
+bad happens that you have a problem and
+I think it's a brilliantly ordered uh
+thing you know to make this the last
+control let's Dive In the assessment
+points to discover how they want this
+answered answer formatted and answered
+for
+two things you're looking for okay
+determine if authorized use of the
+system is defined
+implemented via the it use and cyber
+security policy firewall policies
+endpoint management policies there's a
+lot that goes into this but ultimately
+if we're following all of our policies
+and if our systems are firing off the
+way that they should be firing uh we
+should be able to have a clear
+definition of when uh system uses
+authorized versus unauthorized so again
+there's a lot of different places that
+will look there but that's a good answer
+second assessment Point determine if
+unauthorized use of the system is
+identified so first is to turn if it's
+authorized second if it's unauthorized
+again here we're going to say Implement
+via the it use and cyber security policy
+firewall policies and endpoint
+management policies along with our seam
+solution triggering our ticketing system
+when unauthorized use may be detected
+okay that's key in that answer because
+again all of those alerts combine and
+compile and they should raise the red
+flags that you need to go investigate
+something that it might be on authorized
+eyes and that's the way to answer that
+control
+so hey an on-call we work with defense
+contractors just like you who have had
+this defars nist itar and CMC compliance
+stuff dropped in their laps like a
+seagull on a sunny day and we teach you
+how to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliances your secret weapon
+to land more Defense work with higher
+profit margins now that's what becoming
+on-call compliance hero can do for you
+and the great news is if you've been
+banging your head against the wall for
+six months 18 months two years guys
+that's normally how long it takes I want
+to help you in two to three days okay
+most small to mid-sized companies under
+a thousand employees we're knocking this
+out in two to three days larger
+companies yeah it's gonna take a little
+bit longer we're still the fastest most
+efficient highest quality solution there
+is to getting compliance solved for you
+and even if you want managing it on an
+ongoing basis again this is what we eat
+sleep live and breathe if you're looking
+for more help getting compliant our
+compliance experts are always on call
+for you visit cmfc complianceecrets.com
+check out the bio below for links to get
+help right now if you love the content
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance starts roll it out again
+while this may be the last control
+because we're constantly putting out
+videos we're constantly answering
+questions uh we're putting out tons and
+tons of new content every day and it's
+not going to stop now it's only going to
+get better all right Better Together
+hey until the next compliance hit my
+friends stay safe and secure out there
+hit us in the comments below to let us
+know what you'd like to know more about
+when it comes to information security
+and compliance and I'll see you on the
+next one

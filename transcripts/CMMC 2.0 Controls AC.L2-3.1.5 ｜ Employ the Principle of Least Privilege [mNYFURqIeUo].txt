@@ -1,0 +1,157 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+steam MC control
+
+ac.l2-3.1.5 employ the principle of
+least privilege including for specific
+security functions and privileged
+accounts
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance hero alright let's
+jump into it in an ideal and secure
+world you should only be able to do what
+you're allowed to do and nothing else
+or you go to jail no the goal of cmmc
+control ac.l2-3.1.4
+
+employee principle of least privilege
+including for specific security
+functions and privileged accounts is to
+absolutely limit
+authorize users to only be being able to
+do the things which are required to
+complete their required job duties any
+further access or capability is simply
+no bueno not allowed not necessary and
+because of that being able to do what is
+not necessary brings about a higher
+level of security access and risk to
+information than necessary in essence
+this is the first control we really
+begin to see the necessity of real true
+risk management coming into play with
+cmmc now if I was an assessor there's
+three points that I would be assessing
+on okay the first one is I would
+determine if privileged accounts are
+identified in other words is there some
+way to figure out that this account has
+more privileges or is privileged versus
+a standard user account if I was to give
+a sample answer I would say something
+like privileged accounts or identify
+within active directory and privileged
+identity management if you're using like
+an Azure uh privileged identity
+management service there's a lot of
+answers uh you know to how you could
+answer that but that's maybe one of the
+simpler ones now determinive access to
+privileged accounts is authorized in
+accordance with principal of Lee's
+privilege uh again the idea there being
+hey do you get just the least amount of
+privilege that you need to do your job
+uh and if I was to give a sample answer
+there I would say privileged accounts
+are only granted based upon requirement
+of assigned job duties access to
+privileged accounts is only authorized
+through the it ticketing system by the
+organization's I don't know chief
+operations officer or uh you know
+whoever the information system owner is
+there's got to be some Authority on who
+gets access and there needs to be some
+sort of chain of command there
+assessment point would be determining if
+security functions are actually defined
+so if I was going to Define security
+functions I would say hey security
+functions are identified uh via the
+entitlement lifecycle management process
+and access reviews now if you're not
+familiar with entitlement lifecycle
+management you can Google it it's a
+Microsoft thing now that was the answer
+you know that we kind of came up with
+for this little sample equation here but
+there's lots and lots of ways to do this
+right so determining if security
+functions are identified again it could
+be a written policy it could be you know
+looking perhaps maybe at the way that
+active directory is structured do you
+have different security groups you know
+with definitions on the security groups
+and active directory and then the access
+reviews part is hey is somebody
+periodically reviewing what's going on
+with say active directory in that
+example and actually seeing that those
+people only have the access that they
+need that if you can show all that that
+is when you'll pass this control and
+make sure that you're uh that you've met
+your requirements now if you're
+scratching your head if uh if you're
+scratching other body parts I can't help
+you there but uh and on call what I can
+tell you is we work with defense
+contractors just like you who have had
+this D fars nist itar and cmmc compliant
+stuff dropping their laugh like a
+seagull on a sunny day we teach you how
+to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you and it probably won't really
+actually solve you from being itchy but
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you visit
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out there for you help us out
+like really please help us out help us
+out with a big thumbs up on that like
+button just go ahead and hit it right
+now for even better smash the Subscribe
+button baby all right we got hundreds
+and hundreds and hundreds of subscribers
+and we're trying to get hundreds and
+hundreds and thousands more hey you know
+what we put this stuff out here for free
+and if it helped you we'd love a little
+subscribe love it really helps us out uh
+again to get the latest compliance
+content as soon as our compliance Center
+is rolling out uh until the next
+compliance tip my friends stay safe and
+secure out there and only as secure as
+you're allowed to be uh and hit us in
+the comments below to let us know what
+you'd like to know more about when it
+comes to information security and
+compliance and you know what I'll see
+you on the next one

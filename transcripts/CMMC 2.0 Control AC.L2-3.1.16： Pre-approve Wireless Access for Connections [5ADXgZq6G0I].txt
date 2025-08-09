@@ -1,0 +1,96 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrol
+
+ac.l2-3-1.16 you got that right
+authorized wireless access prior to
+allowing such connections
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist sp80171 compliant stuff
+on top of an already colossal workload
+well I've got great news for you you've
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so in cmmc control
+
+ac.l2-3.1.16 authorized wireless access
+prior to allowing such connections what
+does this mean what does it mean well it
+means no open wireless networks are
+allowed you have to have a password
+token Etc but you just can't have open
+wireless networks all right we're
+talking about cui here even if you have
+a big giant secure building that
+controls mandate that authentication is
+required let's check out what the ask
+what the assessors are looking for and
+how to make them happy on this one
+so if I'm an assessor the first thing
+I'm looking for is one determine if
+wireless access points are identified
+are they of course they are right
+there's an SSID wireless network
+controller system identifies all
+wireless access points including both
+authorized and unauthorized that's a
+good sample answer so who knows maybe
+you're using a ubiquity system or a
+Cisco system and that system's
+identifying the wireless access points
+might also be good if you've got
+something to detect Rogue access points
+as well now the second thing that
+they're looking for is determining if
+wireless access is authorized prior to
+allowing such Connections in other words
+did somebody or something authorize you
+to actually get that wireless access now
+if I was going to create a sample answer
+I might say something like no wireless
+access is possible without authorization
+via input of a secure password or maybe
+a token or something like that
+so uh and on call we work with defense
+contractors just like you who have had
+this D fars nist itar and cmmc
+compliance stuff dropped in their laps
+like a seagull on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to Landing more Defense
+work with higher profit margins now
+that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you because CMC compliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+the Subscribe button to get the latest
+compliance content as soon as our
+compliances roll it out until the next
+compliance tip my friends stay safe and
+secure out there and hit us up in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+all right

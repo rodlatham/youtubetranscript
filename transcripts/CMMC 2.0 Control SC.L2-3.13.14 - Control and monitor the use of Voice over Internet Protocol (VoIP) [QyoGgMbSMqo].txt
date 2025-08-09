@@ -1,0 +1,118 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder back
+with on-call compliance Solutions and
+I'm here with the compliance tip of the
+week this week we're talking about cmmc
+control
+
+sc.l2-3.13.14 control monitor the use of
+voice over IP Internet Protocol
+Technologies
+because everybody needs a little
+eavesdropping
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all the cmmc
+dvars and this SP Hunter 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so this is a challenging control to
+understand almost because it is too
+intuitive it's not a trick question as
+many people in the past had assumed what
+they're ultimately looking for is to
+understand how your voice over IP system
+works and how you control a monitor who
+is using it and what's being done with
+it so understand how to solve this
+better let's dive into the assessment
+points which I think will make it much
+easier to explain by the way if you
+don't have any Voiceover IP technology
+in place well you might want to think
+twice because things like zoom and teams
+and WebEx those are all Voiceover IP
+Technologies so uh you probably use them
+somewhere in your business it might just
+be a physical it might just not be a
+physical telephone so what are they
+looking for one determine if use of
+voice over IP protocol Technologies is
+controlled
+what does a sample answer look like well
+we might say the organization utilizes
+voice over IP phones uh you know just
+because it's easier to give an example
+when you do use them which utilize
+encryption and is set to require
+passwords on voicemail boxes the phone
+system is controlled by the voice uh
+voice over IP system administrator VoIP
+phone system access is only possible
+within the physical premise right that's
+pretty normal and no cui is stored on
+voicemail per company policy so again
+there's a policy in there too but again
+also only authorized devices are allowed
+to connect to the phone system right so
+things that have been activated and Mac
+address onboarded and things like that
+now second control Point determine if
+use of voice over IP Technologies is
+monitored Voiceover IP system is
+monitored by the IT team via automated
+system alerts which are sent via email
+and based on issue severity added to the
+it ticketing system for review and
+problem resolution that's one possible
+answer we could also say hey look
+um you know Voiceover IP system is going
+to email alerts directly to somebody
+yeah maybe the 84 the VoIP phone system
+administrator lots of different ways to
+monitor that stuff again it's all about
+how your system is set up so that answer
+should be customized into uh you know
+your own company and hey if you need
+help doing that the good news is that on
+on call we work with defense contractors
+just like you to do exactly that
+especially when they've had this dfars
+nist itar and cmmc compliance stuff
+dropped into their laps like a seagull
+on a sunny day we teach you how to level
+up and be a proper on-call compliance
+hero for your company eliminating gaps
+great areas and getting this solved all
+while showing you how to leverage
+compliance is your secret weapon to land
+more Defense work with higher profit
+margins now that's what becoming an
+on-call compliance hero can do for you
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you visit cmmc
+complianceecrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash that subscribe
+button to get the latest compliance
+content as soon as our compliance runs
+roll it out until next compliance my
+friends stay safe and secure out there
+and hit us in the comments below to let
+us know what you'd like to know more
+about when it comes to information
+security and compliance I'll see you on
+the next one
+
+foreign

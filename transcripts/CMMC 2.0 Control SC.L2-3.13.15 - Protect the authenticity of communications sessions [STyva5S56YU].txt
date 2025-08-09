@@ -1,0 +1,111 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with Hong Kong compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+
+sc.l2-3.13.15 protect the authenticity
+of communication sessions
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist sp800 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you if you found your home here at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it so uh here's a question is
+it really you I mean is it you are you
+sure it's you this control relates to
+making sure that users and their
+communication actions are verified
+somehow typically this is done by making
+sure a user has to log in before being
+able to communicate and another method
+is by only allowing devices which have
+been pre-verified to be acceptable such
+as logging a phone into a phone system
+via Mac address as is common in most
+VoIP systems let's drill into what the
+assessor is really looking for on this
+one and I think the right answers will
+make themselves obvious so what are they
+looking for looking to determine if the
+authenticity of communication sessions
+is protected how do we do that a lot of
+different ways
+uh so it could be via uh multi-factor
+authentication on communication sessions
+uh uh and encryption certificates which
+are verified to be implemented and
+working correctly by it administrators
+uh where required of course uh to
+protect the authenticity of
+communication sessions under the
+company's management that's definitely a
+very relevant answer other ways are that
+you know you may have to only allow
+certain people with a password into an
+online meeting that's a great way to
+verify the authenticity is if you set up
+passwords on your Zoom meetings uh you
+know or teams another way is again you
+know teams verifying who can come via
+the email address of course that's one
+way and then finally you know again by
+only being allowed to use devices that
+are physically within a network that are
+hooked up to a Voiceover IP system is
+one other way although that one's kind
+of a little bit of a stretch unless
+you've got a password to actually use
+the phone but I have seen that feature
+so it's worth mentioning now if you are
+a defense contractor and you have just
+had this defars nist itar and cmmc
+compliance stuff dropped into your lap
+like a seagull on a sunny day or you're
+struggling Under the Mountain of
+policies that you've got to write and
+all of the struggle struggles you've got
+to go through just in order to figure
+out how to be compliant with this stuff
+the great news is we can help Okay we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmccompliance secrets.com
+or check out the bio below for links to
+get help right now if you love the
+content we're putting out here for you
+help us out with a big thumbs up on that
+like button or even better You Guessed
+It smash the Subscribe button to get the
+latest compliance content as soon as our
+compliance centers roll it out and I
+gotta tell you every time we hit a new
+subscriber we jump for joy around here
+hit the gong it's a big win and you know
+what everybody's having a party until
+the next compliance tip my friends stay
+safe and secure out there hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+foreign

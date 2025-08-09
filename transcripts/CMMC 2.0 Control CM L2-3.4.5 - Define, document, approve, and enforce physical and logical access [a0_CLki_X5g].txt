@@ -1,0 +1,175 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike freder here with
+on call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about cmmc
+control cm.
+l234 do5 Define document approve and
+enforce physical and logical access
+restrictions associated with changes to
+organizational
+
+systems so hey if you're a def
+contractor who's feeling overwhelmed
+tired and alone trying to understand all
+of this cmmc defs and nist sp800 171
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on call compliance Solutions where we
+can help you transform into your
+company's on call compliance Hero Let's
+jump into it so uh in cmmc control cm.
+l234 do5 Define document approve and
+enforce physical and logical access
+restrictions associated with changes to
+organization ation systems I got to tell
+you this is a big one and it's a control
+thing that is going to take more than
+just the IT department here because it's
+talking about both physical and logical
+security which means we've got to work
+together baby yes it physical security
+The Works we're all involved in this one
+and lots of things uh assessors are
+going to be looking for on this one so
+let's get straight into it let's check
+out the assessors are looking for on
+this one and I think that's the fastest
+way to know what will make them happy so
+uh first assessment Point determined
+physical access restrictions associated
+with changes to the system are defined
+so if we Define what physical access
+restrictions exist now again we've got a
+definition typically in our plan in the
+beginning that talks about all of the
+different elements of the physical uh
+physical security system things like
+door access swipes locking key cameras
+you name it so again that shortens up
+our answer and allows us to put a simple
+answer that says physical access
+restrictions are defined by the physical
+premise security system and again we
+should have a policy that says hey our
+physical premise security system uh
+contains these elements and that's how
+we know that we are properly protecting
+and can demonstrate that to an assessor
+so again very key is to have a physical
+security policy determined physical
+access restrictions associated with
+changes to the system are documented
+physical premise security is documented
+within the organization's physical
+premise security system documentation
+pretty simple and straightforward
+determine if physical access
+restrictions Associated uh with changes
+to the system are approved now we start
+getting into some more interesting
+things physical access restrictions are
+approved by the organization CIO who is
+in charge of the building's physical
+premise security so again now we're
+naming someone who is ultimately in
+charge of the building's physical
+security very important we got to have
+somebody who we can say is in charge of
+this next determinate physical access
+restrictions associated with changes to
+the system are enforced the building's
+physical premise security system is
+enforced active and is tested daily by
+all authorized users accessing the
+physical premise of course right every
+time you hit a door swipe that's a test
+to see if it's going to work every time
+you use a lock and key do we know if the
+key works every time we show up on
+camera the security camera the entrances
+exits in security sensitive areas well
+do the cameras pick us up and so that's
+a daily test of the system next
+determine if logical access restrictions
+associate with changes to the system are
+defined now be careful we're switching
+from physical to logical here all of a
+sudden you're going from physical
+premise security to it security so again
+logical access restrictions are defined
+within the firewall Network
+infrastructure system permissions Active
+Directory Group Policy and individual
+system access so again uh you know with
+this we're definitely kind of moving the
+needle from physical into more of an IT
+world next assessment point I know this
+is a big control you guys lots of
+assessment points determine if logical
+access restrictions associated with
+changes to the system are documented uh
+logical access restrictions are
+documented within configuration
+baselines and network documentation next
+determine if logical access restrictions
+associated with changes to the system
+are approved logical uh access
+restrictions associated with the system
+changes are approved via the it ticking
+system finally determine if logical
+access restrictions associated with the
+changes to the system are enforced aha
+are they actually enabled and working
+enforcement of logical access
+restrictions associated with changes to
+the system are executed as a part of the
+it ticketing resolution process and
+tested by authorized users to ensure
+they get the intended result in
+coordination with the IT team now I
+don't know about you but that's a whole
+lot of assessment points and a whole lot
+of information to cover and everybody's
+going to be a little bit different on
+this one and it's always tough when
+you've got to really have multiple
+members of your team working together to
+come up with the answer to a single
+control so hey at on call the good news
+is we can help we work with defense
+contractors just like you who have had
+the DARS nist itar and cmmc compliance
+stuff dropped in their laps like a
+seagull on a sunny day we teach you how
+to level up and be a a proper on call
+compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance as your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc compliance.com or check out the bio
+below to for links to help get help
+right now love the content we're putting
+out here for you help us out with a big
+thumbs up on that like button really
+means the world to us when you do that
+and smash the Subscribe button to get
+the latest compliance content as soon as
+our compliance ners roll it out until
+the next compliance tip my friends stay
+safe and secure out there and hit us in
+the comments below to let us know what
+you'd like to know more about when it
+comes to information security and
+compliance I'll see you next
+
+time

@@ -1,0 +1,190 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike freder here with
+on call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about cmmc
+control si. L1 d3.1 14.1 hooray we made
+it to the final control family number 14
+identify report and correct system flaws
+in a timely manner let's get into
+
+it so hey if you're a defense contractor
+who's feeling overwhelm tired and alone
+and sad trying to understand all the
+cmmc def fars and nist s17 compliance
+stuff you've got a big dent in your head
+from banging against the wall until it
+bleeds the good news is you're going to
+be okay I I mean I think you're going to
+be okay the brain damage I probably
+can't solve but you have found the best
+place you could be which is a new home
+with us here at on call compliance
+Solutions where we can help you
+transform into your company's on call
+compliance Hero Let's get a suction cup
+and peal that dent out of our head and
+jump into it that was going to go
+somewhere really good but then it didn't
+and then and then I'm left with this
+well frankly this big dent in this video
+but whatever let's let's let's Carry On
+Carry On Carry On Let's jump into it all
+right there is another control that is
+uh going to specifically dictate how
+your organization must respond when it
+comes to managing risk and handling
+security incidents in this case it's all
+about timing it's not good enough to
+just have some loose policy templates
+that you haven't opened in like 4 years
+you really need to have these policies
+dialed in with time frames and
+expectations so that before bad things
+happen everybody knows what the
+expectations are and how to react to
+explain more let's go step by step
+through the assessment criteria and see
+Point by Point what needs to be in your
+incident response plan and procedures so
+what are they looking for they're
+looking for one thing determine if the
+time within which to identify system
+flaws is specified how do we do that
+well via the it operations policy whoa
+Mike what's an IT operations policy well
+it's something you've got to have to be
+able to get through this all right uh in
+our example we're going to say hey look
+there's an SLA or a service level
+agreement of 60 minutes or less to begin
+remediation efforts on system flaws when
+immediate reaction uh to any system flaw
+which may affect cui okay again that's
+how it should be done and if you're
+scratch your head about how on Earth
+you're going to get a real it operations
+policy here's the great news all right
+if you're struggling on all these
+policies documentation Etc we can help
+with that all right and to find out how
+we can help the calls always free talk
+about that in a minute but meanwhile
+let's dive into the control uh the
+assessment uh points and let's find out
+what we got to do to solve this okay
+first one is determin of system flaws
+are identified within the specified time
+frame uh answer implemented via notes
+during information intake for it create
+it ticket creation yes okay we're going
+to sort of make a couple assumptions
+here you got an IT ticketing system
+maybe you do it a different different
+way but this is how we're going to give
+you a sample answer uh and probably the
+most common way so again how are they
+identified and within what specific time
+frame your ticketing system is going to
+help with that next assessment Point
+determine if the time within which to
+report system flaws is specified
+Implement via the instant response plan
+okay so the instant response plan is
+essentially dictating how you're going
+to get this done the next assessment
+point is determine if system flaws are
+reported within the specified time frame
+again implemented via the IT service
+ticket system ticket review audit
+process and risk management standard
+operating procedure again there's like
+three different policies already in the
+first three assessment points if you
+guys don't have your documentation in
+order that's when you know you really
+need to bring us in for some help okay
+great indicator that uh honestly the
+time it takes to write these policies
+we've probably got thousands of hours
+into our pre-written policies that we
+bring in and then we're still
+customizing them to you fourth
+assessment Point determine if the time
+within which to correct system flaws is
+specified uh implemented via our it
+operations policy SLA of 60 minutes or
+less to begin remediation efforts on
+system flaws with an immediate reaction
+to any system flaw which may affect CI
+system flaw time to correlate to
+correction SLA is within 24 hours or as
+soon as possible again notice I'm giving
+very specific amounts as we go through
+and you should too so again your system
+security plan excuse me you all of your
+documentation needs to have very
+specific times for how long it will take
+to do each step of the process next step
+of the process determine if system flaws
+are corrected within the specified time
+again uh this can be via the IT service
+ticketing system ticket review audit
+process and risk management sop all of
+those are places you can specify times
+so hey if you are like me and you're
+scratching your head from time to time
+trying to figure out what in the world
+is going on right uh or if you're just
+looking at how to do this and thinking
+man this is really overwhelming the
+great news is is that on call we work
+with defense contractors just like you
+who have had this DARS nist itar and
+cmmc compliance stuff dropped in their
+laps like a seagull on a sunny day and
+we teach you how to level up and be a
+proper on call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all showing you how
+to leverage compliance as your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on call compliance hero can
+do for you looking for more help getting
+compliant our compliance experts are
+always on call for you visit CMC
+compliance secrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out there for you help us out
+with a big thumbs up on that like button
+or even better yeah baby smash that
+subscribe button to get the latest
+compliance content as soon as our
+compliance nerds roll it out or you can
+just smash that subscribe Button as a
+simple way to say thank you because we
+really appreciate you guys watching our
+videos we love putting this content out
+here for free we don't charge a single
+penny we do it have our own time all
+right but subscribers make us happy and
+they tell us we're doing a good job so
+if you think we're doing a good job Mash
+that subscribe button let us know that
+you're out here and you're hearing what
+we're saying we know there's a lot of
+people every month that get to see us
+we're stoked about it we love when we
+get new subscribers hey until the next
+compliance HP my friends stay safe and
+secure out there hit us in the comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance and
+I'll see you on the next
+
+one

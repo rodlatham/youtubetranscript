@@ -1,0 +1,152 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back I bet you didn't think I'd be
+back but guess what I'm back and you
+know what sometimes when you come back
+it's better like Terminator 2. that was
+definitely better that he was back I'll
+be back right
+I rest my case all right this week we're
+talking about cmmccontrol m a DOT
+l2-3.7.2 provide controls on the tools
+techniques mechanisms and Personnel used
+to conduct system maintenance you better
+keep those evil it guys in check right
+
+thank you
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so on this one I have to admit uh
+like some others but not most of the
+others it may sound a little obvious if
+you read it but let's be real here not
+so obvious in practice right
+you hire the it guys you hand them the
+keys and whoosh
+it problems are solved right that's how
+it works that's the magic Inside the Box
+no you see when you are into defense
+Contracting you're going to have to be a
+little more mature than that
+it's hard for me to go there really like
+it's hard for me to be mature
+anyway
+you need written procedures you need
+documentation on your processes for
+allowing access to your systems you
+can't just go give them the keys because
+his name's Jerry and I think he backs
+the background checked not sure
+uh yeah maybe past a drug screen I don't
+know uh you're gonna have to justify
+every step of how you run your system on
+paper through written procedure and that
+includes your it team who gets access to
+what and how they get and how they get
+that access I hope that made sense you
+get the point anyway let's dive into
+what the assessors are actually looking
+for on this one and we'll find out how
+to answer it first thing you're looking
+for is determining if tools used in
+conduct assessment excuse me to conduct
+a system maintenance are controlled
+let's try it again determinative tools
+used to conduct system maintenance are
+control so Implement tools are only
+accessible by authorized pose users who
+have been given access those tools
+number two determinive techniques used
+to conduct system maintenance are
+controlled this is implemented tools are
+only accessible by authorized privileged
+users only approve tools which provide
+uh with which provide approved
+techniques are available so in other
+words we've configured our maintenance
+tools so they can only do the things
+they're supposed to be able to do
+third determinative mechanisms used to
+conduct system maintenance are
+controlled uh again if we were to sort
+of give an answer here we might say like
+tools are only accessible by authorized
+privileged users only approved tools
+which provide approved techniques are
+available only approved mechanisms are
+installed by approved privileged users
+for use in system maintenance again all
+this has got to be documented where do
+we document this here's a hint and our
+company we do in our it operations
+policy which determines how people are
+supposed to interact in our system and
+what they're supposed to be doing as far
+as running the it operations yes we
+deliver one of those completely done for
+you and customized to you if you guys
+decide you want more help you want us to
+work with you one-on-one so just know I
+know you're like where do I even start
+on this
+we were there but we figured it out and
+we can figure it out for you too so
+determinive Personnel used to conduct
+system maintenance are controlled only
+authorized privileged users have access
+to system maintenance tools period
+so and on call we work with defense
+contractors just like
+you who have had this deformed nist itar
+and cmmc compliance stuff dropped in
+their laps like a seagull on a sunny day
+but we teach you how to level up and be
+a proper on-call compliance hero for
+your company eliminating gaps gray areas
+and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you I bet you never guess that
+by the name of our company
+ding
+
+ding that will make your life so much
+better like I get it you've been binging
+on my content for days
+and your eyelids are getting heavy I
+want you to wake up tomorrow and feel
+like you really accomplished something
+check out our website self schedule time
+with one of our amazing amazing
+compliance Solutions Engineers they're
+like uh Tinkerbell and Peter Pan they
+just sort of like fly around the room
+and then they go Boop and compliance is
+solved just like that anyway if you love
+the content we're playing out there for
+you help us out with a big thumbs up on
+that like button or even better smash
+the Subscribe button for more Tinker
+Bells no but hey until the next
+compliance tip my friends stay safe and
+secure out there show us some love in
+the comments below and I'll see you on
+the next one
+
+all right

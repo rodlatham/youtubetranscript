@@ -1,0 +1,81 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control ra.l
+2-3.11.3 remediate vulnerabilities in
+accordance with risk assessments
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it I mean okay this control is honestly
+pretty obvious a rare find in the nist
+control world but basically as it states
+if it's broken duh fix it let's look at
+the assessment points here and see
+exactly what we need to do to make those
+assessors happy so two things we need to
+do one determine if vulnerabilities are
+identified lots and lots of ways to do
+that again you can see examples from it
+ticketing system uh you know things like
+your endpoint management solution your
+antivirus your firewall all of those
+things are going to basically be places
+where you can determine if
+vulnerabilities are identified and of
+course you're going to talk about them
+in your quarterly risk management
+meeting notes and email alert examples
+lots of places to demonstrate this
+second assessment point is determine if
+vulnerability abilities are remediated
+in accordance with risk assessments
+again this is implemented C poem and
+risk management meeting sop additional
+evidence may be found in the incident
+response policy so three different
+places that again we're all addressing
+those vulnerabilities and how we're
+remediating them so uh at on-call we
+work with defense contractors just like
+you who have had this dfars nist itar
+and cmmc compliance stuff dropped into
+their laps like a seal on a sunny day
+baby and we teach you how to level up
+and be a proper on-call compliance hero
+for your company eliminating gaps great
+areas and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now love the
+content we're putting out here for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance in order to roll it out I'll
+tell next compliance tip my friends stay
+safe and secure out there hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one

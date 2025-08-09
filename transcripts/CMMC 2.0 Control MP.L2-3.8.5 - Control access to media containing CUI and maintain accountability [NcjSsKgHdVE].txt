@@ -1,0 +1,101 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control mp.l 2-3.8.5 control access
+to Media containing cui and maintain
+accountability for media during
+transport outside of controlled areas
+let's find out what that's about
+
+say if you're a defense contractor who's
+feeling overwhelmed tired and alone
+trying to understand all the cmmc dfars
+and nist SP 10171 compliant stuff on top
+of an already colossal workload well
+I've got great news for you if you found
+your home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's Don the cape and
+get into it all right first step is
+control you know that authorized users
+must always be in control of cui media
+at all times that's an easy one but now
+for the accountability site how do we do
+that well there are lots of ways and
+actually the rules are pretty flexible
+But ultimately we solved this with
+something called a cui media access log
+essentially a log of any media which may
+contain cui outside the primary main
+company Network examples are of course
+USB thumb drives portable hard drives
+DVDs and paper media and we draw the
+line at the physical secure facility or
+Enclave environment if it's leaving that
+it should be accounted for we like the
+cui media log idea and of course it's
+should be controlled by the custodian of
+that media for a more formal answer
+let's dive into a sample answer and what
+the assessors are looking for on this
+one
+so uh first assessment Point determine
+if access to Media containing Cy is
+controlled implemented only authorized
+cui handling users have access to system
+systems containing cui media is only
+accessible via express authorization
+from the IT team and where applicable
+documented within the cui media access
+log so again the idea is you know in the
+control is can you even get to it right
+that's the control part second piece
+determine if accountability
+accountability for media contains UI is
+maintained during transport outside of
+controlled areas that's where the cui
+media access log comes in and that's
+going to be what your answer is there so
+again first one is is a controlled prior
+to you staff from other other controls
+no pun intended there and then the
+second one is the accountability and
+that's where the media log really comes
+into place so hey in on call we work
+with defense contractors just like you
+who have had this DeForest nist itar and
+cmmc compliance stuff dropped in their
+laps like a seagull on a sunny day we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray area areas
+and getting this solved all while
+showing you how to leverage compliance
+as your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmccompliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content that we're putting out
+here for you help us out with a big
+thumbs up on that like button or even
+better smash the Subscribe button to get
+the latest compliance content as soon as
+our compliance starts roll it out until
+next supplies tip my friends stay safe
+and secure out there let us know in the
+comments below what you'd like to learn
+more about when it comes to information
+security and compliance and I'll see you
+on the next one
+
+thank you

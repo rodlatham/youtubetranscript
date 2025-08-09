@@ -1,0 +1,104 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike for your here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmfc control
+ps.l2-3.9.1 screen individuals prior to
+authorizing access to organizational
+systems containing cui
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of the
+cmmc dfars and nist sp800 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you've found your home here at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it so you're hired here's the
+password to the next major piece of
+military fear gear yikes okay so this is
+an interesting control to try and
+quantify because essentially the idea
+here is that you should not just
+randomly give someone access to cui all
+right that would be bad that makes
+enough sense to me but then they really
+stop pretty short of telling you what
+the qualifications should be or criteria
+because of course every company and
+situation is different all they're
+really after here is what is the process
+you use and can you show an assessor
+what that looks like it better be
+documented and formalized so they know
+it's a repeatable hey here's yet another
+hint you probably have it on have a
+policy on that so if you don't have a
+policy on that it's time to break out
+the sharp pencil or just dial our phone
+number and we'll hook you up with a
+policy
+honestly I think it's a little a little
+bit goofy because screening doesn't
+really specify anything nothing specific
+like a background check uh no criminal
+background check so why does this
+actually increase security highly
+interesting to me but who cares what I
+think right because at the end of the
+day uh it's really the assessors and
+what they want and what they want is a
+process not necessarily anything
+specific in that process so hey fair
+enough let's go see exactly what they
+want on this one only one assessment
+Point here which is determine if
+individuals are screened prior to
+authorizing access to organizational
+systems containing cui uh if you were to
+give a sample answer we would say hey
+the organization utilizes a screening
+and training process which includes
+criminal background checks interviews
+and drug tests prior to allowing system
+access
+so uh if you need more help on this uh
+the good news is that an on-call we work
+with defense contractors just like you
+who've had this dfar's nist itar and
+cmmc compliance stuff dropped into their
+laps like a seagull on a sunny day and
+we teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better smash
+the Subscribe button to get the latest
+compliance content as soon as our
+compliance service roll it out until the
+next compliance tip my friends stay safe
+and secure out there hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+
+thank you

@@ -1,0 +1,118 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+
+ac.l2.3.1.10 use session lock with
+pattern hiding displays to prevent
+access and viewing of data after period
+of inactivity
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all the cmmc
+dfars and nist SP 10171 compliant stuff
+on top of an already colossal workload
+well I've got great news for you you've
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so in
+cmmccontrolac.l
+2-3.1.10 sounds like a secret code to
+get into a Speak Easy uh we're made
+we're mandated to make sure that if
+someone else might somehow be viewing
+our screen while typing in a password
+that they could not easily view what our
+password might be great example of this
+is your shoulder surfing that is someone
+is walking by and grabs your password
+while you're typing it in uh or even in
+a screen sharing session right you gotta
+type in a password to help the tech
+support representative in regards to
+Define period of inactivity piece this
+is easily accomplished with login
+timeouts and screen lock timeouts after
+a certain number of minutes of
+inactivity which course would indicate
+perhaps nobody's really sitting at the
+keyboard anymore that's how you would
+get it done
+now if I was assessing you there are
+three points that I have to assess you
+based off of first I've got to determine
+if the period of inactivity after which
+the system initiates a session lock is
+defined now what's the answer to that if
+I was giving a sample answer I would
+definitely notate the screen lock
+timeout policy maybe you want to set the
+five minute three minutes maybe it needs
+to be 15 minutes whatever it may be a
+screen lock timeout policy will
+definitely turn help you to lock them
+out after that period of inactivity
+make sure a password is required Point
+number two I'm going to assess you on
+determine if access to the system and
+viewing of data is prevented by
+initiating a session lock after the
+defined period of inactivity
+and if we were to give an answer that we
+might say yes policy is enforced and
+demonstrated and linked right we want to
+make sure that group policy we mentioned
+above is actually enforced and the final
+third assessment point is I would
+determine if previously visible
+information is concealed via a pattern
+hiding display after the defined period
+of activity again I would say yes it is
+after a screen lock occurs typing in a
+password will result in character input
+being massed that's those little dots
+that show up when you type in your
+password that's the masking and hey uh
+if you are struggling figuring this
+stuff out you're not alone I promise
+you're not alone okay like literally
+hundreds of calls a day and on call we
+work with defense contractors just like
+you who have had this dfars nist itar
+and cmfc compliance stuff dropped in
+their lap like a single on a sunny day
+we teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+becoming that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc compliance.com
+Com or check out the bio below for links
+to get help right now if you love the
+content we're putting out there for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance service roll it out until the
+next compliance tip my friend stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+foreign

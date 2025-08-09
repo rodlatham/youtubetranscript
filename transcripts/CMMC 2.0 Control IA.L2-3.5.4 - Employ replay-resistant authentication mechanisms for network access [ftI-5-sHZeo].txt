@@ -1,0 +1,101 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder with
+on-call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about CMC
+control
+ia.l2-3.5.4 employ replay resistant
+authentication mechanisms for network
+access to privileged and non-privileged
+accounts
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all the cmmc
+defars and nist SP 800171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you've found your home here at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it
+
+cmmccontrolia.l2-3.5.4 employ replay
+resistant authentication mechanisms for
+network access to privileged and
+non-privileged accounts what's an
+instant replay just kidding what is
+replay resistant it essentially means
+that if someone captured your keystrokes
+via a key logger they would be able that
+they would not be able to play back your
+keystrokes and get into your system how
+do you do that there are a lot of
+different ways to do this but primarily
+you're looking at the concept of
+implementing a rolling key or
+multi-factor authentication type of
+solution here's an example if you enter
+your username and password and that's it
+that doesn't change so someone capturing
+and replaying your keystrokes could get
+in however if you have a three-part
+sign-in with a username a password and
+an MFA key or token which rolls over
+every few seconds replaying that
+combination will not work to Grant
+access pretty cool if you ask me but hey
+I don't actually count because I don't
+make the rules all right let's look at
+what hey you know what this is cool the
+assessor is only looking for like one
+thing determine if replay resistant
+authentication mechanisms are
+implemented for network account access
+to privilege and non-progos accounts now
+what's the answer this it's simpler than
+you think MFA is implemented for all
+accounts able to access cui right so
+same answer as last control so you don't
+really have to actually do anything
+unique but what you do need to know is
+that MFA really is sort of your golden
+ticket to stopping replay attacks pretty
+cool if you ask me
+and on call we work with defense
+contractors just like you who've had
+this DeForest nist itar and cmmc
+compliance stuff dropped in your laps
+like a seagull on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance as your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you visit
+cmmcc-complianceecrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance starts
+roll it out a 10x compliance tip my
+friends stay safe and secure out there
+and us in the comments below to let us
+know what you'd like to know more about
+when it comes to information security
+and compliance and I'll see you on the
+next one
+
+okay

@@ -1,0 +1,128 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+
+ia.l2-3.5.1 identify system users
+processors acting on behalf of users and
+devices
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so
+
+cmmccontrolia.l2-3.5.1 identify system
+users processes acting on behalf of
+users and devices now this is an
+interesting control for a few reasons
+first is that you would think that this
+is just something that is built into
+virtually any software system but as it
+turns out there are many instances where
+you may have a shared computer
+environment great examples may be Labs
+manufacturing production floors and
+other open format offices so because of
+that nist mandates that if the computer
+can access cui you must be able to
+individually identify who is using the
+machine somehow this can definitely
+create some comp applicated scenarios
+but the good news is we have been able
+to find solvency for every one of them
+if you have a complicated work
+environment and need to meet this
+requirement I like to invite you to give
+us a call and speak with one of our
+compliance experts who can help with the
+answer to your specific scenario again
+it's not okay to just have open
+workstations that people work on you
+have no idea who's really behind the
+keyboard you have to solve for that with
+nist there are definitely ways to do it
+and we can help but for now let's look
+and see what the assessors are looking
+for and we'll throw some sample answers
+your way to make life a little easier so
+three assessment points you're looking
+for on this one number one determine if
+system users are identified so do you
+know who your users are uh that one's
+pretty easy system users are identified
+by privileged identity management and
+active directory that's a great one uh
+again can you use local user accounts I
+don't see why not as long as you've got
+a seam solution that can actually track
+that uh assessment Point number two
+determine if processes acting on behalf
+of the users are identified processes
+acting on behalf of users are identified
+via the same solution so again we've
+already gone through in previous videos
+what the seam solution is in case you're
+new to our channel it's security
+information and event management and if
+you don't know what that is that might
+be a sign it's time to call us all right
+assessment Point number three determine
+if devices accessing the system are
+actually identified devices identified
+via system logs sent to seam solution
+active directory IP address and Mac
+address so again there's a lot of
+different ways to identify the device
+itself that's accessing it again IPM Mac
+address are definitely there and those
+things get logged in your semen ad and
+all kinds of other places so again I
+want to make sure we can identify not
+just the people the pro but also the
+processes and of course the devices as
+well so uh an on-call if uh if you're
+new to our videos we help defense
+contractors just like you who have had
+this dfars nist itar and cmmc compliant
+stuff dropped in their laps like a seal
+on a sunny day we teach you how to level
+up and be a proper on-call compliance
+hero for your company eliminating gaps
+great areas and getting this solved all
+while showing you how to leverage
+compliance is your secret weapon to land
+more Defense work with higher profit
+margins now that's what becoming an
+on-call compliance hero can do for you
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you you can visit
+cmfccompliance secrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out there for you help us out
+the big thumbs up on that like button or
+even better smash the Subscribe button
+to get the latest compliance content as
+soon as our compliance Center is rolling
+out until next compliance tip my friends
+stay safe and secure out there hit us in
+the comments below to let us know what
+you'd like to know more about when it
+comes to information security and
+compliance and I'll see you on the next
+one
+
+all right

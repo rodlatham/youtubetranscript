@@ -1,0 +1,94 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike freder with on
+call compliance Solutions and I'm back
+with another compliance tip of the week
+this week we're talking about cmmc
+control si. L1
+d314 4 oh we're getting there update
+malicious code protection mechanisms
+when new releases are available I love
+the easy
+
+ones so hey if you're a defense
+contractor who's feeling overwhelmed
+tired and alone trying to understand all
+this cmmc DS and n00 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you because you found your home here at
+on call compliance Solutions where we
+can help you transform into your
+company's on call compliance Hero Let's
+jump into it love it love it love it
+love it should be automatic I love this
+control but is it no your team should be
+verifying and documenting on a periodic
+basis that patches and updates are in
+fact being installed and updates are
+successful on a periodic basis you just
+can't trust automation I promise ask
+anyone who's ever lost data in a backup
+okay it was set up it was automated
+didn't really quite work long term all
+right you got to verify it this stuff
+does require a human touch uh let's see
+what the assessors are looking for on
+this one it's pretty straightforward
+just one thing they're looking for it's
+determine if malicious code protection
+mechanisms are updated when new releases
+are available and what they're going to
+want to do they're going to want to
+actually see your system and you're
+going to have to show them that updates
+have in fact been applied on time and
+there's something that's automating that
+so uh if we were to give a sample answer
+we'd say hey it's implemented it's
+enforced and monitored via the endpoint
+management update uh automatic updates
+and verified by you know it humans uh
+every so often right so an answer like
+that would work just fine now uh if
+you're not sure what endpoint management
+system to use if you are trying to
+figure out exactly what will satisfy
+these controls from a tech stack
+perspective or even if you're a CEO or a
+CIO who's just really trying to figure
+out how to get this whole thing solved
+quickly the great news is at on call we
+work with defense contractors just like
+you whove had this defar nist itar and
+cmmc compliance stuff dropped right in
+their laps like a seagull on a sunny day
+we teach you how to level up and be a
+proper on call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance as your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming on call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance.com or
+check out the bio below for links to get
+help right now if you love the content
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better You Guessed It
+smash that subscribe button to get the
+latest compliance content as soon as our
+compliance ear roll it out until the
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next
+
+one

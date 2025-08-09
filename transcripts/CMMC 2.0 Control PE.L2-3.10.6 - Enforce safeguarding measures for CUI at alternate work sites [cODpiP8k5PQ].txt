@@ -1,0 +1,98 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control PE dot
+l2-3.10.6 enforce safeguarding measures
+for cui at alternate work sites this is
+a good one
+
+say hey if you're a defense contractor
+is feeling overwhelmed tired and alone
+it's sad
+trying to understand all this cmmc dfars
+and nist SP 10171 compliance stuff on
+top of it already Mount Fuji size
+colossal workload well I've got great
+news for you you found your home here at
+on-call compliance Solutions where we
+can help you transform into your
+company's on-call compliance Hero Let's
+jump into it so uh the inevitable
+scenario here is that we have work that
+needs to go on outside of our secure
+buildings yes it happens and what it
+does we have to account for it and
+should have a policy in place yes that's
+a hint that will dictate how we are
+safeguarding cui when at alternate work
+sites in case you didn't hear the hint
+the hint is policy now I will tell you
+we solved this for our clients with
+training and we have created an actual
+policy and standard operating procedure
+called the alternate worksite policy
+that's how we solve it if you're one of
+our clients we take the time to walk you
+through it and we work together to
+customize it entirely for your
+organization so you meet this control
+that's the kind of stuff that we help
+our clients with okay let's check out
+what the assessors are looking for on
+this one so uh first thing you're
+looking for determine if safeguarding
+measures for cui are defined for
+alternate work sites again where do you
+define that stuff right it's a policy so
+again a sample answer might be the
+company's it use and cyber security
+policy provides safeguarding measures
+for alternate work sites again it's a
+really simple answer there next one
+determine if safeguarding measures for
+cui are enforced for alternate work
+sites implement the company's it use and
+cyber security policy provides
+safeguarding measures for alternate work
+sites example MFA multi-factor
+authentication is required when working
+at alternate works sites that's an
+example of it
+so hey and on call we work with defense
+contractors just like you who have had
+this dfar's nist itar and cmmc
+compliance stuff dropped into their laps
+like a seagull on a sunny day baby we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps great areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you you can visit
+cmfccompliancecrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better Hulk smash that subscribe
+button right now to get the latest
+compliance content as soon as our
+compliance turns roll it out until the
+next compliance tip my friends stay safe
+and secure out there hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+thank you

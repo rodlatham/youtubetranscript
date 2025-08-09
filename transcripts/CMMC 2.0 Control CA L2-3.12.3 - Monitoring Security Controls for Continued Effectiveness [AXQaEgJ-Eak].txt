@@ -1,0 +1,93 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week cracking a smile on your face
+this week we're talking about cmmc
+control
+ca.l2-3.12.3 monitor security controls
+on an ongoing basis to ensure the
+continued effectiveness of the controls
+they told me to smile more when I did
+this video I don't know I did one cut I
+don't know apparently I look like
+somebody ran over my dog or something
+but anyway I'm smiling now because I'm
+here with you we're hanging out we're
+talking cmmc controls right let's get
+into it
+
+all right so hey if you're a defense
+contractor who's feeling overwhelmed
+tired and alone trying to understand all
+the cmmcd fars and nist SP 10171
+compliance stuff on top of an already
+colossal workload I got great news for
+you you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance hero let's get into
+it alright so uh on this control there's
+only one thing that they're looking for
+okay they're looking for help
+determining if security controls are
+monitored on an ongoing basis to ensure
+the continued effectiveness of those
+controls in other words
+do you actually
+have a method in place to monitor what
+security is actually being implemented
+because if you don't how would you know
+that it's actually working so again if
+we were to give a sample answer this we
+would say hey it's implemented evidence
+is available within the it tickets and
+alert emails so again the it tickets are
+sort of where things go when they need
+to be remediated and then the emails the
+email alerts are coming out of your
+various monitoring systems like your
+seam system maybe your sock maybe your
+antivirus and other things that are sort
+of directly sending information into
+wherever you call Central home for
+monitoring those things can be evidence
+there and that's really kind of what
+they're looking for on this control now
+at oncall we work with defense
+contractors just like you who have had
+this dfars nist itar and cmmc compliance
+stuff dropped into their laps like a
+seal on a sunny day we teach you how to
+level up and be a proper on-call
+compliance hero for your Company Limited
+in gaps gray areas and getting it solved
+all while showing you how to leverage
+compliance as your secret weapon land
+more Defense work with higher profit
+margins now that's what becoming an
+on-call compliance hero can do for you
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you visit cmmc
+complianceeekers.com or check out the
+bio below for links to get help right
+now I promise you don't have to struggle
+anymore
+and maybe then you'll be cracking a
+smile anyway if you love the content
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better Hulk smash that
+subscribe button to get the latest
+compliance content as soon as our
+compliance learns roll it out until the
+next combines tip my friends stay safe
+and secure out there hit us in the
+comments below to let you let us know
+what you'd like to know more about when
+it comes to information security and
+compliance and I'll see you on the next
+one

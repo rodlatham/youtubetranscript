@@ -1,0 +1,136 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrolac.l
+2-3.1.7 prevent non-privileged users
+from executing privileged functions and
+audit the execution of such functions
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliant stuff
+on top of an already colossal workload
+well I've got great news for you you've
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance hero let's kick it so
+here we get deeper into our controls on
+making sure that our system is being
+used in the way that we intend it to be
+used the goal of cmmccontrol
+ac.l2-3.1.7 prevents non-privileged
+users from executing privileged
+functions and audit the execution of
+such functions is to Define what
+functions are privileged versus
+non-privileged making sure
+non-privileged users cannot execute
+those functions and then audit or make
+sure that when those functions are
+executed record of that is being kept so
+it can be reviewed and the validity of
+and authenticity can be verified to make
+sure it's really one of your authorized
+users and not some bad guy
+uh now if I was an Assessor
+and I was looking at how could I figure
+out if you're actually complying with
+this there's basically four major points
+that I would be asking all right Point
+number one is determinive privilege
+functions are defined so somewhere did
+we Define what is privilege privilege
+functions are Def and if I was to give a
+sample answer I would say privilege
+functions are defined within each
+individual system authorized users have
+access to examples uh which may include
+file system permissions right do you
+have permission to access those
+privileged folders like what contains
+cui uh security groups OU's user
+permission levels within different
+systems all that kind of stuff right so
+again lots and lots of different things
+that we can actually uh use to determine
+if privileged functions are defined
+now assessment Point number two
+determine if non-privileged users are
+defined so are we defining who our
+non-privileged users are non-profit
+users could be defined so again sample
+answer would be non-privile users are
+defined via their membership role in
+maybe an OU or a class of user like
+administrators versus standard users and
+user account type okay uh assessment
+Point number three determine if
+non-probled users are prevented from
+executing privileged functions so how
+are we actually preventing them from
+being able to execute things they
+shouldn't like installing new programs
+non-probial users are prevented from
+executing privileged functions via Group
+Policy file system permissions and user
+access capabilities within each system
+right so again remember it's not just
+the base operating system you got to
+worry about in your domain you also got
+to worry about things like your
+accounting system and maybe your secure
+engineering system whatever it may be
+those are all places that you have to
+take some consideration to
+determine if the execution of privileged
+functions is captured in Auto logs again
+the final assessment Point uh and in
+this one actually the answer is really
+easy execution winds up being captured
+in your seam solution so again the idea
+is is that you have a security
+information and event management system
+it's capturing basically log files of
+everything and you can determine if the
+execution of privileged functions is
+actually captured in there so pretty
+cool have a seam system if you have no
+idea what a steam system is here's the
+good news and on call we work with
+defense contractors just like you who
+have had this dfars nist itar and cmmc
+compliance stuff dropped into the lap
+like a single on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance as your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit
+cmfccompliancecrets.com or check out the
+bio below for links to get help right
+now and if you love the content we're
+putting out there for you help us out
+with a big thumbs up on that like button
+or even better smash that subscribe
+button to get the latest compliance
+content as soon as our compliance starts
+rolling out and until the next time uh
+my friends stay safe and secure out
+there and hit us in the comments below
+to let us know what you'd like to know
+more about when it comes to information
+security and compliance and I'll see you
+on the next one foreign

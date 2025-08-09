@@ -1,0 +1,130 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike for your here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmccontrol
+
+au.l2-3.3.9 limit management of audit
+logging functionality to a subset of
+privileged users
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmfc
+dfars and nist SP 800171 compliance
+stuff on top of an already colossal
+workload well I got great news for you
+you found your home here at on-call
+compliance Solutions we can help you
+transform into your company's on-call
+compliance hero and learn some new dad
+jokes let's jump into it so in cmmc
+control
+au.l2-3.3.9 limit management of audit
+logging functionality to a subset of
+privileged users this control is all
+about limiting access to only those
+people who really need it again there's
+a recurring theme throughout nist sp800
+171 it's basically all about making sure
+that people only have access to what
+they actually need access to and if they
+don't have access to anything else so as
+they say too many chefs in the kitchen
+doesn't make for a better tasting cake
+or something so only those people who
+really need to see seam information
+should have access to it so let's check
+out what the assessor is looking for on
+this one in order to bake them a cake
+they'll love to eat all right so two
+things you're looking for on this one
+number one determine if a subset of
+privileged users are granted access to
+manage audit logging functionality and
+make sure it's defined okay so uh if we
+were to give a sample answer we would
+say something like uh Hey look it's
+implemented because the seam solution is
+only accessible by specific authorized
+seam administrative users so if you had
+a standalone steam system that might be
+an answer if you had active directory
+maybe you had some kind of a you know
+accessible through domain credentials
+you might say only this the people in
+this certain OU have access to get to
+the seam unit but one way or another you
+have to actually determine if the subset
+is defined so who are those people
+that's what they're looking for now
+assessment Point number two determine if
+management of audit logging
+functionality is limited to the defined
+a subset of privileged users so in other
+words
+you have to determine if the actual
+management of the functionality right so
+the settings configurations things like
+that can only a certain subset of those
+people see the settings configuration
+Etc so again there's the management of
+audit logging functionality then there's
+actually the management of uh there's
+there's the management audit logging
+function I was limited to Define subset
+of proposal users so who can actually
+change settings and things like that all
+right now if I was to give a sample
+that's that second piece it's really the
+same answer as the first piece right
+it's just it's more of the same you're
+limiting the people who actually have
+access to it so again we'd say
+implemented the same solution is only
+accessible by specific authorized team
+administrative users and again if you
+had an assessor on your hands you'd
+probably just have them look over your
+shoulder log into your seam system and
+show them all the cool settings how the
+magic happens all right now if you're
+looking for more magic to happen guess
+what you're in the right place because
+in on call we work with defense
+contractors just like you who have had
+this defars nist itar and cmmc compliant
+stuff dropped in their laps like a
+seagull on a sunny day and we teach you
+how to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas getting this
+solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you and if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now if you
+love the content we're putting out here
+for you help us out with a big thumbs up
+on that like button or even better you
+guessed it baby smash that subscribe
+button to get the latest compliance
+content as soon as our compliance errors
+roll it out until the next compliance
+tip my friends stay safe and secure out
+there and hit us in the comments below
+to let us know what you'd like to know
+more about when it comes to information
+security and compliance and I'll see you
+on the next one
+
+foreign

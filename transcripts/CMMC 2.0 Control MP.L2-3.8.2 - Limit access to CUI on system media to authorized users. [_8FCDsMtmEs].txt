@@ -1,0 +1,97 @@
+Kind: captions
+Language: en
+
+ah hey everybody it's Mike Frieda with
+on-call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about cmfc
+control mp.lt
+
+access to cui on system media to
+authorize users
+duh
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist SP 800 171
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on-call compliance solution where we can
+help you transform into your company's
+on-call compliance hero let's jump into
+it all right here we go so this control
+is fairly obvious but then again as per
+usual you never really can't be too
+careful this nist control essentially
+Works in sequence to paint a picture of
+exactly how a secure system should be
+built and of course one of those
+building blocks is the necessity to not
+allow access to cui to anyone who is not
+authorized user and again if I'm reading
+this I'm kind of like duh don't let
+people have access to what they should
+have access to and then I go around to
+our client networks and it's like oh
+boom everything's wide open Erb not good
+not acceptable for uh for cui so look
+this extends Beyond I.T and covers all
+system media which may include
+whiteboards paper and of course digital
+even physical cuis such as identifiable
+defense products would be included here
+so there is some serious thought that
+needs to go into this okay if you can
+walk around your office and figure out
+what projects people are working on you
+may want to decide are the people who
+are able to walk around your office that
+all of them need to know what's going on
+because in most cases it's probably not
+so let's see what the assessors are
+looking for on this one
+uh one thing they're looking for only
+one determine if access to cui on system
+media is limited to authorized users uh
+this is a pretty easy one to implement
+right Implement via active directory
+organizational units uh specifically for
+users authorized to access UI and Airgas
+DeForest compliant cui handling secure
+systems file permissions are another way
+to do it lots and lots and lots of ways
+to segregate that information and make
+sure that unauthorized users don't have
+access to it
+so hey and on call we work with defense
+contractors who just like you have had
+this d-farms nist itar and cmmc
+compliance stuff dropped into their laps
+like I see you on a sunny day we teach
+you how to level up and be a proper
+on-call compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon it's land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc compliance secrets.com or check out
+the bio below for links to get help
+right now if you love the content that
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better smash that
+subscribe button alright really makes us
+happy when you do that and of course
+most importantly leave a comment below
+let us know what you would like to know
+more about when it comes to information
+security and compliance I'll see you on
+the next one
+foreign

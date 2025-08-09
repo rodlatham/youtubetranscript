@@ -1,0 +1,136 @@
+Kind: captions
+Language: en
+
+ah we're back hey everybody it's Mike
+frieder here with the Hong Kong
+compliance Solutions we're having so
+much fun Studio I'm not going to kid you
+we got like a long list of videos we
+gotta shoot I don't even care I'm having
+fun I hope you're having fun here at
+home uh or work wherever it is you watch
+my videos at I hope you're having a
+blast and we're gonna have more of a
+blast because right now we're gonna
+start talking about CMC control m a DOT
+l2-3.7.4 check media containing
+Diagnostic and test programs for
+malicious code before the media are used
+in organizational systems I love this
+control I think it's a good one
+
+thank you
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this dmmc
+dfars and nist SP 10171 compliance stuff
+on top of an already colossal workload
+well I've got great news you've found
+your home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it so
+this control I have to tell you I really
+like it a lot all right and it'll share
+about many controls there's 110 of them
+there's only like five that I really
+like a lot that's pretty fair assessment
+I think here's the deal by default most
+antivirus programs still don't scan upon
+insertion okay they don't sorry news
+flash they don't you got to configure
+that that's when you take a thumb drive
+or a download and insert it into your
+machine okay so again scan on assertion
+is when you take a thumb drive or
+download you insert in your machine and
+then it automatically starts scanning
+okay this control sets out a mandate
+that especially those programs that the
+it or maintenance people are using on
+our machines is specifically cleaned and
+scanned before being used in a
+production environment containing UI so
+again they have to scan their stuff
+before they use it on our machines to me
+this is just great common sense but I
+agree with the folks that wrote this
+that the reality is most people just
+would not think to check that shedding
+and that setting and assume it's done
+already or they haven't checked it in
+years and they don't remember that Larry
+the tier one it guy had disabled that on
+several computers so that he won't be so
+that he could get an accounting program
+to work properly uh when the cfo's pants
+were on fire one day back in 2019 okay
+I'm going to bring up a similar example
+just to kind of help out on the cyber
+security front another great example
+this is when you've got a firewall and
+you have an any any any rule that gets
+opened up so that you can like get the
+phone system working or get something
+working and then the IT guy goes oh
+thank goodness my boss was really like
+pants on fire about that issue thank
+goodness I at least have it working now
+and then they never go back and shut
+down those ports again and make get the
+way it's supposed to be and you got wide
+open firewall everywhere this is the
+same kind of thing just on a smaller
+level okay let's check out what the
+assessors are looking for on this one
+all right determinive media containing
+Diagnostic and test programs are checked
+for malicious code before being used in
+organizational systems that processes
+stores or transmits cui uh look upon
+insertion of any media into
+organizational systems that media is
+sanitized by the organization's endpoint
+management system that's what your
+answer should be or something very close
+to it now at on-call we work with
+defense contractors just like you who
+have had this dfar's nist itar and cmfc
+compliance stuff dropped their laps like
+a seagull on a sunny day and we teach
+you how to level up and be a proper
+on-call compliance hero for your company
+eliminated gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming on call compliance hero can do
+for you if you're looking for more help
+getting apply our compliance experts are
+always on call for you you can visit
+cmmc compliancecrets.com or check out
+the bio below for links to get help
+right now all right love the content
+we're putting out there for you help us
+out with a big thumbs up on that like
+button or even better you best it Hulk
+smash that subscribe button baby let's
+get more subscribers we're doing so good
+all right and I love seeing you guys
+subscribe it makes my day it makes us
+want to get up make more videos for you
+guys and really make sure that we're
+delivering this incredible value uh in
+terms of this content because it's not
+like this stuff is easy right hey until
+the next compliance tip my friend stay
+safe and secure out there hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+foreign
+
+all right

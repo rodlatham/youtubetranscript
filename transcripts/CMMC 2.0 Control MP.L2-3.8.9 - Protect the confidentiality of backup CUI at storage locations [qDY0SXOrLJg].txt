@@ -1,0 +1,111 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+
+mp.l2-3.8.9 protect the confidentiality
+of backup cui at storage locations
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist sp80171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so uh on first glance we're going to
+make like a losing contestant on
+Jeopardy here you're going to slam the
+buzzer and make the wrong guess on this
+okay on at first read your gut reaction
+is going to be this compliance control
+is mandating that your backups are to be
+encrypted but the good news is they are
+not okay that is not what this control
+is all about so you know I have to hand
+it to the folks at darzanara who created
+this stuff because when they write these
+controls the one thing I will say is
+they're very careful with their words
+and as they should be right I mean the
+whole world is watching as they say no
+pressure right uh what the focus this
+control is on is confidentiality okay
+not encryption so that also translates
+that backups need to be confidential
+they need to be controlled so nobody
+gets access to them but encryption uh
+believe it or not is just not a part of
+the equation so again encryption not so
+important to meet this control uh big
+take home here uh a simple file copy
+process is okay all right because that's
+reality for most people or or these most
+smaller businesses obviously if what you
+really should be doing some sort of an
+image based backup but that's just not
+the reality in some cases as long as it
+meets the specifics of what an assessor
+is looking for and for that let's check
+out the assessment points so uh on this
+one they're really only looking for one
+thing they're looking to determine if
+the confidentiality of backup cui is
+protected at storage locations no
+there's nothing about encryption there
+it's just it's not there now if you've
+got your backup encrypted like most
+people do but but not all uh you
+probably want to mention that in the
+answer but it's not going to get you to
+pass the control so again what we would
+say is backup Cy is fully encrypted this
+is true and backup locations are
+controlled and again you may demonstrate
+that to an assessor that's probably the
+most likely way that you would actually
+sort of uh pass this controls with a
+demonstration that yep there's the
+backups they're in a lock secure server
+room there's no way people can get to it
+and then you know again they may ask for
+any more evidence that will make them
+happy in doing so so at on call we work
+with defense contractors just like you
+who have had this Deep Bars nist itar
+and cmmc compliance stuff dropped in
+their laps like a seagull on a sunny day
+and we teach you how to level up and be
+a proper on-call compliance hero for
+your company eliminating gaps gray areas
+and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to land more
+Defense work with higher profit margins
+now that's what becoming an on-call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc compliance
+secrets.com or check out the buy it
+below for links to get help right now if
+you love the content we're putting out
+here for you help us out with a big
+thumbs up on that like button or even
+better smash the Subscribe button to get
+the latest compliance content as soon as
+our compliance turns roll it out until
+the next compliance tip my friends stay
+safe and secure out there and hit us in
+the comments below let us know what
+you'd like to know more about when it
+comes to information security and
+compliance I'll see you on the next one
+foreign

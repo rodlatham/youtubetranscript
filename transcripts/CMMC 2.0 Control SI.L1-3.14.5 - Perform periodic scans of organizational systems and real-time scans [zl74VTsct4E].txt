@@ -1,0 +1,112 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on call compliance Solutions I'm
+back with another compliance tip of the
+week this week we're talking about CMC
+control
+si.l1-3.14.5 perform periodic scans of
+organizational systems and real-time
+scans of files from external sources as
+files are downloaded opened or executed
+
+so hey if you're a defense contractor is
+feeling overwhelmed tired and alone
+trying to understand all the cmmc dfars
+and nist SP 10171 compliance stuff on
+top of an already colossal workload well
+I've got great news you found your home
+here at on-call compliance Solutions
+where we can help you transform into
+your company's on-call compliance Hero
+Let's jump into it so on this control we
+are specifically directed on exactly how
+our antivirus and endpoint management
+programs should be set up specifically
+it should be set up to one run routine
+scans at specified intervals two set up
+to scan on insertion download and
+execution remember not all antivirus
+products can do this and many more are
+not configured to do this out of the box
+so you really need to dive into the
+specifics of how this is configured and
+make sure it's working in alignment with
+this control let's take a minute and
+look at the exact assessment points to
+get more clarity three assessment points
+on this one determine if the frequency
+for malicious code scans is defined
+now
+if we were to give a sample answer we
+would say hey it's implemented malicious
+code scan frequency is defined within
+XYZ you know maybe it's a policy or
+maybe it's a technical system like the
+endpoint management system itself lots
+of different answers you can have there
+but ultimately we want to say that there
+is a scan frequency and it's defined
+here
+second assessment Point determine if
+malicious code scans are performed with
+the defined frequency again they really
+want to know what your frequency is they
+really want you to find that so we'd say
+hey evidence of malicious code scans can
+be found in whatever the console is or
+the endpoint management uh you know sort
+of pane of glasses if you will and again
+you want to provide evidence so you
+might want to say hey antibioter scans
+run routinely every seven days or on
+demand as things are downloaded executed
+or inserted in the system
+final assessment Point determine if
+real-time malicious code scans of files
+from external sources as files are
+downloaded open or executed this is
+implemented via endpoint management
+solution monitored and audited by seam
+solution yes lots of different things
+coming into play here but again your
+seam solution is a great way that you
+can monitor and audit those things so uh
+if you're struggling to figure all this
+stuff out or you're just trying to put
+the other pieces your system and you
+need an easier way to deal with it the
+great news is that an on-call we work
+with defense contractors just like you
+who have had this defars nist itar and
+CMC compliance stuff dropped in their
+laps like a single on a sunny day and we
+teach you how to level up and be a
+proper on call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance here
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you visit cmmc compliance Dot Com or
+check out the bio below for links to get
+help right now if you love the content
+we're putting out here for you help us
+out with a big thumbs up on that like
+button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliances roll it out until next
+compliance tip my friends stay safe and
+secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+foreign

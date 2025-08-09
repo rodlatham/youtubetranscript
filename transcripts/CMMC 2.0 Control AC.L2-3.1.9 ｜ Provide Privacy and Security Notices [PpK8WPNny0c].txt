@@ -1,0 +1,113 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+
+cmmccontrolac.l2-3.1.9 provide privacy
+and security notices consistent with
+applicable cui rules
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all of this
+cmmc dfars and nist SP 10171 compliance
+stuff on top of an already colossal
+workload well I've got great news you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance hero now if I'm going
+to jump right into it I'm going to tell
+you all right all right all right here
+we go all right like my man Mr
+McConaughey hey it's time to provide
+notice to system users that something is
+up here all right the goal of cmmc
+control ac.l 2.3.1.9 provide privacy and
+security notices consistent with
+applicable cui rules it is to alert
+users to the idea that the system may
+contain cui and activity is likely to be
+monitored and recorded and probably is
+this is an excellent deterrent and in
+some cases maybe a legal mandate
+depending upon your local loss so again
+anytime we get into recording people
+things get a little dicey now
+if I was going to assess you there are
+two main points I'd be looking for Point
+number one determine if privacy and
+security notices required by cui
+specified rules are identified
+consistent and associated with the
+specific cui category
+that's what I'd be looking for now if I
+was giving an answer I would say well
+here's an example answer notices are in
+place at system startup via Windows
+interactive system logon message Group
+Policy that's one way you can do it
+assessment Point number two determine if
+privacy and security notices are
+displayed again a sample answer might be
+notices are in place at system startup
+via Windows interactive system logon
+message Group Policy so again you
+restart the computer message pops up
+says hey there's cui on the machine and
+activity is logged and recorded that's a
+requirement now other examples may be
+physical facility signs okay think door
+signs on security sensitive rooms signs
+and policy sign in policies like for
+visitors
+training and more that could be in place
+to demonstrate compliance with this
+control there's a lot that you can do to
+put up the right privacy and security
+notices that cuis in the area all right
+again we want people to be aware that
+there's something going on here that's
+security sensitive for sure
+and hey
+if you need more specific guidance on
+that we can definitely help because at
+on-call we work with defense contractors
+just like you who have had this dfars
+nist SP 10171 itar and cmmc compliance
+stuff dropped into their laps like a
+seagull on a sunny day we teach you how
+to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmccomplianceecrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out there for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance nerves
+nerves roll it out no I'm just kidding
+it's me it's not my video editor but
+sometimes I like to mess it a little bit
+all right until the next compliance tip
+my friend stay safe and secure out there
+and hit us in the comments comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance and
+I'll see you on the next one one
+
+foreign

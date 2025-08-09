@@ -1,0 +1,174 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmfccontrol
+ca.l2-3.12.2 develop and Implement plans
+of action designed to correct
+deficiencies and reduce or eliminate
+vulnerabilities in organizational
+systems
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 800 171 compliant
+stuff on top of an already colossal
+workload I got great news for you you
+found your home here at on-call
+compliance Solutions we can help you
+transform into your company's on-call
+compliance hero if you haven't done it
+yet reach right down there smash that
+subscribe button it really helps us out
+and again lets us know that we're doing
+the right thing for you guys so again if
+you've been watching our control videos
+send some love our way hit the like
+button and definitely smash that
+subscribe button so you can check out
+all the videos
+now let's jump into it so uh we're
+talking about cmmccontrol
+ca.l2-3.12.2 develop and Implement plans
+of action designed to correct
+efficiencies and reduce or eliminate
+vulnerabilities in organizational
+systems well this one's pretty easy and
+straightforward okay you better have a
+poem and if you don't have a poem or a
+plan of action uh with Milestones uh
+well then well you're not compliant to
+begin with so forget about cmmc
+certification you're not even at the
+start finish line yet right uh so again
+not just any poem it better have any
+temporary deficiencies you have along
+with your original Baseline deficiencies
+from where from when you started so yes
+your poem is part of your Baseline
+documentation requirement and again this
+is something a lot of people don't
+understand when it talks about the idea
+of Baseline documentation it considers
+the idea that you're compliant as a part
+of your Baseline so again your assist
+your system security plan your plan of
+action Milestones all the network
+inventory stuff there's so much involved
+in Baseline documentation just show that
+again if something happens you have
+record of it so again your poem also is
+a place where you should be tracking all
+of your changes yes I know the form they
+give you from the government is really
+not that friendly for tracking changes
+but you know what it doesn't matter
+because that's the way the government
+says do it so that's how we do it so
+again track your changes in your poem
+and again it is kind of that forever
+living document of what you've gone
+through and what you've done very
+important to prove you are performing
+the actions required of you which
+includes keeping up with your plan of
+action with Milestones as time goes on
+so again you want to be able to show
+that assessor in one big document hey
+here's everything that was wrong here's
+everything we did to fix it and that's
+kind of a quick summary of what the poem
+needs to be so let's jump into what the
+assessors are looking for on this one
+so we're looking for three key pieces of
+information if you're an assessor okay
+one you want to determine if
+deficiencies and vulnerabilities to be
+addressed by the plan of action are
+identified now where would they where
+would they be identified this one's
+pretty simple the answer is hey go look
+at our poem and of course for assessment
+Point number two you're probably gonna
+get the same answer right determine if a
+plan of action is developed to correct
+identified deficiencies and reduce or
+eliminate identified vulnerabilities
+here again all we have to do is say go
+look at the poem everything you're
+looking for should be in there so again
+make sure you're doing all your proper
+documentation
+final assessment point is to determine
+if the plan of action is implemented to
+correct identified deficiencies and
+reduce or eliminate identified
+vulnerabilities here again your plan of
+actual Milestone should have notes on
+exactly what you did to remediate those
+vulnerabilities where are you going to
+put in the plan you know what I got to
+tell you there's no defined field for it
+in the table that comes from the
+government you can either add one to
+your own spreadsheet or what I like to
+do is we just simply make footnotes in
+the document so that wherever you are in
+the document wherever the deficiency is
+again what you did to solve it is there
+and then you're changing your ultimate
+answer to it's completed versus a
+temporary efficiency so again
+remediation of poem items will be
+evidence within the it ticketing system
+as well so this is another key piece
+which is it may not just be good enough
+to show what you did in a summary they
+may want to actually see evidence that
+things were done in your ticketing
+system so keep that in mind and again
+always keep great notes about how you're
+changing your system very important now
+at on-call we work with people just like
+you all right defense Contractors Supply
+Chain people in the defense industry uh
+who have had this D fars nist itar and
+cmmc compliance stuff dropped in their
+laps like a seagull on a sunny day we
+teach you how to level up and be the
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance as your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant our
+compliance experts are always on call
+for you you can visit
+cmmccomplianceecrets.com do it right now
+open up another tab CMC
+complianceeekers.com check it out or you
+can always check out the Bible below for
+links to get help right now okay love
+the content we're putting out here for
+you help us out with a big thumbs up on
+that like button or even better smash
+the Subscribe button it really means a
+lot to us when we get those
+subscriptions it just kind of brightens
+our day all right uh and again you want
+to be subscribed so you get the latest
+compliance content as soon as our
+compliance nerves roll it out until next
+compliance tip my friends stay safe and
+secure out there hit us in the comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance I'll
+see you on the next one

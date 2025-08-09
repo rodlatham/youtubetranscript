@@ -1,0 +1,179 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmfc control PE dot
+l2-3.10.4 maintain audit logs of
+physical access yes
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SB 10171 compliant stuff
+on top of an already colossal workload
+well I've got great news for you you
+found your home here at on-call
+compliance Solutions where we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it so getting a little more specific now
+about the physical security we are now
+required to keep actual logs of who came
+and went from our facility and then
+audit those logs for anomalous Behavior
+at least that's what we should be doing
+so a few relevant examples here why is
+Joe the janitor coming into the office
+between 2 A.M and 4 AM every morning and
+what is he doing well if nobody's
+tracking who comes and goes from the
+building we may never know that he's
+actually coming and going at those odd
+times I mean who knows what Joe could be
+up to or why he's always late to work
+when he never actually leaves the
+building that's weird I haven't been
+able to figure that one out myself maybe
+if I was watching the access logs we
+could actually learn more another
+example deals with the auditing of what
+is referred to as Tailgaters I know
+they're in traffic and they honk at you
+all the time and you just want to slam
+on the brakes and show them with a real
+Tailgater your car looks like not that
+kind of Tailgater okay those people who
+will fob in and then let their buddy in
+right behind him could be an authorized
+user could be a non-authorized user no
+big deal until cui comes into play and
+what's worse is again A lot of times
+they may have a friend that came to work
+with them for some stupid reason and
+then they're just walking right through
+the door right if we don't have proper
+monitoring on that we really have no no
+idea what's going on in our building and
+there's certainly no way to go back and
+take action on someone that we don't
+have monitoring on so what about a
+camera system versus a fob only system
+well what I'll say is that the uh you
+know
+on this one uh there's very few areas
+where I think we may be able to get into
+a into an opinion from an assessor so
+the assessment criteria is that we have
+to determine if physical access logs are
+maintained okay that's pretty easy fob
+system takes care of that except that
+there is no real way to make sure who
+swiped in is who the fob swipe says they
+are so yes it should be physical
+possession but of course that can be
+duplicated or reused If lost kind of
+yucky for that reason I really think
+that in this case to truly meet the
+intent of the control along with Access
+Control you should be prepared to back
+it up with a camera system caching those
+people on camera seeing what's really
+going on at the door could you pass an
+audit without a camera system in place
+it's a great question but the answer is
+no already because of a previous control
+requiring you to monitor the physical
+facility and support infrastructure
+let's see what the assessors are looking
+for on this one how to answer for the
+control
+so there's only one thing they're
+looking for on this one which is to
+determine if audit logs of physical
+access are maintained so you're going to
+go to your access control system or
+you're going to go to whatever your
+access log is maybe your visitor log Etc
+and you're going to show us the assessor
+it's a demonstrate kind of pass-on
+control implemented via the visitor
+access system all visitors must check in
+at the front reception area and complete
+a visitor review and sign in form and
+agree to all company policies okay
+that's how I would I would sort of
+answer that control
+so hey at on call we work with defense
+contractors just like you who have had
+all this dfars nist itar and cmmc
+compliance stuff dropped into their laps
+like a seagull on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps gray areas and
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+with higher profit margins now that's
+what becoming an on-call compliance hero
+can do for you if you're looking for
+more help getting compliant guess what
+you're in the right place our compliance
+experts are always on call for you and
+you can visit CMC complianceecrets.com
+or check out the bio below for links to
+get help right now guys look I had three
+phone calls coming to our office
+yesterday alone these guys weren't
+interested in Services they were calling
+us just to get help on the controls I
+promise we're always happy to help okay
+we know this stuff is confusing we've
+been very fortunate to build out a
+pretty good sized company doing this
+stuff all right we love our defense
+contractors and if you're one of them
+and you're struggling you're banging
+your head against the wall and all you
+need is to figure out one control to
+just call us all right seriously I'm
+here for you uh honestly it's just it's
+part of what I consider to be Goodwill
+Good Karma you have a great experience
+with us maybe you'll refer us to one of
+your other defense contractors and
+either way we're happy to help seriously
+I'm on camera saying that I mean it it's
+really what we live for here
+uh and again we understand this stuff is
+complicated we understand the government
+has not made it very easy to figure it
+out the Cyber AB hasn't really made it
+very easy to figure out uh hey you know
+what that's cool I will all right and
+we're building solutions to help the
+defense industrial base do a better job
+of that each and every day to lessen the
+burden on you to increase the security
+on the country and you know what we just
+generally think it's really important so
+if you love the content that we're
+putting out here for you or you just
+love what we're all about help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance nerves
+roll it out until the next compliance
+tip my friends stay safe and secure out
+there thanks for watching we love giving
+back to you guys hit us in the comments
+below to let us know what you'd like to
+know more about when it comes to
+information security and compliance and
+I'll see you on the next one
+
+thank you

@@ -1,0 +1,166 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike Freer here with
+on-call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about cmmc
+control
+
+ca.l2-3.12.1 periodically it's just the
+security controls and organizational
+systems to determine if the controls are
+effective in their application
+
+so hey if you're a contractor who's
+feeling overwhelmed tired and alone try
+to understand all this cmmc dfars and
+nist SP 800 171 compliance stuff on top
+of an already colossal workload well
+I've got great news for you you found
+your home here at on-call compliance
+Solutions where we can help you
+transform into your company's on-call
+compliance Hero Let's jump into it so in
+
+ca.l2-3.12.1 periodically assess the
+security controls and organizational
+systems to determine if the controls are
+effective in their application this is
+one of those controls that will get the
+it guys head scratching and for good
+reason this isn't really an I.T issue
+for the most part okay so again remember
+dfar's nist compliance is a company-wide
+issue and not everything is all on the
+it guy's head so this is a risk
+management control okay not an I.T
+control and as we are beginning to learn
+dfar's nist cmmc they're all far more
+about risk management than directly
+about cyber security so here the
+assessors are going to want to
+understand hey what is your risk
+management program look like how often
+are you actually looking at risk and the
+way you are managing it and let me tell
+you it better be documented in a policy
+somewhere and you better be able to
+prove you're actually getting getting
+into it and acting on it not just some
+Word document from 1997 that hasn't been
+opened in a million years okay because
+again these assessors are sharp they're
+going to be able to sit there and look
+at date and time stamps on files with
+you they're going to kind of see through
+the letters they're going to want to see
+hey show me some calendar entry where
+you had an actual meeting about risk
+management as a sidebar this control is
+one that is solved with our virtual
+compliance officer services so again if
+you're a small to mid-sized company or
+even a large company and you're like man
+I don't know how to do this I don't you
+know we don't have risk management
+practices in our business and you know
+you're just kind of like shaking your
+head thinking yourself what on Earth am
+I going to do here we literally handle
+this for our clients right now let's
+dive into what the assessors are looking
+for so you can learn at least how to
+solve for it
+so in this control we're looking for two
+different things number one uh determine
+if the frequency of security control
+assessments is defined in other words is
+there somewhere in writing where you're
+stating how often security assessments
+uh of you know are happening and and how
+often those controls are actually
+assessed to see if they're working so in
+our case if we were to sort of be
+managing this for a client we would say
+Hey look it's implemented via the risk
+management standard operating procedure
+again one of the things we deliver for
+our clients is we deliver a complete set
+of standard operating procedures which
+includes a risk management policy a risk
+management framework and everything that
+goes along with managing risk the second
+thing they'd be looking for is
+determining if security controls are
+assessed with the defined frequency to
+determine if the controls are effective
+in their application if that sounded a
+whole lot like the first thing they're
+looking for let's hit the rewind button
+and let's try it again so again the
+first thing they're looking for is the
+frequency of security control assessment
+the second thing they're looking for is
+determine if security controls are
+assessed with the defined frequencies so
+again they're just really kind of diving
+in to prove the point that they're going
+to have to have some evidence that
+you're actually participating in these
+risk management activities and that
+you're actually assessing whether or not
+the security controls are really there
+are really working are really effective
+in their utilization and whether or not
+you're assessing if they actually are
+you know bad or good again how do we
+answer that second that second piece of
+assessment we would say hey it's
+implemented via the risk management sop
+in addition you can also see the
+Baseline configuration the network
+inventory and the poem because again
+these are going to be things that change
+as new risks are realized and come onto
+the scene they'll be discussing your
+risk management program and then again
+you would see those changes throughout
+changes in additions to your plan of
+actual Milestones system security plans
+and things like that so if your head is
+spinning like mine is sometimes when I
+talk about risk management the good news
+is here at on-call we work with defense
+contractors just like you who've had
+this dfars nist itar and cmmc compliance
+stuff dropped into their laps like a
+seal on a sunny day we teach you how to
+level up and be a proper on-call
+compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance as your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+information on getting compliant our
+compliance experts are always on call
+for you visit cmmccompliance secrets.com
+or check out the Bible below for links
+to get help right now if you love the
+content we're putting out here for you
+help us out with a big thumbs up on that
+like button or even better smash the
+Subscribe button to get the latest
+compliance content as soon as our
+compliance stores roll it out until the
+next compliance tip my friends stay safe
+and secure out there hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+
+thank you

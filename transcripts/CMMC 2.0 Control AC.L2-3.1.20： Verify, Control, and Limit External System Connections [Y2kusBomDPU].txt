@@ -1,0 +1,247 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this time we're talking about
+cmmc control
+
+ac.l2-3.1.20 verify and control and
+limit connections to and use of external
+systems not internal but external I know
+what's that
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 10171 compliant stuff
+on top of an already colossal workload
+well I've got great news for you I'm
+crazy and I make these videos no you
+found your home here at on-call
+compliant Solutions where we can help
+you transform into your company's
+on-call compliance hero and sometimes
+make you laugh about a really boring
+subject because compliance is so
+exciting let's jump into it so in
+cmmccontrol
+ac.l1-3.1.20 verify and control limit
+connections to and use of external
+systems what they're looking for is for
+you to demonstrate both an understanding
+and an ability to control what your
+users are actually connecting to on the
+outside this control can definitely be a
+challenging one to tackle because it's
+so broad when you first look at it but
+what we say what I say we do is this
+let's check out what the assessors are
+looking for on this one and how to make
+them happy and I think the sample
+answers in this case should shine some
+light on everything for you now there's
+a bunch of sample answers here and
+hopefully I watched Sesame Street and I
+can count it a lot because there's a lot
+of assessment points very complicated
+but I'm going to try to make it simple
+so one two three four five six there are
+six there's six this is four fingers
+just in case you're ever wondered so I
+have to use my other hand because
+there's a hidden thumb back here and it
+holds my pointer
+four and two so I got six points we're
+gonna talk about them all and we're
+gonna tell you how an assessor would
+look at this so
+if I'm an assessor I am an assessor I'm
+an assessment team member uh CCP
+certified baby all right determine if
+connections to external systems are
+identified uh connections to external
+systems are identified via again I just
+give some random examples here right
+like the organizational firewall your
+seam Solutions you know if you don't
+know that is go back and watch like 40
+my other videos all right security
+information event monitoring or
+management uh solution endpoint
+protection solution so again all of
+these things act together uh to control
+how you connect to external systems and
+in some cases stop some of those
+connections now assessment Point number
+two determine if the use of external
+systems is identified so if we're going
+to identify how we do that well use of
+external systems is identified via maybe
+a seam solution right because you're
+going to see exactly what's coming in is
+it identified by IP address Mac address
+it's going to show all that another way
+that you could potentially answer that
+is with firewall logs uh you know server
+access logs lots and lots of options
+there but again you have to show it you
+have to show an assessor an example of
+external systems being identified same
+solution is probably your best bet
+certainly an easy one
+now the next one number one two three is
+determinive can actually come on I got
+like five and a half year old twins at
+home I'm pretty good at by now right all
+right comment below if you think that
+was an awesome count count
+all right it's not the wrong Sesame
+Street I mean I'm like 40 years old I
+I'm not gonna admit to really watching
+Sesame Street on YouTube anyway
+determinive connections to external
+systems are verified connections to
+external systems are verified by the
+firewall and seam Solution that's a
+pretty straightforward pretty easy
+answer again that's what I would
+demonstrate to an assessor via maybe
+some shoulder surfing uh you know who
+knows all right assessment Point number
+four determine if the use of external
+systems is verified all right ah now we
+get a little bit more complex right if
+we're going on to an external system is
+there's some ability to verify uh that
+we are actually you know going there
+right so connections to external systems
+are verified by the firewall right the
+firewalls can usually authenticate
+somehow or at least certainly do some
+deep pack inspection and of course seam
+Solutions going to also verify that
+there was a successful external system
+connection and verification there so
+those are a couple of answers you could
+certainly use different answers than
+those lots and lots of ways to do that
+but again those are a pretty simple way
+to answer that
+assessment Point number five determinive
+connections to the external systems are
+controlled slash limited uh again pretty
+easy and straightforward answer there
+because uh that's what a firewall does
+right connections to external systems
+are controlled limited by the firewall
+right You've Got Deep you know deep
+packet inspection you've got intrusion
+prevention you've got all kinds of other
+things in there that are essentially
+controlling and limiting what systems
+you can connect to and if it's malicious
+hopefully it's stopping you from making
+that connection now I could have
+answered another way right maybe you
+don't have a firewall like a physical
+on-premise type firewall like a Florida
+gate or a Sophos unit we're big fans of
+Sophos here uh maybe instead you have an
+endpoint management Solution that's
+managing the local firewall on your
+computer that's okay too so again lots
+of ways you can demonstrate to an
+assessor that that is being met
+the sixth and final one is determine if
+the use of external systems is
+controlled and limited right great
+example here is a web filter right are
+you controlling the ability to go to
+certain websites uh maybe you've got
+port and protocol control are you
+controlling the ability to go to an
+external system through various ports uh
+or disallowing certain protocols like
+maybe we don't want to go into Gmail we
+want to limit that capability so again
+those are a couple of sample ideas
+sample answers there we might answer
+very simply with connections to external
+systems are limited and controlled by
+the organization's firewall that would
+be pretty simple just be prepared to Dem
+to to demonstrate this one to an
+assessor I think this is one that you
+know an interview may not really be good
+enough for you're probably looking at
+the idea of a little bit of shoulder
+surfing a little bit of demonstration
+virtually on this control now at on call
+we work with defense contractors just
+like you that's you it's something I'm
+sitting behind you not your boss in
+front of you it's you we work with you
+who have had this D fars nist itar and
+cmmc compliance stuff dropped into their
+lab like a seagull on a sunny day and we
+teach you how to level up and be a
+proper on-call compliance hero for your
+company eliminating gaps great areas in
+getting this solved all while showing
+you how to leverage compliance is your
+secret weapon to land more Defense work
+I know sounds crazy compliance leads to
+more Defense work and we can show you
+how with higher profit margins yes if
+you're more secure you're more valuable
+believe me how secure you are on a DOD
+purchasing Matrix looks pretty similar
+to what the whole cost is all right
+literally you can't even do business
+with you if you're not secure and the
+price is a variable now that's what
+becoming an on-call compliance hero can
+do for you we drop knowledge like that
+a lot okay so again we're all about
+helping our clients grow now if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc compliance
+secrets.com okay cmmc compliance
+secrets.com is where you go if you don't
+want to deal with this all right if you
+don't want to deal with it you just want
+this done for you go to that website
+book a time with one of our with one of
+our certified compliance experts all
+right and check out the bio below for
+more links on how to get help right now
+if you love the content we're putting
+out here for you or just don't want to
+do this stuff yourself help us out with
+a big thumbs up on that like button you
+know we're trying to feel the love out
+there we're trying to deliver it all to
+you uh again a thumbs up on that like
+button seriously it really helps us out
+even better Mash that subscribe button
+I'm gonna drop the S I'm just gonna mash
+it mash it in the ground subscribe again
+go get another Google account subscribe
+again it all helps guys to get the
+latest compliance content as soon as our
+compliances roll it out
+or we just decided it's a really great
+time to shamelessly plug ourselves over
+and over and over and over again because
+you know what to be honest it's just fun
+it's fun to do it's kind of hilarious
+until the next compliance tip my friends
+stay safe and secure out there hit us in
+the comments below to let us know what
+you'd like to know more about when it
+comes to information security and
+compliance and yes sir I'll see you on
+the next one

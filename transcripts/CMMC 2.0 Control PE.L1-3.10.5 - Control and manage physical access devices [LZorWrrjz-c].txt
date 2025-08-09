@@ -1,0 +1,126 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+pe.l2-3.10.5 control and manage physical
+access devices
+
+say hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone and sad
+trying to understand all the cmmc dfars
+and nist SP 800 171 compliance stuff on
+top of an already colossal workload I've
+got great news for you you are not alone
+and it's gonna be okay because you found
+us and with us we're going to make you
+into the next on-call compliance hero so
+you can help transform your organization
+into a more secure more compliant better
+place to be let's get into it alright so
+uh here we have a requirement to make
+sure that all physical access devices
+that is key fobs keys and any other
+devices or even biometric data used to
+log in or access a part of the facility
+is controlled okay you gotta have
+control over that stuff right if you got
+15 people walking around with the door
+to your house
+it's not really a very secure house is
+it we don't want that we want to know
+where these keys are we want to make
+sure we have them you know that we're
+accountable for them
+Etc so on this you'll want to be
+prepared with both evidence of the
+systems you use to monitor these items
+uh like you know a log and also you'll
+want to be prepared to give a
+demonstration of how it all works your
+systems or standard operating procedures
+let's see what the assessors are looking
+for on this one
+okay three assessment points one
+determine if physical access devices are
+identified uh again if we were to answer
+this we'd say hey it's implemented all
+physical access devices are inventoried
+and logged by the CIO or the chief
+operations officer or the door guy or
+the facilities security officer fso
+whatever the relevant person is in your
+organization somebody uh has to have
+this down now second assessment Point
+determine if physical access devices are
+controlled implemented physical access
+devices are controlled by in this case
+the CIO right because well let's just be
+honest if you're an I.T guy they just
+kind of like lay everything on you and
+that's just how it goes because it
+connects to the network but ultimately
+in all seriousness again somebody's got
+to have physical access devices that are
+controlled which means that you can you
+know again go find them if you need to
+and they're used within their specified
+purposes determine if physical access
+devices are managed implemented physical
+access devices are managed by the CIO
+base based on the physical access device
+policy so again here's a big hint you're
+probably going to have to have some
+policy somewhere that relates to how
+physical access devices are allocated
+given out returned Etc so all those
+things yep they require another policy
+and if you're struggling on the policy
+writings I know this is a really hard
+one the good news is uh if you're if you
+need help with this stuff give us a
+shout I'll give you some information in
+a second we handle all of the policies
+for you right so we take care of all the
+policies we take care of all of the
+compliance the plans everything and
+again if you're on The Struggle Bus
+trying to figure this out or you're
+banging your head against your monitor
+trying to figure out what to do now the
+good news is at on-call we work with
+defense contractors just like you who
+have had this dfars nist itar and cmmc
+compliance stuff dropped in their laps
+like a seal on a sunny day when we teach
+you how to level up and be a proper
+on-call compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on-call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc compliance secrets.com or check out
+the bio below for links to get help
+right now
+and if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash that subscribe
+button to get the latest compliance
+content as soon as our compliance learns
+roll it out until the next Appliance tip
+my friends stay safe and secure out
+there and hit us in the comments below
+to let us know what you'd like to know
+more about when it comes to information
+security and compliance and I'll see you
+on the next one

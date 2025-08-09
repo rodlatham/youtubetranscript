@@ -1,0 +1,97 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike freder here with
+on call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we are talking about cmmc
+control mp. L2
+3.8.8 prohibit the use of portable
+storage devices when such devices have
+no identifiable
+
+owner so hey if you're a defense
+contractor who's feeling overwhelmed
+tired and alone trying to understand all
+the cmmc def bars and N SP 171
+compliance stuff on top of an already
+colossal workload well I've got great
+news for you you found your home here at
+on call compliance Solutions where we
+can help you transform like a little
+caterpillar into a butterfly baby into
+your company's on call compliance Hero
+Let's get into it if you don't know
+whose USB drive or portable hard drive
+it is your first action should not be to
+jump up and down and stomp on it and uh
+like light it on fire until it no longer
+functions or works anymore then throw it
+out of the building like a grenade that
+could explode at any time that is
+probably not what you should do my
+friends um but obviously it is a very
+real security risk to take a portable
+storage media that is not identified and
+inserted into your systems just to see
+what is there that is an equally silly
+idea so what's the solution we recommend
+turning any unidentified devices over
+the IT department to for View and
+sanitization Via a computer in a DMZ or
+such air or or other like air gap system
+as an example so in other words isolate
+a system run a scan make sure it's okay
+figure out what's really going on with
+it then you can use it ready to find out
+more let's see what these assessors are
+looking for on this one as I stab myself
+in the finger with my pointer because
+there's a tip on it and a button on it
+and I hit the tip and definitely stab my
+finger and I might be bleeding what are
+the assessors looking for determine if
+the use of portable storage devices are
+prohibited when such devices have no
+identifiable owner well pretty
+straightforward implement the it us and
+cyber security policy
+ding uh policy mandates that no portable
+storage devices shall be used when there
+is no identifiable owner yes this is a
+policy control you got to have a policy
+uh and then you're going to have to
+demonstrate that that doesn't really get
+done and hey and on call we work with
+defense contractors just like you who
+have had this defar nist itar and cmmc
+compliance stuff dropped in their laps
+like a seagull on a sunny day we teach
+you how to level up and be a proper on
+call compliance hero for your company
+eliminating gaps gray areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that's what
+becoming an on call compliance hero can
+do for you if you're looking for more
+help getting compliant our compliance
+experts are always on call for you visit
+cmmc compliance secrets.com or check out
+the bio below for links to get help
+right now if you love the content we're
+putting out there for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance nerds
+roll it out until next compliance tip my
+friends stay safe and secure out there
+and hit us in the comments below to let
+us know what you'd like to know more
+about when it comes to information
+security and compliance I'll see you on
+the next
+
+one

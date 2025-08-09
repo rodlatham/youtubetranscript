@@ -1,0 +1,191 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike frieder here
+with on-call compliance Solutions and
+I'm back with another compliance tip of
+the week this week we're talking about
+cmmc control
+
+sc.l1-3.13.1 monitor control and protect
+Communications I.E information
+transmitter received by organizational
+systems at the external boundaries and
+key internal boundaries of
+organizational systems
+
+so hey if you're a defense contractor
+who's feeling overwhelmed tired and
+alone trying to understand all this cmmc
+dfars and nist SP 800 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you we've found your home here at
+on-call compliance Solutions we can help
+you transform into your company's
+on-call compliance Hero Let's jump into
+it all right now generally speaking this
+control is another one which is
+specifically dictating behavior and how
+your system must operate in order to be
+compliant in case you couldn't figure it
+out this control is specifically
+pointing out the functionality of a
+firewall
+who would have guessed protecting
+internal and external boundaries is
+exactly what a firewall does however I
+think it's also important to recognize
+that it's not just any firewall will do
+there are probably uh you know there are
+a lot of assessment points here and the
+reality is a router you find at Best Buy
+is probably not adequate to do the trick
+instead we're going to need a solid
+business grade or preferably an
+Enterprise grade firewall when we look
+at the assessment points I'll show you
+why now keep in mind Enterprise grade
+does not necessarily mean expensive it's
+all about the features it has so again
+small micro businesses let me not scare
+you you can do this and if you don't
+feel comfortable reach out to us and we
+can definitely help let's check out what
+the assessment points look like on this
+one prepare yourself it's a little bit
+of a long one I'm gonna sweat really
+hard on this teleprompter because this
+font is small all right assessment point
+one determine if the external system
+boundary is defined uh so have we
+defined what is on the outside what's on
+the inside of our secure network uh if
+we were to answer this we'd say hey
+Define is those specific authorized
+devices which have been authorized and
+approved to access cui by the IT team
+and the information owner boundary
+examples are the individual systems and
+access cui and of course the secure
+environment right so anything on the
+local area network is internal anything
+on the wide area network or the internet
+is well external so again the external
+boundary is the firewall between the
+inside secure network and the outside
+all right assessment Point number two
+determine if key internal system
+boundaries are defined so now we're
+talking about internal boundaries
+uh internal boundaries are defined as
+those resources behind organizational
+firewalls and behind uh the secure data
+Enclave environment so again within
+whatever the secure setup is that you
+have if you even have one maybe your
+entire network is the secure Enclave
+assessment Point number three determine
+if Communications are monitored at the
+external system boundary this is
+implemented via the you guessed it the
+seam solution if you don't know what a
+seam solution is go back and watch some
+of our other videos or give us a call
+it's the security information and event
+management system that you should have
+in place to be compliant and of course
+firewall monitoring service whether
+you're monitoring the firewall yourself
+or whether you have an external third
+party like us again someone should be
+there to be monitoring that next
+assessment Point determinative
+Communications are monitored at Key
+internal boundaries this is implemented
+via the same solution and firewall
+monitoring service again start breaking
+these down a little bit simpler
+determine if Communications are
+controlled at the external system
+boundary implemented via the
+organization's firewalls again important
+protocol controller great examples of
+those
+determinive Communications are
+controlled at Key internal boundaries
+now this could mean a lot of different
+things if you're a large organization it
+might mean that you actually have things
+like sub networks or vlans you know
+virtual local area networks could mean a
+couple of different things everybody's
+going to have a different answer here
+but in this example it's not such a huge
+Network we're just saying Hey look it's
+implemented via the organizational
+firewalls that's where it is uh
+determine if Communications are
+protected at the external system
+boundary well are they of course they
+are but what it's going to take to do
+that is probably to have some kind of a
+packet sensing or packet reviewing type
+of firewall so again as the packets go
+in and out of firewall the key here is
+that they are essentially being scanned
+for malicious packets or activity and
+that's going to be what protects the
+external system boundary okay so again
+implemented be the organizational
+firewalls this is one more reason why a
+basic you know firewall without active
+packet filtration just really won't work
+here uh determinive Communications are
+protected at the key internal boundaries
+so again implementing the organization's
+firewalls your firewall should be able
+to do uh you know all of that packet
+filtering and packet sensing and you
+know hopefully it's you know got some of
+those Enterprise grade features like
+built-in web filters and malicious
+content filters and things like that so
+again that's how to that's how to solve
+for that so hey and on call we work with
+defense contractors just like you who
+have had this D fars nist itar and cmmc
+compliance stuff dropped in their laps
+like a seagull on a sunny day okay even
+if you're just struggling to manage the
+technology or implement the right
+firewall guys we can help on a granular
+level just reach out to us we teach you
+how to level up and be a proper on-call
+compliance hero for your company
+eliminating gaps great areas and getting
+this solved all while showing you how to
+leverage compliance is your secret
+weapon to land more Defense work with
+higher profit margins now that is what
+becoming an on-call compliance hero can
+do for you
+if you're looking for more help getting
+compliant our compliance experts are
+always on call for you visit cmmc
+compliance secrets.com or check out the
+bio below for links to get help right
+now if you love the content we're
+putting out here for you help us out
+with a big thumbs up on that like button
+or even better smash the Subscribe
+button to get the latest compliance
+content as soon as our compliance
+service roll it out until the next
+compliance tip my friends stay safe and
+secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance I'll
+see you on the next one
+foreign

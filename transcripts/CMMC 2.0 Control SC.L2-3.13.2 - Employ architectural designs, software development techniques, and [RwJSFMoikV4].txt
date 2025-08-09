@@ -1,0 +1,156 @@
+Kind: captions
+Language: en
+
+hey everybody it's Mike freder here with
+on call compliance Solutions and I'm
+back with another compliance tip of the
+week this week we're talking about cmmc
+control scl2 d3.1 3.2 employee
+architectural designs software
+development techniques and system
+engineering principles that promote
+effective information security within
+organizational
+
+systems so hey if you're at def
+contractor who feeling overwhelmed tired
+and alone trying to understand all this
+cmmc DS and nists sp00 171 compliance
+stuff on top of an already colossal
+workload well I've got great news for
+you you found your home here at on call
+compliance Solutions where we can help
+you transform into your companies on
+call compliance Hero Let's jump into it
+so I will tell you I like to divide how
+this control is answered into two groups
+group one excuse me is is two is is the
+small to midsize businesses who do not
+develop their own software have small
+simple systems and who ultimately there
+really isn't much to answer here on this
+control because they're using
+off-the-shelf software and security is
+handled by Third parties and in that
+case the answers are pretty simple for
+the rest of the companies who are a
+little bit larger have more complex
+networks and especially those who
+develop their own software especially
+that software used to store transmit or
+process cui this will be one of the
+longest control answers for you the
+reason is because you are going to have
+to detail a lot of different points in
+your plan about how each aspect which
+touches cui is secured and how it
+evolves in continuing meeting security
+to understand more of this I think it's
+best to go straight to the assessment
+points here now to help with giving you
+a more complex answer we are using an
+example from a larger Network that does
+in fact develop its own software it has
+a more complex setup if you have a
+simpler company well your answer will of
+course be a little more simple so let's
+dive in uh three assessment points one
+determine if architectural designs that
+promote effective information security
+are identified uh if we were to answer
+this again I'm not going to give the
+most complicated answer here but uh we
+might say that it's identified within
+system security plan in addition VLS are
+in place to promote uh an effective
+Network architecture or maximum security
+and efficiency within the network and of
+course whenever our code is developed uh
+we are using best-in class and best
+practices when it comes to architectural
+designs for software creation next
+assessment Point determine if software
+development techniques that promote
+effective information security are
+identified uh so we may say hey this is
+implemented via code compilers debuggers
+malicious code scans and testing used
+during any relevant application
+development uh again assessment Point
+number three determine if systems
+engineering principles that promote
+effective information security are
+identified we might say implemented
+identified within the system security
+plan and again we may identify all
+throughout this plan because that's
+really what this is all about is
+architecting a system that is secure so
+uh more assessment points determine if
+identified architectural designs that
+promote effective information security
+are employed so are we actually using
+some of those more secure designs in
+what we're building uh again another
+sample answer would be implemented
+throughout the information system
+examples are vlans and system
+segmentation separation for air gapping
+and just an example answer there next
+assessment point is determine if
+identified software development
+techniques that promote effective
+information security are employed uh
+implemented via code compilers debuggers
+malicious code scans and testing used
+during any relevant application
+development uh pretty simple and
+straightforward there and then determine
+if identified systems engineering
+principles that promote effective
+information security are employed again
+we would say hey this is you know
+effective information security is
+employed through the system uh can be
+demonstrated in a variety of ways and
+there are examples throughout this
+system security plan pretty good way to
+do it again the assessors may have their
+own set of things that they want to
+actually sort of investigate in person
+uh but again as far as the system
+security plan I think those are more
+than adequate answers and we've
+certainly got them to pass so hey at on
+call we work with defense contractors
+just like you who have had this DARS
+nist itar and cmmc compliance stuff
+dropped in their laps like a seagull on
+a sunny day we teach you how to level up
+and be a proper on call compliance hero
+for your company eliminating gaps gray
+areas and getting this solved all while
+showing you how to leverage compliance
+is your secret weapon to then more
+Defense work with higher profit margins
+now that's what becoming an on call
+compliance hero can do for you if you're
+looking for more help getting compliant
+our compliance experts are always on
+call for you visit cmmc compliance
+secrets.com or check out the bio below
+for links to get help right now out if
+you love the content we're putting out
+here for you help us out with a big
+thumbs up on that like button or even
+better smash the Subscribe button to get
+the latest compliance content as soon as
+our compliance n roll it out until the
+next compliance tip my friends stay safe
+and secure out there and hit us in the
+comments below to let us know what you'd
+like to know more about when it comes to
+information security and compliance and
+I'll see you on the next
+
+one
