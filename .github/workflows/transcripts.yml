@@ -1,4 +1,4 @@
-name: Pull YouTube transcripts (cookies + tvhtml5/web + API fallback)
+name: Pull YouTube transcripts (10s pause, cookies + tvhtml5/web + API fallback)
 
 on:
   workflow_dispatch:
@@ -27,7 +27,7 @@ jobs:
           python-version: "3.11"
       - run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp tqdm requests youtube-transcript-api==0.6.2
+          pip install 'yt-dlp[default]' tqdm requests youtube-transcript-api==0.6.2
 
       - name: Restore cookies.txt (optional but recommended)
         run: |
@@ -35,14 +35,13 @@ jobs:
             printf "%s" "${{ secrets.YT_COOKIES_B64 }}" | base64 -d > cookies.txt
             echo "cookies.txt restored (head):"
             head -n 5 cookies.txt || true
-            # sanity: require youtube.com lines
             if ! grep -E "youtube\.com" cookies.txt >/dev/null 2>&1; then
               echo "WARNING: cookies.txt has no youtube.com entries"; fi
           else
             echo "No YT_COOKIES_B64 secret set; yt-dlp may be blocked."
           fi
 
-      - name: Download subtitles with cookies (tvhtml5 → web)
+      - name: Download English subtitles with cookies (tvhtml5 → web, 10s pause)
         run: |
           mkdir -p transcripts
           COOKIES_ARG=""
@@ -57,20 +56,21 @@ jobs:
               --yes-playlist \
               --skip-download \
               --write-sub --write-auto-sub \
-              --sub-langs "en,all,-live_chat" \
+              --sub-langs "en,en-US,en-GB" \
               --sub-format vtt \
               --extractor-args "youtube:player_client=${CLIENT}" \
-              --force-ipv4 \
-              --sleep-requests 2 \
-              --sleep-interval 1 \
-              --max-sleep-interval 3 \
-              --retries 10 \
-              --throttled-rate 100K \
+              --sleep-requests 3 \
+              --sleep-interval 10 \
+              --max-sleep-interval 10 \
+              --retries 15 \
+              --retries-subtitles 20 \
+              --retry-sleep-subtitles 2:exp=1.8:max=90 \
+              --limit-rate 80K \
+              --throttled-rate 80K \
               --output "transcripts/%(title)s [%(id)s].%(ext)s" \
               "${PLAYLIST_URL}" || true
           }
 
-          # NOTE: Skip 'android' because it cannot use cookies
           run_dl tvhtml5
           run_dl web
 
@@ -97,7 +97,6 @@ jobs:
           entries=[]
           for vtt in glob.glob('transcripts/*.vtt'):
               base=os.path.basename(vtt)
-              # Accept "Title [ID].vtt" or "Title [ID].<lang>.vtt"
               m=re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
               if not m: continue
               title, vid, lang = m.group('title'), m.group('id'), m.group('lang') or 'unknown'
@@ -110,7 +109,6 @@ jobs:
               char_len=os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
               entries.append({'video_id':vid,'url':url,'title':title,'source':f'yt-dlp.vtt({lang})','char_len':char_len})
 
-          # Dedup per video preferring English tracks
           best={}
           pref=('en','en-US','en-GB')
           for r in entries:
@@ -228,7 +226,6 @@ jobs:
               except Exception as e:
                   rows.append({'video_id':vid,'url':url,'title':title,'source':f'error: {type(e).__name__}','char_len':0})
 
-          # append & dedupe, prefer English-ish sources
           all_rows=[]
           if csv_path.exists():
               with open(csv_path, newline='', encoding='utf-8') as f:
@@ -250,7 +247,7 @@ jobs:
               w.writerows(sorted(best.values(), key=lambda r:(r['title'].lower(), r['video_id'])))
           PY
 
-      - name: Upload artifacts (optional)
+      - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: transcripts
