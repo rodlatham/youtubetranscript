@@ -62,7 +62,6 @@ jobs:
               --sleep-interval 10 \
               --max-sleep-interval 10 \
               --retries 20 \
-              --retry-sleep 2:exp=1.8:max=90 \
               --limit-rate 80K \
               --throttled-rate 80K \
               --output "transcripts/%(title)s [%(id)s].%(ext)s" \
@@ -87,9 +86,8 @@ jobs:
                       if re.match(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}', s): continue
                       if not s.strip() or re.match(r'^\s*\d+\s*$', s): continue
                       out.append(s)
-              import re as _re
               txt='\n'.join(out).strip()
-              return _re.sub(r'\n{3,}','\n\n',txt)
+              return re.sub(r'\n{3,}','\n\n',txt)
 
           Path('transcripts').mkdir(exist_ok=True)
           entries=[]
