@@ -1,9 +1,9 @@
-name: Pull YouTube transcripts (2s pause, tvhtml5 client, preflight, giant txt)
+name: Pull YouTube transcripts (skip existing VTTs, tvhtml5, giant txt)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"
+    - cron: "17 3 * * *"  # daily at 03:17 UTC
 
 jobs:
   run:
@@ -13,7 +13,7 @@ jobs:
 
     env:
       PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
-      TEST_VIDEO_ID: "dQw4w9WgXcQ"  # cookie sanity check
+      TEST_VIDEO_ID: "dQw4w9WgXcQ"  # cookie sanity check video
 
     steps:
       - name: Checkout
@@ -42,7 +42,7 @@ jobs:
             echo "No YT_COOKIES_B64 secret set; yt-dlp may be blocked."
           fi
 
-      - name: Preflight cookies (tvhtml5, expect EN auto-sub)
+      - name: Preflight cookies (tvhtml5)
         run: |
           echo "==> Testing cookies on $TEST_VIDEO_ID via tvhtml5…"
           set -o pipefail
@@ -53,69 +53,86 @@ jobs:
             echo "ERROR: Cookies appear invalid/blocked. Refresh YT_COOKIES_B64."
             exit 1
           fi
-          echo "Preflight completed (note: this video may lack EN subs; that’s OK for cookie validation)."
+          echo "✅ Preflight completed."
 
-      - name: Download English subtitles (tvhtml5, 2s between videos)
+      - name: Download English subtitles (tvhtml5, 2s between, skip existing VTTs)
         run: |
           mkdir -p transcripts
           COOKIES_ARG=""
           [ -f cookies.txt ] && COOKIES_ARG="--cookies cookies.txt"
 
-          echo "==> Using player_client=tvhtml5 with 2s between videos"
-          yt-dlp \
-            $COOKIES_ARG \
-            --ignore-errors \
-            --yes-playlist \
-            --skip-download \
-            --write-sub --write-auto-sub \
-            --sub-langs "en,en-US,en-GB" \
-            --sub-format vtt \
-            --extractor-args "youtube:player_client=tvhtml5" \
-            --sleep-interval 2 \
-            --max-sleep-interval 2 \
-            --retries 5 \
-            --limit-rate 120K \
-            --throttled-rate 120K \
-            --output "transcripts/%(title)s [%(id)s].%(ext)s" \
-            "${PLAYLIST_URL}" || true
+          echo "==> Fetching playlist video IDs..."
+          yt-dlp --flat-playlist --get-id "$PLAYLIST_URL" > playlist_ids.txt
 
-      - name: Ensure we actually downloaded subtitles
+          total=$(wc -l < playlist_ids.txt | tr -d ' ')
+          echo "Playlist contains $total videos."
+
+          processed=0
+          skipped=0
+          while read -r vid; do
+            [ -z "$vid" ] && continue
+            if ls transcripts/*"$vid"*.vtt >/dev/null 2>&1; then
+              echo "Skipping $vid — VTT already exists."
+              skipped=$((skipped+1))
+              continue
+            fi
+            echo "Downloading subtitles for $vid..."
+            yt-dlp \
+              $COOKIES_ARG \
+              --ignore-errors \
+              --skip-download \
+              --write-sub --write-auto-sub \
+              --sub-langs "en,en-US,en-GB" \
+              --sub-format vtt \
+              --extractor-args "youtube:player_client=tvhtml5" \
+              --sleep-interval 2 \
+              --max-sleep-interval 2 \
+              --retries 5 \
+              --limit-rate 120K \
+              --throttled-rate 120K \
+              --output "transcripts/%(title)s [%(id)s].%(ext)s" \
+              "https://www.youtube.com/watch?v=$vid" || true
+            processed=$((processed+1))
+          done < playlist_ids.txt
+
+          echo "Processed $processed new videos."
+          echo "Skipped $skipped existing videos."
+
+      - name: Ensure we have VTTs
         run: |
           count=$(ls -1 transcripts/*.vtt 2>/dev/null | wc -l | tr -d ' ')
           echo "Found $count .vtt files."
           if [ "$count" = "0" ]; then
-            echo "ERROR: No subtitles were downloaded. Likely PO-token issue if using web client, or cookies stale."
-            echo "       We are using tvhtml5 here; if still zero, refresh cookies or try again later."
+            echo "ERROR: No subtitles were downloaded/found. Refresh cookies and retry."
             exit 1
           fi
 
-      - name: Build ALL_TRANSCRIPTS.txt (clean tags, de-dupe across blanks)
+      - name: Build ALL_TRANSCRIPTS.txt (clean tags, de-dupe; robust .txt writes)
         run: |
           python - <<'PY'
-          import glob, os, re
+          import glob, os, re, sys
           from collections import deque
           from pathlib import Path
 
           RE_HEADER = re.compile(r'^(WEBVTT|Kind:|Language:)\b', re.I)
           RE_CUE    = re.compile(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}')
-          RE_INLINE = re.compile(r'<(?:\d{2}:\d{2}:\d{2}\.\d{3}|/?c(?:\.[^>]*)?)>')  # <00:..> and <c.*> tags
+          RE_INLINE = re.compile(r'<(?:\d{2}:\d{2}:\d{2}\.\d{3}|/?c(?:\.[^>]*)?)>')  # <00:..> and <c.*>
 
           def clean_line(s: str) -> str:
               s = RE_INLINE.sub('', s)
-              s = re.sub(r'^\[[^\]]+\]$', '', s).strip()  # drop [Music], etc.
+              s = re.sub(r'^\[[^\]]+\]$', '', s).strip()  # [Music], [Applause], ...
               s = re.sub(r'[ \t]+', ' ', s).strip()
               return s
 
           def vtt_to_txt(path: str) -> str:
-              out = []
+              out, pending_blank = [], False
               last_nonempty = deque(maxlen=3)  # kill karaoke repeats even across a blank
-              pending_blank = False
               with open(path, 'r', encoding='utf-8', errors='ignore') as f:
                   for raw in f:
                       s = raw.rstrip('\n')
-                      if RE_HEADER.match(s) or RE_CUE.match(s):
+                      if RE_HEADER.match(s) or RE_CUE.match(s):   # headers/timings
                           continue
-                      if re.fullmatch(r'\d+', s.strip()):
+                      if re.fullmatch(r'\d+', s.strip()):         # numeric cue indices
                           continue
                       s = clean_line(s)
                       if not s:
@@ -133,32 +150,69 @@ jobs:
               txt = re.sub(r'\n{3,}', '\n\n', txt)
               return txt
 
-          Path('transcripts').mkdir(exist_ok=True)
-          all_sections = []
-          vtts = glob.glob('transcripts/*.vtt')
+          def sanitize_filename(name: str) -> str:
+              # Make per-video .txt names safe for filesystem, keep readable
+              name = name.replace('/', '／').replace('\\', '⧵').replace(':', '꞉')
+              name = name.replace('\u202a','').replace('\u202c','')  # stray bidi
+              name = re.sub(r'[\r\n\t]+', ' ', name)
+              name = re.sub(r'\s{2,}', ' ', name).strip()
+              return name[:200]
 
+          Path('transcripts').mkdir(exist_ok=True)
+
+          vtts = glob.glob('transcripts/*.vtt')
+          # Sort by title then id (from filename)
           def key_fn(p):
               base = os.path.basename(p)
-              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\\w]{6,})\](?:\\.(?P<lang>[\\w-]+))?\\.vtt$', base)
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
               title = (m.group('title') if m else base).lower()
               vid = (m.group('id') if m else '')
               return (title, vid)
           vtts.sort(key=key_fn)
 
+          all_sections = []
+          txt_created = 0
+          write_errors = 0
+
           for vtt in vtts:
               base = os.path.basename(vtt)
-              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\\w]{6,})\](?:\\.(?P<lang>[\\w-]+))?\\.vtt$', base)
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
               if not m:
+                  print(f"[WARN] Skip unparsable VTT filename: {base}")
                   continue
-              title = m.group('title'); vid = m.group('id')
-              url = f'https://www.youtube.com/watch?v={vid}'
+              title = m.group('title')
+              vid   = m.group('id')
+              url   = f'https://www.youtube.com/watch?v={vid}'
+
               text = vtt_to_txt(vtt)
-              (Path('transcripts') / f'{title} [{vid}].txt').write_text(text, encoding='utf-8')
+
+              # Write per-video .txt safely
+              safe_title = sanitize_filename(title)
+              out_path = Path('transcripts') / f'{safe_title} [{vid}].txt'
+              try:
+                  out_path.write_text(text, encoding='utf-8')
+                  txt_created += 1
+                  print(f"[TXT] Wrote {out_path.name} ({len(text)} chars)")
+              except OSError as e:
+                  try:
+                      fb = Path('transcripts') / f'{vid}.txt'
+                      fb.write_text(text, encoding='utf-8')
+                      txt_created += 1
+                      print(f"[TXT] Fallback wrote {fb.name} ({len(text)} chars) due to filename error: {e}")
+                  except Exception as e2:
+                      write_errors += 1
+                      print(f"[ERROR] Failed to write TXT for {vid}: {e} / {e2}", file=sys.stderr)
+
               header = ["######", f"Video ID: {vid}", f"URL: {url}", f"Title: {title}", "Transcript:"]
               all_sections.append('\n'.join(header) + '\n' + (text.strip() if text else '') + '\n')
 
           Path("ALL_TRANSCRIPTS.txt").write_text('\n'.join(all_sections).strip() + '\n', encoding='utf-8')
-          print("Wrote ALL_TRANSCRIPTS.txt with", len(all_sections), "sections.")
+          print(f"[INFO] Wrote ALL_TRANSCRIPTS.txt with {len(all_sections)} sections.")
+          print(f"[INFO] Per-video TXT created: {txt_created}; write errors: {write_errors}")
+
+          if txt_created == 0:
+              print("[FATAL] No per-video TXT files were written. Check filename issues or permissions.", file=sys.stderr)
+              sys.exit(1)
           PY
 
       - name: Upload artifacts
@@ -176,7 +230,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ALL_TRANSCRIPTS.txt || true
-          [ -d transcripts ] && git add transcripts/* || true
+          git add transcripts/*.txt || true
+          git add transcripts/*.vtt || true
           git status
-          git commit -m "Update transcripts (ALL_TRANSCRIPTS.txt + cleaned per-video .txt)" || echo "No changes"
+          git commit -m "Update transcripts (skip-if-VTT-exists + ALL_TRANSCRIPTS + per-video .txt)" || echo "No changes"
           git push
