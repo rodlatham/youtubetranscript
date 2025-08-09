@@ -1,9 +1,9 @@
-name: Pull YouTube transcripts (3s pause, tvhtml5 only, cleaned text in CSV)
+name: Pull YouTube transcripts (2s pause, web client, preflight cookie check, giant txt)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 3 * * *"  # daily at 03:17 UTC
+    - cron: "17 3 * * *"
 
 jobs:
   run:
@@ -13,6 +13,7 @@ jobs:
 
     env:
       PLAYLIST_URL: "https://www.youtube.com/playlist?list=PLstjectj9BFgWGjHn4y2oygN34oFpSPjR"
+      TEST_VIDEO_ID: "dQw4w9WgXcQ"  # known public video for cookie test
 
     steps:
       - name: Checkout
@@ -28,25 +29,40 @@ jobs:
           python -m pip install --upgrade pip
           pip install 'yt-dlp[default]'
 
-      - name: Restore cookies.txt (optional but recommended)
+      - name: Restore cookies.txt (must be fresh)
         run: |
           if [ -n "${{ secrets.YT_COOKIES_B64 }}" ]; then
             printf "%s" "${{ secrets.YT_COOKIES_B64 }}" | base64 -d > cookies.txt
             echo "cookies.txt restored (head):"
             head -n 5 cookies.txt || true
             if ! grep -E "youtube\.com" cookies.txt >/dev/null 2>&1; then
-              echo "WARNING: cookies.txt has no youtube.com entries"; fi
+              echo "WARNING: cookies.txt has no youtube.com entries"
+            fi
           else
             echo "No YT_COOKIES_B64 secret set; yt-dlp may be blocked."
           fi
 
-      - name: Download English subtitles with cookies (tvhtml5 only, 3s pause)
+      - name: Preflight check - validate cookies
+        run: |
+          echo "==> Testing cookies on video $TEST_VIDEO_ID..."
+          if ! yt-dlp --cookies cookies.txt --skip-download --write-auto-sub --sub-langs en --sub-format vtt \
+                --extractor-args "youtube:player_client=web" "https://www.youtube.com/watch?v=$TEST_VIDEO_ID" \
+                -o "test.vtt" 2>&1 | tee preflight.log; then
+              echo "ERROR: yt-dlp command failed unexpectedly."
+              exit 1
+          fi
+          if grep -q "Sign in to confirm you’re not a bot" preflight.log || grep -Eq "HTTP Error (429|403)" preflight.log; then
+              echo "ERROR: Cookies appear to be invalid or blocked. Please re-export and update YT_COOKIES_B64."
+              exit 1
+          fi
+          echo "✅ Preflight passed - cookies appear valid."
+
+      - name: Download English subtitles with cookies (web client, 2s between videos)
         run: |
           mkdir -p transcripts
           COOKIES_ARG=""
           [ -f cookies.txt ] && COOKIES_ARG="--cookies cookies.txt"
 
-          echo "==> Trying player_client=tvhtml5"
           yt-dlp \
             $COOKIES_ARG \
             --ignore-errors \
@@ -55,104 +71,85 @@ jobs:
             --write-sub --write-auto-sub \
             --sub-langs "en,en-US,en-GB" \
             --sub-format vtt \
-            --extractor-args "youtube:player_client=tvhtml5" \
-            --sleep-requests 3 \
-            --sleep-interval 3 \
-            --max-sleep-interval 3 \
-            --retries 20 \
-            --limit-rate 80K \
-            --throttled-rate 80K \
+            --extractor-args "youtube:player_client=web" \
+            --sleep-interval 2 \
+            --max-sleep-interval 2 \
+            --retries 5 \
+            --limit-rate 120K \
+            --throttled-rate 120K \
             --output "transcripts/%(title)s [%(id)s].%(ext)s" \
             "${PLAYLIST_URL}" || true
 
-      - name: Convert VTT → TXT and build CSV (clean inline tags, dedupe, include transcript)
+      - name: Build ALL_TRANSCRIPTS.txt (clean tags, de-dupe across blanks)
         run: |
           python - <<'PY'
-          import csv, glob, os, re
+          import glob, os, re
+          from collections import deque
           from pathlib import Path
 
-          # Precompiled regexes
           RE_HEADER = re.compile(r'^(WEBVTT|Kind:|Language:)\b', re.I)
           RE_CUE    = re.compile(r'^\d{2}:\d{2}:\d{2}\.\d{3}\s+-->\s+\d{2}:\d{2}:\d{2}\.\d{3}')
-          # Remove <00:00:00.000> and <c>, </c>, <c.colorXXXX>, etc.
           RE_INLINE = re.compile(r'<(?:\d{2}:\d{2}:\d{2}\.\d{3}|/?c(?:\.[^>]*)?)>')
 
           def clean_line(s: str) -> str:
-              # Strip inline timing/style tags
               s = RE_INLINE.sub('', s)
-              # Optional: strip bracket cues like [Music], [Applause]
               s = re.sub(r'^\[[^\]]+\]$', '', s).strip()
-              # Collapse extra spaces after tag removal
               s = re.sub(r'[ \t]+', ' ', s).strip()
               return s
 
           def vtt_to_txt(path: str) -> str:
               out = []
-              prev = None
+              last_nonempty = deque(maxlen=3)
+              pending_blank = False
               with open(path, 'r', encoding='utf-8', errors='ignore') as f:
                   for raw in f:
                       s = raw.rstrip('\n')
-
-                      # Skip headers and cue timing rows
                       if RE_HEADER.match(s) or RE_CUE.match(s):
                           continue
-
-                      # Skip blank/sequence-index-only lines (preserve single blank for paragraph)
-                      if not s.strip() or re.fullmatch(r'\d+', s.strip()):
-                          if out and out[-1] != '':
-                              out.append('')
-                          prev = None
+                      if re.fullmatch(r'\d+', s.strip()):
                           continue
-
                       s = clean_line(s)
                       if not s:
+                          pending_blank = True
                           continue
-
-                      # De-duplicate consecutive identical lines (karaoke-style dupes)
-                      if s == prev:
+                      if s in last_nonempty:
+                          pending_blank = False
                           continue
-
+                      if pending_blank and out and out[-1] != '':
+                          out.append('')
+                      pending_blank = False
                       out.append(s)
-                      prev = s
-
-              # Join and normalize paragraph spacing
+                      last_nonempty.append(s)
               txt = '\n'.join(out).strip()
               txt = re.sub(r'\n{3,}', '\n\n', txt)
               return txt
 
           Path('transcripts').mkdir(exist_ok=True)
+          all_sections = []
+          vtts = glob.glob('transcripts/*.vtt')
 
-          rows = []
-          for vtt in glob.glob('transcripts/*.vtt'):
+          def key_fn(p):
+              base = os.path.basename(p)
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\\w]{6,})\](?:\\.(?P<lang>[\\w-]+))?\\.vtt$', base)
+              title = (m.group('title') if m else base).lower()
+              vid = (m.group('id') if m else '')
+              return (title, vid)
+          vtts.sort(key=key_fn)
+
+          for vtt in vtts:
               base = os.path.basename(vtt)
-              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
+              m = re.match(r'^(?P<title>.+) \[(?P<id>[-\\w]{6,})\](?:\\.(?P<lang>[\\w-]+))?\\.vtt$', base)
               if not m:
                   continue
-              title = m.group('title')
-              vid   = m.group('id')
-              lang  = m.group('lang') or 'unknown'
-              url   = f'https://www.youtube.com/watch?v={vid}'
-
-              # Convert to TXT (overwrite to apply latest cleaning)
-              txt_path = f'transcripts/{title} [{vid}].txt'
+              title = m.group('title'); vid = m.group('id')
+              url = f'https://www.youtube.com/watch?v={vid}'
               text = vtt_to_txt(vtt)
-              with open(txt_path, 'w', encoding='utf-8') as f:
-                  f.write(text)
+              (Path('transcripts') / f'{title} [{vid}].txt').write_text(text, encoding='utf-8')
+              header = ["######", f"Video ID: {vid}", f"URL: {url}", f"Title: {title}", "Transcript:"]
+              all_sections.append('\n'.join(header) + '\n' + (text.strip() if text else '') + '\n')
 
-              rows.append({
-                  'video_id': vid,
-                  'url': url,
-                  'title': title,
-                  'source': f'yt-dlp.vtt({lang})',
-                  'char_len': len(text),
-                  'transcript': text
-              })
-
-          # Write CSV with transcript included
-          with open('transcripts.csv', 'w', newline='', encoding='utf-8') as f:
-              w = csv.DictWriter(f, fieldnames=['video_id','url','title','source','char_len','transcript'])
-              w.writeheader()
-              w.writerows(sorted(rows, key=lambda r: (r['title'].lower(), r['video_id'])))
+          Path("ALL_TRANSCRIPTS.txt").write_text('\n'.join(all_sections).strip() + '\n', encoding='utf-8')
+          print("Wrote ALL_TRANSCRIPTS.txt with", len(all_sections), "sections.")
           PY
 
       - name: Upload artifacts
@@ -162,15 +159,15 @@ jobs:
           path: |
             transcripts/*.vtt
             transcripts/*.txt
-            transcripts.csv
+            ALL_TRANSCRIPTS.txt
           if-no-files-found: warn
 
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          [ -e transcripts.csv ] && git add transcripts.csv || true
+          git add ALL_TRANSCRIPTS.txt || true
           [ -d transcripts ] && git add transcripts/* || true
           git status
-          git commit -m "Update transcripts" || echo "No changes"
+          git commit -m "Update transcripts (ALL_TRANSCRIPTS.txt + cleaned per-video .txt)" || echo "No changes"
           git push
