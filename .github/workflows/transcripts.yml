@@ -1,4 +1,4 @@
-name: Pull YouTube transcripts (stable: cookies + tvhtml5/web + API fallback)
+name: Pull YouTube transcripts (cookies + tvhtml5/web + API fallback)
 
 on:
   workflow_dispatch:
@@ -33,7 +33,11 @@ jobs:
         run: |
           if [ -n "${{ secrets.YT_COOKIES_B64 }}" ]; then
             printf "%s" "${{ secrets.YT_COOKIES_B64 }}" | base64 -d > cookies.txt
-            echo "cookies.txt restored (head):"; head -n 5 cookies.txt || true
+            echo "cookies.txt restored (head):"
+            head -n 5 cookies.txt || true
+            # sanity: require youtube.com lines
+            if ! grep -E "youtube\.com" cookies.txt >/dev/null 2>&1; then
+              echo "WARNING: cookies.txt has no youtube.com entries"; fi
           else
             echo "No YT_COOKIES_B64 secret set; yt-dlp may be blocked."
           fi
@@ -53,7 +57,7 @@ jobs:
               --yes-playlist \
               --skip-download \
               --write-sub --write-auto-sub \
-              --sub-langs "en,all" \
+              --sub-langs "en,all,-live_chat" \
               --sub-format vtt \
               --extractor-args "youtube:player_client=${CLIENT}" \
               --force-ipv4 \
@@ -66,7 +70,7 @@ jobs:
               "${PLAYLIST_URL}" || true
           }
 
-          # NOTE: Skip 'android' because it can't use cookies.
+          # NOTE: Skip 'android' because it cannot use cookies
           run_dl tvhtml5
           run_dl web
 
@@ -93,6 +97,7 @@ jobs:
           entries=[]
           for vtt in glob.glob('transcripts/*.vtt'):
               base=os.path.basename(vtt)
+              # Accept "Title [ID].vtt" or "Title [ID].<lang>.vtt"
               m=re.match(r'^(?P<title>.+) \[(?P<id>[-\w]{6,})\](?:\.(?P<lang>[\w-]+))?\.vtt$', base)
               if not m: continue
               title, vid, lang = m.group('title'), m.group('id'), m.group('lang') or 'unknown'
@@ -100,7 +105,8 @@ jobs:
 
               txt_path=f'transcripts/{title} [{vid}].txt'
               if not os.path.exists(txt_path):
-                  with open(txt_path,'w',encoding='utf-8') as f: f.write(vtt_to_txt(vtt))
+                  with open(txt_path,'w',encoding='utf-8') as f:
+                      f.write(vtt_to_txt(vtt))
               char_len=os.path.getsize(txt_path) if os.path.exists(txt_path) else 0
               entries.append({'video_id':vid,'url':url,'title':title,'source':f'yt-dlp.vtt({lang})','char_len':char_len})
 
@@ -170,7 +176,10 @@ jobs:
               except Exception: pass
               try:
                   listing=YouTubeTranscriptApi.list_transcripts(vid)
-              except Exception: raise NoTranscriptFound('list_transcripts failed')
+              except TypeError:
+                  raise NoTranscriptFound('TypeError from library')
+              except Exception:
+                  raise NoTranscriptFound('list_transcripts failed')
               try:
                   return listing.find_manually_created_transcript(['en']).fetch(), 'en'
               except Exception:
